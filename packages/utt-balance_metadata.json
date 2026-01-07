@@ -1,0 +1,11 @@
+{
+  "name": "utt-balance",
+  "version": "0.1.1",
+  "summary": "A utt plugin to check worked time balance against daily/weekly targets",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "utt_balance-0.1.1.tar.gz",
+  "download_time": "2026-01-07T22:14:10.815154",
+  "package_url": "https://pypi.org/project/utt-balance/"
+}

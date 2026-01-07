@@ -1,0 +1,11 @@
+{
+  "name": "langgraph-checkpoint-aerospike",
+  "version": "0.1.0",
+  "summary": "Aerospike-based checkpoint saver for LangGraph",
+  "author": null,
+  "license": "Apache Software License",
+  "home_page": null,
+  "download_filename": "langgraph_checkpoint_aerospike-0.1.0.tar.gz",
+  "download_time": "2026-01-07T22:14:20.377864",
+  "package_url": "https://pypi.org/project/langgraph-checkpoint-aerospike/"
+}

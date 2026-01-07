@@ -1,0 +1,11 @@
+{
+  "name": "wrfo",
+  "version": "1.0.2",
+  "summary": "Tree Weighting, Accuracy and Diversity-Preserving Pruning for Random Forests",
+  "author": "Wajdi DHIFLI",
+  "license": null,
+  "home_page": "https://github.com/wajdidhifli/WRFO",
+  "download_filename": "wrfo-1.0.2.tar.gz",
+  "download_time": "2026-01-07T22:13:58.425024",
+  "package_url": "https://pypi.org/project/wrfo/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "ficaria",
+  "version": "0.1.0",
+  "summary": "Feature selection and missing data imputation",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ficaria-0.1.0.tar.gz",
+  "download_time": "2026-01-07T22:14:09.239968",
+  "package_url": "https://pypi.org/project/ficaria/"
+}

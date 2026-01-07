@@ -1,11 +1,11 @@
 {
   "name": "auto-app-panel",
-  "version": "0.1.1",
-  "summary": "Automatically generate a valid `app-panel.json` from an argument parser defined in code in a Code Ocean capsule.",
+  "version": "0.1.2",
+  "summary": "Automatically generate a Code Ocean App Panel from an argument parser defined in code.",
   "author": "Ben Hardcastle",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "auto_app_panel-0.1.1.tar.gz",
-  "download_time": "2026-01-07T05:40:21.893701",
+  "download_filename": "auto_app_panel-0.1.2.tar.gz",
+  "download_time": "2026-01-07T22:13:57.395320",
   "package_url": "https://pypi.org/project/auto-app-panel/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "waapi-client",
+  "version": "0.8.1",
+  "summary": "Wwise Authoring API client.",
+  "author": "Audiokinetic",
+  "license": null,
+  "home_page": null,
+  "download_filename": "waapi_client-0.8.1.tar.gz",
+  "download_time": "2026-01-07T22:14:22.456728",
+  "package_url": "https://pypi.org/project/waapi-client/"
+}

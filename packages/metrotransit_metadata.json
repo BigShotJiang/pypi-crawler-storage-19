@@ -1,11 +1,11 @@
 {
   "name": "metrotransit",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "summary": "Tools for accessing Metro Transit data",
   "author": "Ben Soyka",
   "license": null,
   "home_page": null,
-  "download_filename": "metrotransit-0.1.0.tar.gz",
-  "download_time": "2026-01-07T18:55:05.885123",
+  "download_filename": "metrotransit-0.1.2.tar.gz",
+  "download_time": "2026-01-07T22:13:56.326191",
   "package_url": "https://pypi.org/project/metrotransit/"
 }
