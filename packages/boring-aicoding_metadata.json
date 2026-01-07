@@ -1,11 +1,11 @@
 {
   "name": "boring-aicoding",
-  "version": "10.17.6",
+  "version": "10.18.0",
   "summary": "Boring Vibecoder Assistant: An AI-powered development support tool handling project planning, logic verification, and knowledge management. Works alongside Cursor, Copilot, and others to ensure rigorous, efficient workflows.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "boring_aicoding-10.17.6.tar.gz",
-  "download_time": "2026-01-07T08:52:30.020060",
+  "download_filename": "boring_aicoding-10.18.0.tar.gz",
+  "download_time": "2026-01-07T10:16:36.123411",
   "package_url": "https://pypi.org/project/boring-aicoding/"
 }

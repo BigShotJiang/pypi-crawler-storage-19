@@ -1,0 +1,11 @@
+{
+  "name": "hot-news-bachstudio",
+  "version": "3.0.1",
+  "summary": "MCP服务器：获取全网主流平台的新闻热点，支持20+平台 - BachStudio版本",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "hot_news_bachstudio-3.0.1.tar.gz",
+  "download_time": "2026-01-07T10:16:27.153632",
+  "package_url": "https://pypi.org/project/hot-news-bachstudio/"
+}

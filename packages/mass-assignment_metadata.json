@@ -1,0 +1,11 @@
+{
+  "name": "mass-assignment",
+  "version": "1.0.0",
+  "summary": "Single-process mass assignment (NGP/CIC/TSC/PCS) with OpenMP",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mass_assignment-1.0.0.tar.gz",
+  "download_time": "2026-01-07T10:16:29.705351",
+  "package_url": "https://pypi.org/project/mass-assignment/"
+}

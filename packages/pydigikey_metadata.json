@@ -1,0 +1,11 @@
+{
+  "name": "pydigikey",
+  "version": "0.3.2",
+  "summary": "Digikey API",
+  "author": "ferris",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pydigikey-0.3.2.tar.gz",
+  "download_time": "2026-01-07T10:16:33.421929",
+  "package_url": "https://pypi.org/project/pydigikey/"
+}

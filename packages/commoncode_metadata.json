@@ -1,0 +1,11 @@
+{
+  "name": "commoncode",
+  "version": "32.4.1",
+  "summary": "Set of common utilities, originally split from ScanCode",
+  "author": "nexB. Inc. and others",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/aboutcode-org/commoncode",
+  "download_filename": "commoncode-32.4.1.tar.gz",
+  "download_time": "2026-01-07T10:16:23.141951",
+  "package_url": "https://pypi.org/project/commoncode/"
+}

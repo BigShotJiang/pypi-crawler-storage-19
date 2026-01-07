@@ -1,0 +1,11 @@
+{
+  "name": "dd-core",
+  "version": "1.0.3",
+  "summary": "Core data structures, dataflows, mappers and utilities for deepdoctection",
+  "author": "Dr. Janis Meyer",
+  "license": "Apache License 2.0",
+  "home_page": null,
+  "download_filename": "dd_core-1.0.3.tar.gz",
+  "download_time": "2026-01-07T10:16:28.686186",
+  "package_url": "https://pypi.org/project/dd-core/"
+}
