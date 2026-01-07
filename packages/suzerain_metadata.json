@@ -1,11 +1,11 @@
 {
   "name": "suzerain",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "Voice-activated Claude Code interface with semantic command ciphers",
   "author": "Amadeus Woo",
   "license": null,
   "home_page": null,
-  "download_filename": "suzerain-0.1.1.tar.gz",
-  "download_time": "2026-01-07T19:16:14.957206",
+  "download_filename": "suzerain-0.1.2.tar.gz",
+  "download_time": "2026-01-07T19:34:02.524741",
   "package_url": "https://pypi.org/project/suzerain/"
 }

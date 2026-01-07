@@ -1,11 +1,11 @@
 {
   "name": "kundoluk-api",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "summary": "Библиотека для работы с API электронного журнала Кундолук (Кыргызстан), предоставляющая Python-интерфейс для получения расписания, оценок и учебной информации студентами.",
   "author": "Umar",
   "license": "Proprietary",
   "home_page": null,
-  "download_filename": "kundoluk_api-0.1.2.tar.gz",
-  "download_time": "2026-01-07T19:15:42.337617",
+  "download_filename": "kundoluk_api-0.1.3.tar.gz",
+  "download_time": "2026-01-07T19:33:31.396403",
   "package_url": "https://pypi.org/project/kundoluk-api/"
 }

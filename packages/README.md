@@ -1,12 +1,11 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2026-01-07T19:16:32.062062
+- **Download Time**: 2026-01-07T19:34:20.869657
 - **Total Packages**: 85
-- **Total Size**: 27.02 MB
+- **Total Size**: 3.21 MB
 
 ## Packages List
-- kib-lap
 - kundoluk-api
 - pygeai
 - squirt
@@ -91,3 +90,4 @@
 - hecstac
 - jl-ecms-server
 - jl-ecms-client
+- abxrcli
