@@ -1,0 +1,11 @@
+{
+  "name": "memphora",
+  "version": "1.4.0",
+  "summary": "Memphora SDK - Persistent memory layer for AI agents (SaaS)",
+  "author": "Memphora",
+  "license": "MIT",
+  "home_page": "https://memphora.ai",
+  "download_filename": "memphora-1.4.0.tar.gz",
+  "download_time": "2026-01-07T08:52:59.846118",
+  "package_url": "https://pypi.org/project/memphora/"
+}

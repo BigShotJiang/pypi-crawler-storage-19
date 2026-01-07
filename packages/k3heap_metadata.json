@@ -1,0 +1,11 @@
+{
+  "name": "k3heap",
+  "version": "0.1.7",
+  "summary": "Binary min heap implemented with reference",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "k3heap-0.1.7.tar.gz",
+  "download_time": "2026-01-07T08:52:20.302638",
+  "package_url": "https://pypi.org/project/k3heap/"
+}

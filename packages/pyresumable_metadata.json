@@ -1,0 +1,11 @@
+{
+  "name": "pyresumable",
+  "version": "0.0.5",
+  "summary": "A library for creating files chunk-by-chunk",
+  "author": "Leon du Toit",
+  "license": "BSD-3-Clause",
+  "home_page": null,
+  "download_filename": "pyresumable-0.0.5.tar.gz",
+  "download_time": "2026-01-07T08:52:32.152893",
+  "package_url": "https://pypi.org/project/pyresumable/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "cool-cache",
+  "version": "0.4.0",
+  "summary": "Cache any function to disk",
+  "author": "Jeff Hykin",
+  "license": "MIT",
+  "home_page": "https://github.com/jeff-hykin/cool_cache.git",
+  "download_filename": "cool_cache-0.4.0.tar.gz",
+  "download_time": "2026-01-07T08:52:33.222239",
+  "package_url": "https://pypi.org/project/cool-cache/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "mcp-to-skill",
+  "version": "2.0.0",
+  "summary": "Convert MCP servers to Claude Skills with multi-transport support",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mcp_to_skill-2.0.0.tar.gz",
+  "download_time": "2026-01-07T08:52:16.406922",
+  "package_url": "https://pypi.org/project/mcp-to-skill/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "red-tidegear",
+  "version": "1.27.1",
+  "summary": "A small collection of utilities for cog creation with Red-DiscordBot.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "red_tidegear-1.27.1.tar.gz",
+  "download_time": "2026-01-07T08:52:39.640185",
+  "package_url": "https://pypi.org/project/red-tidegear/"
+}

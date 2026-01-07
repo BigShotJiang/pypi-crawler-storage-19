@@ -1,11 +1,11 @@
 {
   "name": "pyipatool",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "summary": "Apple App Store search and download tool",
   "author": "pjp",
   "license": null,
   "home_page": "https://github.com/a55509432/pyipatool",
-  "download_filename": "pyipatool-1.0.1.tar.gz",
-  "download_time": "2026-01-07T08:20:11.557616",
+  "download_filename": "pyipatool-1.0.2.tar.gz",
+  "download_time": "2026-01-07T08:52:32.680665",
   "package_url": "https://pypi.org/project/pyipatool/"
 }

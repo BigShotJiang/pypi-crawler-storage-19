@@ -1,0 +1,11 @@
+{
+  "name": "lammps-logfile",
+  "version": "1.1",
+  "summary": "Tool to read lammps log files into python data structure",
+  "author": "Henrik Andersen Sveinsson",
+  "license": "GNU GPL v3.0",
+  "home_page": "http://github.com/henriasv/lammps-logfile",
+  "download_filename": "lammps_logfile-1.1.tar.gz",
+  "download_time": "2026-01-07T08:52:51.904473",
+  "package_url": "https://pypi.org/project/lammps-logfile/"
+}

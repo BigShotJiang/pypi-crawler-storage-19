@@ -1,0 +1,11 @@
+{
+  "name": "owlcat",
+  "version": "1.8.0.2",
+  "summary": "miscellaneous utility scripts for manipulating radio interferometry data",
+  "author": "Oleg Smirnov",
+  "license": null,
+  "home_page": "https://github.com/ska-sa/owlcat",
+  "download_filename": "owlcat-1.8.0.2.tar.gz",
+  "download_time": "2026-01-07T08:52:26.306029",
+  "package_url": "https://pypi.org/project/owlcat/"
+}
