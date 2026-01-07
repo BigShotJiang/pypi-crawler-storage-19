@@ -1,0 +1,11 @@
+{
+  "name": "lazylinop",
+  "version": "1.20.10",
+  "summary": "A package dedicated to lazy linear operators based on diverse backends/libraries.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "lazylinop-1.20.10-py3-none-any.whl",
+  "download_time": "2026-01-07T21:19:33.683929",
+  "package_url": "https://pypi.org/project/lazylinop/"
+}

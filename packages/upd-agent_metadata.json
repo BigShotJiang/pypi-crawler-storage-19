@@ -1,11 +1,11 @@
 {
   "name": "upd-agent",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "summary": "Update Claude Code sub-agents from GitHub to your project",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "upd_agent-0.0.7.tar.gz",
-  "download_time": "2026-01-07T20:58:13.666922",
+  "download_filename": "upd_agent-0.0.8.tar.gz",
+  "download_time": "2026-01-07T21:20:02.167137",
   "package_url": "https://pypi.org/project/upd-agent/"
 }

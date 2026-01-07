@@ -1,0 +1,11 @@
+{
+  "name": "corebrum",
+  "version": "0.1.1",
+  "summary": "Execute Python code transparently on Corebrum distributed compute infrastructure",
+  "author": "Corebrum",
+  "license": null,
+  "home_page": "https://github.com/Corebrum/corebrum-pip",
+  "download_filename": "corebrum-0.1.1.tar.gz",
+  "download_time": "2026-01-07T21:19:47.400876",
+  "package_url": "https://pypi.org/project/corebrum/"
+}

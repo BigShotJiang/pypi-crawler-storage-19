@@ -1,11 +1,11 @@
 {
   "name": "upd-slash-command",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "summary": "CLI tool for updating Claude Code slash commands from git.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "upd_slash_command-0.0.7.tar.gz",
-  "download_time": "2026-01-07T20:58:16.839812",
+  "download_filename": "upd_slash_command-0.0.8.tar.gz",
+  "download_time": "2026-01-07T21:20:02.726426",
   "package_url": "https://pypi.org/project/upd-slash-command/"
 }

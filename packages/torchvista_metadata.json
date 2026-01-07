@@ -1,0 +1,11 @@
+{
+  "name": "torchvista",
+  "version": "0.2.8",
+  "summary": "Interactive PyTorch model visualizer for notebooks",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "torchvista-0.2.8.tar.gz",
+  "download_time": "2026-01-07T21:19:19.386485",
+  "package_url": "https://pypi.org/project/torchvista/"
+}

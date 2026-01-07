@@ -1,0 +1,11 @@
+{
+  "name": "logpool",
+  "version": "3.6",
+  "summary": "Log and threading easy",
+  "author": "Gustavo Schwarz",
+  "license": null,
+  "home_page": "https://github.com/schwarzam/logpool",
+  "download_filename": "logpool-3.6-py3-none-any.whl",
+  "download_time": "2026-01-07T21:19:38.656193",
+  "package_url": "https://pypi.org/project/logpool/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "opentau-transformers",
+  "version": "4.53.3",
+  "summary": "State-of-the-art Machine Learning for JAX, PyTorch and TensorFlow",
+  "author": "The Hugging Face team (past and future) with the help of all our contributors (https://github.com/huggingface/transformers/graphs/contributors)",
+  "license": "Apache 2.0 License",
+  "home_page": "https://github.com/huggingface/transformers",
+  "download_filename": "opentau_transformers-4.53.3.tar.gz",
+  "download_time": "2026-01-07T21:19:54.537675",
+  "package_url": "https://pypi.org/project/opentau-transformers/"
+}

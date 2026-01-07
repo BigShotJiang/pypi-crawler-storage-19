@@ -1,11 +1,11 @@
 {
   "name": "upd-command",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "summary": "Update Claude Code slash commands from GitHub to your project",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "upd_command-0.0.7.tar.gz",
-  "download_time": "2026-01-07T20:58:15.773891",
+  "download_filename": "upd_command-0.0.8.tar.gz",
+  "download_time": "2026-01-07T21:20:07.059752",
   "package_url": "https://pypi.org/project/upd-command/"
 }
