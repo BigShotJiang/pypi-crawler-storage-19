@@ -1,0 +1,11 @@
+{
+  "name": "gekolib",
+  "version": "0.1.0",
+  "summary": "Gradient-Efficient Knowledge Optimization - Smart training for any LLM",
+  "author": "Syed Abdur Rehman",
+  "license": null,
+  "home_page": "https://github.com/yourusername/geko",
+  "download_filename": "gekolib-0.1.0.tar.gz",
+  "download_time": "2026-01-07T23:33:28.731789",
+  "package_url": "https://pypi.org/project/gekolib/"
+}

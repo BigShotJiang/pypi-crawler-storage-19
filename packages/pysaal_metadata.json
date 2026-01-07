@@ -1,0 +1,11 @@
+{
+  "name": "pysaal",
+  "version": "0.1.2",
+  "summary": "A typed Python wrapper for the Standardized Astrodynamics Algorithms Library.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pysaal-0.1.2.tar.gz",
+  "download_time": "2026-01-07T23:33:25.626093",
+  "package_url": "https://pypi.org/project/pysaal/"
+}

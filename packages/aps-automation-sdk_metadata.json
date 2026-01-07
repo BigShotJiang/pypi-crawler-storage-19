@@ -1,0 +1,11 @@
+{
+  "name": "aps-automation-sdk",
+  "version": "0.1.1",
+  "summary": "Python SDK for Autodesk Platform Services Automation API",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "aps_automation_sdk-0.1.1-py3-none-any.whl",
+  "download_time": "2026-01-07T23:33:34.493406",
+  "package_url": "https://pypi.org/project/aps-automation-sdk/"
+}

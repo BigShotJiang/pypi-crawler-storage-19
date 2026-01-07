@@ -1,0 +1,11 @@
+{
+  "name": "tensorflow-recommenders",
+  "version": "0.7.6",
+  "summary": "Tensorflow Recommenders, a TensorFlow library for recommender systems.",
+  "author": "Google Inc.",
+  "license": "Apache 2.0",
+  "home_page": "https://github.com/tensorflow/recommenders",
+  "download_filename": "tensorflow_recommenders-0.7.6-py3-none-any.whl",
+  "download_time": "2026-01-07T23:33:37.643965",
+  "package_url": "https://pypi.org/project/tensorflow-recommenders/"
+}

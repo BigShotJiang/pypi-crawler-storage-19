@@ -1,0 +1,11 @@
+{
+  "name": "spylib",
+  "version": "0.10.6",
+  "summary": "A library to facilitate interfacing with Shopify's API",
+  "author": "Anthony Hillairet",
+  "license": "MIT",
+  "home_page": "https://satelcreative.github.io/spylib",
+  "download_filename": "spylib-0.10.6.tar.gz",
+  "download_time": "2026-01-07T23:33:31.346769",
+  "package_url": "https://pypi.org/project/spylib/"
+}
