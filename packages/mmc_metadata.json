@@ -1,0 +1,11 @@
+{
+  "name": "mmc",
+  "version": "0.1.2",
+  "summary": "Minimal Mattermost API client",
+  "author": "Baptiste Fontaine",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mmc-0.1.2.tar.gz",
+  "download_time": "2026-01-07T15:47:25.784148",
+  "package_url": "https://pypi.org/project/mmc/"
+}

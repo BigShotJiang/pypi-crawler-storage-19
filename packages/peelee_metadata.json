@@ -1,11 +1,11 @@
 {
   "name": "peelee",
-  "version": "0.2.40",
+  "version": "0.2.41",
   "summary": "A python library to create countless palettes.",
   "author": "Bruce Wen",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "peelee-0.2.40.tar.gz",
-  "download_time": "2026-01-07T13:51:25.932121",
+  "download_filename": "peelee-0.2.41.tar.gz",
+  "download_time": "2026-01-07T15:47:13.242546",
   "package_url": "https://pypi.org/project/peelee/"
 }

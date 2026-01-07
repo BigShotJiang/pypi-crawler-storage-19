@@ -1,0 +1,11 @@
+{
+  "name": "k3zkutil",
+  "version": "0.1.1",
+  "summary": "Helper functions for ZooKeeper with kazoo",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "k3zkutil-0.1.1.tar.gz",
+  "download_time": "2026-01-07T15:47:02.717409",
+  "package_url": "https://pypi.org/project/k3zkutil/"
+}

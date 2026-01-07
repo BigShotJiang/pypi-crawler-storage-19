@@ -1,0 +1,11 @@
+{
+  "name": "industrial-matrix-ultimate",
+  "version": "2.0.0",
+  "summary": "Ultimate Industrial Matrix Library - High Performance C++ with Python Bindings",
+  "author": "Your Name",
+  "license": "MIT",
+  "home_page": "https://github.com/yourusername/industrial-matrix",
+  "download_filename": "industrial_matrix_ultimate-2.0.0.tar.gz",
+  "download_time": "2026-01-07T15:47:07.453593",
+  "package_url": "https://pypi.org/project/industrial-matrix-ultimate/"
+}
