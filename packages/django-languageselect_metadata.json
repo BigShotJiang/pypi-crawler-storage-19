@@ -1,0 +1,11 @@
+{
+  "name": "django-languageselect",
+  "version": "7.0.0",
+  "summary": "Simple language select as custom template tag",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "django_languageselect-7.0.0.tar.gz",
+  "download_time": "2026-01-07T16:54:26.465850",
+  "package_url": "https://pypi.org/project/django-languageselect/"
+}

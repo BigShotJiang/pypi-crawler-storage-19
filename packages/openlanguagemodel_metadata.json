@@ -1,0 +1,11 @@
+{
+  "name": "openlanguagemodel",
+  "version": "1.0",
+  "summary": "OpenLanguageModel (OLM): A clean library based off pytorch to quickly implement LLMs with custom architectures.",
+  "author": "OpenLanguageModel Team",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "openlanguagemodel-1.0.tar.gz",
+  "download_time": "2026-01-07T16:54:39.027755",
+  "package_url": "https://pypi.org/project/openlanguagemodel/"
+}

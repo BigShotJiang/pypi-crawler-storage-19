@@ -1,0 +1,11 @@
+{
+  "name": "django-temporalio",
+  "version": "2.0.0",
+  "summary": "Temporal.io integration for Django",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "django_temporalio-2.0.0.tar.gz",
+  "download_time": "2026-01-07T16:54:27.047463",
+  "package_url": "https://pypi.org/project/django-temporalio/"
+}

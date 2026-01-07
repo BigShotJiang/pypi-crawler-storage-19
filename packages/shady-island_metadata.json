@@ -1,0 +1,11 @@
+{
+  "name": "shady-island",
+  "version": "0.1.74",
+  "summary": "Utilities and constructs for the AWS CDK",
+  "author": "LibreWorks Contributors",
+  "license": "Apache-2.0",
+  "home_page": "https://libreworks.github.io/shady-island/",
+  "download_filename": "shady_island-0.1.74.tar.gz",
+  "download_time": "2026-01-07T16:54:54.968333",
+  "package_url": "https://pypi.org/project/shady-island/"
+}

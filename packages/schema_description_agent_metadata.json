@@ -1,0 +1,11 @@
+{
+  "name": "schema_description_agent",
+  "version": "0.1.4",
+  "summary": "LLM-driven agent for describing data tables based on domain schemas",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "schema_description_agent-0.1.4.tar.gz",
+  "download_time": "2026-01-07T16:54:23.627767",
+  "package_url": "https://pypi.org/project/schema_description_agent/"
+}

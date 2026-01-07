@@ -1,0 +1,11 @@
+{
+  "name": "chuk-sessions",
+  "version": "0.6",
+  "summary": "CHUK Sessions provides a comprehensive, async-first session management system with automatic expiration, and support for both in-memory and Redis storage backends. Perfect for web applications, MCP servers, API gateways, and microservices that need reliable, scalable session handling.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "chuk_sessions-0.6.tar.gz",
+  "download_time": "2026-01-07T16:55:13.206932",
+  "package_url": "https://pypi.org/project/chuk-sessions/"
+}

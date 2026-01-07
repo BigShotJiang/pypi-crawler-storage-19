@@ -1,0 +1,11 @@
+{
+  "name": "django-scrubber",
+  "version": "6.0.0",
+  "summary": "Data anonymizer for Django",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "django_scrubber-6.0.0.tar.gz",
+  "download_time": "2026-01-07T16:54:35.251559",
+  "package_url": "https://pypi.org/project/django-scrubber/"
+}
