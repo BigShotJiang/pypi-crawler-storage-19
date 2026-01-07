@@ -1,0 +1,11 @@
+{
+  "name": "jiraffe",
+  "version": "2.1.9",
+  "summary": "One stop place for exploiting all Jira instances in your proximity.",
+  "author": "Piyush Raj <0x48piraj>",
+  "license": "MIT",
+  "home_page": "https://github.com/0x48piraj/jiraffe",
+  "download_filename": "jiraffe-2.1.9.tar.gz",
+  "download_time": "2026-01-07T19:50:21.131568",
+  "package_url": "https://pypi.org/project/jiraffe/"
+}

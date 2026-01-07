@@ -1,0 +1,11 @@
+{
+  "name": "beer-garden",
+  "version": "3.31.1",
+  "summary": "Beergarden Application",
+  "author": "The Beer Garden Team",
+  "license": "MIT",
+  "home_page": "https://beer-garden.io",
+  "download_filename": "beer_garden-3.31.1.tar.gz",
+  "download_time": "2026-01-07T19:50:27.397983",
+  "package_url": "https://pypi.org/project/beer-garden/"
+}

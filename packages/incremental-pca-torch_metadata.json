@@ -1,0 +1,11 @@
+{
+  "name": "incremental-pca-torch",
+  "version": "0.1.0",
+  "summary": "GPU-accelerated Incremental PCA using PyTorch, with sklearn-compatible API",
+  "author": "RH",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "incremental_pca_torch-0.1.0.tar.gz",
+  "download_time": "2026-01-07T19:49:48.649448",
+  "package_url": "https://pypi.org/project/incremental-pca-torch/"
+}

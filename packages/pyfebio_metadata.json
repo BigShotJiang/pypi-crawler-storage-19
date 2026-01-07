@@ -1,0 +1,11 @@
+{
+  "name": "pyfebio",
+  "version": "0.1.2",
+  "summary": "A Python API for the FEBio finite element solver.",
+  "author": "Scott Sibole",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pyfebio-0.1.2.tar.gz",
+  "download_time": "2026-01-07T19:49:47.609265",
+  "package_url": "https://pypi.org/project/pyfebio/"
+}

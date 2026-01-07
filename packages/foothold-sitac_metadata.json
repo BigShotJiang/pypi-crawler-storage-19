@@ -1,0 +1,11 @@
+{
+  "name": "foothold-sitac",
+  "version": "0.1.0",
+  "summary": "Web application displaying tactical maps for DCS World Foothold missions",
+  "author": "Michel NAUD",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "foothold_sitac-0.1.0.tar.gz",
+  "download_time": "2026-01-07T19:50:07.422683",
+  "package_url": "https://pypi.org/project/foothold-sitac/"
+}
