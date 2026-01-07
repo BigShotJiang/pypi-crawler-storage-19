@@ -1,0 +1,11 @@
+{
+  "name": "mlx-boosting",
+  "version": "1.0.0",
+  "summary": "GPU-accelerated boosting algorithms using Apple MLX for Apple Silicon",
+  "author": "Quan Nguyen",
+  "license": null,
+  "home_page": null,
+  "download_filename": "mlx_boosting-1.0.0.tar.gz",
+  "download_time": "2026-01-07T22:55:53.393012",
+  "package_url": "https://pypi.org/project/mlx-boosting/"
+}

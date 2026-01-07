@@ -1,0 +1,11 @@
+{
+  "name": "django-dynamic-paginator",
+  "version": "1.1.9",
+  "summary": "Paginador dinámico avanzado para Django REST Framework con optimizaciones automáticas",
+  "author": "Jorge Luis de la Cruz",
+  "license": "MIT",
+  "home_page": "https://github.com/tuusuario/django-dynamic-paginator",
+  "download_filename": "django_dynamic_paginator-1.1.9.tar.gz",
+  "download_time": "2026-01-07T22:55:52.820880",
+  "package_url": "https://pypi.org/project/django-dynamic-paginator/"
+}

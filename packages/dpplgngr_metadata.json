@@ -1,0 +1,11 @@
+{
+  "name": "dpplgngr",
+  "version": "0.4.2",
+  "summary": "Deep-learning automated twinning",
+  "author": "Sean Benson",
+  "license": "MIT",
+  "home_page": "https://github.com/tevien/Doppelganger",
+  "download_filename": "dpplgngr-0.4.2-py3-none-any.whl",
+  "download_time": "2026-01-07T22:55:51.731117",
+  "package_url": "https://pypi.org/project/dpplgngr/"
+}

@@ -1,11 +1,33 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2026-01-07T22:38:01.925924
-- **Total Packages**: 88
-- **Total Size**: 0 MB
+- **Download Time**: 2026-01-07T22:56:33.948779
+- **Total Packages**: 90
+- **Total Size**: 8.55 MB
 
 ## Packages List
+- langchain
+- terminalcast
+- crca
+- qiskit-ibm-transpiler-mcp-server
+- datachain
+- snowpark-submit
+- dayhoff-tools
+- unsloth-mlx
+- ggxs
+- dpplgngr
+- instancepedia
+- django-dynamic-paginator
+- mlx-boosting
+- celldega
+- pennylane-qrack
+- carconnectivity-connector-skoda
+- partial-injector
+- sentinelpricing
+- cjm-graph-domains
+- fabsec
+- PyQUDA
+- omextra-cext
 - kumo-api
 - causalfe
 - metrotransit
@@ -42,7 +64,6 @@
 - pxcli
 - fastapi-rtk
 - refine-vibe-code
-- terminalcast
 - PraisonAI
 - omni-cortex
 - proliferate-ai
@@ -64,7 +85,6 @@
 - hydra-router
 - mgplot
 - equilipy
-- instancepedia
 - airweave-sdk
 - cogdb
 - aicage
@@ -76,21 +96,3 @@
 - agentft
 - assemblyline-core
 - assemblyline
-- assemblyline-v4-service
-- assemblyline-ui
-- assemblyline-service-server
-- assemblyline-service-client
-- praisonaiagents
-- snakemake-logger-plugin-snkmt
-- mteb
-- statecli
-- convoviz
-- func-to-web
-- markus-autotest-helpers-sql
-- audiofeatures
-- across-tools
-- mcp-nixos
-- markus-autotest-helpers-python
-- partial-injector
-- markus-autotest-helpers-notebook
-- data-designer
