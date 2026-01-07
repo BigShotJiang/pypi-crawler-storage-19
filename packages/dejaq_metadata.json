@@ -1,0 +1,11 @@
+{
+  "name": "dejaq",
+  "version": "0.6.1",
+  "summary": "Déjà Queue – A fast multiprocessing queue for Python",
+  "author": "jlab.berlin, Benjamin Judkewitz",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "dejaq-0.6.1.tar.gz",
+  "download_time": "2026-01-07T17:20:22.739174",
+  "package_url": "https://pypi.org/project/dejaq/"
+}

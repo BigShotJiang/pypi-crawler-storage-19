@@ -1,0 +1,11 @@
+{
+  "name": "dump-things-pyclient",
+  "version": "0.1.2",
+  "summary": "A client library and some CLI command for dump-things-services",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "dump_things_pyclient-0.1.2.tar.gz",
+  "download_time": "2026-01-07T17:20:09.794928",
+  "package_url": "https://pypi.org/project/dump-things-pyclient/"
+}

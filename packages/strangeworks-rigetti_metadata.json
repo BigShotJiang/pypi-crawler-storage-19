@@ -1,0 +1,11 @@
+{
+  "name": "strangeworks-rigetti",
+  "version": "0.2.23",
+  "summary": "Strangeworks Rigetti SDK extension",
+  "author": "Strange Devs",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "strangeworks_rigetti-0.2.23.tar.gz",
+  "download_time": "2026-01-07T17:20:28.133668",
+  "package_url": "https://pypi.org/project/strangeworks-rigetti/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "avoine",
+  "version": "0.1.0a1",
+  "summary": "Tiny serialisation and deserialisation library",
+  "author": "classabbyamp",
+  "license": null,
+  "home_page": null,
+  "download_filename": "avoine-0.1.0a1.tar.gz",
+  "download_time": "2026-01-07T17:20:27.546727",
+  "package_url": "https://pypi.org/project/avoine/"
+}
