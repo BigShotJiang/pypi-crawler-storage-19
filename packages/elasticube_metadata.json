@@ -1,0 +1,11 @@
+{
+  "name": "elasticube",
+  "version": "1.1.1",
+  "summary": "High-performance OLAP cube library with Rust backend, featuring native DataFrame support, streaming data loading, and dynamic aggregations",
+  "author": null,
+  "license": "MIT OR Apache-2.0",
+  "home_page": "https://github.com/horizonanalytic/elasticube",
+  "download_filename": "elasticube-1.1.1.tar.gz",
+  "download_time": "2026-01-07T07:54:36.327058",
+  "package_url": "https://pypi.org/project/elasticube/"
+}

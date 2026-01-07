@@ -1,0 +1,11 @@
+{
+  "name": "doc-gen-pro",
+  "version": "0.1.1",
+  "summary": "一个支持多语言的源代码文档生成器。",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "doc_gen_pro-0.1.1.tar.gz",
+  "download_time": "2026-01-07T07:54:03.420178",
+  "package_url": "https://pypi.org/project/doc-gen-pro/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "IntelliHeal",
-  "version": "0.1.4",
+  "version": "0.1.7",
   "summary": "AI-powered self-healing library for Selenium/Appium tests",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "intelliheal-0.1.4.tar.gz",
-  "download_time": "2026-01-07T04:33:38.027977",
+  "download_filename": "intelliheal-0.1.7.tar.gz",
+  "download_time": "2026-01-07T07:54:01.863870",
   "package_url": "https://pypi.org/project/IntelliHeal/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "distil-trainer",
+  "version": "0.1.27",
+  "summary": "A comprehensive knowledge distillation training framework for transformer models",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "distil_trainer-0.1.27.tar.gz",
+  "download_time": "2026-01-07T07:54:28.492225",
+  "package_url": "https://pypi.org/project/distil-trainer/"
+}

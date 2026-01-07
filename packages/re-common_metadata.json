@@ -1,0 +1,11 @@
+{
+  "name": "re-common",
+  "version": "10.0.43",
+  "summary": "a library about all python projects",
+  "author": "vic",
+  "license": null,
+  "home_page": "https://gitee.com/xujiangios/re-common",
+  "download_filename": "re_common-10.0.43.tar.gz",
+  "download_time": "2026-01-07T07:54:35.806847",
+  "package_url": "https://pypi.org/project/re-common/"
+}

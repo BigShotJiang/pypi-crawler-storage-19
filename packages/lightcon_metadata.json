@@ -1,0 +1,11 @@
+{
+  "name": "lightcon",
+  "version": "1.5.15",
+  "summary": "A set of APIs to Light Conversion devices",
+  "author": "Vytautas Butkus",
+  "license": null,
+  "home_page": "https://bitbucket.org/harpiasoftware/light-conversion-apis.git",
+  "download_filename": "lightcon-1.5.15.tar.gz",
+  "download_time": "2026-01-07T07:54:03.942559",
+  "package_url": "https://pypi.org/project/lightcon/"
+}

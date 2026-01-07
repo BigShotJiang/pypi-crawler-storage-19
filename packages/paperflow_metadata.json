@@ -1,11 +1,11 @@
 {
   "name": "paperflow",
-  "version": "0.1.7",
+  "version": "0.1.8",
   "summary": "Unified paper ingestion, extraction, and RAG pipeline",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "paperflow-0.1.7.tar.gz",
-  "download_time": "2026-01-07T07:20:13.299312",
+  "download_filename": "paperflow-0.1.8.tar.gz",
+  "download_time": "2026-01-07T07:54:11.789794",
   "package_url": "https://pypi.org/project/paperflow/"
 }

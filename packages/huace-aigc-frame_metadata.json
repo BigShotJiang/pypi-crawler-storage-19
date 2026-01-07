@@ -1,0 +1,11 @@
+{
+  "name": "huace-aigc-frame",
+  "version": "0.1.1",
+  "summary": "华策AIGC框架 - 阿里云OSS工具包",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "huace_aigc_frame-0.1.1.tar.gz",
+  "download_time": "2026-01-07T07:54:12.826037",
+  "package_url": "https://pypi.org/project/huace-aigc-frame/"
+}

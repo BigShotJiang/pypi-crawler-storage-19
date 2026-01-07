@@ -1,11 +1,11 @@
 {
   "name": "kantan-llm",
-  "version": "0.1.8",
+  "version": "0.1.9",
   "summary": "Minimal LLM client getter for OpenAI Responses + OpenAI-compatible Chat Completions.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "kantan_llm-0.1.8.tar.gz",
-  "download_time": "2026-01-07T07:20:01.109826",
+  "download_filename": "kantan_llm-0.1.9.tar.gz",
+  "download_time": "2026-01-07T07:54:24.276549",
   "package_url": "https://pypi.org/project/kantan-llm/"
 }

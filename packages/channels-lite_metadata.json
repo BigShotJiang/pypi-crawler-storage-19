@@ -1,0 +1,11 @@
+{
+  "name": "channels-lite",
+  "version": "0.3.0",
+  "summary": "Lightweight Django Channels layer backed by SQLite database",
+  "author": "Tobi",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "channels_lite-0.3.0.tar.gz",
+  "download_time": "2026-01-07T07:54:43.086292",
+  "package_url": "https://pypi.org/project/channels-lite/"
+}

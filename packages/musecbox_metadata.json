@@ -1,0 +1,11 @@
+{
+  "name": "musecbox",
+  "version": "0.6.1",
+  "summary": "\"MusecBox\" is A GUI application designed to be an SFZ -based synth replacement",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "musecbox-0.6.1.tar.gz",
+  "download_time": "2026-01-07T07:54:01.302063",
+  "package_url": "https://pypi.org/project/musecbox/"
+}
