@@ -1,0 +1,11 @@
+{
+  "name": "db-analytics-tools",
+  "version": "0.1.8.5",
+  "summary": "Databases Tools for Data Analytics",
+  "author": "Joseph Konka",
+  "license": "MIT",
+  "home_page": "https://joekakone.github.io/#projects",
+  "download_filename": "db_analytics_tools-0.1.8.5.tar.gz",
+  "download_time": "2026-01-07T13:51:56.421239",
+  "package_url": "https://pypi.org/project/db-analytics-tools/"
+}

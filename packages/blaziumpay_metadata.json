@@ -1,0 +1,11 @@
+{
+  "name": "blaziumpay",
+  "version": "1.0.0",
+  "summary": "Official Python SDK for BlaziumPay - Production-ready crypto payment infrastructure",
+  "author": "BlaziumPay",
+  "license": "MIT",
+  "home_page": "https://github.com/blaziumpay/python-sdk",
+  "download_filename": "blaziumpay-1.0.0.tar.gz",
+  "download_time": "2026-01-07T13:51:31.192308",
+  "package_url": "https://pypi.org/project/blaziumpay/"
+}

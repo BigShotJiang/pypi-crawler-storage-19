@@ -1,0 +1,11 @@
+{
+  "name": "claude-tmux-hop",
+  "version": "0.1.1",
+  "summary": "Hop between Claude Code sessions in tmux panes",
+  "author": "unsafe9",
+  "license": null,
+  "home_page": null,
+  "download_filename": "claude_tmux_hop-0.1.1.tar.gz",
+  "download_time": "2026-01-07T13:52:02.757961",
+  "package_url": "https://pypi.org/project/claude-tmux-hop/"
+}

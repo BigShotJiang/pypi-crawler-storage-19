@@ -1,11 +1,11 @@
 {
   "name": "svbench",
-  "version": "0.8.0",
+  "version": "0.8.1",
   "summary": null,
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "svbench-0.8.0.tar.gz",
-  "download_time": "2026-01-07T10:16:15.355643",
+  "download_filename": "svbench-0.8.1.tar.gz",
+  "download_time": "2026-01-07T13:52:10.676115",
   "package_url": "https://pypi.org/project/svbench/"
 }

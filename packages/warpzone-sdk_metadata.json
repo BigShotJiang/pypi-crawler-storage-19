@@ -1,11 +1,11 @@
 {
   "name": "warpzone-sdk",
-  "version": "14.0.0",
+  "version": "14.2.0",
   "summary": "The main objective of this package is to centralize logic used to interact with Azure Functions, Azure Service Bus and Azure Table Storage",
-  "author": "Mikkel Ladekarl Folmersen Nygaard",
+  "author": "Team Enigma",
   "license": null,
   "home_page": null,
-  "download_filename": "warpzone_sdk-14.0.0.tar.gz",
-  "download_time": "2026-01-07T10:16:44.433539",
+  "download_filename": "warpzone_sdk-14.2.0.tar.gz",
+  "download_time": "2026-01-07T13:51:37.551372",
   "package_url": "https://pypi.org/project/warpzone-sdk/"
 }

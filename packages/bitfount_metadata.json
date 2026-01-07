@@ -1,0 +1,11 @@
+{
+  "name": "bitfount",
+  "version": "11.0.0",
+  "summary": "Machine Learning and Federated Learning Library.",
+  "author": "Bitfount",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/bitfount/bitfount",
+  "download_filename": "bitfount-11.0.0.tar.gz",
+  "download_time": "2026-01-07T13:51:34.426126",
+  "package_url": "https://pypi.org/project/bitfount/"
+}

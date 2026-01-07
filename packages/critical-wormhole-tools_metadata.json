@@ -1,0 +1,11 @@
+{
+  "name": "critical-wormhole-tools",
+  "version": "0.1.0",
+  "summary": "Critical Wormhole Tools - Secure network utilities using Magic Wormhole code-based addressing",
+  "author": "Critical Wormhole Team",
+  "license": null,
+  "home_page": null,
+  "download_filename": "critical_wormhole_tools-0.1.0.tar.gz",
+  "download_time": "2026-01-07T13:52:00.673439",
+  "package_url": "https://pypi.org/project/critical-wormhole-tools/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "tm-mcp-server-preview",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "TrendMiner MCP Server (Preview) - AI assistant integration for TrendMiner",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "tm_mcp_server_preview-0.1.1.tar.gz",
-  "download_time": "2026-01-07T11:14:23.150393",
+  "download_filename": "tm_mcp_server_preview-0.1.2.tar.gz",
+  "download_time": "2026-01-07T13:52:01.192745",
   "package_url": "https://pypi.org/project/tm-mcp-server-preview/"
 }

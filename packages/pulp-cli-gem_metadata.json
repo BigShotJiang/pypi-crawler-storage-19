@@ -1,0 +1,11 @@
+{
+  "name": "pulp-cli-gem",
+  "version": "0.5.3",
+  "summary": "Command line interface to talk to pulpcore's REST API. (Gem plugin commands)",
+  "author": null,
+  "license": "GPLv2+",
+  "home_page": null,
+  "download_filename": "pulp_cli_gem-0.5.3.tar.gz",
+  "download_time": "2026-01-07T13:51:54.343739",
+  "package_url": "https://pypi.org/project/pulp-cli-gem/"
+}

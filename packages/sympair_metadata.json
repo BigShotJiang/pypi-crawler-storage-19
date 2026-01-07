@@ -1,0 +1,11 @@
+{
+  "name": "sympair",
+  "version": "0.1.4",
+  "summary": "A library for finding symmetric atomic pairs in crystal lattice structure.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "sympair-0.1.4.tar.gz",
+  "download_time": "2026-01-07T13:51:46.983257",
+  "package_url": "https://pypi.org/project/sympair/"
+}

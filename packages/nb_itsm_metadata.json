@@ -1,0 +1,11 @@
+{
+  "name": "nb_itsm",
+  "version": "0.13.1",
+  "summary": "ITIL Services, Applications & more",
+  "author": "CISPA IT Department",
+  "license": "Apache-2.0",
+  "home_page": "https://projects.cispa.saarland/it/services/itsm/netbox-plugin-itsm",
+  "download_filename": "nb_itsm-0.13.1.tar.gz",
+  "download_time": "2026-01-07T13:52:06.416537",
+  "package_url": "https://pypi.org/project/nb_itsm/"
+}

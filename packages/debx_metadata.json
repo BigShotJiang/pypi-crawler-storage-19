@@ -1,0 +1,11 @@
+{
+  "name": "debx",
+  "version": "0.2.11",
+  "summary": "Minimal Python library to programmatically construct Debian .deb packages",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "debx-0.2.11.tar.gz",
+  "download_time": "2026-01-07T13:51:55.901753",
+  "package_url": "https://pypi.org/project/debx/"
+}

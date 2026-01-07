@@ -1,0 +1,11 @@
+{
+  "name": "shaum",
+  "version": "0.8.0",
+  "summary": "Islamic fasting rules engine - determine Wajib, Sunnah, Makruh, Haram status for any date",
+  "author": "Mohammad Farid Hendianto",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "shaum-0.8.0.tar.gz",
+  "download_time": "2026-01-07T13:51:50.140908",
+  "package_url": "https://pypi.org/project/shaum/"
+}
