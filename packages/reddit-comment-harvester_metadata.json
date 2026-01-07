@@ -1,0 +1,11 @@
+{
+  "name": "reddit-comment-harvester",
+  "version": "0.1.2",
+  "summary": "Extract Reddit threads and comment trees for research and analysis",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "reddit_comment_harvester-0.1.2.tar.gz",
+  "download_time": "2026-01-07T18:54:43.549380",
+  "package_url": "https://pypi.org/project/reddit-comment-harvester/"
+}

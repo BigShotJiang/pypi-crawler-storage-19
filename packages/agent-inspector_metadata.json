@@ -1,0 +1,11 @@
+{
+  "name": "agent-inspector",
+  "version": "1.2.0",
+  "summary": "CLI launcher for Cylestio Perimeter with default OpenAI and Anthropic configs",
+  "author": "Cylestio",
+  "license": null,
+  "home_page": null,
+  "download_filename": "agent_inspector-1.2.0.tar.gz",
+  "download_time": "2026-01-07T18:55:08.454259",
+  "package_url": "https://pypi.org/project/agent-inspector/"
+}

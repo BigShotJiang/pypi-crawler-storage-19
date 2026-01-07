@@ -1,11 +1,11 @@
 {
   "name": "codewarden",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "summary": "CodeWarden Python SDK - Security and observability for your applications",
   "author": "CodeWarden Team",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "codewarden-0.1.0.tar.gz",
-  "download_time": "2026-01-07T05:02:49.564521",
+  "download_filename": "codewarden-0.1.2.tar.gz",
+  "download_time": "2026-01-07T18:55:10.031553",
   "package_url": "https://pypi.org/project/codewarden/"
 }

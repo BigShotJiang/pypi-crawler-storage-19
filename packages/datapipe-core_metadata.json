@@ -1,0 +1,11 @@
+{
+  "name": "datapipe-core",
+  "version": "0.14.6",
+  "summary": "`datapipe` is a realtime incremental ETL library for Python application",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "datapipe_core-0.14.6.tar.gz",
+  "download_time": "2026-01-07T18:54:49.826421",
+  "package_url": "https://pypi.org/project/datapipe-core/"
+}

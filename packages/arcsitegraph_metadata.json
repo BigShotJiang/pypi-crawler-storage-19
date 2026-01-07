@@ -1,11 +1,11 @@
 {
   "name": "arcsitegraph",
-  "version": "0.1.13",
+  "version": "0.1.14",
   "summary": "Open source LangGraph Platform alternative - Self-hosted AI agent backend with FastAPI and PostgreSQL. Zero vendor lock-in, full control over your agent infrastructure.",
   "author": "Muhammad Ibrahim",
   "license": null,
   "home_page": null,
-  "download_filename": "arcsitegraph-0.1.13.tar.gz",
-  "download_time": "2026-01-07T18:21:39.517349",
+  "download_filename": "arcsitegraph-0.1.14.tar.gz",
+  "download_time": "2026-01-07T18:55:23.503583",
   "package_url": "https://pypi.org/project/arcsitegraph/"
 }

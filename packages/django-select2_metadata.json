@@ -1,0 +1,11 @@
+{
+  "name": "django-select2",
+  "version": "8.4.8",
+  "summary": "This is a Django_ integration of Select2_.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "django_select2-8.4.8.tar.gz",
+  "download_time": "2026-01-07T18:55:01.773765",
+  "package_url": "https://pypi.org/project/django-select2/"
+}

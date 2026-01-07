@@ -1,11 +1,11 @@
 {
   "name": "spatial-link",
-  "version": "0.1.0.post1",
-  "summary": "Spatial-Link: Weekly BFS + Monte Carlo framework for detecting statistically significant directed linkages from spatio-temporal data.",
+  "version": "0.1.0.post3",
+  "summary": "Spatial-Link: A framework for detecting statistically significant linkages from spatio-temporal data.",
   "author": "Maloy Kumar Devnath, Sudip Chakraborty, Vandana P. Janeja",
   "license": "iHARP",
   "home_page": null,
-  "download_filename": "spatial_link-0.1.0.post1.tar.gz",
-  "download_time": "2026-01-07T18:22:11.229333",
+  "download_filename": "spatial_link-0.1.0.post3.tar.gz",
+  "download_time": "2026-01-07T18:55:15.189599",
   "package_url": "https://pypi.org/project/spatial-link/"
 }

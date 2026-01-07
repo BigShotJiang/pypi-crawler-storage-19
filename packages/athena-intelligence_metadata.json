@@ -1,11 +1,11 @@
 {
   "name": "athena-intelligence",
-  "version": "0.1.388",
+  "version": "0.1.390",
   "summary": "Athena Intelligence Python Library",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "athena_intelligence-0.1.388.tar.gz",
-  "download_time": "2026-01-07T16:54:41.484279",
+  "download_filename": "athena_intelligence-0.1.390.tar.gz",
+  "download_time": "2026-01-07T18:54:57.100072",
   "package_url": "https://pypi.org/project/athena-intelligence/"
 }

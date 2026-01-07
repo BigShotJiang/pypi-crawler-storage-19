@@ -1,0 +1,11 @@
+{
+  "name": "usgs-libcomcat",
+  "version": "2.1.11",
+  "summary": "Python wrapper around ComCat web API",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "usgs_libcomcat-2.1.11.tar.gz",
+  "download_time": "2026-01-07T18:55:24.565151",
+  "package_url": "https://pypi.org/project/usgs-libcomcat/"
+}
