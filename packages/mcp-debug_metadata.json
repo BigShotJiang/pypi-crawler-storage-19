@@ -1,11 +1,11 @@
 {
   "name": "mcp-debug",
-  "version": "1.1.5",
+  "version": "1.1.6",
   "summary": "A debugging and development tool for MCP servers with hot-swapping, session recording, and automated playback testing",
   "author": "StandardBeagle",
   "license": null,
   "home_page": null,
-  "download_filename": "mcp_debug-1.1.5.tar.gz",
-  "download_time": "2026-01-07T07:20:07.054627",
+  "download_filename": "mcp_debug-1.1.6.tar.gz",
+  "download_time": "2026-01-07T17:48:33.108332",
   "package_url": "https://pypi.org/project/mcp-debug/"
 }

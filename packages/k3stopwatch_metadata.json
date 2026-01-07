@@ -1,0 +1,11 @@
+{
+  "name": "k3stopwatch",
+  "version": "0.1.2",
+  "summary": "Hierarchical timing measurement with aggregated and tracing reports",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "k3stopwatch-0.1.2.tar.gz",
+  "download_time": "2026-01-07T17:48:30.409265",
+  "package_url": "https://pypi.org/project/k3stopwatch/"
+}

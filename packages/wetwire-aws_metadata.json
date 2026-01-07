@@ -1,0 +1,11 @@
+{
+  "name": "wetwire-aws",
+  "version": "1.7.1",
+  "summary": "AWS CloudFormation synthesis for wetwire",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "wetwire_aws-1.7.1.tar.gz",
+  "download_time": "2026-01-07T17:48:29.278336",
+  "package_url": "https://pypi.org/project/wetwire-aws/"
+}
