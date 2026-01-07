@@ -1,0 +1,11 @@
+{
+  "name": "swmm-api",
+  "version": "0.4.71",
+  "summary": "API for reading, manipulating and running US-EPA-SWMM-Projects",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "swmm_api-0.4.71.tar.gz",
+  "download_time": "2026-01-07T15:17:02.466529",
+  "package_url": "https://pypi.org/project/swmm-api/"
+}

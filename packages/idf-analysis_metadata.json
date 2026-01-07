@@ -1,0 +1,11 @@
+{
+  "name": "idf-analysis",
+  "version": "0.4.1",
+  "summary": "heavy rainfall intensity as a function of duration and return period acc. to DWA-A 531 (2012)",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "idf_analysis-0.4.1.tar.gz",
+  "download_time": "2026-01-07T15:17:03.507846",
+  "package_url": "https://pypi.org/project/idf-analysis/"
+}

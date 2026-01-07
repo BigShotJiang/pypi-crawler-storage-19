@@ -1,0 +1,11 @@
+{
+  "name": "oianalytics",
+  "version": "0.6.10",
+  "summary": "Python tools for working with OIAnalytics",
+  "author": "Optimistik SAS",
+  "license": "EUPL-1.2",
+  "home_page": null,
+  "download_filename": "oianalytics-0.6.10.tar.gz",
+  "download_time": "2026-01-07T15:17:01.945394",
+  "package_url": "https://pypi.org/project/oianalytics/"
+}

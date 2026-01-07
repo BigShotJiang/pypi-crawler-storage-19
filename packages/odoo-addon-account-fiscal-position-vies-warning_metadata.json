@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-account-fiscal-position-vies-warning",
+  "version": "18.0.1.0.2",
+  "summary": "Account Fiscal Position Vies Warning",
+  "author": "Moduon, Odoo Community Association (OCA)",
+  "license": "LGPL-3",
+  "home_page": "https://github.com/OCA/account-fiscal-rule",
+  "download_filename": "odoo_addon_account_fiscal_position_vies_warning-18.0.1.0.2-py3-none-any.whl",
+  "download_time": "2026-01-07T15:16:57.716685",
+  "package_url": "https://pypi.org/project/odoo-addon-account-fiscal-position-vies-warning/"
+}

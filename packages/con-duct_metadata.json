@@ -1,0 +1,11 @@
+{
+  "name": "con-duct",
+  "version": "0.19.0",
+  "summary": "Runs a not-so-simple command and collects resource usage metrics",
+  "author": "Austin Macdonald",
+  "license": "MIT",
+  "home_page": "https://github.com/con/duct/",
+  "download_filename": "con_duct-0.19.0.tar.gz",
+  "download_time": "2026-01-07T15:16:50.920506",
+  "package_url": "https://pypi.org/project/con-duct/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "muxi",
-  "version": "0.20260107.0",
+  "version": "0.20260107.80",
   "summary": "MUXI Python SDK",
   "author": "MUXI Team",
   "license": "Apache-2.0",
   "home_page": "https://muxi.org",
-  "download_filename": "muxi-0.20260107.0.tar.gz",
-  "download_time": "2026-01-07T14:48:35.025898",
+  "download_filename": "muxi-0.20260107.80.tar.gz",
+  "download_time": "2026-01-07T15:16:46.694597",
   "package_url": "https://pypi.org/project/muxi/"
 }
