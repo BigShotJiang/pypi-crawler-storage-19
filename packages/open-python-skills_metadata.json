@@ -1,11 +1,11 @@
 {
   "name": "open-python-skills",
-  "version": "0.1.4.2",
+  "version": "0.1.5",
   "summary": "AI skill for Python backend development - FastAPI, SQLAlchemy, Redis, security patterns",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "open_python_skills-0.1.4.2.tar.gz",
-  "download_time": "2026-01-07T21:19:50.103132",
+  "download_filename": "open_python_skills-0.1.5.tar.gz",
+  "download_time": "2026-01-07T21:41:13.953619",
   "package_url": "https://pypi.org/project/open-python-skills/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "instancepedia",
-  "version": "0.6.0",
+  "version": "0.7.0",
   "summary": "EC2 Instance Type Browser - TUI and CLI",
   "author": "Paul Frederiksen",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "instancepedia-0.6.0.tar.gz",
-  "download_time": "2026-01-07T21:19:50.642299",
+  "download_filename": "instancepedia-0.7.0.tar.gz",
+  "download_time": "2026-01-07T21:41:14.533636",
   "package_url": "https://pypi.org/project/instancepedia/"
 }

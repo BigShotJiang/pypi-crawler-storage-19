@@ -1,11 +1,11 @@
 {
   "name": "visual-width",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "A Python library for calculating visual width of text, especially for subtitle display",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "visual_width-0.1.0.tar.gz",
-  "download_time": "2026-01-07T21:19:18.803700",
+  "download_filename": "visual_width-0.1.1.tar.gz",
+  "download_time": "2026-01-07T21:40:41.837442",
   "package_url": "https://pypi.org/project/visual-width/"
 }
