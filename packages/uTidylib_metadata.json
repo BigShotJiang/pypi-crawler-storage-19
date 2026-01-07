@@ -1,0 +1,11 @@
+{
+  "name": "uTidylib",
+  "version": "1.0.0",
+  "summary": "Wrapper for HTML Tidy",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "utidylib-1.0.0.tar.gz",
+  "download_time": "2026-01-07T12:29:11.122430",
+  "package_url": "https://pypi.org/project/uTidylib/"
+}

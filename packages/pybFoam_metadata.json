@@ -1,0 +1,11 @@
+{
+  "name": "pybFoam",
+  "version": "0.1.8",
+  "summary": "python bindings for OpenFOAM",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pybfoam-0.1.8.tar.gz",
+  "download_time": "2026-01-07T12:29:00.566629",
+  "package_url": "https://pypi.org/project/pybFoam/"
+}

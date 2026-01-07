@@ -1,0 +1,11 @@
+{
+  "name": "motionos",
+  "version": "2.0.0",
+  "summary": "Official Python SDK for MotionOS - Enterprise AI Memory & Context Management",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "motionos-2.0.0.tar.gz",
+  "download_time": "2026-01-07T12:29:28.163257",
+  "package_url": "https://pypi.org/project/motionos/"
+}

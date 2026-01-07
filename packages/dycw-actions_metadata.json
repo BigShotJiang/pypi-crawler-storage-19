@@ -1,11 +1,11 @@
 {
   "name": "dycw-actions",
-  "version": "0.6.10",
+  "version": "0.6.12",
   "summary": "Library of actions",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "dycw_actions-0.6.10-py3-none-any.whl",
-  "download_time": "2026-01-07T11:32:56.971107",
+  "download_filename": "dycw_actions-0.6.12-py3-none-any.whl",
+  "download_time": "2026-01-07T12:29:19.779654",
   "package_url": "https://pypi.org/project/dycw-actions/"
 }

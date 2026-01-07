@@ -1,0 +1,11 @@
+{
+  "name": "emailverify-ai",
+  "version": "1.0.2",
+  "summary": "Official EmailVerify Python SDK for email verification",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "emailverify_ai-1.0.2.tar.gz",
+  "download_time": "2026-01-07T12:29:06.621290",
+  "package_url": "https://pypi.org/project/emailverify-ai/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "dvc-data",
+  "version": "3.18.0",
+  "summary": "DVC's data management subsystem",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "dvc_data-3.18.0.tar.gz",
+  "download_time": "2026-01-07T12:29:46.298423",
+  "package_url": "https://pypi.org/project/dvc-data/"
+}

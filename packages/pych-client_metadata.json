@@ -1,0 +1,11 @@
+{
+  "name": "pych-client",
+  "version": "0.4.2",
+  "summary": "A ClickHouse client for Python, with a command-line interface.",
+  "author": "Maxime Mouchet",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pych_client-0.4.2.tar.gz",
+  "download_time": "2026-01-07T12:29:01.112942",
+  "package_url": "https://pypi.org/project/pych-client/"
+}

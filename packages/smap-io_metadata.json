@@ -1,0 +1,11 @@
+{
+  "name": "smap-io",
+  "version": "0.8",
+  "summary": "SMAP (Soil Moisture Active Passive) data readers",
+  "author": "TU Wien",
+  "license": "mit",
+  "home_page": "https://github.com/TUW-GEO/smap_io",
+  "download_filename": "smap_io-0.8.tar.gz",
+  "download_time": "2026-01-07T12:29:35.637517",
+  "package_url": "https://pypi.org/project/smap-io/"
+}

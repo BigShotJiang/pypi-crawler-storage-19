@@ -1,0 +1,11 @@
+{
+  "name": "orkg",
+  "version": "1.2.0",
+  "summary": "The official python client for the Open Research Knowledge Graph (ORKG) API",
+  "author": "Yaser Jaradeh",
+  "license": "MIT",
+  "home_page": "http://orkg.org/about",
+  "download_filename": "orkg-1.2.0.tar.gz",
+  "download_time": "2026-01-07T12:29:14.451481",
+  "package_url": "https://pypi.org/project/orkg/"
+}

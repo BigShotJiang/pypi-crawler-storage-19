@@ -1,0 +1,11 @@
+{
+  "name": "architxt",
+  "version": "0.5.2",
+  "summary": "ArchiTXT is a tool for structuring textual data into a valid database model. It is guided by a meta-grammar and uses an iterative process of tree rewriting.",
+  "author": "Jacques Chabin",
+  "license": null,
+  "home_page": null,
+  "download_filename": "architxt-0.5.2.tar.gz",
+  "download_time": "2026-01-07T12:29:08.822097",
+  "package_url": "https://pypi.org/project/architxt/"
+}

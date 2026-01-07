@@ -1,0 +1,11 @@
+{
+  "name": "catabra-pandas",
+  "version": "0.0.7",
+  "summary": "CaTabRa-pandas is a library with additional functionality for pandas",
+  "author": "RISC Software GmbH",
+  "license": "Apache 2.0 with Commons Clause",
+  "home_page": "https://github.com/risc-mi/catabra-pandas",
+  "download_filename": "catabra_pandas-0.0.7.tar.gz",
+  "download_time": "2026-01-07T12:29:41.901863",
+  "package_url": "https://pypi.org/project/catabra-pandas/"
+}

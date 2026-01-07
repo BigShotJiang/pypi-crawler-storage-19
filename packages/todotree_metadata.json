@@ -1,0 +1,11 @@
+{
+  "name": "todotree",
+  "version": "4.3.1",
+  "summary": "todo.txt manager which adds tree printing",
+  "author": "chim1aap",
+  "license": "Unlicense",
+  "home_page": "https://gitlab.com/chim1aap/todotree",
+  "download_filename": "todotree-4.3.1.tar.gz",
+  "download_time": "2026-01-07T12:29:17.857006",
+  "package_url": "https://pypi.org/project/todotree/"
+}

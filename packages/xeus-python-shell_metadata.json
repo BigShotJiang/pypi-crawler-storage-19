@@ -1,11 +1,11 @@
 {
   "name": "xeus-python-shell",
-  "version": "0.6.5",
+  "version": "0.6.6",
   "summary": "The xeus-python core python logic.",
   "author": "QuantStack dev team",
   "license": "BSD 3-Clause",
   "home_page": "https://github.com/jupyter-xeus/xeus-python-shell",
-  "download_filename": "xeus_python_shell-0.6.5.tar.gz",
-  "download_time": "2026-01-07T10:47:47.672495",
+  "download_filename": "xeus_python_shell-0.6.6.tar.gz",
+  "download_time": "2026-01-07T12:29:07.163629",
   "package_url": "https://pypi.org/project/xeus-python-shell/"
 }
