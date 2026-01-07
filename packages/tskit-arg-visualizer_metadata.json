@@ -1,0 +1,11 @@
+{
+  "name": "tskit-arg-visualizer",
+  "version": "0.1.2",
+  "summary": "Interactive visualization method for ancestral recombination graphs",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "tskit_arg_visualizer-0.1.2-py3-none-any.whl",
+  "download_time": "2026-01-07T05:40:41.478876",
+  "package_url": "https://pypi.org/project/tskit-arg-visualizer/"
+}

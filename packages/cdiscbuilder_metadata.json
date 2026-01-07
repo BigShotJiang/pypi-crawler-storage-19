@@ -1,11 +1,11 @@
 {
   "name": "cdiscbuilder",
-  "version": "0.2.5",
+  "version": "0.2.7",
   "summary": "A package to convert ODM XML to SDTM/ADaM Datasets",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "cdiscbuilder-0.2.5.tar.gz",
-  "download_time": "2026-01-07T05:02:55.306585",
+  "download_filename": "cdiscbuilder-0.2.7.tar.gz",
+  "download_time": "2026-01-07T05:40:15.217587",
   "package_url": "https://pypi.org/project/cdiscbuilder/"
 }

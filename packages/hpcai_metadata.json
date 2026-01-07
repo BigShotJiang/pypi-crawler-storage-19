@@ -1,0 +1,11 @@
+{
+  "name": "hpcai",
+  "version": "0.2.0",
+  "summary": "Python SDK for HPC-AI cloud GPU fine-tuning",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "hpcai-0.2.0.tar.gz",
+  "download_time": "2026-01-07T05:40:24.503713",
+  "package_url": "https://pypi.org/project/hpcai/"
+}
