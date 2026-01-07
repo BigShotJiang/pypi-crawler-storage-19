@@ -1,0 +1,11 @@
+{
+  "name": "pyPASreporter-PACLIparser",
+  "version": "0.3.1",
+  "summary": "PACLI configuration parser for CyberArk PAM - part of pyPASreporter ecosystem",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pypasreporter_pacliparser-0.3.1.tar.gz",
+  "download_time": "2026-01-07T09:48:07.692605",
+  "package_url": "https://pypi.org/project/pyPASreporter-PACLIparser/"
+}

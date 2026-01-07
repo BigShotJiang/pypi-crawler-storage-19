@@ -1,0 +1,11 @@
+{
+  "name": "minedrac",
+  "version": "4.54.1.2",
+  "summary": "MineDRAC provides a command-line interface to query, analyze, and extract metadata from DRAC.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "minedrac-4.54.1.2.tar.gz",
+  "download_time": "2026-01-07T09:48:02.466622",
+  "package_url": "https://pypi.org/project/minedrac/"
+}

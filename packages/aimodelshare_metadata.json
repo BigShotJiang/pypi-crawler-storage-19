@@ -1,0 +1,11 @@
+{
+  "name": "aimodelshare",
+  "version": "0.5.15",
+  "summary": "Deploy locally saved machine learning models to a live REST API and integrated dashboard.",
+  "author": null,
+  "license": "Proprietary License\n        \n        Copyright (c) 2025 Model Share Labs,Inc. (And all affiliated organizations and individuals)\n        \n        ",
+  "home_page": null,
+  "download_filename": "aimodelshare-0.5.15.tar.gz",
+  "download_time": "2026-01-07T09:47:56.119212",
+  "package_url": "https://pypi.org/project/aimodelshare/"
+}

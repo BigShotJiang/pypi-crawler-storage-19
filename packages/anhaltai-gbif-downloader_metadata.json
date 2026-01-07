@@ -1,0 +1,11 @@
+{
+  "name": "anhaltai-gbif-downloader",
+  "version": "2025.8.1",
+  "summary": "This project automatically downloads taxon-specific images from the GBIF API (https://techdocs.gbif.org/en/openapi/), processes them, and stores both images and metadata in a taxonomically organized structure in a MinIO (https://www.min.io/) bucket.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "anhaltai_gbif_downloader-2025.8.1.tar.gz",
+  "download_time": "2026-01-07T09:48:07.178446",
+  "package_url": "https://pypi.org/project/anhaltai-gbif-downloader/"
+}

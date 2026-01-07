@@ -1,11 +1,11 @@
 {
   "name": "spiderkit",
-  "version": "0.1.0",
-  "summary": "一个功能强大的 Python 爬虫工具包，提供加密解密、数据存储、异步下载和字体解析等功能",
+  "version": "0.1.1",
+  "summary": "一个面向爬虫与数据处理场景的 Python 工具包，覆盖加密解密、数据存储、异步下载和字体解析",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "spiderkit-0.1.0.tar.gz",
-  "download_time": "2026-01-07T09:21:44.467125",
+  "download_filename": "spiderkit-0.1.1.tar.gz",
+  "download_time": "2026-01-07T09:48:15.500796",
   "package_url": "https://pypi.org/project/spiderkit/"
 }

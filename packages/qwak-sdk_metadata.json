@@ -1,0 +1,11 @@
+{
+  "name": "qwak-sdk",
+  "version": "0.5.102",
+  "summary": "Qwak SDK and CLI for qwak models",
+  "author": "Qwak",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "qwak_sdk-0.5.102.tar.gz",
+  "download_time": "2026-01-07T09:48:16.531835",
+  "package_url": "https://pypi.org/project/qwak-sdk/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "PyOctaveBand",
+  "version": "1.1.3",
+  "summary": "Octave-Band and Fractional Octave-Band filter for signals in time domain.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pyoctaveband-1.1.3.tar.gz",
+  "download_time": "2026-01-07T09:48:19.952297",
+  "package_url": "https://pypi.org/project/PyOctaveBand/"
+}
