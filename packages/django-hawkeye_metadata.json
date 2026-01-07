@@ -1,0 +1,11 @@
+{
+  "name": "django-hawkeye",
+  "version": "0.4.0",
+  "summary": "Django-hawkeye full-text search using PostgreSQL pg_textsearch - a lightweight Elasticsearch alternative",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "django_hawkeye-0.4.0.tar.gz",
+  "download_time": "2026-01-07T20:16:48.156122",
+  "package_url": "https://pypi.org/project/django-hawkeye/"
+}

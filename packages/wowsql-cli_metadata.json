@@ -1,11 +1,11 @@
 {
   "name": "wowsql-cli",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "summary": "WoWSQL Command Line Interface",
   "author": "WoWSQL Team",
   "license": null,
   "home_page": "https://github.com/wowsql/cli",
-  "download_filename": "wowsql_cli-0.1.0.tar.gz",
-  "download_time": "2026-01-07T19:16:05.246855",
+  "download_filename": "wowsql_cli-1.0.0.tar.gz",
+  "download_time": "2026-01-07T20:16:49.768102",
   "package_url": "https://pypi.org/project/wowsql-cli/"
 }

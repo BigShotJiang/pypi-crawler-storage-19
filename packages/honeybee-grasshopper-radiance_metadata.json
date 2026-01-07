@@ -1,0 +1,11 @@
+{
+  "name": "honeybee-grasshopper-radiance",
+  "version": "1.35.5",
+  "summary": "Honeybee Radiance plugin for Grasshopper.",
+  "author": "Ladybug Tools",
+  "license": "AGPL-3.0",
+  "home_page": "https://github.com/ladybug-tools/honeybee-grasshopper-radiance",
+  "download_filename": "honeybee_grasshopper_radiance-1.35.5.tar.gz",
+  "download_time": "2026-01-07T20:16:39.698942",
+  "package_url": "https://pypi.org/project/honeybee-grasshopper-radiance/"
+}

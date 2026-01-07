@@ -1,11 +1,11 @@
 {
   "name": "brilliance-admin",
-  "version": "0.43.1",
+  "version": "0.43.2",
   "summary": "Simple and lightweight admin panel framework powered by FastAPI and Vue3 Vuetify together.. Some call it heavenly in its brilliance.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "brilliance_admin-0.43.1.tar.gz",
-  "download_time": "2026-01-07T18:55:24.046339",
+  "download_filename": "brilliance_admin-0.43.2.tar.gz",
+  "download_time": "2026-01-07T20:16:13.673195",
   "package_url": "https://pypi.org/project/brilliance-admin/"
 }

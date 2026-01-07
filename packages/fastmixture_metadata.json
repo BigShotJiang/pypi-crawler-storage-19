@@ -1,0 +1,11 @@
+{
+  "name": "fastmixture",
+  "version": "1.2.2",
+  "summary": "Fast Ancestry Estimation",
+  "author": "Jonas Meisner",
+  "license": null,
+  "home_page": "https://github.com/Rosemeis/fastmixture",
+  "download_filename": "fastmixture-1.2.2.tar.gz",
+  "download_time": "2026-01-07T20:16:52.998409",
+  "package_url": "https://pypi.org/project/fastmixture/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "siger",
+  "version": "0.16.0",
+  "summary": "Automações em Python para auxiliar obtenção de dados do SIGER-CEPEL",
+  "author": "Nathan Kelvi de Almeida Bueno",
+  "license": null,
+  "home_page": "https://github.com/nkbueno/siger",
+  "download_filename": "siger-0.16.0.tar.gz",
+  "download_time": "2026-01-07T20:16:25.387554",
+  "package_url": "https://pypi.org/project/siger/"
+}

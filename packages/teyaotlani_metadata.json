@@ -1,0 +1,11 @@
+{
+  "name": "teyaotlani",
+  "version": "0.1.2",
+  "summary": "Modern Spartan protocol server and client implementation using asyncio",
+  "author": "Alan Velasco",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "teyaotlani-0.1.2.tar.gz",
+  "download_time": "2026-01-07T20:16:26.558619",
+  "package_url": "https://pypi.org/project/teyaotlani/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "django-otp",
+  "version": "1.7.0",
+  "summary": "A pluggable framework for adding two-factor authentication to Django using one-time passwords.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "django_otp-1.7.0.tar.gz",
+  "download_time": "2026-01-07T20:16:43.390969",
+  "package_url": "https://pypi.org/project/django-otp/"
+}
