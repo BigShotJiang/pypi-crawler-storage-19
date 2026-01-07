@@ -1,0 +1,11 @@
+{
+  "name": "logpulse",
+  "version": "0.1.1",
+  "summary": "High-resolution performance logging for Python.",
+  "author": "Eren Irmak",
+  "license": null,
+  "home_page": null,
+  "download_filename": "logpulse-0.1.1.tar.gz",
+  "download_time": "2026-01-07T23:14:08.855249",
+  "package_url": "https://pypi.org/project/logpulse/"
+}

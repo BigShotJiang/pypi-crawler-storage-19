@@ -1,0 +1,11 @@
+{
+  "name": "cjdk",
+  "version": "0.5.0",
+  "summary": "Auto-download JDK or JRE and run Java apps from Python or CLI",
+  "author": "Mark A. Tsuchida",
+  "license": null,
+  "home_page": null,
+  "download_filename": "cjdk-0.5.0.tar.gz",
+  "download_time": "2026-01-07T23:14:15.392347",
+  "package_url": "https://pypi.org/project/cjdk/"
+}

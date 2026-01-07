@@ -1,11 +1,11 @@
 {
   "name": "todoosy",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "summary": "Todoosy - Markdown-based todo system parser, formatter, linter, and query engine",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "todoosy-0.2.1.tar.gz",
-  "download_time": "2026-01-07T21:19:44.671082",
+  "download_filename": "todoosy-0.2.2.tar.gz",
+  "download_time": "2026-01-07T23:14:48.900465",
   "package_url": "https://pypi.org/project/todoosy/"
 }
