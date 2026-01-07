@@ -1,0 +1,11 @@
+{
+  "name": "zmp-authentication-provider",
+  "version": "0.3.10",
+  "summary": "This is a library project for the authentication using the basic auth and oidc",
+  "author": "Kilsoo Kang",
+  "license": null,
+  "home_page": "https://github.com/cloudz-mp",
+  "download_filename": "zmp_authentication_provider-0.3.10.tar.gz",
+  "download_time": "2026-01-07T08:20:49.201938",
+  "package_url": "https://pypi.org/project/zmp-authentication-provider/"
+}

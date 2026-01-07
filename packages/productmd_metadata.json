@@ -1,0 +1,11 @@
+{
+  "name": "productmd",
+  "version": "1.50",
+  "summary": "Product, compose and installation media metadata library",
+  "author": "Daniel Mach",
+  "license": "LGPLv2.1",
+  "home_page": "https://github.com/release-engineering/productmd",
+  "download_filename": "productmd-1.50.tar.gz",
+  "download_time": "2026-01-07T08:20:53.983366",
+  "package_url": "https://pypi.org/project/productmd/"
+}
