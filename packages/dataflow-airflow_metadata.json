@@ -1,0 +1,11 @@
+{
+  "name": "dataflow-airflow",
+  "version": "2.10.9",
+  "summary": "Airflow customized for Dataflow",
+  "author": "Dataflow",
+  "license": null,
+  "home_page": "https://github.com/Digital-Back-Office/dataflow-airflow",
+  "download_filename": "dataflow_airflow-2.10.9.tar.gz",
+  "download_time": "2026-01-07T06:22:34.440920",
+  "package_url": "https://pypi.org/project/dataflow-airflow/"
+}

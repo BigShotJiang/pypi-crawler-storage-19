@@ -1,0 +1,11 @@
+{
+  "name": "helix-connect",
+  "version": "1.1.9",
+  "summary": "Official Python SDK for Helix Connect Data Marketplace",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "helix_connect-1.1.9.tar.gz",
+  "download_time": "2026-01-07T06:22:14.484418",
+  "package_url": "https://pypi.org/project/helix-connect/"
+}

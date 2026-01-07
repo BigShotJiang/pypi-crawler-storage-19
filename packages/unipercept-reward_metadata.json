@@ -1,11 +1,11 @@
 {
   "name": "unipercept-reward",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "summary": "UniPercept: Towards Unified Perceptual-Level Image Understanding",
   "author": "Shuo Cao",
   "license": null,
   "home_page": "https://github.com/thunderbolt215/UniPercept",
-  "download_filename": "unipercept_reward-1.0.2.tar.gz",
-  "download_time": "2026-01-07T05:53:53.637730",
+  "download_filename": "unipercept_reward-1.0.3.tar.gz",
+  "download_time": "2026-01-07T06:22:28.215823",
   "package_url": "https://pypi.org/project/unipercept-reward/"
 }

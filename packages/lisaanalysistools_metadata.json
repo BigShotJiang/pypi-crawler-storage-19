@@ -1,11 +1,11 @@
 {
   "name": "lisaanalysistools",
-  "version": "1.2.2",
+  "version": "1.2.3",
   "summary": "A package for LISA Data Analysis",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "lisaanalysistools-1.2.2-cp310-cp310-macosx_14_0_arm64.whl",
-  "download_time": "2026-01-07T05:02:57.449419",
+  "download_filename": "lisaanalysistools-1.2.3-cp310-cp310-macosx_14_0_arm64.whl",
+  "download_time": "2026-01-07T06:22:38.643417",
   "package_url": "https://pypi.org/project/lisaanalysistools/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "fastanki",
+  "version": "0.0.2",
+  "summary": "Python tools for Anki",
+  "author": "Jeremy Howard",
+  "license": "Apache Software License 2.0",
+  "home_page": "https://github.com/AnswerDotAI/fastanki",
+  "download_filename": "fastanki-0.0.2.tar.gz",
+  "download_time": "2026-01-07T06:22:31.328562",
+  "package_url": "https://pypi.org/project/fastanki/"
+}

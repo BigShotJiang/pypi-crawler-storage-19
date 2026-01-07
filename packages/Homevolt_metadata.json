@@ -1,0 +1,11 @@
+{
+  "name": "Homevolt",
+  "version": "0.2.2",
+  "summary": "Python library for Homevolt EMS devices",
+  "author": null,
+  "license": "GPL-3.0",
+  "home_page": null,
+  "download_filename": "homevolt-0.2.2.tar.gz",
+  "download_time": "2026-01-07T06:22:27.150371",
+  "package_url": "https://pypi.org/project/Homevolt/"
+}

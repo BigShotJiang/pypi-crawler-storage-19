@@ -1,11 +1,11 @@
 {
   "name": "adryserage-aetheris",
-  "version": "2.5.6",
+  "version": "2.5.7",
   "summary": "Aetheris - Multi-agent AI code analysis system with PR review, multi-provider consensus (Gemini/Claude/OpenAI), security analysis, and automatic bug fixing via Claude Code",
-  "author": "Adryan from Allowebs.com",
+  "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "adryserage_aetheris-2.5.6.tar.gz",
-  "download_time": "2026-01-07T05:53:56.815079",
+  "download_filename": "adryserage_aetheris-2.5.7.tar.gz",
+  "download_time": "2026-01-07T06:22:31.848985",
   "package_url": "https://pypi.org/project/adryserage-aetheris/"
 }

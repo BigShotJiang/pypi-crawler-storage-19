@@ -1,0 +1,11 @@
+{
+  "name": "lotion",
+  "version": "0.9.5",
+  "summary": "A wrapper of Notion client for Python",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "lotion-0.9.5.tar.gz",
+  "download_time": "2026-01-07T06:22:26.115031",
+  "package_url": "https://pypi.org/project/lotion/"
+}
