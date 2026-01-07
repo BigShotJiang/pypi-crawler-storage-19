@@ -1,0 +1,11 @@
+{
+  "name": "yafax",
+  "version": "1.0.0",
+  "summary": "Yet Another FASTA Index and Sequence Extraction Tool",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "yafax-1.0.0.tar.gz",
+  "download_time": "2026-01-07T14:18:05.713397",
+  "package_url": "https://pypi.org/project/yafax/"
+}

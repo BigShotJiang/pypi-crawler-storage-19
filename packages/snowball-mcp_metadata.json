@@ -1,0 +1,11 @@
+{
+  "name": "snowball-mcp",
+  "version": "0.2.8",
+  "summary": "基于雪球API的MCP服务，让您通过Claude或其他AI助手轻松获取股票数据",
+  "author": "xunzhimeng",
+  "license": null,
+  "home_page": null,
+  "download_filename": "snowball_mcp-0.2.8.tar.gz",
+  "download_time": "2026-01-07T14:17:48.646624",
+  "package_url": "https://pypi.org/project/snowball-mcp/"
+}

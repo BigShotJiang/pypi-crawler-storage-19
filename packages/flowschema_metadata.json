@@ -1,0 +1,11 @@
+{
+  "name": "flowschema",
+  "version": "0.1.0",
+  "summary": "FlowSchema is a data processing framework that allows you to process data in a declarative way.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "flowschema-0.1.0.tar.gz",
+  "download_time": "2026-01-07T14:17:38.937987",
+  "package_url": "https://pypi.org/project/flowschema/"
+}

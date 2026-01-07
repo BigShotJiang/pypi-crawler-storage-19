@@ -1,0 +1,11 @@
+{
+  "name": "create-icon",
+  "version": "0.5.3",
+  "summary": "A simple icon generator to replace the tkinter feather for your programs.",
+  "author": "Michael Mulvey (Caveman Software)",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "create_icon-0.5.3.tar.gz",
+  "download_time": "2026-01-07T14:18:02.876176",
+  "package_url": "https://pypi.org/project/create-icon/"
+}

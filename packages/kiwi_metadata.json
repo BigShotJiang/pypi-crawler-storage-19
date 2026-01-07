@@ -1,11 +1,11 @@
 {
   "name": "kiwi",
-  "version": "10.2.35",
+  "version": "10.2.36",
   "summary": "KIWI - Appliance Builder",
   "author": "Marcus Schäfer",
   "license": "GPL-3.0-or-later",
   "home_page": "https://osinside.github.io/kiwi/",
-  "download_filename": "kiwi-10.2.35.tar.gz",
-  "download_time": "2026-01-07T09:47:46.584265",
+  "download_filename": "kiwi-10.2.36.tar.gz",
+  "download_time": "2026-01-07T14:17:26.421514",
   "package_url": "https://pypi.org/project/kiwi/"
 }

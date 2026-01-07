@@ -1,0 +1,11 @@
+{
+  "name": "foxops",
+  "version": "2.6.0",
+  "summary": "Foxops 🦊",
+  "author": "Alexander Hungenberg",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "foxops-2.6.0.tar.gz",
+  "download_time": "2026-01-07T14:17:51.449644",
+  "package_url": "https://pypi.org/project/foxops/"
+}

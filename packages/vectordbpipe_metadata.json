@@ -1,11 +1,11 @@
 {
   "name": "vectordbpipe",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "summary": "A modular text embedding and vector database pipeline for local and cloud vector stores.",
   "author": "Yash Desai",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "vectordbpipe-0.1.4.tar.gz",
-  "download_time": "2026-01-07T13:14:09.255517",
+  "download_filename": "vectordbpipe-0.1.5.tar.gz",
+  "download_time": "2026-01-07T14:17:53.148239",
   "package_url": "https://pypi.org/project/vectordbpipe/"
 }

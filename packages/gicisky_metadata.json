@@ -1,0 +1,11 @@
+{
+  "name": "gicisky",
+  "version": "0.2.0",
+  "summary": "A Python library for interacting with Gicisky E-Ink display tags via Bluetooth Low Energy",
+  "author": "MassiveBox",
+  "license": null,
+  "home_page": "https://git.boxo.cc/massivebox/gicisky",
+  "download_filename": "gicisky-0.2.0.tar.gz",
+  "download_time": "2026-01-07T14:17:54.281717",
+  "package_url": "https://pypi.org/project/gicisky/"
+}
