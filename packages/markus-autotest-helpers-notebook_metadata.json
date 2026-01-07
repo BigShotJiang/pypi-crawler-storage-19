@@ -1,0 +1,11 @@
+{
+  "name": "markus-autotest-helpers-notebook",
+  "version": "0.1.0",
+  "summary": "Helper functions for importing and testing Jupyter notebooks.",
+  "author": "Misha Schwartz, David Liu, Tianshu Luan",
+  "license": null,
+  "home_page": null,
+  "download_filename": "markus_autotest_helpers_notebook-0.1.0.tar.gz",
+  "download_time": "2026-01-07T21:51:33.122832",
+  "package_url": "https://pypi.org/project/markus-autotest-helpers-notebook/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "dvst-detox",
+  "version": "0.2.0",
+  "summary": "Lightweight Python wrapper around tobii-researcher",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "dvst_detox-0.2.0.tar.gz",
+  "download_time": "2026-01-07T21:51:41.496494",
+  "package_url": "https://pypi.org/project/dvst-detox/"
+}

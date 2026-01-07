@@ -1,0 +1,11 @@
+{
+  "name": "caddy-api-client",
+  "version": "0.2.5",
+  "summary": "A Python client for the Caddy API",
+  "author": "Krzysztof Taraszka",
+  "license": null,
+  "home_page": "https://github.com/migetapp/caddy-api-client",
+  "download_filename": "caddy_api_client-0.2.5.tar.gz",
+  "download_time": "2026-01-07T21:51:53.983430",
+  "package_url": "https://pypi.org/project/caddy-api-client/"
+}

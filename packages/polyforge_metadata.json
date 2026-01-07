@@ -1,0 +1,11 @@
+{
+  "name": "polyforge",
+  "version": "0.1.0a1",
+  "summary": "polygon processing and manipulation library built on Shapely - simplification, repair, merging, overlap resolution, and clearance fixing",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "polyforge-0.1.0a1.tar.gz",
+  "download_time": "2026-01-07T21:51:42.011992",
+  "package_url": "https://pypi.org/project/polyforge/"
+}

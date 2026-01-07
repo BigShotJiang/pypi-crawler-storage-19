@@ -1,0 +1,11 @@
+{
+  "name": "markus-autotest-helpers-c",
+  "version": "0.1.0",
+  "summary": "Helper functions and classes for executing python unit tests that require execution of c code",
+  "author": "John Chen, Alessio Di Sandro, Karen Reid, David Liu, Misha Schwartz",
+  "license": null,
+  "home_page": null,
+  "download_filename": "markus_autotest_helpers_c-0.1.0.tar.gz",
+  "download_time": "2026-01-07T21:51:36.337088",
+  "package_url": "https://pypi.org/project/markus-autotest-helpers-c/"
+}
