@@ -1,0 +1,11 @@
+{
+  "name": "inl-tokenizer",
+  "version": "1.0.0",
+  "summary": "INL-LLM Iterative Tokenizer - Multi-pass refinement with semantic grouping",
+  "author": "nano3",
+  "license": "CC BY-NC 4.0",
+  "home_page": "https://github.com/Pacific-Prime/pacific-prime",
+  "download_filename": "inl_tokenizer-1.0.0.tar.gz",
+  "download_time": "2026-01-07T16:20:54.518773",
+  "package_url": "https://pypi.org/project/inl-tokenizer/"
+}

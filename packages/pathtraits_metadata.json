@@ -1,0 +1,11 @@
+{
+  "name": "pathtraits",
+  "version": "0.5",
+  "summary": "Attributes of files and directories stored in YAML sidecar files",
+  "author": "Daniel Loos",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pathtraits-0.5.tar.gz",
+  "download_time": "2026-01-07T16:21:04.692272",
+  "package_url": "https://pypi.org/project/pathtraits/"
+}

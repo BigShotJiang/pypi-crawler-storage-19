@@ -1,0 +1,11 @@
+{
+  "name": "yokatlas-py",
+  "version": "0.5.4",
+  "summary": "A python wrapper for YOKATLAS API",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "yokatlas_py-0.5.4.tar.gz",
+  "download_time": "2026-01-07T16:20:40.572646",
+  "package_url": "https://pypi.org/project/yokatlas-py/"
+}

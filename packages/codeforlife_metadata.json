@@ -1,0 +1,11 @@
+{
+  "name": "codeforlife",
+  "version": "0.31.0",
+  "summary": "Code for Life's common code.",
+  "author": "Ocado",
+  "license": null,
+  "home_page": "https://github.com/ocadotechnology/codeforlife-package-python",
+  "download_filename": "codeforlife-0.31.0.tar.gz",
+  "download_time": "2026-01-07T16:20:45.025375",
+  "package_url": "https://pypi.org/project/codeforlife/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "frequenz-gridpool",
+  "version": "0.3.0",
+  "summary": "High-level interface to grid pools for the Frequenz platform.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "frequenz_gridpool-0.3.0.tar.gz",
+  "download_time": "2026-01-07T16:20:20.872662",
+  "package_url": "https://pypi.org/project/frequenz-gridpool/"
+}
