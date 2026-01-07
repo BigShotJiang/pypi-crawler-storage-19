@@ -1,0 +1,11 @@
+{
+  "name": "bitget-trading-sdk",
+  "version": "0.1.2",
+  "summary": "The unofficial Bitget API SDK, by Tribulnation. Compatible with Trading SDK.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "bitget_trading_sdk-0.1.2.tar.gz",
+  "download_time": "2026-01-07T11:33:34.293430",
+  "package_url": "https://pypi.org/project/bitget-trading-sdk/"
+}

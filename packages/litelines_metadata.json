@@ -1,0 +1,11 @@
+{
+  "name": "litelines",
+  "version": "0.1.4",
+  "summary": "Customize, control, and enhance LLM generation with logits processors, featuring visualization capabilities to inspect and understand state transitions",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "litelines-0.1.4.tar.gz",
+  "download_time": "2026-01-07T11:33:25.981114",
+  "package_url": "https://pypi.org/project/litelines/"
+}

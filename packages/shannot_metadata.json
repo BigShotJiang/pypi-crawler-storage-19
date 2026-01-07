@@ -1,0 +1,11 @@
+{
+  "name": "shannot",
+  "version": "0.10.1",
+  "summary": "Sandboxed system administration for LLM agents",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "shannot-0.10.1.tar.gz",
+  "download_time": "2026-01-07T11:33:10.478675",
+  "package_url": "https://pypi.org/project/shannot/"
+}

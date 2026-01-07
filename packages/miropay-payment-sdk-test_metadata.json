@@ -1,11 +1,11 @@
 {
   "name": "miropay-payment-sdk-test",
-  "version": "0.0.5",
+  "version": "0.0.7",
   "summary": "Python SDK for MiroPay",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "miropay_payment_sdk_test-0.0.5.tar.gz",
-  "download_time": "2026-01-07T10:48:05.491103",
+  "download_filename": "miropay_payment_sdk_test-0.0.7.tar.gz",
+  "download_time": "2026-01-07T11:33:01.600440",
   "package_url": "https://pypi.org/project/miropay-payment-sdk-test/"
 }

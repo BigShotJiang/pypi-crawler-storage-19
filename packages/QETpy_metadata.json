@@ -1,0 +1,11 @@
+{
+  "name": "QETpy",
+  "version": "1.8.4",
+  "summary": "TES Detector Calibration and Analysis Python Tools",
+  "author": "Samuel Watkins, Caleb Fink",
+  "license": null,
+  "home_page": "https://github.com/spice-herald/QETpy",
+  "download_filename": "qetpy-1.8.4.tar.gz",
+  "download_time": "2026-01-07T11:32:57.999540",
+  "package_url": "https://pypi.org/project/QETpy/"
+}

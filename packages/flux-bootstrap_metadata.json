@@ -1,11 +1,11 @@
 {
   "name": "flux-bootstrap",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "flux_bootstrap-0.3.0.tar.gz",
-  "download_time": "2026-01-07T10:47:20.757362",
+  "download_filename": "flux_bootstrap-0.4.0.tar.gz",
+  "download_time": "2026-01-07T11:33:30.123700",
   "package_url": "https://pypi.org/project/flux-bootstrap/"
 }

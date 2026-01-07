@@ -1,11 +1,11 @@
 {
   "name": "pywrkgame",
-  "version": "2.1.1",
+  "version": "2.1.2",
   "summary": "Профессиональный игровой движок для Python с поддержкой RTX, консолей, WebGL, VR/AR и Web3",
   "author": "WorkerAI",
   "license": "MIT",
   "home_page": "https://github.com/surgik-gh/pywrkgame",
-  "download_filename": "pywrkgame-2.1.1-py3-none-any.whl",
-  "download_time": "2026-01-07T10:16:55.919619",
+  "download_filename": "pywrkgame-2.1.2-py3-none-any.whl",
+  "download_time": "2026-01-07T11:33:19.708880",
   "package_url": "https://pypi.org/project/pywrkgame/"
 }

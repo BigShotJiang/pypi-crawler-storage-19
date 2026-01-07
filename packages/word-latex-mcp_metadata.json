@@ -1,0 +1,11 @@
+{
+  "name": "word-latex-mcp",
+  "version": "0.4.0",
+  "summary": "MCP tool to convert LaTeX in Word documents to native equations",
+  "author": "Word LaTeX MCP Contributors",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "word_latex_mcp-0.4.0.tar.gz",
+  "download_time": "2026-01-07T11:33:17.137313",
+  "package_url": "https://pypi.org/project/word-latex-mcp/"
+}

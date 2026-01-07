@@ -1,11 +1,11 @@
 {
   "name": "libefiling",
-  "version": "0.1.29",
+  "version": "0.1.30",
   "summary": "A Python library for e-filing systems.",
   "author": "hyperion13th144m",
   "license": null,
   "home_page": "https://github.com/hyperion13th144m/libefiling",
-  "download_filename": "libefiling-0.1.29.tar.gz",
-  "download_time": "2026-01-07T11:14:39.538814",
+  "download_filename": "libefiling-0.1.30.tar.gz",
+  "download_time": "2026-01-07T11:33:13.031719",
   "package_url": "https://pypi.org/project/libefiling/"
 }
