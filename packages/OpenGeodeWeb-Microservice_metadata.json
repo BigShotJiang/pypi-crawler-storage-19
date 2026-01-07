@@ -1,0 +1,11 @@
+{
+  "name": "OpenGeodeWeb-Microservice",
+  "version": "1.0.11",
+  "summary": "Database model and ORM layer for OpenGeodeWeb ecosystem",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "opengeodeweb_microservice-1.0.11.tar.gz",
+  "download_time": "2026-01-07T11:15:04.860151",
+  "package_url": "https://pypi.org/project/OpenGeodeWeb-Microservice/"
+}

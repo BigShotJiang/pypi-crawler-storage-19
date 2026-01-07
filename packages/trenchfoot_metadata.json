@@ -1,0 +1,11 @@
+{
+  "name": "trenchfoot",
+  "version": "0.3.0",
+  "summary": "Synthetic trench scenario generator bundle (surfaces + volumetrics).",
+  "author": "Liam Moore",
+  "license": null,
+  "home_page": null,
+  "download_filename": "trenchfoot-0.3.0.tar.gz",
+  "download_time": "2026-01-07T11:14:40.686307",
+  "package_url": "https://pypi.org/project/trenchfoot/"
+}

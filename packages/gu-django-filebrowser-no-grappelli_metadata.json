@@ -1,0 +1,11 @@
+{
+  "name": "gu-django-filebrowser-no-grappelli",
+  "version": "3.3.3",
+  "summary": "Media-Management with the Django Admin-Interface. Without django-grappelli requirement.",
+  "author": "Patrick Kranzlmueller",
+  "license": null,
+  "home_page": "https://github.com/hu-django/filebrowser-no-grappelli",
+  "download_filename": "gu_django_filebrowser_no_grappelli-3.3.3.tar.gz",
+  "download_time": "2026-01-07T11:14:54.165023",
+  "package_url": "https://pypi.org/project/gu-django-filebrowser-no-grappelli/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "pyPASreporter-baseReports",
+  "version": "0.1.0",
+  "summary": "CyberArk PAM reports generator with SQL queries, exports, and Superset integration - part of pyPASreporter ecosystem",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pypasreporter_basereports-0.1.0.tar.gz",
+  "download_time": "2026-01-07T11:14:33.692047",
+  "package_url": "https://pypi.org/project/pyPASreporter-baseReports/"
+}

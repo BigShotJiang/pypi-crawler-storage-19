@@ -1,0 +1,11 @@
+{
+  "name": "xcoll",
+  "version": "0.9.0",
+  "summary": "Xsuite collimation package",
+  "author": "Frederik F. Van der Veken",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/xsuite/xcoll",
+  "download_filename": "xcoll-0.9.0.tar.gz",
+  "download_time": "2026-01-07T11:14:59.188687",
+  "package_url": "https://pypi.org/project/xcoll/"
+}

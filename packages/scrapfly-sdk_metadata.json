@@ -1,0 +1,11 @@
+{
+  "name": "scrapfly-sdk",
+  "version": "0.8.24",
+  "summary": "Scrapfly SDK for Scrapfly",
+  "author": "Scrapfly",
+  "license": "BSD",
+  "home_page": "https://github.com/scrapfly/python-sdk",
+  "download_filename": "scrapfly_sdk-0.8.24.tar.gz",
+  "download_time": "2026-01-07T11:14:21.398312",
+  "package_url": "https://pypi.org/project/scrapfly-sdk/"
+}

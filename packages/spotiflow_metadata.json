@@ -1,0 +1,11 @@
+{
+  "name": "spotiflow",
+  "version": "0.6.3",
+  "summary": "Accurate and efficient spot detection for microscopy data",
+  "author": "Albert Dominguez Mantes, Martin Weigert",
+  "license": "BSD 3-Clause License",
+  "home_page": null,
+  "download_filename": "spotiflow-0.6.3.tar.gz",
+  "download_time": "2026-01-07T11:15:01.736257",
+  "package_url": "https://pypi.org/project/spotiflow/"
+}
