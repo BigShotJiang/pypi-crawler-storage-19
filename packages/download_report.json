@@ -1,7 +1,7 @@
 {
-  "download_time": "2026-01-07T22:14:42.276737",
+  "download_time": "2026-01-07T22:38:01.925924",
   "total_packages_downloaded": 88,
-  "total_size_mb": 45.09,
+  "total_size_mb": 0,
   "packages": [
     "kumo-api",
     "causalfe",
