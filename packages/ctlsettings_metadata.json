@@ -1,0 +1,11 @@
+{
+  "name": "ctlsettings",
+  "version": "0.4.6",
+  "summary": "Columbia CTL common Django base settings",
+  "author": "Columbia University Center for Teaching and Learning",
+  "license": "GPL-3.0-or-later",
+  "home_page": "https://github.com/ccnmtl/ctlsettings",
+  "download_filename": "ctlsettings-0.4.6.tar.gz",
+  "download_time": "2026-01-07T20:45:57.644802",
+  "package_url": "https://pypi.org/project/ctlsettings/"
+}

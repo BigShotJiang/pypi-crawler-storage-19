@@ -1,0 +1,11 @@
+{
+  "name": "cez-distribution-hdo",
+  "version": "0.3.0",
+  "summary": "Python library for reading and interpreting CEZ Distribution HDO (NT/VT) switch schedules.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "cez_distribution_hdo-0.3.0.tar.gz",
+  "download_time": "2026-01-07T20:46:02.483527",
+  "package_url": "https://pypi.org/project/cez-distribution-hdo/"
+}

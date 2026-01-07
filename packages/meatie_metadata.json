@@ -1,0 +1,11 @@
+{
+  "name": "meatie",
+  "version": "0.1.28",
+  "summary": "Meatie is a Python typed REST client library that eliminates the need for boilerplate code when integrating with external APIs. The library generates code for calling a REST API based on method signatures annotated with type hints. Meatie abstracts away mechanics related to HTTP communication, such as building URLs, encoding query parameters, parsing, and dumping Pydantic models. With some modest additional configuration effort, generated HTTP clients offer rate limiting, retries, and caching.",
+  "author": "pmateusz",
+  "license": null,
+  "home_page": null,
+  "download_filename": "meatie-0.1.28.tar.gz",
+  "download_time": "2026-01-07T20:46:06.654532",
+  "package_url": "https://pypi.org/project/meatie/"
+}

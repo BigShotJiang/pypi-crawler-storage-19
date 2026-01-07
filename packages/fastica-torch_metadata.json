@@ -1,0 +1,11 @@
+{
+  "name": "fastica-torch",
+  "version": "0.1.0",
+  "summary": "PyTorch implementation of the FastICA algorithm for Independent Component Analysis",
+  "author": "Richard Hakim",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "fastica_torch-0.1.0.tar.gz",
+  "download_time": "2026-01-07T20:45:36.365222",
+  "package_url": "https://pypi.org/project/fastica-torch/"
+}

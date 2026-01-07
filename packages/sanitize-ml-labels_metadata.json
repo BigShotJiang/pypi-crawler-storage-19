@@ -1,0 +1,11 @@
+{
+  "name": "sanitize-ml-labels",
+  "version": "1.1.5",
+  "summary": "Python package to sanitize in a standard way ML-related labels.",
+  "author": "Luca Cappelletti,Tommaso Fontana",
+  "license": "MIT",
+  "home_page": "https://github.com/LucaCappelletti94/sanitize_ml_labels",
+  "download_filename": "sanitize_ml_labels-1.1.5.tar.gz",
+  "download_time": "2026-01-07T20:45:53.462226",
+  "package_url": "https://pypi.org/project/sanitize-ml-labels/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "metricsfirst",
-  "version": "0.1.5",
+  "version": "0.1.8",
   "summary": "MetricsFirst SDK for Python - Analytics for Telegram bots",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "metricsfirst-0.1.5.tar.gz",
-  "download_time": "2026-01-07T13:14:26.104440",
+  "download_filename": "metricsfirst-0.1.8.tar.gz",
+  "download_time": "2026-01-07T20:45:36.879180",
   "package_url": "https://pypi.org/project/metricsfirst/"
 }

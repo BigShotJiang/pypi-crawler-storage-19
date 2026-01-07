@@ -1,0 +1,11 @@
+{
+  "name": "Ked",
+  "version": "0.6.1",
+  "summary": "simple text editor for the terminal",
+  "author": "John Hennig",
+  "license": null,
+  "home_page": null,
+  "download_filename": "ked-0.6.1-py3-none-any.whl",
+  "download_time": "2026-01-07T20:46:20.181723",
+  "package_url": "https://pypi.org/project/Ked/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "IncludeCPP",
+  "version": "4.1.0",
+  "summary": "Professional C++ Python bindings with type-generic templates, pystubs and native threading",
+  "author": "Lilias Hatterscheidt",
+  "license": "MIT",
+  "home_page": "https://github.com/liliassg/IncludeCPP",
+  "download_filename": "includecpp-4.1.0.tar.gz",
+  "download_time": "2026-01-07T20:46:11.822517",
+  "package_url": "https://pypi.org/project/IncludeCPP/"
+}

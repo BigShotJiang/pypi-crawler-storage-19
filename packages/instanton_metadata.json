@@ -1,0 +1,11 @@
+{
+  "name": "instanton",
+  "version": "0.1.0",
+  "summary": "Tunnel through barriers, instantly - expose local services to the internet",
+  "author": "Instanton Contributors",
+  "license": null,
+  "home_page": null,
+  "download_filename": "instanton-0.1.0.tar.gz",
+  "download_time": "2026-01-07T20:45:45.757369",
+  "package_url": "https://pypi.org/project/instanton/"
+}

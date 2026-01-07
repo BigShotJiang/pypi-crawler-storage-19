@@ -1,11 +1,11 @@
 {
   "name": "atendentepro",
-  "version": "0.5.6",
-  "summary": "Sistema de Atendimento Inteligente com Múltiplos Agentes IA - Biblioteca independente e modular baseada no OpenAI Agents SDK",
+  "version": "0.5.9",
+  "summary": "Framework de orquestração de agentes IA para resolver interações complexas integrando múltiplas fontes de dados (documentos, APIs, bancos) em uma única plataforma inteligente.",
   "author": null,
   "license": "Proprietary",
   "home_page": null,
-  "download_filename": "atendentepro-0.5.6.tar.gz",
-  "download_time": "2026-01-07T19:16:07.089421",
+  "download_filename": "atendentepro-0.5.9.tar.gz",
+  "download_time": "2026-01-07T20:45:37.393156",
   "package_url": "https://pypi.org/project/atendentepro/"
 }

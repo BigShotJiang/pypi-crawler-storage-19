@@ -1,0 +1,11 @@
+{
+  "name": "transmute-mtg",
+  "version": "0.1.0",
+  "summary": "CLI tool for converting MTG collection CSV files between formats",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "transmute_mtg-0.1.0.tar.gz",
+  "download_time": "2026-01-07T20:45:41.017675",
+  "package_url": "https://pypi.org/project/transmute-mtg/"
+}

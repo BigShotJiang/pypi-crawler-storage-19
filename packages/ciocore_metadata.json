@@ -1,0 +1,11 @@
+{
+  "name": "ciocore",
+  "version": "9.1.1",
+  "summary": "Core functionality for Conductor's client tools",
+  "author": "conductor",
+  "license": null,
+  "home_page": "https://github.com/ConductorTechnologies/ciocore",
+  "download_filename": "ciocore-9.1.1-py2.py3-none-any.whl",
+  "download_time": "2026-01-07T20:46:09.260689",
+  "package_url": "https://pypi.org/project/ciocore/"
+}

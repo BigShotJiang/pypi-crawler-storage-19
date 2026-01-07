@@ -1,0 +1,11 @@
+{
+  "name": "icon-gen-ai",
+  "version": "0.2.21",
+  "summary": "Generate pixel perfect icons from Iconify, URLs, and local files and export to PNG, SVG, WebP, or ICO",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "icon_gen_ai-0.2.21.tar.gz",
+  "download_time": "2026-01-07T20:45:46.780066",
+  "package_url": "https://pypi.org/project/icon-gen-ai/"
+}
