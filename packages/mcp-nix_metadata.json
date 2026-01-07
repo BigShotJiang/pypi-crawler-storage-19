@@ -1,0 +1,11 @@
+{
+  "name": "mcp-nix",
+  "version": "0.4.0",
+  "summary": "MCP server for Nixpkgs, NixOS and Home Manager",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mcp_nix-0.4.0.tar.gz",
+  "download_time": "2026-01-07T05:02:50.590491",
+  "package_url": "https://pypi.org/project/mcp-nix/"
+}

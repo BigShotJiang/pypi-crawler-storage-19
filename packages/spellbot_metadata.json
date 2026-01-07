@@ -1,0 +1,11 @@
+{
+  "name": "spellbot",
+  "version": "17.4.0",
+  "summary": "The Discord bot for SpellTable",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "spellbot-17.4.0.tar.gz",
+  "download_time": "2026-01-07T05:02:53.766402",
+  "package_url": "https://pypi.org/project/spellbot/"
+}

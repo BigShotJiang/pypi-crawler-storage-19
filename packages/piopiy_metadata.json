@@ -1,0 +1,11 @@
+{
+  "name": "piopiy",
+  "version": "1.1.0",
+  "summary": "PIOPIY: Complete Voice AI Agent & CPaaS Platform SDK (Voice, Queue, Campaigns, WhatsApp, SMS)",
+  "author": "PIOPIY",
+  "license": "Apache 2.0",
+  "home_page": "https://github.com/telecmi/piopiy_python",
+  "download_filename": "piopiy-1.1.0.tar.gz",
+  "download_time": "2026-01-07T05:03:00.525742",
+  "package_url": "https://pypi.org/project/piopiy/"
+}

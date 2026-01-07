@@ -1,0 +1,11 @@
+{
+  "name": "aave",
+  "version": "0.0.0",
+  "summary": "Ape SDK for interacting with Aave protocols",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "aave-0.0.0.tar.gz",
+  "download_time": "2026-01-07T05:02:54.278591",
+  "package_url": "https://pypi.org/project/aave/"
+}

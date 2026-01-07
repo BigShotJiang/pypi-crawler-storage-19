@@ -1,11 +1,11 @@
 {
   "name": "mem-brain-mcp",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "summary": "MCP Server for Mem-Brain API - Exposes memory operations as MCP tools",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "mem_brain_mcp-1.0.0.tar.gz",
-  "download_time": "2026-01-07T04:33:39.564250",
+  "download_filename": "mem_brain_mcp-1.0.1.tar.gz",
+  "download_time": "2026-01-07T05:03:14.531702",
   "package_url": "https://pypi.org/project/mem-brain-mcp/"
 }
