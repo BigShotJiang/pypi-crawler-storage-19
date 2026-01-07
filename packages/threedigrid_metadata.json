@@ -1,0 +1,11 @@
+{
+  "name": "threedigrid",
+  "version": "2.3.6",
+  "summary": "Python package for the threedigrid administration",
+  "author": "Lars Claussen",
+  "license": "BSD license",
+  "home_page": "https://github.com/nens/threedigrid",
+  "download_filename": "threedigrid-2.3.6.tar.gz",
+  "download_time": "2026-01-07T14:48:34.481117",
+  "package_url": "https://pypi.org/project/threedigrid/"
+}

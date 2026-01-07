@@ -1,0 +1,11 @@
+{
+  "name": "pretalx-friendlycaptcha",
+  "version": "0.2.1",
+  "summary": "Adds a new, final CfP step with the FriendlyCaptcha captcha, in order to reduce spam.",
+  "author": null,
+  "license": "Apache Software License",
+  "home_page": null,
+  "download_filename": "pretalx_friendlycaptcha-0.2.1.tar.gz",
+  "download_time": "2026-01-07T14:48:09.182085",
+  "package_url": "https://pypi.org/project/pretalx-friendlycaptcha/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "troubadix",
+  "version": "26.1.0",
+  "summary": "A linting and QA check tool for NASL files",
+  "author": "Greenbone",
+  "license": "GPL-3.0-or-later",
+  "home_page": null,
+  "download_filename": "troubadix-26.1.0.tar.gz",
+  "download_time": "2026-01-07T14:48:26.841182",
+  "package_url": "https://pypi.org/project/troubadix/"
+}

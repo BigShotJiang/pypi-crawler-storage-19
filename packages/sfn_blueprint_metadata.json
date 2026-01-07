@@ -1,11 +1,11 @@
 {
   "name": "sfn_blueprint",
-  "version": "0.7.0",
+  "version": "0.7.2",
   "summary": "sfn-blueprint is a modular framework that enables rapid building of AI Agents, offering both flexibility and ease of customization.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "sfn_blueprint-0.7.0.tar.gz",
-  "download_time": "2026-01-07T08:52:36.445983",
+  "download_filename": "sfn_blueprint-0.7.2.tar.gz",
+  "download_time": "2026-01-07T14:48:29.551955",
   "package_url": "https://pypi.org/project/sfn_blueprint/"
 }

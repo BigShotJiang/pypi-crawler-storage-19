@@ -1,0 +1,11 @@
+{
+  "name": "LDC-Vortex-Datalayer",
+  "version": "0.0.2",
+  "summary": "A comprehensive data access layer for Vortex apps",
+  "author": "Sonu Sharma",
+  "license": null,
+  "home_page": null,
+  "download_filename": "ldc_vortex_datalayer-0.0.2.tar.gz",
+  "download_time": "2026-01-07T14:48:07.545921",
+  "package_url": "https://pypi.org/project/LDC-Vortex-Datalayer/"
+}

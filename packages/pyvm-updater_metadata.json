@@ -1,0 +1,11 @@
+{
+  "name": "pyvm-updater",
+  "version": "1.2.3",
+  "summary": "Cross-platform Python version checker and installer (does NOT modify system defaults)",
+  "author": "Shreyas Mene",
+  "license": null,
+  "home_page": "https://github.com/shreyasmene06/pyvm-updater",
+  "download_filename": "pyvm_updater-1.2.3.tar.gz",
+  "download_time": "2026-01-07T14:48:15.680501",
+  "package_url": "https://pypi.org/project/pyvm-updater/"
+}

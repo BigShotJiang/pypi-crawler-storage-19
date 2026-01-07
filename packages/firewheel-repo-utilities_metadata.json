@@ -1,0 +1,11 @@
+{
+  "name": "firewheel-repo-utilities",
+  "version": "1.1.0",
+  "summary": "This repository contains FIREWHEEL Model Components that are generally useful to many FIREWHEEL experiments, but do not belong in `firewheel_repo_base` because they are not required for *all* experiments.",
+  "author": null,
+  "license": "Apache License (2.0)",
+  "home_page": null,
+  "download_filename": "firewheel_repo_utilities-1.1.0.tar.gz",
+  "download_time": "2026-01-07T14:48:27.373876",
+  "package_url": "https://pypi.org/project/firewheel-repo-utilities/"
+}

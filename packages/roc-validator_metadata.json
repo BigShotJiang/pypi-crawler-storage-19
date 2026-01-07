@@ -1,0 +1,11 @@
+{
+  "name": "roc-validator",
+  "version": "0.8.0",
+  "summary": "A Python package to validate RO-Crates",
+  "author": "Marco Enrico Piras",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "roc_validator-0.8.0.tar.gz",
+  "download_time": "2026-01-07T14:48:20.543962",
+  "package_url": "https://pypi.org/project/roc-validator/"
+}

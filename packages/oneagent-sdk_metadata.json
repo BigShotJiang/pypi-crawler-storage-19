@@ -1,11 +1,11 @@
 {
   "name": "oneagent-sdk",
-  "version": "1.5.2.20251223.93033",
+  "version": "1.5.2.20260107.153442",
   "summary": "Dynatrace OneAgent SDK for Python",
   "author": null,
   "license": "Apache License 2.0",
   "home_page": "https://github.com/Dynatrace/OneAgent-SDK-for-Python",
-  "download_filename": "oneagent_sdk-1.5.2.20251223.93033-py2.py3-none-manylinux1_i686.whl",
-  "download_time": "2026-01-07T14:17:28.140776",
+  "download_filename": "oneagent_sdk-1.5.2.20260107.153442-py2.py3-none-manylinux1_i686.whl",
+  "download_time": "2026-01-07T14:48:12.996809",
   "package_url": "https://pypi.org/project/oneagent-sdk/"
 }

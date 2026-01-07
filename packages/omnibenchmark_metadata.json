@@ -1,0 +1,11 @@
+{
+  "name": "omnibenchmark",
+  "version": "0.3.2",
+  "summary": "A tool for automated scientific benchmarking",
+  "author": "Reto Gerber, Ben Carrillo",
+  "license": null,
+  "home_page": null,
+  "download_filename": "omnibenchmark-0.3.2.tar.gz",
+  "download_time": "2026-01-07T14:48:28.474549",
+  "package_url": "https://pypi.org/project/omnibenchmark/"
+}

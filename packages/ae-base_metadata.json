@@ -1,0 +1,11 @@
+{
+  "name": "ae-base",
+  "version": "0.3.77",
+  "summary": "ae namespace module portion base: basic constants, helper functions and context managers",
+  "author": "AndiEcker",
+  "license": "GPL-3.0-or-later",
+  "home_page": "https://gitlab.com/ae-group/ae_base",
+  "download_filename": "ae_base-0.3.77.tar.gz",
+  "download_time": "2026-01-07T14:48:55.444253",
+  "package_url": "https://pypi.org/project/ae-base/"
+}

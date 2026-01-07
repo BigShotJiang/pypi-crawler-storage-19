@@ -1,0 +1,11 @@
+{
+  "name": "geospaitial-lab-aviary",
+  "version": "1.0.0",
+  "summary": "Pythonic framework for AI inference on geospatial data",
+  "author": null,
+  "license": "GPL-3.0",
+  "home_page": null,
+  "download_filename": "geospaitial_lab_aviary-1.0.0.tar.gz",
+  "download_time": "2026-01-07T14:48:16.756011",
+  "package_url": "https://pypi.org/project/geospaitial-lab-aviary/"
+}

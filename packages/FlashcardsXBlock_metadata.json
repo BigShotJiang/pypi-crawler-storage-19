@@ -1,0 +1,11 @@
+{
+  "name": "FlashcardsXBlock",
+  "version": "1.0.1",
+  "summary": "A Flashcards XBlock for Open edX.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "flashcardsxblock-1.0.1.tar.gz",
+  "download_time": "2026-01-07T14:48:38.843923",
+  "package_url": "https://pypi.org/project/FlashcardsXBlock/"
+}

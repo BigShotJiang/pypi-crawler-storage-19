@@ -1,11 +1,11 @@
 {
   "name": "putplace-server",
-  "version": "0.9.1",
+  "version": "0.10.0",
   "summary": "PutPlace FastAPI server for file metadata storage",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "putplace_server-0.9.1.tar.gz",
-  "download_time": "2026-01-07T14:17:59.473373",
+  "download_filename": "putplace_server-0.10.0.tar.gz",
+  "download_time": "2026-01-07T14:48:41.544398",
   "package_url": "https://pypi.org/project/putplace-server/"
 }
