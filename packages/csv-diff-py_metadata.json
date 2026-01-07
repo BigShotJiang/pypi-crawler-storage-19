@@ -1,0 +1,11 @@
+{
+  "name": "csv-diff-py",
+  "version": "0.4.0",
+  "summary": "CLI tool for comparing CSV files in git diff format",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "csv_diff_py-0.4.0.tar.gz",
+  "download_time": "2026-01-07T13:14:17.694724",
+  "package_url": "https://pypi.org/project/csv-diff-py/"
+}

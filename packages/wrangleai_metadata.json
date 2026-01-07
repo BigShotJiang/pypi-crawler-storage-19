@@ -1,0 +1,11 @@
+{
+  "name": "wrangleai",
+  "version": "0.2.0",
+  "summary": "Official Python client for Wrangle AI. OpenAI-compatible smart routing and cost tracking.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "wrangleai-0.2.0.tar.gz",
+  "download_time": "2026-01-07T13:14:31.310102",
+  "package_url": "https://pypi.org/project/wrangleai/"
+}

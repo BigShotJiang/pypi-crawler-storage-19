@@ -1,0 +1,11 @@
+{
+  "name": "pulp-glue",
+  "version": "0.37.0",
+  "summary": "Version agnostic glue library to talk to pulpcore's REST API.",
+  "author": null,
+  "license": "GPLv2+",
+  "home_page": null,
+  "download_filename": "pulp_glue-0.37.0.tar.gz",
+  "download_time": "2026-01-07T13:14:17.175788",
+  "package_url": "https://pypi.org/project/pulp-glue/"
+}

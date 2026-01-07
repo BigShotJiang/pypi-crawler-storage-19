@@ -1,0 +1,11 @@
+{
+  "name": "penngrader-client",
+  "version": "0.5.13",
+  "summary": "In-line python grader client.",
+  "author": "Leonardo Murri and Zachary Ives",
+  "license": null,
+  "home_page": "https://github.com/upenn/PennGrader",
+  "download_filename": "penngrader_client-0.5.13.tar.gz",
+  "download_time": "2026-01-07T13:13:49.257589",
+  "package_url": "https://pypi.org/project/penngrader-client/"
+}

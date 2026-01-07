@@ -1,0 +1,11 @@
+{
+  "name": "wavespeed",
+  "version": "1.0.6",
+  "summary": "WaveSpeedAI Python Client — Official Python SDK for WaveSpeedAI inference platform",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "wavespeed-1.0.6.tar.gz",
+  "download_time": "2026-01-07T13:14:20.332319",
+  "package_url": "https://pypi.org/project/wavespeed/"
+}

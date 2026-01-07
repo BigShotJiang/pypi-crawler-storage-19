@@ -1,11 +1,11 @@
 {
   "name": "bkflow-sdk",
-  "version": "0.0.39",
+  "version": "0.0.41",
   "summary": "A Django app to provide bkflow interface api.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "bkflow_sdk-0.0.39-py2.py3-none-any.whl",
-  "download_time": "2026-01-07T11:14:34.267366",
+  "download_filename": "bkflow_sdk-0.0.41-py2.py3-none-any.whl",
+  "download_time": "2026-01-07T13:13:58.784893",
   "package_url": "https://pypi.org/project/bkflow-sdk/"
 }

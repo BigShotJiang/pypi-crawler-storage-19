@@ -1,0 +1,11 @@
+{
+  "name": "stcflash",
+  "version": "0.10",
+  "summary": "STC MCU ISP flash tool",
+  "author": "CXi",
+  "license": "MIT License",
+  "home_page": "https://github.com/cx693/StcFlash",
+  "download_filename": "stcflash-0.10.tar.gz",
+  "download_time": "2026-01-07T13:14:06.619447",
+  "package_url": "https://pypi.org/project/stcflash/"
+}
