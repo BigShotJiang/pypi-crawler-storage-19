@@ -1,0 +1,11 @@
+{
+  "name": "django-nitro",
+  "version": "0.5.1",
+  "summary": "Reactive Django components using AlpineJS and Django Ninja",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "django_nitro-0.5.1.tar.gz",
+  "download_time": "2026-01-07T04:34:08.103173",
+  "package_url": "https://pypi.org/project/django-nitro/"
+}

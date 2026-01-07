@@ -1,0 +1,11 @@
+{
+  "name": "le-map-tools",
+  "version": "0.36.8",
+  "summary": "A Python package for interactive mapping using Google Earth Engine and ipyleaflet",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "le_map_tools-0.36.8.tar.gz",
+  "download_time": "2026-01-07T04:33:53.605064",
+  "package_url": "https://pypi.org/project/le-map-tools/"
+}

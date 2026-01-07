@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-sale-delivery-state",
+  "version": "18.0.1.2.1.1",
+  "summary": "Show the delivery state on the sale order",
+  "author": "Akretion, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/sale-workflow",
+  "download_filename": "odoo_addon_sale_delivery_state-18.0.1.2.1.1-py3-none-any.whl",
+  "download_time": "2026-01-07T04:34:14.276336",
+  "package_url": "https://pypi.org/project/odoo-addon-sale-delivery-state/"
+}

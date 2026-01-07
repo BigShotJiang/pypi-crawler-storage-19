@@ -1,0 +1,11 @@
+{
+  "name": "netatmo-thermostat",
+  "version": "0.0.2",
+  "summary": "A simple Python SDK for the Netatmo Energy API (thermostats).",
+  "author": "Pol Alvarez",
+  "license": "Apache Software License 2.0",
+  "home_page": "https://github.com/kafkasl/netatmo-thermostat",
+  "download_filename": "netatmo_thermostat-0.0.2.tar.gz",
+  "download_time": "2026-01-07T04:33:39.049423",
+  "package_url": "https://pypi.org/project/netatmo-thermostat/"
+}

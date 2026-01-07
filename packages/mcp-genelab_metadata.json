@@ -1,0 +1,11 @@
+{
+  "name": "mcp-genelab",
+  "version": "0.4.0",
+  "summary": "MCP server for querying Neo4j Knowledge Graphs with custom tools for quering GeneLab",
+  "author": null,
+  "license": "BSD-3-Clause",
+  "home_page": null,
+  "download_filename": "mcp_genelab-0.4.0.tar.gz",
+  "download_time": "2026-01-07T04:33:47.906767",
+  "package_url": "https://pypi.org/project/mcp-genelab/"
+}

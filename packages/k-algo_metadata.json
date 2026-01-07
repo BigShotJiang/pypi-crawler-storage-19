@@ -1,0 +1,11 @@
+{
+  "name": "k-algo",
+  "version": "0.1.17",
+  "summary": "Example algo package with Cython-compiled submodules",
+  "author": "Your Name",
+  "license": null,
+  "home_page": null,
+  "download_filename": "k_algo-0.1.17.tar.gz",
+  "download_time": "2026-01-07T04:34:01.390197",
+  "package_url": "https://pypi.org/project/k-algo/"
+}

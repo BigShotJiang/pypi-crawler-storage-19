@@ -1,0 +1,11 @@
+{
+  "name": "grv",
+  "version": "0.0.5",
+  "summary": "Git workspace manager using worktrees",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "grv-0.0.5.tar.gz",
+  "download_time": "2026-01-07T04:33:51.528791",
+  "package_url": "https://pypi.org/project/grv/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "steam-editor-tools",
+  "version": "0.1.1",
+  "summary": "This package offers editor tools helping users write Steam guides and reviews. Support Steam information queries, image editing tools, and BBCode text processing tools.",
+  "author": null,
+  "license": "MIT License",
+  "home_page": null,
+  "download_filename": "steam_editor_tools-0.1.1.tar.gz",
+  "download_time": "2026-01-07T04:33:44.243272",
+  "package_url": "https://pypi.org/project/steam-editor-tools/"
+}
