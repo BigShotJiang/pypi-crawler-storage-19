@@ -1,0 +1,11 @@
+{
+  "name": "perf-sdk",
+  "version": "0.1.1",
+  "summary": "Official Perf SDK for Python - AI Runtime Orchestrator",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "perf_sdk-0.1.1.tar.gz",
+  "download_time": "2026-01-07T18:22:07.072205",
+  "package_url": "https://pypi.org/project/perf-sdk/"
+}

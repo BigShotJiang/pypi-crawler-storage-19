@@ -1,11 +1,11 @@
 {
   "name": "recce-cloud-nightly",
-  "version": "1.31.0.20260106",
+  "version": "1.32.0.20260107",
   "summary": "Lightweight CLI for Recce Cloud operations",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "recce_cloud_nightly-1.31.0.20260106.tar.gz",
-  "download_time": "2026-01-07T08:52:50.191743",
+  "download_filename": "recce_cloud_nightly-1.32.0.20260107.tar.gz",
+  "download_time": "2026-01-07T18:22:12.258509",
   "package_url": "https://pypi.org/project/recce-cloud-nightly/"
 }

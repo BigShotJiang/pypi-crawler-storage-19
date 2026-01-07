@@ -1,0 +1,11 @@
+{
+  "name": "runnermcp",
+  "version": "0.1.0",
+  "summary": "MCP server for managing interactive CLI binary processes",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "runnermcp-0.1.0.tar.gz",
+  "download_time": "2026-01-07T18:22:10.717807",
+  "package_url": "https://pypi.org/project/runnermcp/"
+}

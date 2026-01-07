@@ -1,0 +1,11 @@
+{
+  "name": "isage-edge",
+  "version": "0.2.4.0",
+  "summary": "SAGE Edge aggregator shell - mounts LLM gateway under an optional prefix",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "isage_edge-0.2.4.0-cp311-none-any.whl",
+  "download_time": "2026-01-07T18:22:05.019086",
+  "package_url": "https://pypi.org/project/isage-edge/"
+}

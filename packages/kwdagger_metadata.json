@@ -1,0 +1,11 @@
+{
+  "name": "kwdagger",
+  "version": "0.2.1",
+  "summary": "The kwdagger module",
+  "author": "Jon Crall",
+  "license": "Apache 2",
+  "home_page": "https://gitlab.kitware.com/computer-vision/kwdagger",
+  "download_filename": "kwdagger-0.2.1.tar.gz",
+  "download_time": "2026-01-07T18:21:55.093290",
+  "package_url": "https://pypi.org/project/kwdagger/"
+}

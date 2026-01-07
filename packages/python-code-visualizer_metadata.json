@@ -1,0 +1,11 @@
+{
+  "name": "python-code-visualizer",
+  "version": "1.0.0",
+  "summary": "An interactive step-by-step Python code execution visualizer",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "python_code_visualizer-1.0.0.tar.gz",
+  "download_time": "2026-01-07T18:21:50.933855",
+  "package_url": "https://pypi.org/project/python-code-visualizer/"
+}

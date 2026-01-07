@@ -1,0 +1,11 @@
+{
+  "name": "microsoft-agents-m365copilot",
+  "version": "1.4.0",
+  "summary": "Microsoft Agents M365 Copilot Python SDK (V1.0)",
+  "author": "Microsoft",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "microsoft_agents_m365copilot-1.4.0.tar.gz",
+  "download_time": "2026-01-07T18:22:00.230868",
+  "package_url": "https://pypi.org/project/microsoft-agents-m365copilot/"
+}

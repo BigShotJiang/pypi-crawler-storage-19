@@ -1,0 +1,11 @@
+{
+  "name": "veracode-api-signing",
+  "version": "26.1.0",
+  "summary": "Easily sign any request destined for the Veracode API Gateway",
+  "author": "Veracode",
+  "license": "MIT",
+  "home_page": "https://docs.veracode.com/r/t_install_api_authen",
+  "download_filename": "veracode_api_signing-26.1.0.tar.gz",
+  "download_time": "2026-01-07T18:22:13.793579",
+  "package_url": "https://pypi.org/project/veracode-api-signing/"
+}

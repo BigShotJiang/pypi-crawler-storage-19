@@ -1,0 +1,11 @@
+{
+  "name": "PySDL3",
+  "version": "0.9.10b0",
+  "summary": "A pure Python wrapper for SDL3.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pysdl3-0.9.10b0.tar.gz",
+  "download_time": "2026-01-07T18:21:40.049030",
+  "package_url": "https://pypi.org/project/PySDL3/"
+}

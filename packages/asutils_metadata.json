@@ -1,11 +1,11 @@
 {
   "name": "asutils",
-  "version": "0.2.3",
+  "version": "0.2.9",
   "summary": "Personal CLI utilities",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "asutils-0.2.3.tar.gz",
-  "download_time": "2026-01-07T12:29:18.416728",
+  "download_filename": "asutils-0.2.9.tar.gz",
+  "download_time": "2026-01-07T18:22:05.532773",
   "package_url": "https://pypi.org/project/asutils/"
 }
