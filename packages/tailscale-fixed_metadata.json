@@ -1,0 +1,11 @@
+{
+  "name": "tailscale-fixed",
+  "version": "0.8.0",
+  "summary": "Asynchronous client for the Tailscale API. [[[ This is a fork, that contains the unmerged fixes from the original repo. ]]]",
+  "author": "Franck Nijhof",
+  "license": "MIT",
+  "home_page": "https://github.com/lmagyar/python-tailscale",
+  "download_filename": "tailscale_fixed-0.8.0.tar.gz",
+  "download_time": "2026-01-07T23:51:29.894098",
+  "package_url": "https://pypi.org/project/tailscale-fixed/"
+}

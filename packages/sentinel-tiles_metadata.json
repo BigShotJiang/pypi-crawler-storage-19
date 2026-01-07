@@ -1,0 +1,11 @@
+{
+  "name": "sentinel-tiles",
+  "version": "1.1.0",
+  "summary": "generates raster geometries for the Sentinel version of 100km Military Grid Reference System (MGRS) tiles",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "sentinel_tiles-1.1.0.tar.gz",
+  "download_time": "2026-01-07T23:51:45.424471",
+  "package_url": "https://pypi.org/project/sentinel-tiles/"
+}

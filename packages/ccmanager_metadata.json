@@ -1,0 +1,11 @@
+{
+  "name": "ccmanager",
+  "version": "2.0.0",
+  "summary": "Terminal UI for managing Claude Code configurations across all your projects",
+  "author": "Simon Strumse",
+  "license": null,
+  "home_page": null,
+  "download_filename": "ccmanager-2.0.0.tar.gz",
+  "download_time": "2026-01-07T23:51:34.883037",
+  "package_url": "https://pypi.org/project/ccmanager/"
+}

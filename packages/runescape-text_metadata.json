@@ -1,0 +1,11 @@
+{
+  "name": "runescape-text",
+  "version": "2.0.0",
+  "summary": "A program for generating runescape-chat-like images of text.",
+  "author": "Riley Lahd",
+  "license": null,
+  "home_page": "https://github.com/sircinnamon/runescape-text",
+  "download_filename": "runescape_text-2.0.0.tar.gz",
+  "download_time": "2026-01-07T23:51:46.714043",
+  "package_url": "https://pypi.org/project/runescape-text/"
+}
