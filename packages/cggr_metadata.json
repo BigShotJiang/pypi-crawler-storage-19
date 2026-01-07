@@ -1,11 +1,11 @@
 {
   "name": "cggr",
-  "version": "0.2.1",
+  "version": "0.4.0",
   "summary": "Confidence-Gated Gradient Routing for Efficient Transformer Training",
   "author": "MinimaML",
   "license": null,
   "home_page": "https://github.com/MinimaML/CGGR",
-  "download_filename": "cggr-0.2.1.tar.gz",
-  "download_time": "2026-01-07T18:55:21.450652",
+  "download_filename": "cggr-0.4.0.tar.gz",
+  "download_time": "2026-01-07T19:16:02.076836",
   "package_url": "https://pypi.org/project/cggr/"
 }

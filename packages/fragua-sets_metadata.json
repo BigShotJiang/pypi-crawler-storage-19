@@ -1,0 +1,11 @@
+{
+  "name": "fragua-sets",
+  "version": "1.4",
+  "summary": "Package with fragua sets with reutilizable functions for ETL process.",
+  "author": "SagoDev",
+  "license": null,
+  "home_page": "https://github.com/SagoDev/fragua-sets",
+  "download_filename": "fragua_sets-1.4.tar.gz",
+  "download_time": "2026-01-07T19:16:20.614036",
+  "package_url": "https://pypi.org/project/fragua-sets/"
+}

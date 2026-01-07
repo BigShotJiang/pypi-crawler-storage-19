@@ -1,0 +1,11 @@
+{
+  "name": "IBB-Helper",
+  "version": "0.4.1",
+  "summary": "Helper functions for symbolic math, matrix visualization, and plotting",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ibb_helper-0.4.1.tar.gz",
+  "download_time": "2026-01-07T19:15:53.230137",
+  "package_url": "https://pypi.org/project/IBB-Helper/"
+}

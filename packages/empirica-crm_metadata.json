@@ -1,0 +1,11 @@
+{
+  "name": "empirica-crm",
+  "version": "0.1.0",
+  "summary": "CRM module for Empirica - Client Relationship Management with epistemic tracking",
+  "author": "David S. L. van Assche",
+  "license": "BSL-1.1",
+  "home_page": null,
+  "download_filename": "empirica_crm-0.1.0.tar.gz",
+  "download_time": "2026-01-07T19:15:56.182717",
+  "package_url": "https://pypi.org/project/empirica-crm/"
+}

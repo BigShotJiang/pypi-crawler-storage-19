@@ -1,11 +1,11 @@
 {
   "name": "tentoku",
-  "version": "0.1.6",
+  "version": "0.1.7",
   "summary": "Japanese text tokenization with deinflection support, reimplementing the algorithm from 10ten Reader",
   "author": "Tentoku Contributors",
   "license": null,
   "home_page": null,
-  "download_filename": "tentoku-0.1.6.tar.gz",
-  "download_time": "2026-01-07T18:55:09.513764",
+  "download_filename": "tentoku-0.1.7.tar.gz",
+  "download_time": "2026-01-07T19:16:00.195292",
   "package_url": "https://pypi.org/project/tentoku/"
 }

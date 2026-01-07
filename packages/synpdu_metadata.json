@@ -1,0 +1,11 @@
+{
+  "name": "synpdu",
+  "version": "0.2.1",
+  "summary": "CLI tool to control Synaccess Netbooter NP-0201DU PDU",
+  "author": "Andrew Bradford",
+  "license": null,
+  "home_page": null,
+  "download_filename": "synpdu-0.2.1.tar.gz",
+  "download_time": "2026-01-07T19:16:17.876256",
+  "package_url": "https://pypi.org/project/synpdu/"
+}

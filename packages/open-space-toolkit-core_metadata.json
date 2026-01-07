@@ -1,0 +1,11 @@
+{
+  "name": "open-space-toolkit-core",
+  "version": "5.2.0",
+  "summary": "Fundamental types, container and utility.",
+  "author": "Open Space Collective",
+  "license": "Apache License 2.0",
+  "home_page": null,
+  "download_filename": "open_space_toolkit_core-5.2.0-py310-none-manylinux2014_aarch64.whl",
+  "download_time": "2026-01-07T19:15:44.551278",
+  "package_url": "https://pypi.org/project/open-space-toolkit-core/"
+}

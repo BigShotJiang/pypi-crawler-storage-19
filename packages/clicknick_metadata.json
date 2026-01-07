@@ -1,0 +1,11 @@
+{
+  "name": "clicknick",
+  "version": "0.13.1",
+  "summary": "Tag-Based Programming for Automation Direct CLICK PLCs.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "clicknick-0.13.1.tar.gz",
+  "download_time": "2026-01-07T19:15:58.491934",
+  "package_url": "https://pypi.org/project/clicknick/"
+}
