@@ -1,0 +1,11 @@
+{
+  "name": "taxcalcindia",
+  "version": "0.1.2",
+  "summary": "A package to calculate income tax for Indian taxpayers",
+  "author": "Arumugam Maharaja",
+  "license": "MIT",
+  "home_page": "https://github.com/amrajacivil/taxcalcindia",
+  "download_filename": "taxcalcindia-0.1.2.tar.gz",
+  "download_time": "2026-01-07T09:22:00.956825",
+  "package_url": "https://pypi.org/project/taxcalcindia/"
+}

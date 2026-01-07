@@ -1,0 +1,11 @@
+{
+  "name": "fastapi-cdn-host",
+  "version": "0.10.0",
+  "summary": "Auto choose the fastest cdn host for fastapi project docs.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "fastapi_cdn_host-0.10.0.tar.gz",
+  "download_time": "2026-01-07T09:21:27.926665",
+  "package_url": "https://pypi.org/project/fastapi-cdn-host/"
+}

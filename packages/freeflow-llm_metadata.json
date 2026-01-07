@@ -1,0 +1,11 @@
+{
+  "name": "freeflow-llm",
+  "version": "0.1.1",
+  "summary": "Chain multiple free-tier LLM APIs with automatic rate limit fallback",
+  "author": "FreeFlow Contributors",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "freeflow_llm-0.1.1.tar.gz",
+  "download_time": "2026-01-07T09:22:17.885828",
+  "package_url": "https://pypi.org/project/freeflow-llm/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "enebootools",
+  "version": "2.4.1",
+  "summary": "ERP tools for Eneboo",
+  "author": "David Martínez Martí, José A. Fernández Fernández",
+  "license": null,
+  "home_page": "https://github.com/aulla/eneboo-tools",
+  "download_filename": "enebootools-2.4.1.tar.gz",
+  "download_time": "2026-01-07T09:22:08.466142",
+  "package_url": "https://pypi.org/project/enebootools/"
+}

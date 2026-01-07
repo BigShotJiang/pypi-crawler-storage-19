@@ -1,0 +1,11 @@
+{
+  "name": "cascade-lattice",
+  "version": "0.1.5",
+  "summary": "Universal AI provenance layer — cryptographic receipts for every LLM call",
+  "author": "Jeff Towers",
+  "license": null,
+  "home_page": null,
+  "download_filename": "cascade_lattice-0.1.5.tar.gz",
+  "download_time": "2026-01-07T09:22:19.171684",
+  "package_url": "https://pypi.org/project/cascade-lattice/"
+}
