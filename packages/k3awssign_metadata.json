@@ -1,0 +1,11 @@
+{
+  "name": "k3awssign",
+  "version": "0.1.2",
+  "summary": "A python lib for adding AWS signature version 4 to requests",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "k3awssign-0.1.2.tar.gz",
+  "download_time": "2026-01-07T05:54:16.194298",
+  "package_url": "https://pypi.org/project/k3awssign/"
+}

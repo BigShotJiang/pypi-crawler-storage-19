@@ -1,0 +1,11 @@
+{
+  "name": "tmm-monitor",
+  "version": "1.0.2",
+  "summary": "Tendermint Metrics Monitor - A TUI for monitoring blockchain metrics",
+  "author": null,
+  "license": null,
+  "home_page": "https://github.com/pharos-network/tmm",
+  "download_filename": "tmm_monitor-1.0.2.tar.gz",
+  "download_time": "2026-01-07T05:54:08.359366",
+  "package_url": "https://pypi.org/project/tmm-monitor/"
+}

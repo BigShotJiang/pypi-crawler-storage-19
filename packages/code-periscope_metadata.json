@@ -1,0 +1,11 @@
+{
+  "name": "code-periscope",
+  "version": "0.2.0",
+  "summary": "Repository risk analysis tool (Code Periscope).",
+  "author": "Code Periscope contributors",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "code_periscope-0.2.0.tar.gz",
+  "download_time": "2026-01-07T05:54:08.880886",
+  "package_url": "https://pypi.org/project/code-periscope/"
+}
