@@ -1,11 +1,11 @@
 {
   "name": "codefrequencychecker",
-  "version": "0.0.5",
+  "version": "0.0.7",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "codefrequencychecker-0.0.5.tar.gz",
-  "download_time": "2026-01-07T06:22:16.568459",
+  "download_filename": "codefrequencychecker-0.0.7.tar.gz",
+  "download_time": "2026-01-07T06:55:37.769019",
   "package_url": "https://pypi.org/project/codefrequencychecker/"
 }

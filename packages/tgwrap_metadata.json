@@ -1,0 +1,11 @@
+{
+  "name": "tgwrap",
+  "version": "1.0.4",
+  "summary": "A (terragrunt) wrapper around a (tofu|terraform) wrapper around ....",
+  "author": "Gerco Grandia",
+  "license": "MIT",
+  "home_page": "https://codeberg.org/4synergy/tgwrap",
+  "download_filename": "tgwrap-1.0.4.tar.gz",
+  "download_time": "2026-01-07T06:55:49.161412",
+  "package_url": "https://pypi.org/project/tgwrap/"
+}

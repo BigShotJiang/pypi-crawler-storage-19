@@ -1,0 +1,11 @@
+{
+  "name": "certilizer",
+  "version": "2.0.0",
+  "summary": "Generate report of SSL/TLS certificates from a list of endpoints defined in a YAML configuration file",
+  "author": "Cliffano Subagio",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/cliffano/certilizer",
+  "download_filename": "certilizer-2.0.0.tar.gz",
+  "download_time": "2026-01-07T06:55:52.228083",
+  "package_url": "https://pypi.org/project/certilizer/"
+}

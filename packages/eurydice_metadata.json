@@ -1,11 +1,11 @@
 {
   "name": "eurydice",
-  "version": "0.5",
+  "version": "0.5.post1",
   "summary": "A package for evaluating radial velocity signal models using cross-validation methods and Gaussian processes.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "eurydice-0.5.tar.gz",
-  "download_time": "2026-01-07T06:22:38.104159",
+  "download_filename": "eurydice-0.5.post1.tar.gz",
+  "download_time": "2026-01-07T06:55:41.885804",
   "package_url": "https://pypi.org/project/eurydice/"
 }

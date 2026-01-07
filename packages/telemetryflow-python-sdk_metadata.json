@@ -1,0 +1,11 @@
+{
+  "name": "telemetryflow-python-sdk",
+  "version": "1.1.2",
+  "summary": "TelemetryFlow Python SDK - OpenTelemetry-based observability SDK for metrics, logs, and traces",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "telemetryflow_python_sdk-1.1.2.tar.gz",
+  "download_time": "2026-01-07T06:55:54.265026",
+  "package_url": "https://pypi.org/project/telemetryflow-python-sdk/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "gplearn",
+  "version": "0.4.3",
+  "summary": "Genetic Programming in Python, with a scikit-learn inspired API",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "gplearn-0.4.3.tar.gz",
+  "download_time": "2026-01-07T06:55:26.985100",
+  "package_url": "https://pypi.org/project/gplearn/"
+}

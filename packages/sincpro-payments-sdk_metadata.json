@@ -1,0 +1,11 @@
+{
+  "name": "sincpro-payments-sdk",
+  "version": "4.1.0",
+  "summary": "Agnostic SDK for payments like cybersource, Paypal and local payments",
+  "author": "Gutierrez, Andres",
+  "license": "Sincpro S.R.L.",
+  "home_page": "https://github.com/Sincpro-SRL/sincpro_payments_sdk/",
+  "download_filename": "sincpro_payments_sdk-4.1.0.tar.gz",
+  "download_time": "2026-01-07T06:55:44.998981",
+  "package_url": "https://pypi.org/project/sincpro-payments-sdk/"
+}
