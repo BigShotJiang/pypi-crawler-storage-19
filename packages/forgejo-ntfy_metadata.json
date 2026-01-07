@@ -1,0 +1,11 @@
+{
+  "name": "forgejo-ntfy",
+  "version": "0.1.0",
+  "summary": "feed Forgejo notifications to ntfy.sh",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "forgejo_ntfy-0.1.0.tar.gz",
+  "download_time": "2026-01-07T07:19:53.206064",
+  "package_url": "https://pypi.org/project/forgejo-ntfy/"
+}

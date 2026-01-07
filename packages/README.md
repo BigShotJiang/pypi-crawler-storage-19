@@ -1,19 +1,71 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2026-01-07T06:56:03.425504
-- **Total Packages**: 88
-- **Total Size**: 33.59 MB
+- **Download Time**: 2026-01-07T07:20:35.638951
+- **Total Packages**: 87
+- **Total Size**: 26.49 MB
 
 ## Packages List
+- ilovetools
+- pyees
+- infomankit
+- crier
+- tentoku
+- tritonparse
+- shell-lite
+- k3daemonize
+- forgejo-ntfy
+- easy-utils-dev
+- noetl
+- cognite-toolkit
+- viiv
+- airpy-tool
+- PraisonAI
+- pylog-4j
+- mp-btp
+- anbor-types
+- stravinsky
+- mcpv
+- k3confloader
+- bv-runtime
+- bv-sdk-cli
+- kantan-llm
+- praisonaiagents
+- geoai-vlm
+- httpcloak
+- alibabacloud-sts20150401
+- dino-perceptual
+- empathy-framework
+- mplang-nightly
+- vvdutils
+- streamlit-nightly
+- mcp-debug
+- pipzh
+- aiops-sdk
+- fastgemini
+- pystrm
+- agibot-videodataset
+- els-engine
+- vibemark
+- imgshift
+- agently
+- sleep-utils
+- dataclass-dsl
+- paperflow
+- guardianhub
+- m3wal
+- scoda-viz
+- kkape-nanolink
+- lingxingapi
+- agent-code-squad
+- parsefy
+- py3-web
 - dokman
 - HYOTC
 - django-epfl-mail
-- aiops-sdk
 - oai2ollama
 - flet-blurhash
 - typedown
-- paperflow
 - nlbook
 - tscodescan
 - k3color
@@ -41,56 +93,3 @@
 - k3cgrouparch
 - strands-rendercv
 - riichienv
-- scoda-viz
-- ip-check
-- gymnasium-sudoku
-- codefrequencychecker
-- do-app-sandbox
-- ai-comm
-- escope
-- nncc
-- neighborlist-rs
-- ngen-buildx
-- pytest-sbase
-- eurydice
-- pytest-seleniumbase
-- sbase
-- basecase
-- selenium-base
-- tactus
-- sincpro-payments-sdk
-- stravinsky
-- hh-applicant-tool
-- iflow-mcp_run-llama_llamacloud-mcp
-- abses
-- seleniumbase
-- evalvault
-- onyx-devtools
-- tgwrap
-- dycw-actions
-- dataspace-sdk
-- chakpy
-- pylog-4j
-- astronomo
-- certilizer
-- crier
-- image-charts
-- ssb-nudb-use
-- telemetryflow-python-sdk
-- pypowerwall
-- chunkmate
-- querit-python
-- pyqrack-cuda-complex128
-- pyqrack-cuda
-- pyqrack-cpu-complex128
-- cdk8s-awscdk-resolver
-- nsekit-mcp
-- pyqrack-cpu
-- geek-cafe-saas-sdk
-- pyqrack-complex128
-- pyqrack
-- aiinbx
-- iflow-mcp_mohamed-hanfy_codeforces-mcp
-- netbox-routing
-- k3cat
-- netbox-lifecycle

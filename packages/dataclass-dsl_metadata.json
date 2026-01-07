@@ -1,0 +1,11 @@
+{
+  "name": "dataclass-dsl",
+  "version": "1.1.0",
+  "summary": "Dataclass runtime machinery for declarative DSLs",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "dataclass_dsl-1.1.0.tar.gz",
+  "download_time": "2026-01-07T07:20:12.790159",
+  "package_url": "https://pypi.org/project/dataclass-dsl/"
+}

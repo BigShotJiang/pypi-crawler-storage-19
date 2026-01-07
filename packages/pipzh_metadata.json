@@ -1,0 +1,11 @@
+{
+  "name": "pipzh",
+  "version": "20260107",
+  "summary": "A simple wrapper for pip to use Tsinghua mirror automatically.",
+  "author": "qiziAI",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pipzh-20260107-py3-none-any.whl",
+  "download_time": "2026-01-07T07:20:07.627354",
+  "package_url": "https://pypi.org/project/pipzh/"
+}

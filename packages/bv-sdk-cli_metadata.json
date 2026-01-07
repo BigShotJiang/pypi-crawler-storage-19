@@ -1,0 +1,11 @@
+{
+  "name": "bv-sdk-cli",
+  "version": "0.1.2",
+  "summary": "CLI for the Bot Velocity RPA & Agentic Platform",
+  "author": "Bot Velocity Team",
+  "license": "Proprietary",
+  "home_page": null,
+  "download_filename": "bv_sdk_cli-0.1.2.tar.gz",
+  "download_time": "2026-01-07T07:20:00.567796",
+  "package_url": "https://pypi.org/project/bv-sdk-cli/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "pyees",
+  "version": "2.4.8",
+  "summary": "EES but for python. Pyees can be used do perform uncertanty (error) propagation. Furthermore, it can solve nonlinear systems of equations and look up material properties.",
+  "author": "Jacob Vestergaard",
+  "license": "MIT",
+  "home_page": "https://github.com/jacobv95/pyees",
+  "download_filename": "pyees-2.4.8-cp312-cp312-win_amd64.whl",
+  "download_time": "2026-01-07T07:19:49.479871",
+  "package_url": "https://pypi.org/project/pyees/"
+}

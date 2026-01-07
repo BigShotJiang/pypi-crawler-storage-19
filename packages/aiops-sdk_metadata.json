@@ -1,11 +1,11 @@
 {
   "name": "aiops-sdk",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "Lightweight SDK for AIOps monitoring platform",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "aiops_sdk-0.1.1.tar.gz",
-  "download_time": "2026-01-07T06:55:19.275291",
+  "download_filename": "aiops_sdk-0.1.2.tar.gz",
+  "download_time": "2026-01-07T07:20:08.138587",
   "package_url": "https://pypi.org/project/aiops-sdk/"
 }
