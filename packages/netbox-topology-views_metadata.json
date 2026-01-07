@@ -1,0 +1,11 @@
+{
+  "name": "netbox-topology-views",
+  "version": "4.5.0",
+  "summary": "An NetBox plugin to create Topology maps",
+  "author": "Mattijs Vanhaverbeke",
+  "license": "Apache 2.0",
+  "home_page": "https://github.com/mattieserver/netbox-topology-views",
+  "download_filename": "netbox_topology_views-4.5.0.tar.gz",
+  "download_time": "2026-01-07T10:48:08.953544",
+  "package_url": "https://pypi.org/project/netbox-topology-views/"
+}

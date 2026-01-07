@@ -1,0 +1,11 @@
+{
+  "name": "liner-py",
+  "version": "1590",
+  "summary": "python bindings for liner",
+  "author": "Phus Lu",
+  "license": "AGPL-3.0",
+  "home_page": "https://github.com/phuslu/liner",
+  "download_filename": "liner_py-1590-cp39-abi3-macosx_11_0_x86_64.whl",
+  "download_time": "2026-01-07T10:47:37.049578",
+  "package_url": "https://pypi.org/project/liner-py/"
+}

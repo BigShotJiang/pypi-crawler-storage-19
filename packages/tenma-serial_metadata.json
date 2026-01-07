@@ -1,0 +1,11 @@
+{
+  "name": "tenma-serial",
+  "version": "1.1.4",
+  "summary": "Serial control of tenma device",
+  "author": "Jordi Castells",
+  "license": "GNU-3",
+  "home_page": "https://github.com/kxtells/tenma-serial",
+  "download_filename": "tenma_serial-1.1.4.tar.gz",
+  "download_time": "2026-01-07T10:47:41.229612",
+  "package_url": "https://pypi.org/project/tenma-serial/"
+}

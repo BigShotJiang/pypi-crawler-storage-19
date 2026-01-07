@@ -1,11 +1,11 @@
 {
   "name": "invoicetronic-sdk",
-  "version": "1.1.4",
+  "version": "1.1.7",
   "summary": "Invoicetronic API",
   "author": "Invoicetronic",
   "license": "MIT",
   "home_page": "https://invoicetronic.com",
-  "download_filename": "invoicetronic_sdk-1.1.4.tar.gz",
-  "download_time": "2026-01-07T10:16:11.568802",
+  "download_filename": "invoicetronic_sdk-1.1.7.tar.gz",
+  "download_time": "2026-01-07T10:47:55.835270",
   "package_url": "https://pypi.org/project/invoicetronic-sdk/"
 }

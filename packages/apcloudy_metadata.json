@@ -1,0 +1,11 @@
+{
+  "name": "apcloudy",
+  "version": "0.1.6",
+  "summary": "A Python client for interacting with the APCloudy platform",
+  "author": "Fawad Ali",
+  "license": "MIT",
+  "home_page": "https://github.com/fawadss1/apcloudy",
+  "download_filename": "apcloudy-0.1.6.tar.gz",
+  "download_time": "2026-01-07T10:47:24.884900",
+  "package_url": "https://pypi.org/project/apcloudy/"
+}

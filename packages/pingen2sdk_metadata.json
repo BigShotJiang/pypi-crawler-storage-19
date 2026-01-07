@@ -1,0 +1,11 @@
+{
+  "name": "pingen2sdk",
+  "version": "2.1.0",
+  "summary": "Official Python Pingen SDK for API V2",
+  "author": null,
+  "license": "BSD-3-Clause",
+  "home_page": null,
+  "download_filename": "pingen2sdk-2.1.0.tar.gz",
+  "download_time": "2026-01-07T10:47:46.507091",
+  "package_url": "https://pypi.org/project/pingen2sdk/"
+}

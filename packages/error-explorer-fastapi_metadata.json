@@ -1,0 +1,11 @@
+{
+  "name": "error-explorer-fastapi",
+  "version": "1.2.0",
+  "summary": "Error Explorer SDK for FastAPI",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "error_explorer_fastapi-1.2.0.tar.gz",
+  "download_time": "2026-01-07T10:47:42.986154",
+  "package_url": "https://pypi.org/project/error-explorer-fastapi/"
+}
