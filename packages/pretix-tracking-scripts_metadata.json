@@ -1,0 +1,11 @@
+{
+  "name": "pretix-tracking-scripts",
+  "version": "1.0.2",
+  "summary": "Adds scripts for analytics and conversion tracking to pretix.",
+  "author": "Kian Cross",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/kiancross/pretix-tracking-scripts",
+  "download_filename": "pretix_tracking_scripts-1.0.2.tar.gz",
+  "download_time": "2026-01-07T11:50:15.286157",
+  "package_url": "https://pypi.org/project/pretix-tracking-scripts/"
+}

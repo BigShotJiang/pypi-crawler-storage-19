@@ -1,0 +1,11 @@
+{
+  "name": "dmcp",
+  "version": "1.0.0",
+  "summary": "MCP proxy server that reduces LLM context overhead with on-demand tool loading from multiple upstream servers.",
+  "author": "Anssi Syrjäsalo",
+  "license": "MIT",
+  "home_page": "https://github.com/asyrjasalo/dynamic-mcp",
+  "download_filename": "dmcp-1.0.0.tar.gz",
+  "download_time": "2026-01-07T11:49:59.318162",
+  "package_url": "https://pypi.org/project/dmcp/"
+}

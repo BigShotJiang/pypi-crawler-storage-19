@@ -1,0 +1,11 @@
+{
+  "name": "orvion",
+  "version": "0.5.2",
+  "summary": "Orvion SDK for x402 V2 payment-protected APIs",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "orvion-0.5.2.tar.gz",
+  "download_time": "2026-01-07T11:50:08.453642",
+  "package_url": "https://pypi.org/project/orvion/"
+}
