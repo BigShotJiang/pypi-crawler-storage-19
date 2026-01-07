@@ -1,0 +1,11 @@
+{
+  "name": "bioluigi",
+  "version": "0.3.0",
+  "summary": "Reusable and maintained Luigi tasks to incorporate in bioinformatics pipelines",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "bioluigi-0.3.0.tar.gz",
+  "download_time": "2026-01-07T20:58:05.326727",
+  "package_url": "https://pypi.org/project/bioluigi/"
+}

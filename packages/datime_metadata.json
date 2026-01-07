@@ -1,0 +1,11 @@
+{
+  "name": "datime",
+  "version": "2026.0",
+  "summary": "Python package with convenience functions for dates, times, and intervals",
+  "author": "William Jackson",
+  "license": null,
+  "home_page": null,
+  "download_filename": "datime-2026.0.tar.gz",
+  "download_time": "2026-01-07T20:58:19.952752",
+  "package_url": "https://pypi.org/project/datime/"
+}

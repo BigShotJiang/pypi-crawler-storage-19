@@ -1,11 +1,11 @@
 {
   "name": "vid2vtf",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "summary": "Convert Videos into Animated VTF's (Valve Texture Format)",
   "author": "theredenemy",
   "license": null,
   "home_page": null,
-  "download_filename": "vid2vtf-1.0.1.tar.gz",
-  "download_time": "2026-01-07T20:16:29.249880",
+  "download_filename": "vid2vtf-1.0.2.tar.gz",
+  "download_time": "2026-01-07T20:58:24.104682",
   "package_url": "https://pypi.org/project/vid2vtf/"
 }

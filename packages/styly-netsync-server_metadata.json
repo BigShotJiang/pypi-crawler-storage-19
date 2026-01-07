@@ -1,0 +1,11 @@
+{
+  "name": "styly-netsync-server",
+  "version": "0.7.1",
+  "summary": "STYLY NetSync Server - Multiplayer framework for Location-Based Entertainment VR/MR experiences",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "styly_netsync_server-0.7.1.tar.gz",
+  "download_time": "2026-01-07T20:58:20.465729",
+  "package_url": "https://pypi.org/project/styly-netsync-server/"
+}
