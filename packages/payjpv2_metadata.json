@@ -1,0 +1,11 @@
+{
+  "name": "payjpv2",
+  "version": "1.0.4",
+  "summary": "PAY.JP Python SDK - A Python client library for PAY.JP v2 API",
+  "author": "PAY.JP",
+  "license": "MIT",
+  "home_page": "https://github.com/payjp/payjpv2-python",
+  "download_filename": "payjpv2-1.0.4.tar.gz",
+  "download_time": "2026-01-08T08:20:33.638994",
+  "package_url": "https://pypi.org/project/payjpv2/"
+}

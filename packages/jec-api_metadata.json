@@ -1,11 +1,11 @@
 {
   "name": "jec-api",
-  "version": "0.0.6",
-  "summary": "Beta version of JEC API",
+  "version": "0.0.7",
+  "summary": "Just Encapsulated Controllers — The Class-Based System for Application Program Interfaces",
   "author": "nik",
   "license": null,
   "home_page": null,
-  "download_filename": "jec_api-0.0.6.tar.gz",
-  "download_time": "2026-01-08T05:19:05.874625",
+  "download_filename": "jec_api-0.0.7.tar.gz",
+  "download_time": "2026-01-08T08:20:28.209820",
   "package_url": "https://pypi.org/project/jec-api/"
 }

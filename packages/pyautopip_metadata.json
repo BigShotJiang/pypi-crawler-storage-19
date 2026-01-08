@@ -1,11 +1,11 @@
 {
   "name": "pyautopip",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "Automatic dependency installer for Python scripts",
   "author": "FrameworkPython",
   "license": "MIT",
   "home_page": "https://github.com/FrameworkPython/autopip",
-  "download_filename": "pyautopip-0.1.1.tar.gz",
-  "download_time": "2026-01-08T03:05:54.214640",
+  "download_filename": "pyautopip-0.1.2.tar.gz",
+  "download_time": "2026-01-08T08:21:01.442087",
   "package_url": "https://pypi.org/project/pyautopip/"
 }

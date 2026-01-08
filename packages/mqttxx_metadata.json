@@ -1,11 +1,11 @@
 {
   "name": "mqttxx",
-  "version": "3.1.0",
+  "version": "3.1.2",
   "summary": "基于 aiomqtt 的高级 MQTT 客户端和 RPC 框架",
   "author": "MQTTX Team",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "mqttxx-3.1.0.tar.gz",
-  "download_time": "2026-01-08T06:55:58.472580",
+  "download_filename": "mqttxx-3.1.2.tar.gz",
+  "download_time": "2026-01-08T08:20:29.400672",
   "package_url": "https://pypi.org/project/mqttxx/"
 }

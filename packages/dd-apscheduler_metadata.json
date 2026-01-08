@@ -1,0 +1,11 @@
+{
+  "name": "dd-apscheduler",
+  "version": "1.0.0",
+  "summary": "In-process task scheduler with Cron-like capabilities - Fork with critical stability and database handling fixes",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "dd_apscheduler-1.0.0.tar.gz",
+  "download_time": "2026-01-08T08:21:04.605184",
+  "package_url": "https://pypi.org/project/dd-apscheduler/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "django-auth-adfs",
+  "version": "1.16.0",
+  "summary": "A Django authentication backend for Microsoft ADFS and AzureAD",
+  "author": "Joris Beckers",
+  "license": "BSD-1-Clause",
+  "home_page": "https://github.com/snok/django-auth-adfs",
+  "download_filename": "django_auth_adfs-1.16.0.tar.gz",
+  "download_time": "2026-01-08T08:21:00.166652",
+  "package_url": "https://pypi.org/project/django-auth-adfs/"
+}

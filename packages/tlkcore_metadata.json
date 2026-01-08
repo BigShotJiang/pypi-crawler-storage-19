@@ -1,0 +1,11 @@
+{
+  "name": "tlkcore",
+  "version": "2.4.3",
+  "summary": "TmxLab Kit Core engine (TLKCore) Hardware Driver Python API",
+  "author": "TMYTEK Software Team",
+  "license": null,
+  "home_page": "https://www.tmytek.com/",
+  "download_filename": "tlkcore-2.4.3-cp310-none-macosx_10_9_x86_64.whl",
+  "download_time": "2026-01-08T08:20:46.654662",
+  "package_url": "https://pypi.org/project/tlkcore/"
+}

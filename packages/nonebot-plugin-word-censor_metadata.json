@@ -1,11 +1,11 @@
 {
   "name": "nonebot-plugin-word-censor",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "summary": "一个用于拦截 Bot 发送包含敏感词或正则匹配内容的消息审查插件",
-  "author": "叶绿素Teio",
+  "author": "ChlorophyTeio",
   "license": "MIT",
   "home_page": "https://github.com/ChlorophyTeio/nonebot-plugin-word-censor",
-  "download_filename": "nonebot_plugin_word_censor-0.2.1.tar.gz",
-  "download_time": "2026-01-08T07:43:35.644960",
+  "download_filename": "nonebot_plugin_word_censor-0.2.2.tar.gz",
+  "download_time": "2026-01-08T08:20:57.167399",
   "package_url": "https://pypi.org/project/nonebot-plugin-word-censor/"
 }
