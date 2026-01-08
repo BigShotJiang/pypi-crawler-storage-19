@@ -1,0 +1,11 @@
+{
+  "name": "senses",
+  "version": "0.1.0",
+  "summary": "The sensory layer for AI - universal API access for LLMs",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "senses-0.1.0.tar.gz",
+  "download_time": "2026-01-08T20:45:06.972115",
+  "package_url": "https://pypi.org/project/senses/"
+}

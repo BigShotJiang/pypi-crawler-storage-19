@@ -1,0 +1,11 @@
+{
+  "name": "pg-simple-auth",
+  "version": "0.1.3",
+  "summary": "A simple asynchronous authentication module for PostgreSQL",
+  "author": "Martyn Garcia",
+  "license": "MIT",
+  "home_page": "https://github.com/255BITS/pg_simple_auth",
+  "download_filename": "pg_simple_auth-0.1.3.tar.gz",
+  "download_time": "2026-01-08T20:45:18.084650",
+  "package_url": "https://pypi.org/project/pg-simple-auth/"
+}

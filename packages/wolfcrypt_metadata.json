@@ -1,0 +1,11 @@
+{
+  "name": "wolfcrypt",
+  "version": "5.8.4.post0",
+  "summary": "Python module that encapsulates wolfSSL's crypto engine API.",
+  "author": "wolfSSL Inc.",
+  "license": "GPLv2 or Commercial License",
+  "home_page": "https://github.com/wolfssl/wolfcrypt-py",
+  "download_filename": "wolfcrypt-5.8.4.post0.tar.gz",
+  "download_time": "2026-01-08T20:44:44.778412",
+  "package_url": "https://pypi.org/project/wolfcrypt/"
+}

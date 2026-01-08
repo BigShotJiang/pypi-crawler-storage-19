@@ -1,11 +1,11 @@
 {
   "name": "GenETL",
-  "version": "0.0.74",
+  "version": "0.0.75",
   "summary": "A generic ETL routines module for Python",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "genetl-0.0.74.tar.gz",
-  "download_time": "2026-01-07T15:47:06.935078",
+  "download_filename": "genetl-0.0.75.tar.gz",
+  "download_time": "2026-01-08T20:45:19.249635",
   "package_url": "https://pypi.org/project/GenETL/"
 }

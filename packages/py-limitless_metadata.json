@@ -1,0 +1,11 @@
+{
+  "name": "py-limitless",
+  "version": "0.1.1",
+  "summary": "Python SDK for trading on Limitless Exchange",
+  "author": "Limitless SDK Contributors",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "py_limitless-0.1.1.tar.gz",
+  "download_time": "2026-01-08T20:45:27.041947",
+  "package_url": "https://pypi.org/project/py-limitless/"
+}

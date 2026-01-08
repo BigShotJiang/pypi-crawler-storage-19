@@ -1,11 +1,11 @@
 {
   "name": "pc-health-check",
-  "version": "1.4.0",
+  "version": "1.4.1",
   "summary": "Monitor de recursos del sistema",
   "author": "mylabs3049",
   "license": null,
   "home_page": null,
-  "download_filename": "pc_health_check-1.4.0.tar.gz",
-  "download_time": "2026-01-08T04:09:12.702467",
+  "download_filename": "pc_health_check-1.4.1.tar.gz",
+  "download_time": "2026-01-08T20:45:05.802534",
   "package_url": "https://pypi.org/project/pc-health-check/"
 }

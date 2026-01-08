@@ -1,11 +1,11 @@
 {
   "name": "ff-iii-luciferin",
-  "version": "1.0.0b1",
+  "version": "1.0.0b2",
   "summary": "A Firefly III enrichment engine that makes your data glow",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "ff_iii_luciferin-1.0.0b1.tar.gz",
-  "download_time": "2026-01-07T20:16:18.163624",
+  "download_filename": "ff_iii_luciferin-1.0.0b2.tar.gz",
+  "download_time": "2026-01-08T20:44:47.278341",
   "package_url": "https://pypi.org/project/ff-iii-luciferin/"
 }

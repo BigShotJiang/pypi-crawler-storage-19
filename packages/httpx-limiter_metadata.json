@@ -1,0 +1,11 @@
+{
+  "name": "httpx-limiter",
+  "version": "0.5.0",
+  "summary": "A lightweight package that provides rate-limited httpx transports.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "httpx_limiter-0.5.0.tar.gz",
+  "download_time": "2026-01-08T20:45:08.663409",
+  "package_url": "https://pypi.org/project/httpx-limiter/"
+}

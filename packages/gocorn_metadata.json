@@ -1,0 +1,11 @@
+{
+  "name": "gocorn",
+  "version": "0.0.0",
+  "summary": "Fast ASGI Server written in Go",
+  "author": "joegasewicz",
+  "license": "MIT",
+  "home_page": "https://github.com/joegasewicz/volk",
+  "download_filename": "gocorn-0.0.0.tar.gz",
+  "download_time": "2026-01-08T20:45:03.984616",
+  "package_url": "https://pypi.org/project/gocorn/"
+}

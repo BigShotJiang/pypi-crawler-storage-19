@@ -1,0 +1,11 @@
+{
+  "name": "rcsb.utils.struct",
+  "version": "0.51",
+  "summary": "RCSB Python utility classes for accessing PDB primary structure data and features associated with these data",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "rcsb_utils_struct-0.51.tar.gz",
+  "download_time": "2026-01-08T20:45:27.639237",
+  "package_url": "https://pypi.org/project/rcsb.utils.struct/"
+}

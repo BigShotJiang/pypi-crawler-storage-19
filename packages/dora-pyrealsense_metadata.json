@@ -1,0 +1,11 @@
+{
+  "name": "dora-pyrealsense",
+  "version": "0.3.14",
+  "summary": "Dora Node for capturing video with Pyrealsense",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "dora_pyrealsense-0.3.14.tar.gz",
+  "download_time": "2026-01-08T20:44:46.693958",
+  "package_url": "https://pypi.org/project/dora-pyrealsense/"
+}
