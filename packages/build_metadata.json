@@ -1,0 +1,11 @@
+{
+  "name": "build",
+  "version": "1.4.0",
+  "summary": "A simple, correct Python build frontend",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "build-1.4.0.tar.gz",
+  "download_time": "2026-01-08T16:55:27.056324",
+  "package_url": "https://pypi.org/project/build/"
+}

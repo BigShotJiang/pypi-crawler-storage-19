@@ -1,11 +1,11 @@
 {
   "name": "devopsmind",
-  "version": "1.0.4",
+  "version": "1.0.4.post6",
   "summary": "Gamified DevOps learning platform — practice Linux, Bash, Git, Ansible, Docker, K8s, Terraform & Networking challenges.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "devopsmind-1.0.4.tar.gz",
-  "download_time": "2026-01-08T15:52:21.275513",
+  "download_filename": "devopsmind-1.0.4.post6.tar.gz",
+  "download_time": "2026-01-08T16:54:59.113808",
   "package_url": "https://pypi.org/project/devopsmind/"
 }

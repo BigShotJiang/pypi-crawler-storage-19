@@ -1,0 +1,11 @@
+{
+  "name": "bso",
+  "version": "2.0.0",
+  "summary": "BSO - Boson SDK for Model Registry",
+  "author": "Model Registry Team",
+  "license": null,
+  "home_page": "https://github.com/boson-ai/model-registry",
+  "download_filename": "bso-2.0.0.tar.gz",
+  "download_time": "2026-01-08T16:55:28.122949",
+  "package_url": "https://pypi.org/project/bso/"
+}

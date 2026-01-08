@@ -1,0 +1,11 @@
+{
+  "name": "erresire",
+  "version": "0.1.2",
+  "summary": "Simulate large populations of strong gravitational lenses (Monte Carlo‑based).",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "erresire-0.1.2.tar.gz",
+  "download_time": "2026-01-08T16:55:08.579139",
+  "package_url": "https://pypi.org/project/erresire/"
+}

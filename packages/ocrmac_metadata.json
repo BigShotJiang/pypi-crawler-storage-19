@@ -1,0 +1,11 @@
+{
+  "name": "ocrmac",
+  "version": "1.0.1",
+  "summary": "A python wrapper to extract text from images on a mac system. Uses the vision framework from Apple.",
+  "author": "Maximilian Strauss",
+  "license": "MIT license",
+  "home_page": "https://github.com/straussmaximilian/ocrmac",
+  "download_filename": "ocrmac-1.0.1.tar.gz",
+  "download_time": "2026-01-08T16:55:18.019333",
+  "package_url": "https://pypi.org/project/ocrmac/"
+}

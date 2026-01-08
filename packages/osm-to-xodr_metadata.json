@@ -1,0 +1,11 @@
+{
+  "name": "osm-to-xodr",
+  "version": "0.3.0",
+  "summary": "Convert OpenStreetMap (.osm) files to OpenDRIVE (.xodr) using SUMO netconvert with sane defaults",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "osm_to_xodr-0.3.0.tar.gz",
+  "download_time": "2026-01-08T16:55:37.528744",
+  "package_url": "https://pypi.org/project/osm-to-xodr/"
+}

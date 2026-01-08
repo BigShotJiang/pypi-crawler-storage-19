@@ -1,0 +1,11 @@
+{
+  "name": "pyPDFServer",
+  "version": "1.2.3",
+  "summary": "Host your own local PDF server applying OCR and duplex scanning on your documents",
+  "author": "Andreas Brilka",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pypdfserver-1.2.3.tar.gz",
+  "download_time": "2026-01-08T16:55:33.333612",
+  "package_url": "https://pypi.org/project/pyPDFServer/"
+}

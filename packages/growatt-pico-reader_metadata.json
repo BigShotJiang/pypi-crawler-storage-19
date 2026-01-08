@@ -1,0 +1,11 @@
+{
+  "name": "growatt-pico-reader",
+  "version": "0.0.1",
+  "summary": "A tool for reading Growatt inverter data on Raspberry Pi Pico",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "growatt_pico_reader-0.0.1.tar.gz",
+  "download_time": "2026-01-08T16:55:00.722187",
+  "package_url": "https://pypi.org/project/growatt-pico-reader/"
+}
