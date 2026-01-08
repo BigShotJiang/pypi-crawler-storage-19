@@ -1,0 +1,11 @@
+{
+  "name": "torch-audit",
+  "version": "0.2.0",
+  "summary": "The Linter for PyTorch: Detects silent training bugs.",
+  "author": "Roman Malkiv",
+  "license": "MIT",
+  "home_page": "https://github.com/RMalkiv/torch-audit",
+  "download_filename": "torch_audit-0.2.0.tar.gz",
+  "download_time": "2026-01-08T21:16:59.824360",
+  "package_url": "https://pypi.org/project/torch-audit/"
+}

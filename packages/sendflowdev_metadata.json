@@ -1,0 +1,11 @@
+{
+  "name": "sendflowdev",
+  "version": "1.0.0",
+  "summary": "Official Sendflow SDK for Python",
+  "author": "Sendflow Team",
+  "license": null,
+  "home_page": "https://github.com/sendflowdev/python-sdk",
+  "download_filename": "sendflowdev-1.0.0.tar.gz",
+  "download_time": "2026-01-08T21:16:50.335207",
+  "package_url": "https://pypi.org/project/sendflowdev/"
+}

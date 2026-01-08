@@ -1,0 +1,11 @@
+{
+  "name": "dt-thrift",
+  "version": "0.20.0",
+  "summary": "Python bindings for the Apache Thrift RPC system",
+  "author": "Apache Thrift Developers",
+  "license": "Apache License 2.0",
+  "home_page": "http://thrift.apache.org",
+  "download_filename": "dt_thrift-0.20.0-cp310-cp310-win_amd64.whl",
+  "download_time": "2026-01-08T21:16:39.914889",
+  "package_url": "https://pypi.org/project/dt-thrift/"
+}

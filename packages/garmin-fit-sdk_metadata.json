@@ -1,0 +1,11 @@
+{
+  "name": "garmin-fit-sdk",
+  "version": "21.188.0",
+  "summary": "Garmin FIT Python SDK",
+  "author": "Garmin International, Inc.",
+  "license": null,
+  "home_page": "https://github.com/garmin/fit-python-sdk",
+  "download_filename": "garmin_fit_sdk-21.188.0.tar.gz",
+  "download_time": "2026-01-08T21:17:04.086702",
+  "package_url": "https://pypi.org/project/garmin-fit-sdk/"
+}

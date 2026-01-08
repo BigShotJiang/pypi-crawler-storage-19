@@ -1,11 +1,11 @@
 {
   "name": "hspylib-clitt",
-  "version": "0.9.148",
+  "version": "0.9.149",
   "summary": "HsPyLib - CLI Terminal Tools",
   "author": "Hugo Saporetti Junior",
   "license": "MIT",
   "home_page": "https://github.com/yorevs/hspylib",
-  "download_filename": "hspylib_clitt-0.9.148.tar.gz",
-  "download_time": "2026-01-08T20:45:22.920510",
+  "download_filename": "hspylib_clitt-0.9.149.tar.gz",
+  "download_time": "2026-01-08T21:16:48.233304",
   "package_url": "https://pypi.org/project/hspylib-clitt/"
 }
