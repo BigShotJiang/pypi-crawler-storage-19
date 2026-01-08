@@ -1,0 +1,11 @@
+{
+  "name": "matplotlab",
+  "version": "0.1.14",
+  "summary": "Extended plotting and ML utilities library - Now with 10 ANN Labs (Autoencoders, RNN, LSTM)",
+  "author": "Sohail-Creates",
+  "license": "MIT",
+  "home_page": "https://github.com/Sohail-Creates/matplotlab",
+  "download_filename": "matplotlab-0.1.14-py3-none-any.whl",
+  "download_time": "2026-01-08T05:46:57.330953",
+  "package_url": "https://pypi.org/project/matplotlab/"
+}

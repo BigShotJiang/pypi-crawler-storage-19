@@ -1,0 +1,11 @@
+{
+  "name": "nishant-tts",
+  "version": "1.0.0",
+  "summary": "Client library for cached F5-TTS inference on Modal",
+  "author": "Nishant",
+  "license": null,
+  "home_page": null,
+  "download_filename": "nishant_tts-1.0.0.tar.gz",
+  "download_time": "2026-01-08T05:46:55.278258",
+  "package_url": "https://pypi.org/project/nishant-tts/"
+}

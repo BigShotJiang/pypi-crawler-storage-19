@@ -1,0 +1,11 @@
+{
+  "name": "zensus2pgsql",
+  "version": "0.2.1",
+  "summary": "A Python CLI program that collects Zensus GIS data from Germany and imports it into PostgreSQL",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "zensus2pgsql-0.2.1.tar.gz",
+  "download_time": "2026-01-08T05:47:20.531315",
+  "package_url": "https://pypi.org/project/zensus2pgsql/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Ultimarc",
+  "version": "1.0.0a9",
+  "summary": "Tools for configuring Ultimarc USB devices",
+  "author": "Katie Snow",
+  "license": "GNU General Public License v3 (GPLv3)",
+  "home_page": "https://github.com/katie-snow/QtPyUltimarc",
+  "download_filename": "ultimarc-1.0.0a9.tar.gz",
+  "download_time": "2026-01-08T05:47:02.478109",
+  "package_url": "https://pypi.org/project/Ultimarc/"
+}

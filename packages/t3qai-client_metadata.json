@@ -1,0 +1,11 @@
+{
+  "name": "t3qai-client",
+  "version": "1.2.3",
+  "summary": "t3qai client module",
+  "author": "t3q",
+  "license": null,
+  "home_page": null,
+  "download_filename": "t3qai_client-1.2.3.tar.gz",
+  "download_time": "2026-01-08T05:47:12.259651",
+  "package_url": "https://pypi.org/project/t3qai-client/"
+}
