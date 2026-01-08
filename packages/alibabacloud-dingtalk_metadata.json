@@ -1,0 +1,11 @@
+{
+  "name": "alibabacloud-dingtalk",
+  "version": "2.2.38",
+  "summary": "Alibaba Cloud Dingtalk SDK Library for Python",
+  "author": "Alibaba Cloud SDK",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/aliyun/alibabacloud-sdk",
+  "download_filename": "alibabacloud_dingtalk-2.2.38.tar.gz",
+  "download_time": "2026-01-08T11:51:56.621294",
+  "package_url": "https://pypi.org/project/alibabacloud-dingtalk/"
+}

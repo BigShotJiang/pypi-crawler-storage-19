@@ -1,11 +1,11 @@
 {
   "name": "agibot-videodataset",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "summary": "A GPU-accelerated library that enables random frame access and efficient video decoding for data loading.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "agibot_videodataset-0.1.4.tar.gz",
-  "download_time": "2026-01-07T07:20:09.725879",
+  "download_filename": "agibot_videodataset-0.1.5.tar.gz",
+  "download_time": "2026-01-08T11:51:44.836879",
   "package_url": "https://pypi.org/project/agibot-videodataset/"
 }

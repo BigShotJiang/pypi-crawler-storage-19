@@ -1,0 +1,11 @@
+{
+  "name": "va",
+  "version": "0.0.1.dev132",
+  "summary": "CryoEM validation toolkit",
+  "author": "Zhe Wang",
+  "license": "Apache License",
+  "home_page": "https://test.pypi.org/project/va/",
+  "download_filename": "va-0.0.1.dev132.tar.gz",
+  "download_time": "2026-01-08T11:52:03.536311",
+  "package_url": "https://pypi.org/project/va/"
+}

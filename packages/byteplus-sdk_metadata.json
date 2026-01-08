@@ -1,0 +1,11 @@
+{
+  "name": "byteplus-sdk",
+  "version": "1.0.53",
+  "summary": "The BytePlus SDK for Python",
+  "author": "BytePlus SDK",
+  "license": "MIT Licence",
+  "home_page": "https://github.com/byteplus-sdk/byteplus-sdk-python",
+  "download_filename": "byteplus_sdk-1.0.53.tar.gz",
+  "download_time": "2026-01-08T11:51:45.872811",
+  "package_url": "https://pypi.org/project/byteplus-sdk/"
+}

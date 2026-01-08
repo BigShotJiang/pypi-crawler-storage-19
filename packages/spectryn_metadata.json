@@ -1,0 +1,11 @@
+{
+  "name": "spectryn",
+  "version": "1.0.0",
+  "summary": "A production-grade CLI tool for synchronizing markdown specifications with issue trackers",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "spectryn-1.0.0.tar.gz",
+  "download_time": "2026-01-08T11:51:54.872259",
+  "package_url": "https://pypi.org/project/spectryn/"
+}

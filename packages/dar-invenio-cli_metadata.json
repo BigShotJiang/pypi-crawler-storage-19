@@ -1,0 +1,11 @@
+{
+  "name": "dar-invenio-cli",
+  "version": "0.2.6",
+  "summary": "Dar Invenio Command Line Interface",
+  "author": "Dominik Dubovsky <485020@mail.muni.cz>",
+  "license": "MIT",
+  "home_page": "https://gitlab.ics.muni.cz/dataraptors/elter/dar-invenio-cli",
+  "download_filename": "dar_invenio_cli-0.2.6.tar.gz",
+  "download_time": "2026-01-08T11:51:48.490133",
+  "package_url": "https://pypi.org/project/dar-invenio-cli/"
+}

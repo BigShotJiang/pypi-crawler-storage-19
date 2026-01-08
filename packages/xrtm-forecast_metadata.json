@@ -1,11 +1,11 @@
 {
   "name": "xrtm-forecast",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "Institutional-grade parallelized agentic reasoning engine.",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "xrtm_forecast-0.1.1.tar.gz",
-  "download_time": "2026-01-07T23:14:46.755295",
+  "download_filename": "xrtm_forecast-0.1.2.tar.gz",
+  "download_time": "2026-01-08T11:51:49.511057",
   "package_url": "https://pypi.org/project/xrtm-forecast/"
 }
