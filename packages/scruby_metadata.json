@@ -1,11 +1,11 @@
 {
   "name": "scruby",
-  "version": "0.30.1",
+  "version": "0.30.3",
   "summary": "Asynchronous library for building and managing a hybrid database, by scheme of key-value.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "scruby-0.30.1-py3-none-any.whl",
-  "download_time": "2026-01-08T12:30:02.159082",
+  "download_filename": "scruby-0.30.3-py3-none-any.whl",
+  "download_time": "2026-01-08T15:52:48.284573",
   "package_url": "https://pypi.org/project/scruby/"
 }

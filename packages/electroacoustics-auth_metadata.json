@@ -1,11 +1,11 @@
 {
   "name": "electroacoustics-auth",
-  "version": "0.3.4",
+  "version": "0.3.6",
   "summary": "Aristotle University of Thessaloniki Electroacoustics Course Python Package.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "electroacoustics_auth-0.3.4.tar.gz",
-  "download_time": "2026-01-07T23:33:40.812215",
+  "download_filename": "electroacoustics_auth-0.3.6.tar.gz",
+  "download_time": "2026-01-08T15:52:58.895651",
   "package_url": "https://pypi.org/project/electroacoustics-auth/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "specpipe",
+  "version": "0.3.2",
+  "summary": "A Python framework for automated batch implementation and method testing of universal hyperspectral modeling pipelines.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "specpipe-0.3.2.tar.gz",
+  "download_time": "2026-01-08T15:52:58.385734",
+  "package_url": "https://pypi.org/project/specpipe/"
+}

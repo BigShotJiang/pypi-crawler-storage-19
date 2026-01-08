@@ -1,0 +1,11 @@
+{
+  "name": "material-color-palette",
+  "version": "1.1.0.post1",
+  "summary": "Google's original 2014 Material Design color palettes as a Python library",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "material_color_palette-1.1.0.post1.tar.gz",
+  "download_time": "2026-01-08T15:53:07.948051",
+  "package_url": "https://pypi.org/project/material-color-palette/"
+}

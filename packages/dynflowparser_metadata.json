@@ -1,0 +1,11 @@
+{
+  "name": "dynflowparser",
+  "version": "1.2.0",
+  "summary": "Get sosreport dynflow files and generates user friendly html pages for",
+  "author": "Pablo Fernández Rodríguez",
+  "license": "GPLv3",
+  "home_page": "https://github.com/pafernanr/dynflowparser",
+  "download_filename": "dynflowparser-1.2.0.tar.gz",
+  "download_time": "2026-01-08T15:52:34.881492",
+  "package_url": "https://pypi.org/project/dynflowparser/"
+}

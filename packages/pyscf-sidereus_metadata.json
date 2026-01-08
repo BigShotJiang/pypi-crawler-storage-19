@@ -1,0 +1,11 @@
+{
+  "name": "pyscf-sidereus",
+  "version": "0.3",
+  "summary": "SIDEREUS module for PySCF - Enhanced quantum chemistry calculations",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "pyscf_sidereus-0.3.tar.gz",
+  "download_time": "2026-01-08T15:52:31.791591",
+  "package_url": "https://pypi.org/project/pyscf-sidereus/"
+}

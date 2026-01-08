@@ -1,0 +1,11 @@
+{
+  "name": "dataframe-inspector",
+  "version": "0.1.2",
+  "summary": "Inspect nested JSON/dict structures in pandas DataFrame columns",
+  "author": "Canxiu Zhang",
+  "license": null,
+  "home_page": "https://github.com/canxiu-zhang/dataframe-inspector",
+  "download_filename": "dataframe_inspector-0.1.2.tar.gz",
+  "download_time": "2026-01-08T15:52:41.026043",
+  "package_url": "https://pypi.org/project/dataframe-inspector/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "fastrtc-voice-agent",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "summary": "A modular voice agent with swappable STT/TTS/LLM backends",
   "author": "Clement Poisson",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "fastrtc_voice_agent-0.1.4.tar.gz",
-  "download_time": "2026-01-08T14:19:42.999129",
+  "download_filename": "fastrtc_voice_agent-0.1.5.tar.gz",
+  "download_time": "2026-01-08T15:52:53.142497",
   "package_url": "https://pypi.org/project/fastrtc-voice-agent/"
 }

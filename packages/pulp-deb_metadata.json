@@ -1,0 +1,11 @@
+{
+  "name": "pulp-deb",
+  "version": "3.8.1",
+  "summary": "pulp-deb plugin for the Pulp Project",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pulp_deb-3.8.1.tar.gz",
+  "download_time": "2026-01-08T15:53:06.853383",
+  "package_url": "https://pypi.org/project/pulp-deb/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "onedl-mmengine",
+  "version": "0.10.9",
+  "summary": "Engine of VBTI projects",
+  "author": "OneDL MMEngine Contributors",
+  "license": null,
+  "home_page": null,
+  "download_filename": "onedl_mmengine-0.10.9.tar.gz",
+  "download_time": "2026-01-08T15:52:27.638009",
+  "package_url": "https://pypi.org/project/onedl-mmengine/"
+}

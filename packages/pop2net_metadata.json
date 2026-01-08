@@ -1,0 +1,11 @@
+{
+  "name": "pop2net",
+  "version": "1.2.2",
+  "summary": "Pop2net is a Python package designed to generate and manage relations between agents in agent-based models in a simple and flexible way.",
+  "author": "Marius Kaffai",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pop2net-1.2.2.tar.gz",
+  "download_time": "2026-01-08T15:53:06.339589",
+  "package_url": "https://pypi.org/project/pop2net/"
+}

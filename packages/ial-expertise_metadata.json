@@ -1,0 +1,11 @@
+{
+  "name": "ial-expertise",
+  "version": "1.3.2",
+  "summary": "IAL expertise: Experts tools to analyse the outputs of IAL configurations.",
+  "author": null,
+  "license": "CECILL-C",
+  "home_page": null,
+  "download_filename": "ial_expertise-1.3.2-py3-none-any.whl",
+  "download_time": "2026-01-08T15:52:37.951202",
+  "package_url": "https://pypi.org/project/ial-expertise/"
+}

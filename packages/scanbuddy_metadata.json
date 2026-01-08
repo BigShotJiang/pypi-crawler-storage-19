@@ -1,0 +1,11 @@
+{
+  "name": "scanbuddy",
+  "version": "0.4.2",
+  "summary": "fMRI Motion Plotting and SNR Calculation",
+  "author": "Neuroinformatics Research Group",
+  "license": null,
+  "home_page": "https://github.com/harvard-nrg/scanbuddy",
+  "download_filename": "scanbuddy-0.4.2-py2.py3-none-any.whl",
+  "download_time": "2026-01-08T15:52:26.017794",
+  "package_url": "https://pypi.org/project/scanbuddy/"
+}
