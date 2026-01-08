@@ -1,0 +1,11 @@
+{
+  "name": "tactigon-gear",
+  "version": "5.5.1",
+  "summary": "Tactigon Gear to connect to Tactigon Skin wereable platform",
+  "author": null,
+  "license": "MIT",
+  "home_page": "https://www.thetactigon.com",
+  "download_filename": "tactigon_gear-5.5.1.tar.gz",
+  "download_time": "2026-01-08T09:49:11.666325",
+  "package_url": "https://pypi.org/project/tactigon-gear/"
+}

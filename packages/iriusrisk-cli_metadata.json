@@ -1,0 +1,11 @@
+{
+  "name": "iriusrisk-cli",
+  "version": "0.3.0",
+  "summary": "AI-powered threat modeling integration for IriusRisk. Command line interface and MCP server for security analysis.",
+  "author": "IriusRisk",
+  "license": null,
+  "home_page": "https://github.com/iriusrisk/iriusrisk_cli",
+  "download_filename": "iriusrisk_cli-0.3.0.tar.gz",
+  "download_time": "2026-01-08T09:49:24.579824",
+  "package_url": "https://pypi.org/project/iriusrisk-cli/"
+}

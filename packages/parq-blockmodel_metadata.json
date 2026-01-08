@@ -1,0 +1,11 @@
+{
+  "name": "parq-blockmodel",
+  "version": "0.1.6",
+  "summary": "A Python package for efficient storage, manipulation, and analysis of mining block models using Parquet files.",
+  "author": "Greg",
+  "license": null,
+  "home_page": null,
+  "download_filename": "parq_blockmodel-0.1.6.tar.gz",
+  "download_time": "2026-01-08T09:49:26.116489",
+  "package_url": "https://pypi.org/project/parq-blockmodel/"
+}

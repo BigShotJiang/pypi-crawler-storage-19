@@ -1,0 +1,11 @@
+{
+  "name": "lattica-fhe-core",
+  "version": "0.10.0",
+  "summary": "Lattica FHE Core Python Bindings",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "lattica_fhe_core-0.10.0-cp311-cp311-manylinux_2_27_x86_64.manylinux_2_28_x86_64.whl",
+  "download_time": "2026-01-08T09:49:09.104728",
+  "package_url": "https://pypi.org/project/lattica-fhe-core/"
+}

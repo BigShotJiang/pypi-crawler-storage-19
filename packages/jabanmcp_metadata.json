@@ -1,11 +1,11 @@
 {
   "name": "jabanmcp",
-  "version": "0.1.7",
+  "version": "0.1.8",
   "summary": "MCP tool for automatic overtime application based on daily reports",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "jabanmcp-0.1.7.tar.gz",
-  "download_time": "2026-01-08T07:43:39.280622",
+  "download_filename": "jabanmcp-0.1.8.tar.gz",
+  "download_time": "2026-01-08T09:49:25.091111",
   "package_url": "https://pypi.org/project/jabanmcp/"
 }

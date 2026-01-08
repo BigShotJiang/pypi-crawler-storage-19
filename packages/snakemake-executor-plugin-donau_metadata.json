@@ -1,0 +1,11 @@
+{
+  "name": "snakemake-executor-plugin-donau",
+  "version": "0.1.0",
+  "summary": "A Snakemake executor plugin for Huawei Donau scheduler",
+  "author": "Jian Zhang zhangjian199567@outlook.com",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "snakemake_executor_plugin_donau-0.1.0.tar.gz",
+  "download_time": "2026-01-08T09:49:31.771542",
+  "package_url": "https://pypi.org/project/snakemake-executor-plugin-donau/"
+}

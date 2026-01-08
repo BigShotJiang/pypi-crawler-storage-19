@@ -1,0 +1,11 @@
+{
+  "name": "axonius-api-client",
+  "version": "5.0.22",
+  "summary": "Axonius API client for Python",
+  "author": "Axonius",
+  "license": "MIT",
+  "home_page": "https://github.com/Axonius/axonius_api_client",
+  "download_filename": "axonius_api_client-5.0.22-py2.py3-none-any.whl",
+  "download_time": "2026-01-08T09:49:20.453779",
+  "package_url": "https://pypi.org/project/axonius-api-client/"
+}

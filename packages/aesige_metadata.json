@@ -1,0 +1,11 @@
+{
+  "name": "aesige",
+  "version": "1.0.0",
+  "summary": "Fast AES-256-IGE encryption with hardware acceleration (AES-NI/ARM CE)",
+  "author": "xGaDinc",
+  "license": null,
+  "home_page": null,
+  "download_filename": "aesige-1.0.0.tar.gz",
+  "download_time": "2026-01-08T09:49:23.043237",
+  "package_url": "https://pypi.org/project/aesige/"
+}

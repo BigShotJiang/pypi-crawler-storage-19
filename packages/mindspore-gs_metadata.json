@@ -1,0 +1,11 @@
+{
+  "name": "mindspore-gs",
+  "version": "1.4.1",
+  "summary": "A MindSpore model optimization algorithm set..",
+  "author": "The MindSpore Authors",
+  "license": "Apache 2.0",
+  "home_page": "https://www.mindspore.cn",
+  "download_filename": "mindspore_gs-1.4.1-py3-none-any.whl",
+  "download_time": "2026-01-08T09:49:00.757118",
+  "package_url": "https://pypi.org/project/mindspore-gs/"
+}

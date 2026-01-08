@@ -1,0 +1,11 @@
+{
+  "name": "ffmpeg-mcp-lite",
+  "version": "0.2.0",
+  "summary": "MCP server providing video and audio processing capabilities through FFmpeg",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ffmpeg_mcp_lite-0.2.0.tar.gz",
+  "download_time": "2026-01-08T09:49:07.029338",
+  "package_url": "https://pypi.org/project/ffmpeg-mcp-lite/"
+}
