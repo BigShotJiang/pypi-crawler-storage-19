@@ -1,11 +1,11 @@
 {
   "name": "fca-api",
-  "version": "0.0.5",
+  "version": "0.0.10",
   "summary": "Python client library for the UK Financial Services (FCA) Register RESTful API",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "fca_api-0.0.5.tar.gz",
-  "download_time": "2026-01-08T14:19:39.833201",
+  "download_filename": "fca_api-0.0.10.tar.gz",
+  "download_time": "2026-01-08T17:21:53.658594",
   "package_url": "https://pypi.org/project/fca-api/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "wasm-cli",
-  "version": "0.13.5",
+  "version": "0.13.9",
   "summary": "Web App System Management - Deploy and manage web applications on Linux servers",
   "author": "Yago López Prado",
   "license": "WASM-NCSAL",
   "home_page": null,
-  "download_filename": "wasm_cli-0.13.5.tar.gz",
-  "download_time": "2026-01-08T16:55:11.205002",
+  "download_filename": "wasm_cli-0.13.9.tar.gz",
+  "download_time": "2026-01-08T17:21:27.400895",
   "package_url": "https://pypi.org/project/wasm-cli/"
 }

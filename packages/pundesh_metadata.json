@@ -1,0 +1,11 @@
+{
+  "name": "pundesh",
+  "version": "0.0.2",
+  "summary": "Google Maps scraper for extracting business data. Works in Google Colab and locally.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pundesh-0.0.2-py3-none-any.whl",
+  "download_time": "2026-01-08T17:22:03.069962",
+  "package_url": "https://pypi.org/project/pundesh/"
+}

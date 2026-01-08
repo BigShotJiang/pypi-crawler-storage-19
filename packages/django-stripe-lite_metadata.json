@@ -1,0 +1,11 @@
+{
+  "name": "django-stripe-lite",
+  "version": "0.8.0",
+  "summary": "A library to aid Django integration with Stripe.",
+  "author": "YunoJuno",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "django_stripe_lite-0.8.0.tar.gz",
+  "download_time": "2026-01-08T17:21:23.511841",
+  "package_url": "https://pypi.org/project/django-stripe-lite/"
+}

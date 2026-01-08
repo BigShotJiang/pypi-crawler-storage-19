@@ -1,11 +1,11 @@
 {
   "name": "notte-mcp",
-  "version": "1.7.18",
+  "version": "1.7.19",
   "summary": "The MCP server for Notte",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "notte_mcp-1.7.18.tar.gz",
-  "download_time": "2026-01-07T11:33:37.918395",
+  "download_filename": "notte_mcp-1.7.19.tar.gz",
+  "download_time": "2026-01-08T17:22:07.754083",
   "package_url": "https://pypi.org/project/notte-mcp/"
 }

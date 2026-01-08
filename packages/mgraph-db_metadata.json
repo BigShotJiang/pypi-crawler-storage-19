@@ -1,0 +1,11 @@
+{
+  "name": "mgraph-db",
+  "version": "1.17.0",
+  "summary": "MGraph-DB",
+  "author": "Dinis Cruz",
+  "license": "Apache 2.0",
+  "home_page": "https://github.com/owasp-sbot/MGraph-DB",
+  "download_filename": "mgraph_db-1.17.0.tar.gz",
+  "download_time": "2026-01-08T17:22:06.702690",
+  "package_url": "https://pypi.org/project/mgraph-db/"
+}

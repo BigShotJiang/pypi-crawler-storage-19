@@ -1,0 +1,11 @@
+{
+  "name": "intelligent-text2sql",
+  "version": "0.1.0",
+  "summary": "Offline, schema-aware Text-to-SQL engine with optional LLM backends",
+  "author": "Vatsal Patel",
+  "license": null,
+  "home_page": null,
+  "download_filename": "intelligent_text2sql-0.1.0.tar.gz",
+  "download_time": "2026-01-08T17:21:38.991442",
+  "package_url": "https://pypi.org/project/intelligent-text2sql/"
+}
