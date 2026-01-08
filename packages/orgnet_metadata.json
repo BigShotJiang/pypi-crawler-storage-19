@@ -1,0 +1,11 @@
+{
+  "name": "orgnet",
+  "version": "0.1.2",
+  "summary": "Organizational Network Analysis Platform using ML and Graph Analytics",
+  "author": "Kyle Jones",
+  "license": "MIT",
+  "home_page": "https://github.com/kylejones200/orgnet",
+  "download_filename": "orgnet-0.1.2.tar.gz",
+  "download_time": "2026-01-08T22:16:22.447216",
+  "package_url": "https://pypi.org/project/orgnet/"
+}

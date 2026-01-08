@@ -1,0 +1,11 @@
+{
+  "name": "chainswarm-analyzers-baseline",
+  "version": "0.2.3",
+  "summary": "Baseline analytics algorithms for blockchain pattern detection and feature engineering",
+  "author": "ChainSwarm Team",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "chainswarm_analyzers_baseline-0.2.3.tar.gz",
+  "download_time": "2026-01-08T22:16:23.570287",
+  "package_url": "https://pypi.org/project/chainswarm-analyzers-baseline/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "aspy-dependency-injection",
-  "version": "0.4.0",
+  "version": "0.4.1",
   "summary": "Dependency injection",
   "author": "Andreu Codina",
   "license": null,
   "home_page": null,
-  "download_filename": "aspy_dependency_injection-0.4.0.tar.gz",
-  "download_time": "2026-01-08T20:57:36.777805",
+  "download_filename": "aspy_dependency_injection-0.4.1.tar.gz",
+  "download_time": "2026-01-08T22:16:33.989035",
   "package_url": "https://pypi.org/project/aspy-dependency-injection/"
 }

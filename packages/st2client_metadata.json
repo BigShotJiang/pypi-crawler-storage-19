@@ -1,0 +1,11 @@
+{
+  "name": "st2client",
+  "version": "3.9.0",
+  "summary": "Python client library and CLI for the StackStorm (st2) event-driven automation platform.",
+  "author": "StackStorm",
+  "license": "Apache-2.0",
+  "home_page": "https://stackstorm.com/",
+  "download_filename": "st2client-3.9.0-py3-none-any.whl",
+  "download_time": "2026-01-08T22:16:05.641207",
+  "package_url": "https://pypi.org/project/st2client/"
+}

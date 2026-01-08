@@ -1,0 +1,11 @@
+{
+  "name": "squarelet-auth",
+  "version": "0.1.13",
+  "summary": "Django authentication against the MuckRock user service",
+  "author": "Mitchell Kotler",
+  "license": null,
+  "home_page": "https://github.com/muckrock/squarelet-auth/",
+  "download_filename": "squarelet_auth-0.1.13.tar.gz",
+  "download_time": "2026-01-08T22:16:12.605130",
+  "package_url": "https://pypi.org/project/squarelet-auth/"
+}

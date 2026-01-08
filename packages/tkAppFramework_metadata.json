@@ -1,0 +1,11 @@
+{
+  "name": "tkAppFramework",
+  "version": "0.9.1",
+  "summary": "tkAppFramework facilitates the creation of python GUI applications using tkinter.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "tkappframework-0.9.1.tar.gz",
+  "download_time": "2026-01-08T22:16:17.821192",
+  "package_url": "https://pypi.org/project/tkAppFramework/"
+}

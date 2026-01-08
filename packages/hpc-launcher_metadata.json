@@ -1,0 +1,11 @@
+{
+  "name": "hpc-launcher",
+  "version": "1.0.3",
+  "summary": "LBANN Launcher utilities for distributed jobs on HPC clusters",
+  "author": "Lawrence Livermore National Laboratory",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/LBANN/HPC-launcher",
+  "download_filename": "hpc_launcher-1.0.3.tar.gz",
+  "download_time": "2026-01-08T22:16:37.553553",
+  "package_url": "https://pypi.org/project/hpc-launcher/"
+}
