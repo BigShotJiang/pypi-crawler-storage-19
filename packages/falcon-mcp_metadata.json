@@ -1,0 +1,11 @@
+{
+  "name": "falcon-mcp",
+  "version": "0.4.1",
+  "summary": "CrowdStrike Falcon MCP Server",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "falcon_mcp-0.4.1.tar.gz",
+  "download_time": "2026-01-08T21:42:02.252743",
+  "package_url": "https://pypi.org/project/falcon-mcp/"
+}

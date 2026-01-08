@@ -1,11 +1,11 @@
 {
   "name": "astreum",
-  "version": "0.3.35",
+  "version": "0.3.38",
   "summary": "Python library to interact with the Astreum blockchain and its virtual machine.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "astreum-0.3.35.tar.gz",
-  "download_time": "2026-01-07T14:17:47.516825",
+  "download_filename": "astreum-0.3.38.tar.gz",
+  "download_time": "2026-01-08T21:42:15.054196",
   "package_url": "https://pypi.org/project/astreum/"
 }

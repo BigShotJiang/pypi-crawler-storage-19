@@ -1,0 +1,11 @@
+{
+  "name": "qdafile",
+  "version": "2026.1.8",
+  "summary": "Read and write QDA files",
+  "author": "Christoph Gohlke",
+  "license": "BSD-3-Clause",
+  "home_page": "https://www.cgohlke.com",
+  "download_filename": "qdafile-2026.1.8.tar.gz",
+  "download_time": "2026-01-08T21:42:17.667035",
+  "package_url": "https://pypi.org/project/qdafile/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "gwlearn",
-  "version": "0.0.2",
+  "version": "0.0.4",
   "summary": null,
   "author": null,
   "license": "BSD 3-Clause",
   "home_page": null,
-  "download_filename": "gwlearn-0.0.2.tar.gz",
-  "download_time": "2026-01-07T13:14:19.293593",
+  "download_filename": "gwlearn-0.0.4.tar.gz",
+  "download_time": "2026-01-08T21:42:24.794363",
   "package_url": "https://pypi.org/project/gwlearn/"
 }

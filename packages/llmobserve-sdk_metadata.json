@@ -1,11 +1,11 @@
 {
   "name": "llmobserve-sdk",
-  "version": "0.3.2",
+  "version": "0.3.6",
   "summary": "Automatic cost tracking and observability for LLM applications",
   "author": "Pranav Srigiriraju",
   "license": "MIT",
   "home_page": "https://github.com/yourusername/llmobserve",
-  "download_filename": "llmobserve_sdk-0.3.2.tar.gz",
-  "download_time": "2026-01-08T21:16:29.195676",
+  "download_filename": "llmobserve_sdk-0.3.6.tar.gz",
+  "download_time": "2026-01-08T21:42:11.386815",
   "package_url": "https://pypi.org/project/llmobserve-sdk/"
 }
