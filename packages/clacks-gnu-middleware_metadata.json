@@ -1,11 +1,11 @@
 {
   "name": "clacks-gnu-middleware",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "summary": "A FastAPI middleware to handle the GNU Headers (Memorial Headers) of the Clacks (Going Postal Terry Pratchett) for 'sending people home'.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "clacks_gnu_middleware-0.0.1.tar.gz",
-  "download_time": "2026-01-08T20:45:22.335129",
+  "download_filename": "clacks_gnu_middleware-0.0.2.tar.gz",
+  "download_time": "2026-01-08T22:40:10.293629",
   "package_url": "https://pypi.org/project/clacks-gnu-middleware/"
 }

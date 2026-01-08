@@ -1,11 +1,11 @@
 {
   "name": "slimschema",
-  "version": "0.0.1.dev7",
+  "version": "0.0.1.dev9",
   "summary": "Token-efficient schema language for LLMs with fast Zig backend",
   "author": "BotAssembly",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "slimschema-0.0.1.dev7.tar.gz",
-  "download_time": "2026-01-08T20:16:58.266328",
+  "download_filename": "slimschema-0.0.1.dev9.tar.gz",
+  "download_time": "2026-01-08T22:40:00.992297",
   "package_url": "https://pypi.org/project/slimschema/"
 }

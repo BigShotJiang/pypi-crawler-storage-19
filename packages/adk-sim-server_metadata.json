@@ -1,11 +1,11 @@
 {
   "name": "adk-sim-server",
-  "version": "0.1.3",
+  "version": "0.1.8",
   "summary": "ADK Agent Simulator - gRPC Server",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "adk_sim_server-0.1.3.tar.gz",
-  "download_time": "2026-01-08T22:16:26.435178",
+  "download_filename": "adk_sim_server-0.1.8.tar.gz",
+  "download_time": "2026-01-08T22:39:49.412662",
   "package_url": "https://pypi.org/project/adk-sim-server/"
 }

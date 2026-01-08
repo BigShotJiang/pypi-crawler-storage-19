@@ -1,0 +1,11 @@
+{
+  "name": "jbs-polecat",
+  "version": "1.0.0",
+  "summary": "Extract exam dates and deadlines from Cambridge Judge Business School learning platform and generate calendar files",
+  "author": "Shoaib Akhter",
+  "license": null,
+  "home_page": null,
+  "download_filename": "jbs_polecat-1.0.0.tar.gz",
+  "download_time": "2026-01-08T22:39:55.686204",
+  "package_url": "https://pypi.org/project/jbs-polecat/"
+}

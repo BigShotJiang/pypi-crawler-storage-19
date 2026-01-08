@@ -1,11 +1,11 @@
 {
   "name": "adk-sim-protos",
-  "version": "0.1.3",
+  "version": "0.1.8",
   "summary": "Generated Protocol Buffers for ADK Simulator",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "adk_sim_protos-0.1.3.tar.gz",
-  "download_time": "2026-01-08T22:16:27.016899",
+  "download_filename": "adk_sim_protos-0.1.8.tar.gz",
+  "download_time": "2026-01-08T22:39:49.925732",
   "package_url": "https://pypi.org/project/adk-sim-protos/"
 }

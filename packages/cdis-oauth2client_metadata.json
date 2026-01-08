@@ -1,0 +1,11 @@
+{
+  "name": "cdis-oauth2client",
+  "version": "2.0.0",
+  "summary": "Flask blueprint and utilities for oauth2 client",
+  "author": "CTDS UChicago",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "cdis_oauth2client-2.0.0.tar.gz",
+  "download_time": "2026-01-08T22:40:24.667423",
+  "package_url": "https://pypi.org/project/cdis-oauth2client/"
+}
