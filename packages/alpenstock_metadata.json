@@ -1,11 +1,11 @@
 {
   "name": "alpenstock",
-  "version": "1.2.0",
-  "summary": null,
+  "version": "1.2.1",
+  "summary": "A collection of handy Python utilities designed to help developers tackle the challenges of Python programming.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "alpenstock-1.2.0.tar.gz",
-  "download_time": "2026-01-07T16:54:55.541305",
+  "download_filename": "alpenstock-1.2.1.tar.gz",
+  "download_time": "2026-01-08T03:05:35.744982",
   "package_url": "https://pypi.org/project/alpenstock/"
 }

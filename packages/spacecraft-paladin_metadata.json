@@ -1,0 +1,11 @@
+{
+  "name": "spacecraft-paladin",
+  "version": "0.1.7",
+  "summary": "high-fidelity spaceraft dynamics propagator",
+  "author": "Yuri Shimane",
+  "license": "MIT License",
+  "home_page": "https://github.com/Yuricst/paladin",
+  "download_filename": "spacecraft_paladin-0.1.7.tar.gz",
+  "download_time": "2026-01-08T03:05:30.867329",
+  "package_url": "https://pypi.org/project/spacecraft-paladin/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "hippolyzer",
+  "version": "0.17.1",
+  "summary": "Analysis tools for SL-compatible virtual worlds",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "hippolyzer-0.17.1.tar.gz",
+  "download_time": "2026-01-08T03:05:29.778908",
+  "package_url": "https://pypi.org/project/hippolyzer/"
+}

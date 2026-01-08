@@ -1,0 +1,11 @@
+{
+  "name": "stock-market-screener",
+  "version": "0.1.2",
+  "summary": "A data-driven stock screener that analyzes Dow 30 stocks using technical indicators",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "stock_market_screener-0.1.2.tar.gz",
+  "download_time": "2026-01-08T03:05:36.831318",
+  "package_url": "https://pypi.org/project/stock-market-screener/"
+}

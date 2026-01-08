@@ -1,0 +1,11 @@
+{
+  "name": "qilbee-mycelial-network",
+  "version": "0.1.4",
+  "summary": "Enterprise SaaS SDK for Qilbee Mycelial Network - Adaptive AI Agent Communication",
+  "author": "AICUBE TECHNOLOGY LLC",
+  "license": null,
+  "home_page": "https://github.com/qilbee/mycelial-network",
+  "download_filename": "qilbee_mycelial_network-0.1.4.tar.gz",
+  "download_time": "2026-01-08T03:05:54.725706",
+  "package_url": "https://pypi.org/project/qilbee-mycelial-network/"
+}

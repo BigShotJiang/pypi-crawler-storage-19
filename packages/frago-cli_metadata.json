@@ -1,0 +1,11 @@
+{
+  "name": "frago-cli",
+  "version": "0.30.0",
+  "summary": "Frago - AI-driven multi-runtime automation framework with Chrome CDP, Python, and Shell support",
+  "author": null,
+  "license": "AGPL-3.0-or-later",
+  "home_page": null,
+  "download_filename": "frago_cli-0.30.0-py3-none-any.whl",
+  "download_time": "2026-01-08T03:05:33.040523",
+  "package_url": "https://pypi.org/project/frago-cli/"
+}

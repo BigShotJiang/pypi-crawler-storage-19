@@ -1,0 +1,11 @@
+{
+  "name": "talos-contracts",
+  "version": "1.1.15",
+  "summary": "Talos Protocol contracts - schemas, types, and helper functions for auditable AI agent security",
+  "author": "Talos Protocol",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "talos_contracts-1.1.15.tar.gz",
+  "download_time": "2026-01-08T03:05:42.055514",
+  "package_url": "https://pypi.org/project/talos-contracts/"
+}

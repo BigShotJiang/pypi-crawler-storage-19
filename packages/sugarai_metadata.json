@@ -1,11 +1,11 @@
 {
   "name": "sugarai",
-  "version": "3.3.2",
-  "summary": "Sugar 🍰 - Vibe coding while you sleep. Autonomous AI development for Claude Code.",
+  "version": "3.4.1",
+  "summary": "Sugar 🍰 - The dev team that never stops. Autonomous AI development for Claude Code.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "sugarai-3.3.2.tar.gz",
-  "download_time": "2026-01-07T05:54:01.002732",
+  "download_filename": "sugarai-3.4.1.tar.gz",
+  "download_time": "2026-01-08T03:05:45.684077",
   "package_url": "https://pypi.org/project/sugarai/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "rtflite",
+  "version": "2.5.3",
+  "summary": "Lightweight RTF composer for Python",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "rtflite-2.5.3.tar.gz",
+  "download_time": "2026-01-08T03:06:06.031705",
+  "package_url": "https://pypi.org/project/rtflite/"
+}

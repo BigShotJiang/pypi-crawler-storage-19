@@ -1,0 +1,11 @@
+{
+  "name": "aws-monthly-costs",
+  "version": "0.2.0",
+  "summary": "Retrieves AWS Monthly Costs",
+  "author": "whoDoneItAgain",
+  "license": null,
+  "home_page": null,
+  "download_filename": "aws_monthly_costs-0.2.0.tar.gz",
+  "download_time": "2026-01-08T03:05:38.380760",
+  "package_url": "https://pypi.org/project/aws-monthly-costs/"
+}
