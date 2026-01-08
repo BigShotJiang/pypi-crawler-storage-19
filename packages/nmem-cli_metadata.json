@@ -1,0 +1,11 @@
+{
+  "name": "nmem-cli",
+  "version": "0.5.11",
+  "summary": "CLI and TUI for Nowledge Mem - AI memory management",
+  "author": "Nowledge Labs",
+  "license": null,
+  "home_page": null,
+  "download_filename": "nmem_cli-0.5.11.tar.gz",
+  "download_time": "2026-01-08T07:43:24.325899",
+  "package_url": "https://pypi.org/project/nmem-cli/"
+}

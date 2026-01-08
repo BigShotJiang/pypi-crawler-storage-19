@@ -1,0 +1,11 @@
+{
+  "name": "unbound-console",
+  "version": "0.6.6",
+  "summary": "Python console for unbound",
+  "author": "Denis MACHARD",
+  "license": null,
+  "home_page": "https://github.com/dmachard/unbound-console",
+  "download_filename": "unbound_console-0.6.6.tar.gz",
+  "download_time": "2026-01-08T07:43:51.684402",
+  "package_url": "https://pypi.org/project/unbound-console/"
+}

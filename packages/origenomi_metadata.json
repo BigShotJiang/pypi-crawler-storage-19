@@ -1,11 +1,11 @@
 {
   "name": "origenomi",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "Trim circular overlaps, find dnaA/oriC, rotate sequences, and report.",
   "author": "You",
   "license": null,
   "home_page": null,
-  "download_filename": "origenomi-0.1.1.tar.gz",
-  "download_time": "2026-01-08T06:56:31.503121",
+  "download_filename": "origenomi-0.1.2.tar.gz",
+  "download_time": "2026-01-08T07:43:38.259280",
   "package_url": "https://pypi.org/project/origenomi/"
 }

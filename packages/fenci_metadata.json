@@ -1,0 +1,11 @@
+{
+  "name": "fenci",
+  "version": "0.3.4",
+  "summary": "中文分词",
+  "author": "wanze",
+  "license": "MIT",
+  "home_page": "https://github.com/a358003542/fenci",
+  "download_filename": "fenci-0.3.4.tar.gz",
+  "download_time": "2026-01-08T07:43:37.749077",
+  "package_url": "https://pypi.org/project/fenci/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "dronewq",
+  "version": "0.1.6",
+  "summary": "DroneWQ is a Python package that can be used to analyze multispectral data collected from a drone to derive ocean color radiometry and water quality properties. These scripts are specific for the MicaSense RedEdge and Altum cameras.",
+  "author": "Anna Windle, Patrick Gray, Greg Silsbe",
+  "license": null,
+  "home_page": null,
+  "download_filename": "dronewq-0.1.6.tar.gz",
+  "download_time": "2026-01-08T07:43:50.151423",
+  "package_url": "https://pypi.org/project/dronewq/"
+}
