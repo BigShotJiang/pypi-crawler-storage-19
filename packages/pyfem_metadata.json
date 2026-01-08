@@ -1,0 +1,11 @@
+{
+  "name": "pyfem",
+  "version": "0.3.7.1",
+  "summary": "Python Finite Element Method",
+  "author": "Jingyu Sun",
+  "license": null,
+  "home_page": "https://github.com/sunwhale/pyfem",
+  "download_filename": "pyfem-0.3.7.1.tar.gz",
+  "download_time": "2026-01-08T05:19:26.951197",
+  "package_url": "https://pypi.org/project/pyfem/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "robhan-cdk-lib.aws-aps",
-  "version": "0.0.150",
+  "version": "0.0.151",
   "summary": "AWS CDK Construct Library for Amazon Managed Service for Prometheus",
   "author": "Robert Hanuschke<robhan-cdk-lib@hanuschke.eu>",
   "license": "MIT",
   "home_page": "https://github.com/robert-hanuschke/cdk-aws_aps",
-  "download_filename": "robhan_cdk_lib_aws_aps-0.0.150.tar.gz",
-  "download_time": "2026-01-07T05:40:27.498906",
+  "download_filename": "robhan_cdk_lib_aws_aps-0.0.151.tar.gz",
+  "download_time": "2026-01-08T05:18:57.083472",
   "package_url": "https://pypi.org/project/robhan-cdk-lib.aws-aps/"
 }

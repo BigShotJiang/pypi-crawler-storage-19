@@ -1,0 +1,11 @@
+{
+  "name": "qcelemental",
+  "version": "0.30.0",
+  "summary": "Core data structures for Quantum Chemistry.",
+  "author": "The QCArchive Development Team",
+  "license": "BSD-3-Clause",
+  "home_page": "https://github.com/MolSSI/QCElemental",
+  "download_filename": "qcelemental-0.30.0.tar.gz",
+  "download_time": "2026-01-08T05:19:03.810800",
+  "package_url": "https://pypi.org/project/qcelemental/"
+}

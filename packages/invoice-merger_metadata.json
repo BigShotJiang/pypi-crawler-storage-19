@@ -1,11 +1,11 @@
 {
   "name": "invoice-merger",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "summary": "将电子发票按月份自动分组并合并到A4纸上，便于打印报销",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "invoice_merger-1.1.0.tar.gz",
-  "download_time": "2026-01-08T04:51:46.375105",
+  "download_filename": "invoice_merger-1.2.0.tar.gz",
+  "download_time": "2026-01-08T05:19:16.656720",
   "package_url": "https://pypi.org/project/invoice-merger/"
 }

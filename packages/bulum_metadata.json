@@ -1,11 +1,11 @@
 {
   "name": "bulum",
-  "version": "0.3.1",
+  "version": "0.3.2",
   "summary": "Open source python library for assessing hydrologic model results in Queensland",
   "author": "Chas Egan",
   "license": null,
   "home_page": "https://github.com/odhydrology/bulum",
-  "download_filename": "bulum-0.3.1.tar.gz",
-  "download_time": "2026-01-07T04:34:00.872833",
+  "download_filename": "bulum-0.3.2.tar.gz",
+  "download_time": "2026-01-08T05:19:20.278733",
   "package_url": "https://pypi.org/project/bulum/"
 }

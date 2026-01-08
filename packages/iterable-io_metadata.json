@@ -1,0 +1,11 @@
+{
+  "name": "iterable-io",
+  "version": "1.0.1",
+  "summary": "Adapt generators and other iterables to a file-like interface",
+  "author": null,
+  "license": "LGPL-3.0-only",
+  "home_page": "https://github.com/pR0Ps/iterable-io",
+  "download_filename": "iterable_io-1.0.1.tar.gz",
+  "download_time": "2026-01-08T05:19:15.627803",
+  "package_url": "https://pypi.org/project/iterable-io/"
+}

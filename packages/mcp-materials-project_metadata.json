@@ -1,11 +1,11 @@
 {
   "name": "mcp-materials-project",
-  "version": "0.2.0",
-  "summary": "MCP Server for Materials Project database - query material properties, crystal structures, and phase diagrams",
+  "version": "0.3.0",
+  "summary": "MCP Server for Materials Project database - query material properties, crystal structures, and phase diagrams with horizontal comparison Excel export",
   "author": "luffysolution-svg",
   "license": null,
   "home_page": null,
-  "download_filename": "mcp_materials_project-0.2.0.tar.gz",
-  "download_time": "2026-01-08T03:05:36.317422",
+  "download_filename": "mcp_materials_project-0.3.0.tar.gz",
+  "download_time": "2026-01-08T05:18:55.534235",
   "package_url": "https://pypi.org/project/mcp-materials-project/"
 }

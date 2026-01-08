@@ -1,0 +1,11 @@
+{
+  "name": "cpg-aggregation",
+  "version": "1.0.0",
+  "summary": "Gold layer aggregation functions for Cholayil CPG Data Warehouse in Snowflake",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "cpg_aggregation-1.0.0.tar.gz",
+  "download_time": "2026-01-08T05:19:02.267681",
+  "package_url": "https://pypi.org/project/cpg-aggregation/"
+}
