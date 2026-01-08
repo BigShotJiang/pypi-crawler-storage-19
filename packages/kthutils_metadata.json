@@ -1,0 +1,11 @@
+{
+  "name": "kthutils",
+  "version": "1.31",
+  "summary": "Various tools for automation at KTH",
+  "author": "Daniel Bosk",
+  "license": null,
+  "home_page": "https://github.com/dbosk/kthutils",
+  "download_filename": "kthutils-1.31.tar.gz",
+  "download_time": "2026-01-08T20:16:44.253271",
+  "package_url": "https://pypi.org/project/kthutils/"
+}
