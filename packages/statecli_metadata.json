@@ -1,11 +1,11 @@
 {
   "name": "statecli",
-  "version": "0.4.0",
+  "version": "0.5.0",
   "summary": "State Replay & Self-Debugging for AI Agents - Track, replay, undo, and checkpoint state changes",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "statecli-0.4.0.tar.gz",
-  "download_time": "2026-01-08T09:49:05.494628",
+  "download_filename": "statecli-0.5.0.tar.gz",
+  "download_time": "2026-01-08T21:53:09.797400",
   "package_url": "https://pypi.org/project/statecli/"
 }

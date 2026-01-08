@@ -1,11 +1,11 @@
 {
   "name": "adr-builder",
-  "version": "0.1.6",
+  "version": "0.1.7",
   "summary": "Generate Architectural Decision Records from simple criteria data.",
   "author": "ADR Builder Contributors",
   "license": null,
   "home_page": null,
-  "download_filename": "adr_builder-0.1.6.tar.gz",
-  "download_time": "2026-01-08T21:16:31.414328",
+  "download_filename": "adr_builder-0.1.7.tar.gz",
+  "download_time": "2026-01-08T21:52:58.402135",
   "package_url": "https://pypi.org/project/adr-builder/"
 }

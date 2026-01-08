@@ -1,11 +1,11 @@
 {
   "name": "muuk-test-repair-mcp",
-  "version": "0.1.6",
+  "version": "0.1.7",
   "summary": "MCP server for analyzing and repairing E2E test failures",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "muuk_test_repair_mcp-0.1.6.tar.gz",
-  "download_time": "2026-01-08T19:50:11.878885",
+  "download_filename": "muuk_test_repair_mcp-0.1.7.tar.gz",
+  "download_time": "2026-01-08T21:52:56.867688",
   "package_url": "https://pypi.org/project/muuk-test-repair-mcp/"
 }
