@@ -1,0 +1,11 @@
+{
+  "name": "python-neutronclient",
+  "version": "11.7.0",
+  "summary": "CLI and Client Library for OpenStack Networking",
+  "author": "OpenStack Networking Project",
+  "license": null,
+  "home_page": "https://docs.openstack.org/python-neutronclient/latest/",
+  "download_filename": "python_neutronclient-11.7.0.tar.gz",
+  "download_time": "2026-01-08T13:56:09.782314",
+  "package_url": "https://pypi.org/project/python-neutronclient/"
+}

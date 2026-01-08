@@ -1,0 +1,11 @@
+{
+  "name": "colorist",
+  "version": "1.8.10",
+  "summary": "Lightweight package that makes it easy and fast to print colored text in the terminal",
+  "author": "Jakob Bagterp",
+  "license": "3-Clause BSD License",
+  "home_page": "https://jakob-bagterp.github.io/colorist-for-python/",
+  "download_filename": "colorist-1.8.10.tar.gz",
+  "download_time": "2026-01-08T13:56:02.527360",
+  "package_url": "https://pypi.org/project/colorist/"
+}

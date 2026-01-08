@@ -1,0 +1,11 @@
+{
+  "name": "langtable",
+  "version": "0.0.69",
+  "summary": "guess reasonable defaults for locale, keyboard, territory, ...",
+  "author": "Mike FABIAN",
+  "license": "GPL-3.0-or-later",
+  "home_page": "https://github.com/mike-fabian/langtable",
+  "download_filename": "langtable-0.0.69.tar.gz",
+  "download_time": "2026-01-08T13:55:57.238207",
+  "package_url": "https://pypi.org/project/langtable/"
+}

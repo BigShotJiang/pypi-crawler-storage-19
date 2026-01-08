@@ -1,0 +1,11 @@
+{
+  "name": "orrin-sdk",
+  "version": "0.0.6",
+  "summary": "SDK for creating and registering custon Orrin apps",
+  "author": "Aidan White",
+  "license": null,
+  "home_page": null,
+  "download_filename": "orrin_sdk-0.0.6.tar.gz",
+  "download_time": "2026-01-08T13:56:28.163236",
+  "package_url": "https://pypi.org/project/orrin-sdk/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "oslo.config",
+  "version": "10.2.0",
+  "summary": "Oslo Configuration API",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "oslo_config-10.2.0.tar.gz",
+  "download_time": "2026-01-08T13:56:22.794875",
+  "package_url": "https://pypi.org/project/oslo.config/"
+}
