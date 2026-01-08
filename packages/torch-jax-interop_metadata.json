@@ -1,0 +1,11 @@
+{
+  "name": "torch-jax-interop",
+  "version": "0.0.8",
+  "summary": "Simple tools to mix and match PyTorch and Jax - Get the best of both worlds!",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "torch_jax_interop-0.0.8.tar.gz",
+  "download_time": "2026-01-08T19:49:52.750322",
+  "package_url": "https://pypi.org/project/torch-jax-interop/"
+}

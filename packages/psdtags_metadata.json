@@ -1,0 +1,11 @@
+{
+  "name": "psdtags",
+  "version": "2026.1.8",
+  "summary": "Read and write layered TIFF ImageSourceData and ImageResources tags",
+  "author": "Christoph Gohlke",
+  "license": "BSD-3-Clause",
+  "home_page": "https://www.cgohlke.com",
+  "download_filename": "psdtags-2026.1.8.tar.gz",
+  "download_time": "2026-01-08T19:50:34.950275",
+  "package_url": "https://pypi.org/project/psdtags/"
+}

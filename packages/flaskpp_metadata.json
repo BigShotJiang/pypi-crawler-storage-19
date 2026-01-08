@@ -1,11 +1,11 @@
 {
   "name": "flaskpp",
-  "version": "0.3.3",
+  "version": "0.3.5",
   "summary": "A Flask based framework for fast and easy app creation. Experience the real power of Flask without boilerplate, but therefore a well balanced mix of magic and the default Flask framework.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "flaskpp-0.3.3.tar.gz",
-  "download_time": "2026-01-07T19:16:08.168242",
+  "download_filename": "flaskpp-0.3.5.tar.gz",
+  "download_time": "2026-01-08T19:50:27.887760",
   "package_url": "https://pypi.org/project/flaskpp/"
 }

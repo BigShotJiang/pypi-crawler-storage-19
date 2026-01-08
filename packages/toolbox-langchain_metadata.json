@@ -1,11 +1,11 @@
 {
   "name": "toolbox-langchain",
-  "version": "0.5.5",
+  "version": "0.5.6",
   "summary": "Python SDK for interacting with the Toolbox service with LangChain",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "toolbox_langchain-0.5.5.tar.gz",
-  "download_time": "2026-01-08T13:23:12.543135",
+  "download_filename": "toolbox_langchain-0.5.6.tar.gz",
+  "download_time": "2026-01-08T19:50:32.768075",
   "package_url": "https://pypi.org/project/toolbox-langchain/"
 }

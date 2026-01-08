@@ -1,0 +1,11 @@
+{
+  "name": "ChessAnalysisPipeline",
+  "version": "0.0.17",
+  "summary": "CHESS analysis pipeline framework",
+  "author": "Keara Soloway, Rolf Verberg, Valentin Kuznetsov",
+  "license": null,
+  "home_page": "https://github.com/CHESSComputing/ChessAnalysisPipeline",
+  "download_filename": "chessanalysispipeline-0.0.17.tar.gz",
+  "download_time": "2026-01-08T19:50:31.170146",
+  "package_url": "https://pypi.org/project/ChessAnalysisPipeline/"
+}

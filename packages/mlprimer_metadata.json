@@ -1,0 +1,11 @@
+{
+  "name": "mlprimer",
+  "version": "1.0.8",
+  "summary": "Complete ML pipeline for rapid model selection, tuning, and export.",
+  "author": "Emre Can Konca",
+  "license": null,
+  "home_page": null,
+  "download_filename": "mlprimer-1.0.8.tar.gz",
+  "download_time": "2026-01-08T19:50:35.500247",
+  "package_url": "https://pypi.org/project/mlprimer/"
+}

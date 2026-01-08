@@ -1,0 +1,11 @@
+{
+  "name": "kermi2mqtt",
+  "version": "0.1.2",
+  "summary": "Kermi x-center to MQTT bridge for heat pumps with Home Assistant auto-discovery",
+  "author": "kermi2mqtt contributors",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "kermi2mqtt-0.1.2.tar.gz",
+  "download_time": "2026-01-08T19:49:56.045467",
+  "package_url": "https://pypi.org/project/kermi2mqtt/"
+}

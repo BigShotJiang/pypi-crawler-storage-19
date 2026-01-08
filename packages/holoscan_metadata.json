@@ -1,0 +1,11 @@
+{
+  "name": "holoscan",
+  "version": "3.10.0",
+  "summary": "The Holoscan SDK: a meta-package for installing CUDA-specific versions",
+  "author": "NVIDIA Corporation",
+  "license": null,
+  "home_page": null,
+  "download_filename": "holoscan-3.10.0-py3-none-any.whl",
+  "download_time": "2026-01-08T19:50:27.327443",
+  "package_url": "https://pypi.org/project/holoscan/"
+}

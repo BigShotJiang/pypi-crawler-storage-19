@@ -1,0 +1,11 @@
+{
+  "name": "onecodex",
+  "version": "0.19.2",
+  "summary": "One Codex API client and Python library",
+  "author": null,
+  "license": "MIT License",
+  "home_page": null,
+  "download_filename": "onecodex-0.19.2.tar.gz",
+  "download_time": "2026-01-08T19:50:25.203337",
+  "package_url": "https://pypi.org/project/onecodex/"
+}
