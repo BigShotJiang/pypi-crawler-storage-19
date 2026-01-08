@@ -1,0 +1,11 @@
+{
+  "name": "shakemap-modules",
+  "version": "1.1.13",
+  "summary": "USGS Earthquake Impact ShakeMap Modules",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "shakemap_modules-1.1.13.tar.gz",
+  "download_time": "2026-01-08T22:54:40.283220",
+  "package_url": "https://pypi.org/project/shakemap-modules/"
+}

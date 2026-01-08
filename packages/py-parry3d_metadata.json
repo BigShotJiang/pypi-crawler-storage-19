@@ -1,0 +1,11 @@
+{
+  "name": "py-parry3d",
+  "version": "0.0.1",
+  "summary": "Python bindings for parry3d collision detection, optimized for batch operations",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "py_parry3d-0.0.1-cp311-cp311-macosx_11_0_arm64.whl",
+  "download_time": "2026-01-08T22:54:33.098417",
+  "package_url": "https://pypi.org/project/py-parry3d/"
+}

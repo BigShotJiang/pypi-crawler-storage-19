@@ -1,0 +1,11 @@
+{
+  "name": "streamlit-custom-api-grid",
+  "version": "0.1.4",
+  "summary": "A Streamlit Aggrid custom component with Custom Button Modal and API integration",
+  "author": "Stefan Stapinski",
+  "license": null,
+  "home_page": "https://github.com/nafets33/streamlit_custom_api_grid",
+  "download_filename": "streamlit_custom_api_grid-0.1.4.tar.gz",
+  "download_time": "2026-01-08T22:54:32.581567",
+  "package_url": "https://pypi.org/project/streamlit-custom-api-grid/"
+}

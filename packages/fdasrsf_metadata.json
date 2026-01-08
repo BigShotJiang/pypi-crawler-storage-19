@@ -1,0 +1,11 @@
+{
+  "name": "fdasrsf",
+  "version": "2.6.6",
+  "summary": "functional data analysis using the square root slope framework",
+  "author": "J. Derek Tucker",
+  "license": "BSD 3-Clause",
+  "home_page": "http://research.tetonedge.net",
+  "download_filename": "fdasrsf-2.6.6.tar.gz",
+  "download_time": "2026-01-08T22:54:54.063680",
+  "package_url": "https://pypi.org/project/fdasrsf/"
+}

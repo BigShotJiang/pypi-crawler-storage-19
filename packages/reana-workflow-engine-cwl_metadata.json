@@ -1,0 +1,11 @@
+{
+  "name": "reana-workflow-engine-cwl",
+  "version": "0.95.0a3",
+  "summary": "REANA-Workflow-Engine-CWL.",
+  "author": "REANA",
+  "license": null,
+  "home_page": "https://github.com/reanahub/reana-workflow-engine-cwl",
+  "download_filename": "reana_workflow_engine_cwl-0.95.0a3.tar.gz",
+  "download_time": "2026-01-08T22:54:36.949598",
+  "package_url": "https://pypi.org/project/reana-workflow-engine-cwl/"
+}
