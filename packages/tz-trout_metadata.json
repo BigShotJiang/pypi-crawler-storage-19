@@ -1,0 +1,11 @@
+{
+  "name": "tz-trout",
+  "version": "1.1.2",
+  "summary": "Helps you figure out the time zone based on an address or a phone number.",
+  "author": "Close.io",
+  "license": "MIT",
+  "home_page": "http://github.com/closeio/tz-trout",
+  "download_filename": "tz_trout-1.1.2.tar.gz",
+  "download_time": "2026-01-08T14:50:50.191198",
+  "package_url": "https://pypi.org/project/tz-trout/"
+}

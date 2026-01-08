@@ -1,11 +1,11 @@
 {
   "name": "nisystemlink-clients",
-  "version": "2.26.0",
+  "version": "2.26.1",
   "summary": "NI-SystemLink Python API",
   "author": "National Instruments",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "nisystemlink_clients-2.26.0.tar.gz",
-  "download_time": "2026-01-07T18:21:38.487963",
+  "download_filename": "nisystemlink_clients-2.26.1.tar.gz",
+  "download_time": "2026-01-08T14:51:01.635912",
   "package_url": "https://pypi.org/project/nisystemlink-clients/"
 }
