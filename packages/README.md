@@ -1,13 +1,11 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2026-01-08T19:15:36.057231
+- **Download Time**: 2026-01-08T19:33:46.990124
 - **Total Packages**: 95
-- **Total Size**: 31.45 MB
+- **Total Size**: 0.31 MB
 
 ## Packages List
-- alpamayo-tools
-- lecrapaud
 - durabletask
 - durabletask.azuremanaged
 - evergrain
@@ -101,3 +99,5 @@
 - mindtrace-datalake
 - mindtrace-cluster
 - mindtrace-apps
+- mindtrace-storage
+- matrice-inference
