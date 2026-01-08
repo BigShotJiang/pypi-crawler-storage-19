@@ -1,0 +1,11 @@
+{
+  "name": "deepsights-api",
+  "version": "1.6.3",
+  "summary": "Python library for the DeepSights APIs",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "deepsights_api-1.6.3.tar.gz",
+  "download_time": "2026-01-08T11:15:13.017161",
+  "package_url": "https://pypi.org/project/deepsights-api/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "pushi-service",
-  "version": "0.4.0",
+  "version": "0.4.4",
   "summary": "Pushi System",
   "author": "Hive Solutions Lda.",
   "license": "Apache License, Version 2.0",
   "home_page": "http://pushi.hive.pt",
-  "download_filename": "pushi_service-0.4.0-py2.py3-none-any.whl",
-  "download_time": "2026-01-08T10:49:03.607970",
+  "download_filename": "pushi_service-0.4.4.tar.gz",
+  "download_time": "2026-01-08T11:15:14.038303",
   "package_url": "https://pypi.org/project/pushi-service/"
 }

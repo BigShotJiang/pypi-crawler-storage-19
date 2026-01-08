@@ -1,0 +1,11 @@
+{
+  "name": "uvx-excel-read-dbmod",
+  "version": "0.2.1",
+  "summary": "用数据库的方式提供读取、分析 Excel 文件的 MCP 服务",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "uvx_excel_read_dbmod-0.2.1.tar.gz",
+  "download_time": "2026-01-08T11:15:29.174160",
+  "package_url": "https://pypi.org/project/uvx-excel-read-dbmod/"
+}

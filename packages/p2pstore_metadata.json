@@ -1,0 +1,11 @@
+{
+  "name": "p2pstore",
+  "version": "0.1.8.post1",
+  "summary": "P2P Store - 基于 RDMA 的高性能分布式数据传输系统, 使用 Redis 作为元数据管理器",
+  "author": "Paddle",
+  "license": null,
+  "home_page": null,
+  "download_filename": "p2pstore-0.1.8.post1.tar.gz",
+  "download_time": "2026-01-08T11:14:51.921225",
+  "package_url": "https://pypi.org/project/p2pstore/"
+}

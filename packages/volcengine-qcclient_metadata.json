@@ -1,0 +1,11 @@
+{
+  "name": "volcengine-qcclient",
+  "version": "0.1.22",
+  "summary": "A Python client for volcengine quantum chemistry service.",
+  "author": "Lifei Chen",
+  "license": "MIT",
+  "home_page": "https://github.com/yourusername/myclient",
+  "download_filename": "volcengine_qcclient-0.1.22-py3-none-any.whl",
+  "download_time": "2026-01-08T11:15:11.929027",
+  "package_url": "https://pypi.org/project/volcengine-qcclient/"
+}
