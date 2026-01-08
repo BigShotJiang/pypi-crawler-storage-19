@@ -1,0 +1,11 @@
+{
+  "name": "pynsi",
+  "version": "0.4.4",
+  "summary": "NSI2000 Professional Antenna Measurement Software Automation Module",
+  "author": "Hüseyin YİĞİT",
+  "license": "CC BY-NC-SA 4.0",
+  "home_page": "https://github.com/yigithsyn/pynsi",
+  "download_filename": "pynsi-0.4.4.tar.gz",
+  "download_time": "2026-01-08T07:20:27.523393",
+  "package_url": "https://pypi.org/project/pynsi/"
+}

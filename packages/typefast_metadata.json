@@ -1,0 +1,11 @@
+{
+  "name": "typefast",
+  "version": "1.0.0",
+  "summary": "Terminal-based adaptive typing practice with progressive key learning",
+  "author": "Will Isackson",
+  "license": "MIT",
+  "home_page": "https://github.com/seikixtc/typefast",
+  "download_filename": "typefast-1.0.0.tar.gz",
+  "download_time": "2026-01-08T07:20:10.287392",
+  "package_url": "https://pypi.org/project/typefast/"
+}

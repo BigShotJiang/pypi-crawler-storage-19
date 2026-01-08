@@ -1,11 +1,11 @@
 {
   "name": "c-breaker",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "summary": "A flexible circuit breaker library for Python with multiple failure detection strategies and Redis support",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "c_breaker-0.1.4.tar.gz",
-  "download_time": "2026-01-07T04:33:55.174701",
+  "download_filename": "c_breaker-0.1.5.tar.gz",
+  "download_time": "2026-01-08T07:19:57.705183",
   "package_url": "https://pypi.org/project/c-breaker/"
 }

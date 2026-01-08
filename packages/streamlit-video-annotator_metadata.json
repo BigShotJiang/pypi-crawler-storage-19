@@ -1,0 +1,11 @@
+{
+  "name": "streamlit-video-annotator",
+  "version": "0.1.0",
+  "summary": "A Streamlit component for annotating videos with drawable regions and time-range markers",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "streamlit_video_annotator-0.1.0.tar.gz",
+  "download_time": "2026-01-08T07:20:04.518060",
+  "package_url": "https://pypi.org/project/streamlit-video-annotator/"
+}

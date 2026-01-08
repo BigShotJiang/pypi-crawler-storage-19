@@ -1,0 +1,11 @@
+{
+  "name": "android-sms-gateway",
+  "version": "3.1.1",
+  "summary": "A client library for sending and managing SMS messages via the SMS Gateway for Android API",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "android_sms_gateway-3.1.1.tar.gz",
+  "download_time": "2026-01-08T07:20:22.731574",
+  "package_url": "https://pypi.org/project/android-sms-gateway/"
+}

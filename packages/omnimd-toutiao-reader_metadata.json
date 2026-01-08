@@ -1,0 +1,11 @@
+{
+  "name": "omnimd-toutiao-reader",
+  "version": "0.1.4",
+  "summary": "A plugin for omni-article-markdown to read Toutiao content.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "omnimd_toutiao_reader-0.1.4.tar.gz",
+  "download_time": "2026-01-08T07:20:08.729515",
+  "package_url": "https://pypi.org/project/omnimd-toutiao-reader/"
+}

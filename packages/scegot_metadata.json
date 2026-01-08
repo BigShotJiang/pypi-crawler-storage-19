@@ -1,0 +1,11 @@
+{
+  "name": "scegot",
+  "version": "0.3.0",
+  "summary": "single cell trajectory inference framework based on Entropic Gaussian mixture Optimal Transport",
+  "author": "Toshiaki Yachimura",
+  "license": "MIT",
+  "home_page": "https://yachimura-lab.github.io/scEGOT/",
+  "download_filename": "scegot-0.3.0.tar.gz",
+  "download_time": "2026-01-08T07:20:14.444423",
+  "package_url": "https://pypi.org/project/scegot/"
+}

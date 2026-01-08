@@ -1,0 +1,11 @@
+{
+  "name": "aiostun",
+  "version": "0.6.1",
+  "summary": "Asynchronous STUN client for Python with UDP, TCP and TLS support",
+  "author": "Denis MACHARD",
+  "license": null,
+  "home_page": "https://github.com/dmachard/python-aiostun",
+  "download_filename": "aiostun-0.6.1.tar.gz",
+  "download_time": "2026-01-08T07:19:56.141543",
+  "package_url": "https://pypi.org/project/aiostun/"
+}
