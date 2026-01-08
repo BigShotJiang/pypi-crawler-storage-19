@@ -1,0 +1,11 @@
+{
+  "name": "textract-hocr",
+  "version": "0.1.3",
+  "summary": "Convert AWS Textract JSON output to hOCR format",
+  "author": "BlueBox WorldWide, textract-hocr contributors",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "textract_hocr-0.1.3.tar.gz",
+  "download_time": "2026-01-08T06:56:16.317407",
+  "package_url": "https://pypi.org/project/textract-hocr/"
+}

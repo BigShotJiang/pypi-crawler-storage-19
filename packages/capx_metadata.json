@@ -1,0 +1,11 @@
+{
+  "name": "capx",
+  "version": "0.1.4",
+  "summary": "reCAPTCHA v2 Image Solver using YOLO and Selenium",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "capx-0.1.4.tar.gz",
+  "download_time": "2026-01-08T06:56:07.423430",
+  "package_url": "https://pypi.org/project/capx/"
+}

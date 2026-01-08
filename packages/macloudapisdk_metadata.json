@@ -1,0 +1,11 @@
+{
+  "name": "macloudapisdk",
+  "version": "1.0.3",
+  "summary": "Api Sdk For Python",
+  "author": "macloudapisdk",
+  "license": null,
+  "home_page": "https://github.com/macloud-api/macloud-python",
+  "download_filename": "macloudapisdk-1.0.3.tar.gz",
+  "download_time": "2026-01-08T06:55:56.876612",
+  "package_url": "https://pypi.org/project/macloudapisdk/"
+}
