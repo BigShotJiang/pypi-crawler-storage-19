@@ -1,0 +1,11 @@
+{
+  "name": "network-manager-provider",
+  "version": "0.0.1a2",
+  "summary": "A corc plugin for providing network infrastructure",
+  "author": "Rasmus Munk",
+  "license": "GNU General Public License v2 (GPLv2)",
+  "home_page": "https://github.com/rasmunk/network_manager_provider",
+  "download_filename": "network_manager_provider-0.0.1a2.tar.gz",
+  "download_time": "2026-01-08T13:23:16.714515",
+  "package_url": "https://pypi.org/project/network-manager-provider/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "mcp-ssh-vps",
+  "version": "0.5.0",
+  "summary": "MCP server for managing VPS via SSH - gives AI agents secure access to remote servers",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mcp_ssh_vps-0.5.0.tar.gz",
+  "download_time": "2026-01-08T13:23:41.012392",
+  "package_url": "https://pypi.org/project/mcp-ssh-vps/"
+}

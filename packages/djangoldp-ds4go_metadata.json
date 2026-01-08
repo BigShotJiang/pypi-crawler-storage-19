@@ -1,11 +1,11 @@
 {
   "name": "djangoldp-ds4go",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "summary": "djangoldp package for dataspace interoperability framework",
   "author": "Startin'blox",
   "license": "MIT",
   "home_page": "https://git.startinblox.com/djangoldp-packages/djangoldp-ds4go",
-  "download_filename": "djangoldp_ds4go-1.0.0.tar.gz",
-  "download_time": "2026-01-08T12:30:16.195559",
+  "download_filename": "djangoldp_ds4go-1.0.2.tar.gz",
+  "download_time": "2026-01-08T13:23:55.632802",
   "package_url": "https://pypi.org/project/djangoldp-ds4go/"
 }

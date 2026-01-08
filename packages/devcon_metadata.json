@@ -1,11 +1,11 @@
 {
   "name": "devcon",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "Generate VS Code devcontainer configurations for MacOS",
   "author": "DevCon Contributors",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "devcon-0.1.1.tar.gz",
-  "download_time": "2026-01-08T12:29:49.246352",
+  "download_filename": "devcon-0.1.2.tar.gz",
+  "download_time": "2026-01-08T13:23:57.936617",
   "package_url": "https://pypi.org/project/devcon/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "e3series",
+  "version": "26.20.0",
+  "summary": "Python wrapper and utilities for the E3.series COM interface.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "e3series-26.20.0-py3-none-any.whl",
+  "download_time": "2026-01-08T13:23:11.353331",
+  "package_url": "https://pypi.org/project/e3series/"
+}

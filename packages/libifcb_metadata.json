@@ -1,0 +1,11 @@
+{
+  "name": "libifcb",
+  "version": "0.8",
+  "summary": "A Python module for interacting with IFCB data.",
+  "author": null,
+  "license": "LGPL-3.0",
+  "home_page": null,
+  "download_filename": "libifcb-0.8.tar.gz",
+  "download_time": "2026-01-08T13:23:13.741250",
+  "package_url": "https://pypi.org/project/libifcb/"
+}

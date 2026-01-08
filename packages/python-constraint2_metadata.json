@@ -1,0 +1,11 @@
+{
+  "name": "python-constraint2",
+  "version": "2.5.0",
+  "summary": "python-constraint is a module for efficiently solving CSPs (Constraint Solving Problems) over finite domains.",
+  "author": "Floris-Jan Willemsen",
+  "license": null,
+  "home_page": null,
+  "download_filename": "python_constraint2-2.5.0.tar.gz",
+  "download_time": "2026-01-08T13:23:29.696674",
+  "package_url": "https://pypi.org/project/python-constraint2/"
+}

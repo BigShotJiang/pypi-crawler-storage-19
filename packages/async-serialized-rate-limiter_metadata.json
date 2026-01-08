@@ -1,11 +1,11 @@
 {
   "name": "async-serialized-rate-limiter",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "summary": "A strict asyncio rate limiter with serialized execution and sliding-window guarantees",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "async_serialized_rate_limiter-0.2.1.tar.gz",
-  "download_time": "2026-01-08T12:30:26.512926",
+  "download_filename": "async_serialized_rate_limiter-0.2.2.tar.gz",
+  "download_time": "2026-01-08T13:24:01.378909",
   "package_url": "https://pypi.org/project/async-serialized-rate-limiter/"
 }
