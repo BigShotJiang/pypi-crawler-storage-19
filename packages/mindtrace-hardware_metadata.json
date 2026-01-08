@@ -1,0 +1,11 @@
+{
+  "name": "mindtrace-hardware",
+  "version": "0.7.1",
+  "summary": "Hardware integration for Mindtrace",
+  "author": "Mindtrace Team",
+  "license": null,
+  "home_page": null,
+  "download_filename": "mindtrace_hardware-0.7.1.tar.gz",
+  "download_time": "2026-01-08T19:15:34.012864",
+  "package_url": "https://pypi.org/project/mindtrace-hardware/"
+}

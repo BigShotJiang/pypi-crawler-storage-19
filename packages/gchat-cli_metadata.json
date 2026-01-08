@@ -1,0 +1,11 @@
+{
+  "name": "gchat-cli",
+  "version": "0.2.1",
+  "summary": "Google Chat CLI - Send messages from the command line",
+  "author": "Chad Saunders",
+  "license": null,
+  "home_page": null,
+  "download_filename": "gchat_cli-0.2.1.tar.gz",
+  "download_time": "2026-01-08T19:15:00.703472",
+  "package_url": "https://pypi.org/project/gchat-cli/"
+}

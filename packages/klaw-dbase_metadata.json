@@ -1,11 +1,11 @@
 {
   "name": "klaw-dbase",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "Fast Polars-based reading/writing of dBase/DBF files with async I/O and compression support",
   "author": null,
   "license": "MIT",
   "home_page": "https://github.com/wrath-codes/klaw",
-  "download_filename": "klaw_dbase-0.1.1.tar.gz",
-  "download_time": "2026-01-07T23:14:22.919340",
+  "download_filename": "klaw_dbase-0.1.2.tar.gz",
+  "download_time": "2026-01-08T19:15:23.123082",
   "package_url": "https://pypi.org/project/klaw-dbase/"
 }

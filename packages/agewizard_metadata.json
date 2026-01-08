@@ -1,11 +1,11 @@
 {
   "name": "agewizard",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "summary": "A powerful age calculator library",
   "author": "Kamran Hussain",
   "license": null,
   "home_page": "https://github.com/KamranProjects/agewizard",
-  "download_filename": "agewizard-0.1.1.tar.gz",
-  "download_time": "2026-01-08T18:52:04.314297",
+  "download_filename": "agewizard-0.2.0.tar.gz",
+  "download_time": "2026-01-08T19:15:00.191075",
   "package_url": "https://pypi.org/project/agewizard/"
 }

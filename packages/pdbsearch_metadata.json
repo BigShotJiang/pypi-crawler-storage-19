@@ -1,0 +1,11 @@
+{
+  "name": "pdbsearch",
+  "version": "0.5.0",
+  "summary": "A library for searching the RCSB PDB database",
+  "author": "Sam Ireland",
+  "license": "MIT",
+  "home_page": "https://pdbsearch.samireland.com",
+  "download_filename": "pdbsearch-0.5.0-py3-none-any.whl",
+  "download_time": "2026-01-08T19:14:58.128282",
+  "package_url": "https://pypi.org/project/pdbsearch/"
+}

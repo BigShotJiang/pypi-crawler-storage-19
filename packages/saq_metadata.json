@@ -1,0 +1,11 @@
+{
+  "name": "saq",
+  "version": "0.26.1",
+  "summary": "Distributed Python job queue with asyncio and redis",
+  "author": "Toby Mao",
+  "license": "MIT",
+  "home_page": "https://github.com/tobymao/saq",
+  "download_filename": "saq-0.26.1.tar.gz",
+  "download_time": "2026-01-08T19:15:24.712954",
+  "package_url": "https://pypi.org/project/saq/"
+}

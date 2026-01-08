@@ -1,11 +1,11 @@
 {
   "name": "pytest-jux",
-  "version": "0.4.0",
+  "version": "0.4.1",
   "summary": "A pytest plugin for signing and publishing JUnit XML test reports to the Jux REST API",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "pytest_jux-0.4.0.tar.gz",
-  "download_time": "2026-01-08T16:55:30.724679",
+  "download_filename": "pytest_jux-0.4.1.tar.gz",
+  "download_time": "2026-01-08T19:15:22.610555",
   "package_url": "https://pypi.org/project/pytest-jux/"
 }
