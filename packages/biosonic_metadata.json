@@ -1,0 +1,11 @@
+{
+  "name": "biosonic",
+  "version": "0.1.6",
+  "summary": "The biosonic package contains tools for bioacoustic analysis.",
+  "author": "Lena Gies",
+  "license": null,
+  "home_page": null,
+  "download_filename": "biosonic-0.1.6.tar.gz",
+  "download_time": "2026-01-08T10:49:44.284916",
+  "package_url": "https://pypi.org/project/biosonic/"
+}

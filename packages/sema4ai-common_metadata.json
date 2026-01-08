@@ -1,0 +1,11 @@
+{
+  "name": "sema4ai-common",
+  "version": "0.3.0",
+  "summary": "Sema4AI Common",
+  "author": "Sema4.ai Engineering",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/Sema4AI/actions/",
+  "download_filename": "sema4ai_common-0.3.0.tar.gz",
+  "download_time": "2026-01-08T10:49:37.039745",
+  "package_url": "https://pypi.org/project/sema4ai-common/"
+}

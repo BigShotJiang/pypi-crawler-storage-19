@@ -1,0 +1,11 @@
+{
+  "name": "qreu",
+  "version": "0.16.0",
+  "summary": "EMail Wrapper",
+  "author": "GISCE-TI, S.L.",
+  "license": "MIT",
+  "home_page": "https://github.com/gisce/qreu",
+  "download_filename": "qreu-0.16.0.tar.gz",
+  "download_time": "2026-01-08T10:49:36.529941",
+  "package_url": "https://pypi.org/project/qreu/"
+}

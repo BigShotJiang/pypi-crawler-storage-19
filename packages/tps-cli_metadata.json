@@ -1,0 +1,11 @@
+{
+  "name": "tps-cli",
+  "version": "0.1.0",
+  "summary": "CLI tool for testing Third-Party App integrations via TPS service",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "tps_cli-0.1.0.tar.gz",
+  "download_time": "2026-01-08T10:49:38.571478",
+  "package_url": "https://pypi.org/project/tps-cli/"
+}

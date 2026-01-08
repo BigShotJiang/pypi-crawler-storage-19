@@ -1,11 +1,11 @@
 {
   "name": "aegis-proto",
-  "version": "0.1.9",
+  "version": "0.1.11",
   "summary": "Aegis Platform Protobuf Definitions",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "aegis_proto-0.1.9.tar.gz",
-  "download_time": "2026-01-07T16:20:41.146175",
+  "download_filename": "aegis_proto-0.1.11.tar.gz",
+  "download_time": "2026-01-08T10:49:17.662162",
   "package_url": "https://pypi.org/project/aegis-proto/"
 }

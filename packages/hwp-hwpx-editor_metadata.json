@@ -1,11 +1,11 @@
 {
   "name": "hwp-hwpx-editor",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "JVM 기반 HWP/HWPX 문서 편집 라이브러리 (hwp-hwpx-parser 확장)",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "hwp_hwpx_editor-0.1.0.tar.gz",
-  "download_time": "2026-01-08T07:54:03.497484",
+  "download_filename": "hwp_hwpx_editor-0.1.1.tar.gz",
+  "download_time": "2026-01-08T10:49:30.537231",
   "package_url": "https://pypi.org/project/hwp-hwpx-editor/"
 }

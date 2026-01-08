@@ -1,0 +1,11 @@
+{
+  "name": "v5-relevance",
+  "version": "1.1.1",
+  "summary": "V5版相关度算法 - 基于jieba的中文文本相关度计算",
+  "author": "元龙居士",
+  "license": "MIT",
+  "home_page": "https://github.com/your-username/v5-relevance",
+  "download_filename": "v5_relevance-1.1.1.tar.gz",
+  "download_time": "2026-01-08T10:49:01.055398",
+  "package_url": "https://pypi.org/project/v5-relevance/"
+}
