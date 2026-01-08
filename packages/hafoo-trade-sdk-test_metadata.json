@@ -1,11 +1,11 @@
 {
   "name": "hafoo-trade-sdk-test",
-  "version": "1.0.10",
+  "version": "1.0.12",
   "summary": "Order Service SDK for Python",
   "author": "KuBoy",
   "license": null,
   "home_page": "https://github.com/KuBoy/hafoo_trade_sdk_test",
-  "download_filename": "hafoo_trade_sdk_test-1.0.10-py3-none-any.whl",
-  "download_time": "2026-01-08T09:49:35.863533",
+  "download_filename": "hafoo_trade_sdk_test-1.0.12-py3-none-any.whl",
+  "download_time": "2026-01-08T10:17:28.308162",
   "package_url": "https://pypi.org/project/hafoo-trade-sdk-test/"
 }

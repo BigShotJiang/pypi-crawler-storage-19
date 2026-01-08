@@ -1,11 +1,11 @@
 {
   "name": "torch-admp",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "summary": "ADMP in PyTorch backend",
   "author": null,
   "license": "SPDX-License-Identifier: LGPL-3.0-or-later\n        ",
   "home_page": null,
-  "download_filename": "torch_admp-1.1.0.tar.gz",
-  "download_time": "2026-01-08T09:49:19.939521",
+  "download_filename": "torch_admp-1.1.1.tar.gz",
+  "download_time": "2026-01-08T10:17:39.388332",
   "package_url": "https://pypi.org/project/torch-admp/"
 }

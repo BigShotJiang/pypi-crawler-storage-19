@@ -1,0 +1,11 @@
+{
+  "name": "databricks-sql-connector",
+  "version": "4.2.4",
+  "summary": "Databricks SQL Connector for Python",
+  "author": "Databricks",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "databricks_sql_connector-4.2.4.tar.gz",
+  "download_time": "2026-01-08T10:18:06.525835",
+  "package_url": "https://pypi.org/project/databricks-sql-connector/"
+}

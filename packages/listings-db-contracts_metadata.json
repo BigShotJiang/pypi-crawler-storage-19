@@ -1,0 +1,11 @@
+{
+  "name": "listings-db-contracts",
+  "version": "1.0.6",
+  "summary": "Data contracts for the Finder property listings application",
+  "author": "giacomokavanagh",
+  "license": null,
+  "home_page": null,
+  "download_filename": "listings_db_contracts-1.0.6.tar.gz",
+  "download_time": "2026-01-08T10:17:25.716559",
+  "package_url": "https://pypi.org/project/listings-db-contracts/"
+}

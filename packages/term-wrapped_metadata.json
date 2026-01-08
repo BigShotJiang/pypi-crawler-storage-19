@@ -1,0 +1,11 @@
+{
+  "name": "term-wrapped",
+  "version": "0.1.1",
+  "summary": "Your year in the terminal - a visual wrapped experience for shell commands",
+  "author": "Sina",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "term_wrapped-0.1.1.tar.gz",
+  "download_time": "2026-01-08T10:17:41.967061",
+  "package_url": "https://pypi.org/project/term-wrapped/"
+}

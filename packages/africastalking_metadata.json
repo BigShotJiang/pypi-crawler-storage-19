@@ -1,0 +1,11 @@
+{
+  "name": "africastalking",
+  "version": "2.0.2",
+  "summary": "Official Africa's Talking Python SDK",
+  "author": "Africa's Talking",
+  "license": "MIT",
+  "home_page": "https://github.com/AfricasTalkingLtd/africastalking-python",
+  "download_filename": "africastalking-2.0.2.tar.gz",
+  "download_time": "2026-01-08T10:18:03.383815",
+  "package_url": "https://pypi.org/project/africastalking/"
+}

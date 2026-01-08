@@ -1,0 +1,11 @@
+{
+  "name": "Publ",
+  "version": "0.8.6",
+  "summary": "A flexible web-based publishing framework",
+  "author": "fluffy",
+  "license": "MIT",
+  "home_page": "https://publ.plaidweb.site/",
+  "download_filename": "publ-0.8.6.tar.gz",
+  "download_time": "2026-01-08T10:17:45.584620",
+  "package_url": "https://pypi.org/project/Publ/"
+}

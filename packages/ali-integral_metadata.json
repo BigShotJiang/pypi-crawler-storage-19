@@ -1,0 +1,11 @@
+{
+  "name": "ali-integral",
+  "version": "1.2.0",
+  "summary": "A Python library for calculating Information Flux at the Cauchy Horizon",
+  "author": "Ali (Troxter222)",
+  "license": null,
+  "home_page": "https://github.com/Troxter222/Ali_Integral_Project",
+  "download_filename": "ali_integral-1.2.0.tar.gz",
+  "download_time": "2026-01-08T10:18:01.698815",
+  "package_url": "https://pypi.org/project/ali-integral/"
+}

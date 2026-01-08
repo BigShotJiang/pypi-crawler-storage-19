@@ -1,0 +1,11 @@
+{
+  "name": "lens-grove-cli",
+  "version": "0.2.0",
+  "summary": "A command line interface for the Lens Grove storage network",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "lens_grove_cli-0.2.0.tar.gz",
+  "download_time": "2026-01-08T10:17:55.945274",
+  "package_url": "https://pypi.org/project/lens-grove-cli/"
+}

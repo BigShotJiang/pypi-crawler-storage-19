@@ -1,0 +1,11 @@
+{
+  "name": "py-cxx-builder",
+  "version": "0.1.1",
+  "summary": "Build C++ extensions for Python with cross-platform support (MSVC/GCC)",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "py_cxx_builder-0.1.1.tar.gz",
+  "download_time": "2026-01-08T10:17:24.700403",
+  "package_url": "https://pypi.org/project/py-cxx-builder/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-ddmrp",
+  "version": "18.0.1.5.3",
+  "summary": "Demand Driven Material Requirements Planning",
+  "author": "ForgeFlow, Odoo Community Association (OCA)",
+  "license": "LGPL-3",
+  "home_page": "https://github.com/OCA/ddmrp",
+  "download_filename": "odoo_addon_ddmrp-18.0.1.5.3-py3-none-any.whl",
+  "download_time": "2026-01-08T10:17:58.574315",
+  "package_url": "https://pypi.org/project/odoo-addon-ddmrp/"
+}
