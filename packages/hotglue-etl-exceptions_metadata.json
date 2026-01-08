@@ -1,0 +1,11 @@
+{
+  "name": "hotglue-etl-exceptions",
+  "version": "0.1.0",
+  "summary": "Exception classes for Hotglue ETL",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "hotglue_etl_exceptions-0.1.0.tar.gz",
+  "download_time": "2026-01-08T01:05:03.936582",
+  "package_url": "https://pypi.org/project/hotglue-etl-exceptions/"
+}

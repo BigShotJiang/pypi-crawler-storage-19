@@ -1,11 +1,11 @@
 {
   "name": "jec-api",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "summary": "Beta version of JEC API",
-  "author": "Nik",
+  "author": "nik",
   "license": null,
   "home_page": null,
-  "download_filename": "jec_api-0.0.1.tar.gz",
-  "download_time": "2026-01-07T23:51:19.602627",
+  "download_filename": "jec_api-0.0.3.tar.gz",
+  "download_time": "2026-01-08T01:05:32.148825",
   "package_url": "https://pypi.org/project/jec-api/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "comet-emu",
+  "version": "2.1.0",
+  "summary": "COMET - Cosmological Observables Modelled by Emulated perturbation Theory.",
+  "author": "Alex Eggemeier, Benjamin Camacho-Quevedo, Andrea Pezzotta, Martin Crocce, Román Scoccimarro, Ariel Sánchez",
+  "license": "MIT License",
+  "home_page": "https://gitlab.com/aegge/comet-emu",
+  "download_filename": "comet_emu-2.1.0-cp39-cp39-macosx_13_0_x86_64.whl",
+  "download_time": "2026-01-08T01:05:08.309430",
+  "package_url": "https://pypi.org/project/comet-emu/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "pysio-hermes-dots",
+  "version": "0.0.3",
+  "summary": "A Movella DOTs IMUs support module for HERMES",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pysio_hermes_dots-0.0.3.tar.gz",
+  "download_time": "2026-01-08T01:05:30.104601",
+  "package_url": "https://pypi.org/project/pysio-hermes-dots/"
+}

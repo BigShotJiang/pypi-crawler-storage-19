@@ -1,0 +1,11 @@
+{
+  "name": "justpath",
+  "version": "0.0.18",
+  "summary": "Explore PATH environment variable on Windows and Linux.",
+  "author": "Evgeny Pogrebnyak",
+  "license": "GNU",
+  "home_page": "https://github.com/epogrebnyak/justpath",
+  "download_filename": "justpath-0.0.18.tar.gz",
+  "download_time": "2026-01-08T01:05:04.447818",
+  "package_url": "https://pypi.org/project/justpath/"
+}

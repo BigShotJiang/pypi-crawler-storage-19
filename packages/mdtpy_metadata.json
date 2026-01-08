@@ -1,11 +1,11 @@
 {
   "name": "mdtpy",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "summary": "Python binding for MDT Platform",
   "author": "Kang-Woo Lee",
   "license": null,
   "home_page": null,
-  "download_filename": "mdtpy-0.1.5.tar.gz",
-  "download_time": "2026-01-07T10:16:30.790295",
+  "download_filename": "mdtpy-0.1.6.tar.gz",
+  "download_time": "2026-01-08T01:05:21.041535",
   "package_url": "https://pypi.org/project/mdtpy/"
 }
