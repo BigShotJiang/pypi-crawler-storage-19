@@ -1,0 +1,11 @@
+{
+  "name": "p4p",
+  "version": "4.2.2",
+  "summary": "Python interface to PVAccess protocol client",
+  "author": "Michael Davidsaver",
+  "license": "BSD",
+  "home_page": "https://epics-base.github.io/p4p",
+  "download_filename": "p4p-4.2.2.tar.gz",
+  "download_time": "2026-01-08T04:52:09.968845",
+  "package_url": "https://pypi.org/project/p4p/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "pytest-xhtml",
+  "version": "0.3.0",
+  "summary": "pytest plugin for generating HTML reports",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pytest_xhtml-0.3.0.tar.gz",
+  "download_time": "2026-01-08T04:52:11.284551",
+  "package_url": "https://pypi.org/project/pytest-xhtml/"
+}

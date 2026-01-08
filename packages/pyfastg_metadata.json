@@ -1,0 +1,11 @@
+{
+  "name": "pyfastg",
+  "version": "0.2.0",
+  "summary": "Minimal Python library for parsing SPAdes FASTG files",
+  "author": "Nick Waters, Marcus Fedarko",
+  "license": "MIT",
+  "home_page": "https://github.com/fedarko/pyfastg",
+  "download_filename": "pyfastg-0.2.0.tar.gz",
+  "download_time": "2026-01-08T04:52:02.574816",
+  "package_url": "https://pypi.org/project/pyfastg/"
+}
