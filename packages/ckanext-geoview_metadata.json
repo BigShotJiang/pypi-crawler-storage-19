@@ -1,0 +1,11 @@
+{
+  "name": "ckanext-geoview",
+  "version": "0.3.1",
+  "summary": "Geospatial viewers for CKAN resources",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ckanext_geoview-0.3.1.tar.gz",
+  "download_time": "2026-01-08T12:30:08.825429",
+  "package_url": "https://pypi.org/project/ckanext-geoview/"
+}

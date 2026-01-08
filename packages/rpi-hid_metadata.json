@@ -1,11 +1,11 @@
 {
   "name": "rpi-hid",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "summary": "Raspberry Pi USB HID Keyboard + RubberDucky Interpreter",
   "author": "Abhirup Rudra",
   "license": "MIT",
   "home_page": "https://github.com/AbhirupRudra/RPI-HID/",
-  "download_filename": "rpi_hid-1.0.3.tar.gz",
-  "download_time": "2026-01-08T08:52:44.169525",
+  "download_filename": "rpi_hid-1.0.4.tar.gz",
+  "download_time": "2026-01-08T12:29:52.321472",
   "package_url": "https://pypi.org/project/rpi-hid/"
 }

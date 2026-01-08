@@ -1,0 +1,11 @@
+{
+  "name": "jcclang",
+  "version": "0.1.4",
+  "summary": "A platform-adaptive task framework for cloud-edge scenarios",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "jcclang-0.1.4.tar.gz",
+  "download_time": "2026-01-08T12:29:55.935307",
+  "package_url": "https://pypi.org/project/jcclang/"
+}

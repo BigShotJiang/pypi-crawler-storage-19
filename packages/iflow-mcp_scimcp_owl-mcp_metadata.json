@@ -1,0 +1,11 @@
+{
+  "name": "iflow-mcp_scimcp_owl-mcp",
+  "version": "0.1.4",
+  "summary": "A MCP server for OWL ontology operations",
+  "author": "OWL Server Team",
+  "license": null,
+  "home_page": null,
+  "download_filename": "iflow_mcp_scimcp_owl_mcp-0.1.4.tar.gz",
+  "download_time": "2026-01-08T12:30:13.637630",
+  "package_url": "https://pypi.org/project/iflow-mcp_scimcp_owl-mcp/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "snapm",
+  "version": "0.7.0",
+  "summary": "Snapshot Manager",
+  "author": "Bryn M. Reeves",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/snapshotmanager/snapm",
+  "download_filename": "snapm-0.7.0.tar.gz",
+  "download_time": "2026-01-08T12:29:47.200712",
+  "package_url": "https://pypi.org/project/snapm/"
+}

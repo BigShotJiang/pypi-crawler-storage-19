@@ -1,0 +1,11 @@
+{
+  "name": "iflow-mcp_piebro_vlc-mcp-server",
+  "version": "0.2.0",
+  "summary": "An MCP (Model Contex Protocol) Server to play and control movies using VLC.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "iflow_mcp_piebro_vlc_mcp_server-0.2.0.tar.gz",
+  "download_time": "2026-01-08T12:30:28.060509",
+  "package_url": "https://pypi.org/project/iflow-mcp_piebro_vlc-mcp-server/"
+}

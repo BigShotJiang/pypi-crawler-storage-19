@@ -1,11 +1,11 @@
 {
   "name": "agno",
-  "version": "2.3.23",
+  "version": "2.3.24",
   "summary": "Agno: a lightweight library for building Multi-Agent Systems",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "agno-2.3.23.tar.gz",
-  "download_time": "2026-01-07T15:16:58.244839",
+  "download_filename": "agno-2.3.24.tar.gz",
+  "download_time": "2026-01-08T12:29:52.845355",
   "package_url": "https://pypi.org/project/agno/"
 }

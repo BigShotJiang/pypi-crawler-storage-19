@@ -1,0 +1,11 @@
+{
+  "name": "Orange3-Associate",
+  "version": "1.4.0",
+  "summary": "Orange add-on for mining frequent itemsets and association rules.",
+  "author": "Bioinformatics Laboratory, FRI UL",
+  "license": null,
+  "home_page": "https://github.com/biolab/orange3-associate",
+  "download_filename": "orange3_associate-1.4.0.tar.gz",
+  "download_time": "2026-01-08T12:30:12.098415",
+  "package_url": "https://pypi.org/project/Orange3-Associate/"
+}

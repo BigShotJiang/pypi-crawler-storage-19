@@ -1,0 +1,11 @@
+{
+  "name": "ai-security-cli",
+  "version": "1.0.0b1",
+  "summary": "Unified AI/LLM Security Scanner - Static Code Analysis + Live Model Testing",
+  "author": "AI Security CLI Team",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ai_security_cli-1.0.0b1.tar.gz",
+  "download_time": "2026-01-08T12:29:46.170009",
+  "package_url": "https://pypi.org/project/ai-security-cli/"
+}

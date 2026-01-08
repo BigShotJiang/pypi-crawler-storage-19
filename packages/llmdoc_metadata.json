@@ -1,0 +1,11 @@
+{
+  "name": "llmdoc",
+  "version": "0.1.11",
+  "summary": "MCP server with RAG for llms.txt documentation",
+  "author": "Author",
+  "license": null,
+  "home_page": null,
+  "download_filename": "llmdoc-0.1.11.tar.gz",
+  "download_time": "2026-01-08T12:30:21.360163",
+  "package_url": "https://pypi.org/project/llmdoc/"
+}

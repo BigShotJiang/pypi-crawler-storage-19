@@ -1,0 +1,11 @@
+{
+  "name": "swarm-contrastive-decomposition",
+  "version": "0.1.0",
+  "summary": "Decomposition of Neurophysiological Time Series Signals with a Particle Swarm Optimised Independence Estimator",
+  "author": null,
+  "license": "CC-BY-NC-4.0",
+  "home_page": null,
+  "download_filename": "swarm_contrastive_decomposition-0.1.0.tar.gz",
+  "download_time": "2026-01-08T12:30:07.794655",
+  "package_url": "https://pypi.org/project/swarm-contrastive-decomposition/"
+}

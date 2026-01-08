@@ -1,11 +1,11 @@
 {
   "name": "slack-clacks",
-  "version": "0.4.0",
+  "version": "0.4.2",
   "summary": "the default mode of degenerate communication.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "slack_clacks-0.4.0.tar.gz",
-  "download_time": "2026-01-08T11:51:41.207547",
+  "download_filename": "slack_clacks-0.4.2.tar.gz",
+  "download_time": "2026-01-08T12:29:43.078177",
   "package_url": "https://pypi.org/project/slack-clacks/"
 }

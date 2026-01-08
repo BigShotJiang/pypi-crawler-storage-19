@@ -1,0 +1,11 @@
+{
+  "name": "devqubit",
+  "version": "0.1.1",
+  "summary": "Quantum experiment tracking library",
+  "author": "devqubit",
+  "license": null,
+  "home_page": null,
+  "download_filename": "devqubit-0.1.1.tar.gz",
+  "download_time": "2026-01-08T12:30:06.766808",
+  "package_url": "https://pypi.org/project/devqubit/"
+}
