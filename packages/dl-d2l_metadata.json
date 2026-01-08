@@ -1,11 +1,11 @@
 {
   "name": "dl-d2l",
-  "version": "1.0.25",
+  "version": "1.0.27",
   "summary": "dl_d2l",
   "author": "d2l",
   "license": null,
   "home_page": "https://github.com/Castlebin/d2l_torch",
-  "download_filename": "dl_d2l-1.0.25.tar.gz",
-  "download_time": "2026-01-07T17:20:36.942445",
+  "download_filename": "dl_d2l-1.0.27.tar.gz",
+  "download_time": "2026-01-08T08:53:06.518393",
   "package_url": "https://pypi.org/project/dl-d2l/"
 }

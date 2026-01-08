@@ -1,0 +1,11 @@
+{
+  "name": "parashu",
+  "version": "0.1.0",
+  "summary": "A modular agent orchestration platform",
+  "author": "Chirag Juneja",
+  "license": null,
+  "home_page": null,
+  "download_filename": "parashu-0.1.0.tar.gz",
+  "download_time": "2026-01-08T08:53:13.160213",
+  "package_url": "https://pypi.org/project/parashu/"
+}

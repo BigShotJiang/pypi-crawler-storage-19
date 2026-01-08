@@ -1,0 +1,11 @@
+{
+  "name": "pydmmo",
+  "version": "0.1.0",
+  "summary": "Dynamic Multi-Modal Optimization in Python (pydmmo).",
+  "author": null,
+  "license": "GPL-3.0-or-later",
+  "home_page": null,
+  "download_filename": "pydmmo-0.1.0.tar.gz",
+  "download_time": "2026-01-08T08:52:45.286243",
+  "package_url": "https://pypi.org/project/pydmmo/"
+}

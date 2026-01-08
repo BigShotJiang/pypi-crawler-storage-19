@@ -1,11 +1,11 @@
 {
   "name": "py3-web",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "summary": "python3 web",
   "author": "mathewgeola",
   "license": null,
   "home_page": null,
-  "download_filename": "py3_web-0.0.4.tar.gz",
-  "download_time": "2026-01-07T07:20:17.891586",
+  "download_filename": "py3_web-0.0.5.tar.gz",
+  "download_time": "2026-01-08T08:52:59.460468",
   "package_url": "https://pypi.org/project/py3-web/"
 }
