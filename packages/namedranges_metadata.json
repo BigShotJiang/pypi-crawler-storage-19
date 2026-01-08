@@ -1,0 +1,11 @@
+{
+  "name": "namedranges",
+  "version": "0.8.1",
+  "summary": "Named ranges with utilities for index reflows",
+  "author": "Chris Czarnecki",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "namedranges-0.8.1.tar.gz",
+  "download_time": "2026-01-08T23:41:40.278310",
+  "package_url": "https://pypi.org/project/namedranges/"
+}

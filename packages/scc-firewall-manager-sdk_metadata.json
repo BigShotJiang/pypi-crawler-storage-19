@@ -1,11 +1,11 @@
 {
   "name": "scc-firewall-manager-sdk",
-  "version": "1.15.787",
+  "version": "1.15.788",
   "summary": "Cisco Security Cloud Control Firewall Manager API",
   "author": "Cisco Security Cloud Control TAC",
   "license": null,
   "home_page": null,
-  "download_filename": "scc_firewall_manager_sdk-1.15.787-py3-none-any.whl",
-  "download_time": "2026-01-08T23:29:47.372443",
+  "download_filename": "scc_firewall_manager_sdk-1.15.788-py3-none-any.whl",
+  "download_time": "2026-01-08T23:41:43.562174",
   "package_url": "https://pypi.org/project/scc-firewall-manager-sdk/"
 }

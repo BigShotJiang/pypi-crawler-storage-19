@@ -1,11 +1,11 @@
 {
   "name": "envdo",
-  "version": "0.0.6",
+  "version": "0.1.0",
   "summary": "为命令行程序配置临时的启动环境变量，特别适合为 claude code 配置切换模型。",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "envdo-0.0.6.tar.gz",
-  "download_time": "2026-01-08T10:17:24.189953",
+  "download_filename": "envdo-0.1.0.tar.gz",
+  "download_time": "2026-01-08T23:41:41.810347",
   "package_url": "https://pypi.org/project/envdo/"
 }

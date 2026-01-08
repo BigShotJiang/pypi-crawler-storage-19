@@ -1,0 +1,11 @@
+{
+  "name": "sai-rl",
+  "version": "0.1.37",
+  "summary": "SDK for creating machine learning models for the SAI Platform.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "sai_rl-0.1.37.tar.gz",
+  "download_time": "2026-01-08T23:41:42.963849",
+  "package_url": "https://pypi.org/project/sai-rl/"
+}

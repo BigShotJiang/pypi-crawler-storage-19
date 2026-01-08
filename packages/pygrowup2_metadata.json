@@ -1,0 +1,11 @@
+{
+  "name": "pygrowup2",
+  "version": "1.0.0",
+  "summary": "Calculate z-scores of anthropometric measurements based on WHO child growth standards",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pygrowup2-1.0.0.tar.gz",
+  "download_time": "2026-01-08T23:42:00.230067",
+  "package_url": "https://pypi.org/project/pygrowup2/"
+}
