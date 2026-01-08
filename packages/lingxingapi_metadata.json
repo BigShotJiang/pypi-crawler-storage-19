@@ -1,11 +1,11 @@
 {
   "name": "lingxingapi",
-  "version": "1.4.4",
+  "version": "1.4.5",
   "summary": "An async API client for LingXing (领星) ERP",
   "author": "Jiefu Chen",
   "license": "MIT license",
   "home_page": "https://github.com/AresJef/LingXingApi",
-  "download_filename": "lingxingapi-1.4.4.tar.gz",
-  "download_time": "2026-01-07T07:20:16.358035",
+  "download_filename": "lingxingapi-1.4.5.tar.gz",
+  "download_time": "2026-01-08T04:09:32.439050",
   "package_url": "https://pypi.org/project/lingxingapi/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "odoo14-addon-coupon-copy-product",
+  "version": "14.0.1.0.1.dev3",
+  "summary": "Duplicated Coupon Rewards share the same Product",
+  "author": "Ooops, PyTech, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/sale-promotion",
+  "download_filename": "odoo14_addon_coupon_copy_product-14.0.1.0.1.dev3-py3-none-any.whl",
+  "download_time": "2026-01-08T04:09:28.831097",
+  "package_url": "https://pypi.org/project/odoo14-addon-coupon-copy-product/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "llm-serving",
+  "version": "0.0.6",
+  "summary": "A package to perform LLM inference in Solenium/Unergy HQ",
+  "author": "Unergy/Solenium",
+  "license": null,
+  "home_page": "https://gitlab.com/unergy-dev/ai/llm_serving_module",
+  "download_filename": "llm_serving-0.0.6.tar.gz",
+  "download_time": "2026-01-08T04:09:15.292432",
+  "package_url": "https://pypi.org/project/llm-serving/"
+}

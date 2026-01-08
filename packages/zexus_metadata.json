@@ -1,0 +1,11 @@
+{
+  "name": "zexus",
+  "version": "1.6.8",
+  "summary": "A modern, security-first programming language with blockchain support",
+  "author": "Zaidux",
+  "license": "MIT",
+  "home_page": "https://github.com/Zaidux/zexus-interpreter",
+  "download_filename": "zexus-1.6.8.tar.gz",
+  "download_time": "2026-01-08T04:09:54.152404",
+  "package_url": "https://pypi.org/project/zexus/"
+}
