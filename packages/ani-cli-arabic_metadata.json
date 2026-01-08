@@ -1,0 +1,11 @@
+{
+  "name": "ani-cli-arabic",
+  "version": "1.8.1",
+  "summary": "Terminal-based anime streaming with Arabic subtitles",
+  "author": "np4abdou1",
+  "license": null,
+  "home_page": null,
+  "download_filename": "ani_cli_arabic-1.8.1.tar.gz",
+  "download_time": "2026-01-08T18:52:19.198429",
+  "package_url": "https://pypi.org/project/ani-cli-arabic/"
+}

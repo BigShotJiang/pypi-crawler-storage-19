@@ -1,0 +1,11 @@
+{
+  "name": "signalpilot",
+  "version": "0.5.1",
+  "summary": "SignalPilot CLI - Your Trusted CoPilot for Data Analysis",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "signalpilot-0.5.1.tar.gz",
+  "download_time": "2026-01-08T18:52:07.249683",
+  "package_url": "https://pypi.org/project/signalpilot/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "gofercorn",
+  "version": "0.0.0",
+  "summary": "Fast ASGI Server written in Go",
+  "author": "joegasewicz",
+  "license": "MIT",
+  "home_page": "https://github.com/joegasewicz/volk",
+  "download_filename": "gofercorn-0.0.0.tar.gz",
+  "download_time": "2026-01-08T18:52:12.840458",
+  "package_url": "https://pypi.org/project/gofercorn/"
+}

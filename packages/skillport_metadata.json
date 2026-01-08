@@ -1,0 +1,11 @@
+{
+  "name": "skillport",
+  "version": "1.1.1",
+  "summary": "SkillOps CLI for Agent Skills. Manage skills on disk; use skillport-mcp for indexed search.",
+  "author": "Gota",
+  "license": null,
+  "home_page": null,
+  "download_filename": "skillport-1.1.1.tar.gz",
+  "download_time": "2026-01-08T18:52:00.506615",
+  "package_url": "https://pypi.org/project/skillport/"
+}

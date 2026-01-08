@@ -1,0 +1,11 @@
+{
+  "name": "steeleagle-sdk",
+  "version": "1.0.15",
+  "summary": "SDK for interacting with SteelEagle vehicles.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "steeleagle_sdk-1.0.15.tar.gz",
+  "download_time": "2026-01-08T18:52:38.620342",
+  "package_url": "https://pypi.org/project/steeleagle-sdk/"
+}

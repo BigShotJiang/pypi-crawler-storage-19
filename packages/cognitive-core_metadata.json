@@ -1,0 +1,11 @@
+{
+  "name": "cognitive-core",
+  "version": "0.0.2",
+  "summary": "Cognitive Core - A meta-learning framework for learning from agent trajectories",
+  "author": "Alex Ngai",
+  "license": null,
+  "home_page": null,
+  "download_filename": "cognitive_core-0.0.2-py3-none-any.whl",
+  "download_time": "2026-01-08T18:52:04.857057",
+  "package_url": "https://pypi.org/project/cognitive-core/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "alfasim-sdk",
+  "version": "1.5.1",
+  "summary": "ALFAsim API/SDK",
+  "author": "ESSS",
+  "license": null,
+  "home_page": "https://github.com/esss/alfasim-sdk",
+  "download_filename": "alfasim_sdk-1.5.1.tar.gz",
+  "download_time": "2026-01-08T18:52:14.427836",
+  "package_url": "https://pypi.org/project/alfasim-sdk/"
+}

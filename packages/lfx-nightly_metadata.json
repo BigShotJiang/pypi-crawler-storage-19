@@ -1,11 +1,11 @@
 {
   "name": "lfx-nightly",
-  "version": "0.2.1.dev15",
+  "version": "0.2.1.dev17",
   "summary": "Langflow Executor - A lightweight CLI tool for executing and serving Langflow AI flows",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "lfx_nightly-0.2.1.dev15-py3-none-any.whl",
-  "download_time": "2026-01-07T23:14:45.680243",
+  "download_filename": "lfx_nightly-0.2.1.dev17-py3-none-any.whl",
+  "download_time": "2026-01-08T18:52:34.912552",
   "package_url": "https://pypi.org/project/lfx-nightly/"
 }
