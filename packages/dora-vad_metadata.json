@@ -1,0 +1,11 @@
+{
+  "name": "dora-vad",
+  "version": "0.3.14",
+  "summary": "Dora Node for Text translating using Argostranslate",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "dora_vad-0.3.14.tar.gz",
+  "download_time": "2026-01-08T20:57:51.207328",
+  "package_url": "https://pypi.org/project/dora-vad/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "vec-inf",
+  "version": "0.8.0",
+  "summary": "Efficient LLM inference on Slurm clusters using vLLM.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "vec_inf-0.8.0.tar.gz",
+  "download_time": "2026-01-08T20:57:24.304284",
+  "package_url": "https://pypi.org/project/vec-inf/"
+}

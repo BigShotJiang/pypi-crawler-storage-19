@@ -1,11 +1,11 @@
 {
   "name": "celery-types-ng",
-  "version": "0.25.5",
+  "version": "0.25.6",
   "summary": "Type stubs for Celery and its related packages",
   "author": "Steve Dignam",
   "license": null,
   "home_page": null,
-  "download_filename": "celery_types_ng-0.25.5.tar.gz",
-  "download_time": "2026-01-08T18:19:45.438231",
+  "download_filename": "celery_types_ng-0.25.6.tar.gz",
+  "download_time": "2026-01-08T20:57:04.986502",
   "package_url": "https://pypi.org/project/celery-types-ng/"
 }

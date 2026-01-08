@@ -1,11 +1,11 @@
 {
   "name": "mkdocs-material-joapuiib",
-  "version": "2.2.0",
+  "version": "2.2.1",
   "summary": "Custom theme for MkDocs",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "mkdocs_material_joapuiib-2.2.0.tar.gz",
-  "download_time": "2026-01-08T18:52:24.737644",
+  "download_filename": "mkdocs_material_joapuiib-2.2.1.tar.gz",
+  "download_time": "2026-01-08T20:57:37.359496",
   "package_url": "https://pypi.org/project/mkdocs-material-joapuiib/"
 }

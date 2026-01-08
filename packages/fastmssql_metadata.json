@@ -1,11 +1,11 @@
 {
   "name": "fastmssql",
-  "version": "0.5.5",
+  "version": "0.5.6",
   "summary": "A high-performance async Python library for Microsoft SQL Server built on Rust for heavy workloads and low latency.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "fastmssql-0.5.5.tar.gz",
-  "download_time": "2026-01-08T06:56:27.862354",
+  "download_filename": "fastmssql-0.5.6.tar.gz",
+  "download_time": "2026-01-08T20:57:46.521680",
   "package_url": "https://pypi.org/project/fastmssql/"
 }
