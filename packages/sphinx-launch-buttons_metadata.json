@@ -1,0 +1,11 @@
+{
+  "name": "sphinx-launch-buttons",
+  "version": "1.0.7",
+  "summary": "add custom launch buttons to shpinx / jupyter-book / TeachBook",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "sphinx_launch_buttons-1.0.7.tar.gz",
+  "download_time": "2026-01-08T14:19:46.088534",
+  "package_url": "https://pypi.org/project/sphinx-launch-buttons/"
+}

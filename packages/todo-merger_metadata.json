@@ -1,0 +1,11 @@
+{
+  "name": "todo-merger",
+  "version": "1.2.2",
+  "summary": "Provide an overview of your assigned issues on GitLab, GitLab and Microsoft Planner",
+  "author": "Max Mehl",
+  "license": "GPL-3.0-only",
+  "home_page": "https://github.com/mxmehl/todo-merger",
+  "download_filename": "todo_merger-1.2.2.tar.gz",
+  "download_time": "2026-01-08T14:19:38.238388",
+  "package_url": "https://pypi.org/project/todo-merger/"
+}

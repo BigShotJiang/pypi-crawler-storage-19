@@ -1,0 +1,11 @@
+{
+  "name": "svo-client",
+  "version": "2.2.9",
+  "summary": "Async client for SVO semantic chunker microservice.",
+  "author": "Vasiliy Zdanovskiy",
+  "license": null,
+  "home_page": "https://github.com/your_org/svo_client",
+  "download_filename": "svo_client-2.2.9.tar.gz",
+  "download_time": "2026-01-08T14:19:30.992383",
+  "package_url": "https://pypi.org/project/svo-client/"
+}

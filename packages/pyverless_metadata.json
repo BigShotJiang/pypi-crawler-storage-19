@@ -1,0 +1,11 @@
+{
+  "name": "pyverless",
+  "version": "0.0.56",
+  "summary": "A mini-framework providing tools to help you make complex APIs with serverless",
+  "author": "rperez",
+  "license": "BSD",
+  "home_page": "https://github.com/QuantumBA/pyverless",
+  "download_filename": "pyverless-0.0.56.tar.gz",
+  "download_time": "2026-01-08T14:19:58.094409",
+  "package_url": "https://pypi.org/project/pyverless/"
+}

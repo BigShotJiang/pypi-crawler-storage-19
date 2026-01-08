@@ -1,0 +1,11 @@
+{
+  "name": "test-step",
+  "version": "1.0.0",
+  "summary": "Test step decorator and HTML reporting plugin for pytest",
+  "author": "CUJO AI TestOps",
+  "license": null,
+  "home_page": "https://github.com/cujoai/test-step",
+  "download_filename": "test_step-1.0.0.tar.gz",
+  "download_time": "2026-01-08T14:19:51.803013",
+  "package_url": "https://pypi.org/project/test-step/"
+}

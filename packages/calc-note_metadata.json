@@ -1,0 +1,11 @@
+{
+  "name": "calc-note",
+  "version": "0.3.2",
+  "summary": "Collection of utilities to ease the production of professional calculation notes using Python and Jupyter.",
+  "author": "Michel Lavoie",
+  "license": "MIT",
+  "home_page": "https://pypi.org/project/calc-note/",
+  "download_filename": "calc_note-0.3.2.tar.gz",
+  "download_time": "2026-01-08T14:19:19.880866",
+  "package_url": "https://pypi.org/project/calc-note/"
+}

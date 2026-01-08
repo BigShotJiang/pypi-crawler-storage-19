@@ -1,11 +1,11 @@
 {
   "name": "a3-tradehub-test",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "summary": "Python SDK for integrating with Aliceblue trading platform.",
   "author": "Codifi",
   "license": "MIT",
   "home_page": "https://a3.aliceblueonline.com/",
-  "download_filename": "a3_tradehub_test-1.1.1.tar.gz",
-  "download_time": "2026-01-08T12:29:44.100473",
+  "download_filename": "a3_tradehub_test-1.1.2.tar.gz",
+  "download_time": "2026-01-08T14:19:56.013342",
   "package_url": "https://pypi.org/project/a3-tradehub-test/"
 }

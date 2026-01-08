@@ -1,0 +1,11 @@
+{
+  "name": "lightkube",
+  "version": "0.19.1",
+  "summary": "Lightweight kubernetes client library",
+  "author": "Giuseppe Tribulato",
+  "license": null,
+  "home_page": null,
+  "download_filename": "lightkube-0.19.1.tar.gz",
+  "download_time": "2026-01-08T14:19:25.240322",
+  "package_url": "https://pypi.org/project/lightkube/"
+}

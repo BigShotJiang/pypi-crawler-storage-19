@@ -1,11 +1,11 @@
 {
   "name": "openlayer",
-  "version": "0.13.0",
+  "version": "0.13.1",
   "summary": "The official Python library for the openlayer API",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "openlayer-0.13.0.tar.gz",
-  "download_time": "2026-01-08T12:29:53.872812",
+  "download_filename": "openlayer-0.13.1.tar.gz",
+  "download_time": "2026-01-08T14:19:49.238784",
   "package_url": "https://pypi.org/project/openlayer/"
 }

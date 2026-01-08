@@ -1,0 +1,11 @@
+{
+  "name": "pote",
+  "version": "0.1.1",
+  "summary": "Python helpers, utils or code not worthy ot its own repo",
+  "author": "Spikey",
+  "license": "Apache Software License 2.0",
+  "home_page": "https://github.com/civvic/pote",
+  "download_filename": "pote-0.1.1.tar.gz",
+  "download_time": "2026-01-08T14:19:57.059177",
+  "package_url": "https://pypi.org/project/pote/"
+}

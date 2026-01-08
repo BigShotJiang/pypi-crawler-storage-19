@@ -1,11 +1,11 @@
 {
   "name": "spark-bestfit",
-  "version": "2.1.0",
+  "version": "2.2.0",
   "summary": "Modern Spark distribution fitting library with efficient parallel processing",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "spark_bestfit-2.1.0.tar.gz",
-  "download_time": "2026-01-07T13:51:57.485337",
+  "download_filename": "spark_bestfit-2.2.0.tar.gz",
+  "download_time": "2026-01-08T14:19:52.865419",
   "package_url": "https://pypi.org/project/spark-bestfit/"
 }

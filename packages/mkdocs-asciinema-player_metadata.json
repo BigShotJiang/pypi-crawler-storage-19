@@ -1,0 +1,11 @@
+{
+  "name": "mkdocs-asciinema-player",
+  "version": "0.19.1",
+  "summary": "A Mkdocs Plugin to include asciinema player in your documentation.",
+  "author": "Philippe-André De Carvalho",
+  "license": null,
+  "home_page": null,
+  "download_filename": "mkdocs_asciinema_player-0.19.1.tar.gz",
+  "download_time": "2026-01-08T14:19:45.060938",
+  "package_url": "https://pypi.org/project/mkdocs-asciinema-player/"
+}

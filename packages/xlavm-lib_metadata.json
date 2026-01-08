@@ -1,0 +1,11 @@
+{
+  "name": "xlavm-lib",
+  "version": "1.1.0",
+  "summary": "Visual Testing and Get Ids utilities for Selenium & Appium",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "xlavm_lib-1.1.0.tar.gz",
+  "download_time": "2026-01-08T14:19:37.193461",
+  "package_url": "https://pypi.org/project/xlavm-lib/"
+}

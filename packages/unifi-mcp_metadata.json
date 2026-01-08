@@ -1,11 +1,11 @@
 {
   "name": "unifi-mcp",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "summary": "Unofficial MCP server for the UniFi Site Manager, Access, and Network APIs",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "unifi_mcp-0.2.2.tar.gz",
-  "download_time": "2026-01-08T13:56:15.747080",
+  "download_filename": "unifi_mcp-0.2.3.tar.gz",
+  "download_time": "2026-01-08T14:19:28.416841",
   "package_url": "https://pypi.org/project/unifi-mcp/"
 }
