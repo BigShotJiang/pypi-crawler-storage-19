@@ -1,11 +1,11 @@
 {
   "name": "kitty-scaffold",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "A professional project scaffolding tool for Python developers - quickly bootstrap AI, Data Science, Research, and Backend projects",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "kitty_scaffold-0.1.1.tar.gz",
-  "download_time": "2026-01-08T12:30:13.122695",
+  "download_filename": "kitty_scaffold-0.1.2.tar.gz",
+  "download_time": "2026-01-08T15:18:40.232969",
   "package_url": "https://pypi.org/project/kitty-scaffold/"
 }

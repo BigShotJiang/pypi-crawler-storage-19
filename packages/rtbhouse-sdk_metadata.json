@@ -1,0 +1,11 @@
+{
+  "name": "rtbhouse-sdk",
+  "version": "15.0.0",
+  "summary": "RTB House SDK",
+  "author": "RTB House Apps Team",
+  "license": "BSD License",
+  "home_page": "https://github.com/rtbhouse-apps/rtbhouse-python-sdk",
+  "download_filename": "rtbhouse_sdk-15.0.0.tar.gz",
+  "download_time": "2026-01-08T15:18:24.611503",
+  "package_url": "https://pypi.org/project/rtbhouse-sdk/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "python-v2ray",
+  "version": "0.1.8",
+  "summary": "A powerful, high-level Python wrapper for managing and testing V2Ray/Xray-core and Hysteria clients.",
+  "author": null,
+  "license": "GPL-3.0-only",
+  "home_page": null,
+  "download_filename": "python_v2ray-0.1.8.tar.gz",
+  "download_time": "2026-01-08T15:18:43.259637",
+  "package_url": "https://pypi.org/project/python-v2ray/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "vra_iaas",
+  "version": "0.0.2",
+  "summary": "The official Python library for the vra_iaas API",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "vra_iaas-0.0.2.tar.gz",
+  "download_time": "2026-01-08T15:18:36.693459",
+  "package_url": "https://pypi.org/project/vra_iaas/"
+}

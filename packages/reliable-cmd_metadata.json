@@ -1,11 +1,11 @@
 {
   "name": "reliable-cmd",
-  "version": "0.1.10",
+  "version": "0.1.11",
   "summary": "Command Bus abstraction over PostgreSQL + PGMQ for reliable async command processing",
   "author": "FreeSideNomad",
   "license": null,
   "home_page": null,
-  "download_filename": "reliable_cmd-0.1.10.tar.gz",
-  "download_time": "2026-01-07T12:29:46.839477",
+  "download_filename": "reliable_cmd-0.1.11.tar.gz",
+  "download_time": "2026-01-08T15:18:54.925578",
   "package_url": "https://pypi.org/project/reliable-cmd/"
 }

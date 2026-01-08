@@ -1,0 +1,11 @@
+{
+  "name": "arango-taxii-server",
+  "version": "1.1.5",
+  "summary": "A lightweight TAXII API wrapper for ArangoDB.",
+  "author": "dogesec",
+  "license": null,
+  "home_page": null,
+  "download_filename": "arango_taxii_server-1.1.5.tar.gz",
+  "download_time": "2026-01-08T15:18:47.284108",
+  "package_url": "https://pypi.org/project/arango-taxii-server/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "ISeqDb",
+  "version": "0.0.6",
+  "summary": "ISeqDb - Identify Sequences in Databases",
+  "author": "Nico Salmaso",
+  "license": null,
+  "home_page": "https://github.com/hts-tools/iseqdb",
+  "download_filename": "iseqdb-0.0.6.tar.gz",
+  "download_time": "2026-01-08T15:18:25.251556",
+  "package_url": "https://pypi.org/project/ISeqDb/"
+}
