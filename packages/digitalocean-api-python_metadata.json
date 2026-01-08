@@ -1,0 +1,11 @@
+{
+  "name": "digitalocean-api-python",
+  "version": "0.1.4",
+  "summary": "DigitalOcean API Client",
+  "author": "Hive Solutions Lda.",
+  "license": "Apache License, Version 2.0",
+  "home_page": "http://digitalocean-api.hive.pt",
+  "download_filename": "digitalocean_api_python-0.1.4.tar.gz",
+  "download_time": "2026-01-08T11:34:27.794661",
+  "package_url": "https://pypi.org/project/digitalocean-api-python/"
+}

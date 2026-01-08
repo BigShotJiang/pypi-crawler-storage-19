@@ -1,11 +1,11 @@
 {
   "name": "mcqpy",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "summary": "Multiple choice quiz generation and grading",
   "author": "Mads-Peter",
   "license": null,
   "home_page": null,
-  "download_filename": "mcqpy-0.2.2.tar.gz",
-  "download_time": "2026-01-08T10:49:05.142048",
+  "download_filename": "mcqpy-0.2.3.tar.gz",
+  "download_time": "2026-01-08T11:34:43.215445",
   "package_url": "https://pypi.org/project/mcqpy/"
 }

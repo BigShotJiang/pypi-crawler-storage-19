@@ -1,0 +1,11 @@
+{
+  "name": "story-python",
+  "version": "0.1.2",
+  "summary": "Story Data System",
+  "author": "Hive Solutions Lda.",
+  "license": "Apache License, Version 2.0",
+  "home_page": "http://story.hive.pt",
+  "download_filename": "story_python-0.1.2.tar.gz",
+  "download_time": "2026-01-08T11:34:42.704827",
+  "package_url": "https://pypi.org/project/story-python/"
+}

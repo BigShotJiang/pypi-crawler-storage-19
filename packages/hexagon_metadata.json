@@ -1,11 +1,11 @@
 {
   "name": "hexagon",
-  "version": "0.64.2",
+  "version": "0.64.3",
   "summary": "Build your Team's CLI",
   "author": "Joaco Campero",
   "license": null,
   "home_page": "https://github.com/lt-mayonesa/hexagon",
-  "download_filename": "hexagon-0.64.2.tar.gz",
-  "download_time": "2026-01-07T17:48:38.676272",
+  "download_filename": "hexagon-0.64.3.tar.gz",
+  "download_time": "2026-01-08T11:34:28.305522",
   "package_url": "https://pypi.org/project/hexagon/"
 }

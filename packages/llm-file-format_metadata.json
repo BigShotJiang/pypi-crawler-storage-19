@@ -1,0 +1,11 @@
+{
+  "name": "llm-file-format",
+  "version": "0.1.1",
+  "summary": "Token-efficient data format converter for LLM contexts",
+  "author": "SerPeter",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "llm_file_format-0.1.1.tar.gz",
+  "download_time": "2026-01-08T11:34:31.376603",
+  "package_url": "https://pypi.org/project/llm-file-format/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "notoecd",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "summary": "Unofficial library for interacting with the OECD Data Explorer through Python.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "notoecd-0.1.4.tar.gz",
-  "download_time": "2026-01-08T10:17:54.372150",
+  "download_filename": "notoecd-0.1.5.tar.gz",
+  "download_time": "2026-01-08T11:34:16.460537",
   "package_url": "https://pypi.org/project/notoecd/"
 }

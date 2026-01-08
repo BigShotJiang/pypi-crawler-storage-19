@@ -1,0 +1,11 @@
+{
+  "name": "explain-ai-generated-text",
+  "version": "0.1.1.1.6",
+  "summary": "A library to explain whether text is AI-generated or human-written using SHAP",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "explain_ai_generated_text-0.1.1.1.6.tar.gz",
+  "download_time": "2026-01-08T11:34:09.786520",
+  "package_url": "https://pypi.org/project/explain-ai-generated-text/"
+}

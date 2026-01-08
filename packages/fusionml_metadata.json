@@ -1,0 +1,11 @@
+{
+  "name": "fusionml",
+  "version": "0.2.0",
+  "summary": "High-Performance ML Framework for Apple Silicon",
+  "author": "Om Mohite",
+  "license": "MIT",
+  "home_page": "https://github.com/yourname/fusionml",
+  "download_filename": "fusionml-0.2.0.tar.gz",
+  "download_time": "2026-01-08T11:34:27.283473",
+  "package_url": "https://pypi.org/project/fusionml/"
+}
