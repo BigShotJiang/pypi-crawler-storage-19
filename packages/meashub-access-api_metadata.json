@@ -1,11 +1,11 @@
 {
   "name": "meashub-access-api",
-  "version": "1.0.1",
+  "version": "1.0.4",
   "summary": "meashub access api for meashub.iap.tuwien.ac.at",
   "author": "Johannes Prisslan, Richard van Nieuwenhoven",
   "license": null,
   "home_page": "https://gitlab.tuwien.ac.at/iap/aip/anp/datasience-projects/meashub-api.git",
-  "download_filename": "meashub_access_api-1.0.1-py3-none-any.whl",
-  "download_time": "2026-01-08T17:22:01.017175",
+  "download_filename": "meashub_access_api-1.0.4-py3-none-any.whl",
+  "download_time": "2026-01-08T17:50:26.512383",
   "package_url": "https://pypi.org/project/meashub-access-api/"
 }

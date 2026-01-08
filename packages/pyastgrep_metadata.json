@@ -1,0 +1,11 @@
+{
+  "name": "pyastgrep",
+  "version": "1.6",
+  "summary": "A search/query tool for Python abstract syntax trees",
+  "author": "Luke Plant",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pyastgrep-1.6.tar.gz",
+  "download_time": "2026-01-08T17:50:39.436435",
+  "package_url": "https://pypi.org/project/pyastgrep/"
+}

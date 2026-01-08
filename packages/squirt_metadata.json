@@ -1,11 +1,11 @@
 {
   "name": "squirt",
-  "version": "0.2.10",
+  "version": "0.2.11",
   "summary": "Metrics collection and analysis library for component testing",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "squirt-0.2.10.tar.gz",
-  "download_time": "2026-01-08T17:21:28.980338",
+  "download_filename": "squirt-0.2.11.tar.gz",
+  "download_time": "2026-01-08T17:51:01.773636",
   "package_url": "https://pypi.org/project/squirt/"
 }

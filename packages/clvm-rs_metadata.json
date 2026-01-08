@@ -1,0 +1,11 @@
+{
+  "name": "clvm-rs",
+  "version": "0.16.3",
+  "summary": "Implementation of `clvm` for Chia Network's cryptocurrency",
+  "author": "Richard Kiss <him@richardkiss.com>",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/Chia-Network/clvm_rs/",
+  "download_filename": "clvm_rs-0.16.3.tar.gz",
+  "download_time": "2026-01-08T17:50:37.163781",
+  "package_url": "https://pypi.org/project/clvm-rs/"
+}

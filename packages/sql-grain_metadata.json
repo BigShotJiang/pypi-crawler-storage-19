@@ -1,0 +1,11 @@
+{
+  "name": "sql-grain",
+  "version": "0.2.1",
+  "summary": "Sqlite databases as Grain datasets.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "sql_grain-0.2.1.tar.gz",
+  "download_time": "2026-01-08T17:50:20.787382",
+  "package_url": "https://pypi.org/project/sql-grain/"
+}

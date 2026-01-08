@@ -1,0 +1,11 @@
+{
+  "name": "docx-parser-converter",
+  "version": "1.0.3",
+  "summary": "A library for converting DOCX files to HTML and plain text",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "docx_parser_converter-1.0.3.tar.gz",
+  "download_time": "2026-01-08T17:50:32.136826",
+  "package_url": "https://pypi.org/project/docx-parser-converter/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "nfc-agent",
+  "version": "0.5.1",
+  "summary": "Python SDK for NFC Agent - read and write NFC cards via local nfc-agent server",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "nfc_agent-0.5.1.tar.gz",
+  "download_time": "2026-01-08T17:50:28.779785",
+  "package_url": "https://pypi.org/project/nfc-agent/"
+}
