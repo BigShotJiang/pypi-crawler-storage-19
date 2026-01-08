@@ -1,0 +1,11 @@
+{
+  "name": "licensespring",
+  "version": "3.10.0",
+  "summary": "LicenseSpring Python Library",
+  "author": "Toni Sredanović",
+  "license": "LicenseSpring SDK Source Code License (LSSCL)",
+  "home_page": "https://licensespring.com/",
+  "download_filename": "licensespring-3.10.0-py3-none-any.whl",
+  "download_time": "2026-01-08T09:21:50.419705",
+  "package_url": "https://pypi.org/project/licensespring/"
+}

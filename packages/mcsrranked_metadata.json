@@ -1,0 +1,11 @@
+{
+  "name": "mcsrranked",
+  "version": "0.1.0",
+  "summary": "Python SDK for the MCSR Ranked API",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mcsrranked-0.1.0.tar.gz",
+  "download_time": "2026-01-08T09:21:47.275384",
+  "package_url": "https://pypi.org/project/mcsrranked/"
+}
