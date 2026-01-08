@@ -1,0 +1,11 @@
+{
+  "name": "dora-qwen2-5-vl",
+  "version": "0.3.14",
+  "summary": "Dora Node for VLM",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "dora_qwen2_5_vl-0.3.14.tar.gz",
+  "download_time": "2026-01-08T23:14:10.829212",
+  "package_url": "https://pypi.org/project/dora-qwen2-5-vl/"
+}
