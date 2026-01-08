@@ -1,0 +1,11 @@
+{
+  "name": "splitguides",
+  "version": "0.10.4",
+  "summary": "A tool for speedrunners to display notes that advance automatically with their splits in Livesplit.",
+  "author": "David C Ellis",
+  "license": null,
+  "home_page": null,
+  "download_filename": "splitguides-0.10.4.tar.gz",
+  "download_time": "2026-01-08T16:20:22.236067",
+  "package_url": "https://pypi.org/project/splitguides/"
+}

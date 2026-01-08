@@ -1,0 +1,11 @@
+{
+  "name": "ccpem-utils",
+  "version": "0.0.1.dev33",
+  "summary": "\"Python utils for EM data processing (dev version)\"",
+  "author": null,
+  "license": null,
+  "home_page": "https://gitlab.com/ccpem/ccpem-utils",
+  "download_filename": "ccpem_utils-0.0.1.dev33.tar.gz",
+  "download_time": "2026-01-08T16:20:24.378636",
+  "package_url": "https://pypi.org/project/ccpem-utils/"
+}

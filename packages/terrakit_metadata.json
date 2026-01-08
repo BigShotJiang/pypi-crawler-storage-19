@@ -1,0 +1,11 @@
+{
+  "name": "terrakit",
+  "version": "0.1.2",
+  "summary": "A Python package for finding and getting geospatial data.",
+  "author": "Blair Edwards, Rosie Lickorish, Leonardo Pondian Tizzei, Fred Ochieng Otieno, Beldine Moturi, Catherine Wanjiru, Benedikt Blumenstiel, Brian Ogolla",
+  "license": null,
+  "home_page": null,
+  "download_filename": "terrakit-0.1.2.tar.gz",
+  "download_time": "2026-01-08T16:20:20.100197",
+  "package_url": "https://pypi.org/project/terrakit/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "bubble-data-api-client",
+  "version": "0.0.1a20",
+  "summary": "Python client for Bubble Data API",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "bubble_data_api_client-0.0.1a20.tar.gz",
+  "download_time": "2026-01-08T16:20:05.521462",
+  "package_url": "https://pypi.org/project/bubble-data-api-client/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "mcda",
+  "version": "1.1.0",
+  "summary": "Package for Multi Criteria Decision Analysis",
+  "author": null,
+  "license": "Copyright IMT Atlantique, 2021\n        \n        Project leaders:\n          Patrick Meyer <patrick.meyer@imt-atlantique.fr>\n          Nicolas Duminy <nicolas.duminy@imt-atlantique.fr>\n        \n        This software is an all-in-one package for Multi-Criteria Decision Analysis.\n        \n        This software is licensed under the European Union Public Licence (EUPL) v1.2.\n        \n        The English version and the French version of this licence are in the\n        directory LICENCE.  The EUPL is available in 22 official languages of the\n        European Union; for more informations, please check its website:\n        https://joinup.ec.europa.eu/page/eupl-text-11-12\n        ",
+  "home_page": null,
+  "download_filename": "mcda-1.1.0.tar.gz",
+  "download_time": "2026-01-08T16:20:18.052107",
+  "package_url": "https://pypi.org/project/mcda/"
+}

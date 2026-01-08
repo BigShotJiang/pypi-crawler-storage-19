@@ -1,0 +1,11 @@
+{
+  "name": "hc-rlink",
+  "version": "1.0.0",
+  "summary": "Python library to control Hobby Components rLink RS485 modules",
+  "author": "HobbyComponents (Andrew Davies)",
+  "license": null,
+  "home_page": "https://hobbycomponents.com/rlink",
+  "download_filename": "hc_rlink-1.0.0.tar.gz",
+  "download_time": "2026-01-08T16:20:00.850514",
+  "package_url": "https://pypi.org/project/hc-rlink/"
+}

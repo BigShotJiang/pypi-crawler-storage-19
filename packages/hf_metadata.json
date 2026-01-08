@@ -1,0 +1,11 @@
+{
+  "name": "hf",
+  "version": "1.2.4",
+  "summary": "CLI extracted from the huggingface_hub library to interact with the Hugging Face Hub",
+  "author": "Hugging Face, Inc.",
+  "license": "Apache",
+  "home_page": "https://github.com/huggingface/huggingface_hub",
+  "download_filename": "hf-1.2.4.tar.gz",
+  "download_time": "2026-01-08T16:20:32.672348",
+  "package_url": "https://pypi.org/project/hf/"
+}

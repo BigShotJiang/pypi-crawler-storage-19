@@ -1,0 +1,11 @@
+{
+  "name": "document-preprocessor",
+  "version": "2026.1.8.1",
+  "summary": "Lightweight library for primary processing of document photographs for ease of subsequent recognition",
+  "author": "Kirill Smirnov",
+  "license": null,
+  "home_page": null,
+  "download_filename": "document_preprocessor-2026.1.8.1.tar.gz",
+  "download_time": "2026-01-08T16:20:10.171342",
+  "package_url": "https://pypi.org/project/document-preprocessor/"
+}
