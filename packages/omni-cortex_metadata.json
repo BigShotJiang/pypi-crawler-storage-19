@@ -1,11 +1,11 @@
 {
   "name": "omni-cortex",
-  "version": "1.0.2",
+  "version": "1.0.4",
   "summary": "Universal Memory MCP for Claude Code - dual-layer activity logging and knowledge storage",
   "author": "Tony",
   "license": null,
   "home_page": null,
-  "download_filename": "omni_cortex-1.0.2.tar.gz",
-  "download_time": "2026-01-08T01:05:34.249716",
+  "download_filename": "omni_cortex-1.0.4.tar.gz",
+  "download_time": "2026-01-08T06:22:55.655095",
   "package_url": "https://pypi.org/project/omni-cortex/"
 }

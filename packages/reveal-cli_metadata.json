@@ -1,0 +1,11 @@
+{
+  "name": "reveal-cli",
+  "version": "0.32.0",
+  "summary": "Semantic code exploration with progressive disclosure - explore directories, files, and code elements with smart defaults",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "reveal_cli-0.32.0.tar.gz",
+  "download_time": "2026-01-08T06:23:28.187909",
+  "package_url": "https://pypi.org/project/reveal-cli/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "DFO-LS",
+  "version": "1.6.1",
+  "summary": "A flexible derivative-free solver for (bound constrained) nonlinear least-squares minimization",
+  "author": null,
+  "license": "GPL-3.0-or-later",
+  "home_page": null,
+  "download_filename": "dfo_ls-1.6.1.tar.gz",
+  "download_time": "2026-01-08T06:23:31.308578",
+  "package_url": "https://pypi.org/project/DFO-LS/"
+}

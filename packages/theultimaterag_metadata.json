@@ -1,0 +1,11 @@
+{
+  "name": "theultimaterag",
+  "version": "0.1.1",
+  "summary": "A modular, production-ready Retrieval-Augmented Generation (RAG) platform with multi-vector database support",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "theultimaterag-0.1.1.tar.gz",
+  "download_time": "2026-01-08T06:22:59.777517",
+  "package_url": "https://pypi.org/project/theultimaterag/"
+}

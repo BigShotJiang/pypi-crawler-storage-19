@@ -1,11 +1,11 @@
 {
   "name": "deephaven-ib",
-  "version": "0.6.1",
+  "version": "0.6.2",
   "summary": "An Interactive Brokers integration for Deephaven",
   "author": "David R. (Chip) Kent IV",
   "license": null,
   "home_page": "https://github.com/deephaven-examples/deephaven-ib",
-  "download_filename": "deephaven_ib-0.6.1.tar.gz",
-  "download_time": "2026-01-08T04:09:46.911277",
+  "download_filename": "deephaven_ib-0.6.2.tar.gz",
+  "download_time": "2026-01-08T06:23:18.836594",
   "package_url": "https://pypi.org/project/deephaven-ib/"
 }

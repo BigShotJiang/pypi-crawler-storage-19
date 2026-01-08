@@ -1,0 +1,11 @@
+{
+  "name": "screcode",
+  "version": "2.2.0",
+  "summary": "RECODE - resolution of the curse of dimensionality in single-cell data analysis",
+  "author": "Yusuke Imoto",
+  "license": null,
+  "home_page": "https://github.com/yusuke-imoto-lab/RECODE",
+  "download_filename": "screcode-2.2.0.tar.gz",
+  "download_time": "2026-01-08T06:23:10.601906",
+  "package_url": "https://pypi.org/project/screcode/"
+}

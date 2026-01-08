@@ -1,0 +1,11 @@
+{
+  "name": "fast2common",
+  "version": "0.2.0",
+  "summary": "Core utilities for Laite RPA: ADB control, AI client, UI analysis, and test actions",
+  "author": "Auto Test Team",
+  "license": null,
+  "home_page": "https://github.com/yourorg/fast2common",
+  "download_filename": "fast2common-0.2.0.tar.gz",
+  "download_time": "2026-01-08T06:23:15.252332",
+  "package_url": "https://pypi.org/project/fast2common/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "upx-installer",
+  "version": "1.0.0",
+  "summary": "自动安装UPX可执行文件到Windows系统",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "upx_installer-1.0.0.tar.gz",
+  "download_time": "2026-01-08T06:23:06.454783",
+  "package_url": "https://pypi.org/project/upx-installer/"
+}

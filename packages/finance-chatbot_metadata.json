@@ -1,0 +1,11 @@
+{
+  "name": "finance-chatbot",
+  "version": "1.0.12",
+  "summary": "An intelligent document analysis and Q&A system for Santa Clara University Finance Department",
+  "author": "Pradeep Kumar Tripathy",
+  "license": "MIT",
+  "home_page": "https://github.com/pradeept3/finance-chatbot",
+  "download_filename": "finance_chatbot-1.0.12.tar.gz",
+  "download_time": "2026-01-08T06:23:04.906305",
+  "package_url": "https://pypi.org/project/finance-chatbot/"
+}
