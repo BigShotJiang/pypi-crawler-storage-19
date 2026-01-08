@@ -1,0 +1,11 @@
+{
+  "name": "anansi-sdk",
+  "version": "1.2.1",
+  "summary": "Anansi REST API",
+  "author": null,
+  "license": null,
+  "home_page": "https://www.anansihub.com/",
+  "download_filename": "anansi_sdk-1.2.1.tar.gz",
+  "download_time": "2026-01-08T07:54:05.731285",
+  "package_url": "https://pypi.org/project/anansi-sdk/"
+}

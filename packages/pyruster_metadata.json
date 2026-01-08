@@ -1,0 +1,11 @@
+{
+  "name": "pyruster",
+  "version": "0.1.10",
+  "summary": "Implementing some syntax like rust.",
+  "author": "Elling",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pyruster-0.1.10.tar.gz",
+  "download_time": "2026-01-08T07:54:00.610313",
+  "package_url": "https://pypi.org/project/pyruster/"
+}

@@ -1,11 +1,42 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2026-01-08T07:44:10.984599
-- **Total Packages**: 90
-- **Total Size**: 18.57 MB
+- **Download Time**: 2026-01-08T07:54:42.449141
+- **Total Packages**: 88
+- **Total Size**: 22.15 MB
 
 ## Packages List
+- mcp-supervisor-squad
+- bodhi-sdk
+- unraid-api
+- nifti2bids
+- dbt-metabase
+- reasoner-validator
+- capx-client
+- modern-ml-pipeline
+- runai-model-streamer-azure-hari
+- runai-model-streamer-hari
+- omni-cortex
+- moxqt
+- moshi
+- pyruster
+- lexsi-sdk
+- cerbos
+- hwp-hwpx-editor
+- rpi-hid
+- hwp-hwpx-parser
+- tinui
+- anansi-sdk
+- dycw-utilities
+- odoo-addon-stock-picking-filter-lot
+- bw-essentials-core
+- neighborlist-rs
+- moxqtradar
+- langchian
+- sayou-healthcare
+- h26x-extractor
+- autoglm-gui
+- brainbase-labs
 - orcakit-sdk
 - spiderspt
 - nmem-cli
@@ -42,7 +73,6 @@
 - odoo-addon-remove-odoo-enterprise
 - faizan-utils
 - c2cgeoportal-admin
-- rpi-hid
 - c2cgeoportal-geoportal
 - c2cgeoportal-commons
 - diverse-seq
@@ -51,7 +81,6 @@
 - easyrip
 - doblib
 - vnpy-xtdata
-- sayou-healthcare
 - pdd-cli
 - mcpv
 - pyqqq
@@ -65,34 +94,3 @@
 - negmas-llm
 - ai-edge-litert-nightly
 - ghost-flow
-- aiostun
-- unityflow
-- stigg-api-client-v2
-- tritonparse
-- trellis-datamodel
-- stigg-api-client
-- blocklist-aggregator
-- DjPractLelo
-- timeblocks
-- peelee
-- dcnum
-- klaude-code
-- opik
-- infra-screenshot
-- sphinx-notionbuilder
-- streamlit-video-annotator
-- up-py-rs
-- gitree
-- cursor-cli
-- streamlit-nightly
-- omnimd-zhihu-reader
-- omnimd-toutiao-reader
-- omnimd-freedium-reader
-- omnimd-browser-reader
-- typefast
-- ovinc-client
-- neuronswitch
-- drove-cli
-- why-tools
-- hdc-rs-py
-- scegot
