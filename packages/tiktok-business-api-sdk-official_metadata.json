@@ -1,0 +1,11 @@
+{
+  "name": "tiktok-business-api-sdk-official",
+  "version": "1.1.2",
+  "summary": "TikTok Business API SDK",
+  "author": "TikTok Pte. Ltd.",
+  "license": null,
+  "home_page": "https://github.com/tiktok/tiktok-business-api-sdk",
+  "download_filename": "tiktok_business_api_sdk_official-1.1.2.tar.gz",
+  "download_time": "2026-01-08T23:50:43.874481",
+  "package_url": "https://pypi.org/project/tiktok-business-api-sdk-official/"
+}

@@ -1,25 +1,48 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2026-01-08T23:42:27.413395
-- **Total Packages**: 90
-- **Total Size**: 48.65 MB
+- **Download Time**: 2026-01-08T23:51:21.104552
+- **Total Packages**: 87
+- **Total Size**: 9.71 MB
 
 ## Packages List
+- dinari-api-sdk
 - layer-packaging
+- pyvizio
+- plowman
+- holmes-rs
+- solyanka
+- promethian
+- csvpath
+- pg-simple-auth
+- fairyfly-core
+- tgzr.contextual_settings
+- scc-firewall-manager-sdk
+- instancepedia
+- dttlib
+- narada-pyodide
+- narada-core
+- narada
+- biathlon
+- cullinan
+- tiktok-business-api-sdk-official
+- sentinelx
+- axiom-trace
+- seafoam
+- pynche
+- fairyfly-therm
+- ibm-watsonx-orchestrate-evaluation-framework
+- pychnosz
 - amigo_sdk
 - airweave-sdk
 - enerhabitat
 - abdwp
-- instancepedia
 - python-fontbro
 - cnn-lib
 - namedranges
 - muuk-maintenance
 - envdo
-- holmes-rs
 - sai-rl
-- scc-firewall-manager-sdk
 - airbyte-source-shopify
 - sigma-cli
 - nv-ingest
@@ -62,7 +85,6 @@
 - pex
 - pySigma-backend-elasticsearch
 - pypfb
-- axiom-trace
 - ai-agent-rules
 - mux-python
 - warden-core
@@ -71,28 +93,3 @@
 - marimo-base
 - player-tools-dsl-generator
 - player-tools-dsl
-- tgzr.shell_apps.user_workspaces
-- mlx-audio-plus
-- dyf-rs
-- ai-code-sessions
-- sdmetrics
-- envlint
-- cert-sdk
-- privateer-elements-sdk
-- clitr
-- quickfix-py
-- markitdown
-- tgzr.shell_apps.manager_panel
-- skill-manager-mcp
-- ovos-plugin-manager
-- deepagents
-- pywats-api
-- langsmith
-- pySigma
-- adventuresinodyssey
-- loreguard-cli
-- pysdm-examples
-- pysdm
-- tnr
-- tgzr.pipeline
-- promptdown
