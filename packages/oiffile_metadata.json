@@ -1,0 +1,11 @@
+{
+  "name": "oiffile",
+  "version": "2026.1.8",
+  "summary": "Read Olympus image files (OIF and OIB)",
+  "author": "Christoph Gohlke",
+  "license": "BSD-3-Clause",
+  "home_page": "https://www.cgohlke.com",
+  "download_filename": "oiffile-2026.1.8.tar.gz",
+  "download_time": "2026-01-08T18:19:49.620212",
+  "package_url": "https://pypi.org/project/oiffile/"
+}

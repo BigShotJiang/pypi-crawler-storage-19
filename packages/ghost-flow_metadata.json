@@ -1,11 +1,11 @@
 {
   "name": "ghost-flow",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "summary": "Complete ML framework in Rust - 85+ algorithms with quantization and distributed training",
   "author": "GhostFlow Team",
   "license": "MIT OR Apache-2.0",
   "home_page": null,
-  "download_filename": "ghost_flow-1.0.0.tar.gz",
-  "download_time": "2026-01-08T07:19:55.622326",
+  "download_filename": "ghost_flow-1.1.0.tar.gz",
+  "download_time": "2026-01-08T18:19:29.791885",
   "package_url": "https://pypi.org/project/ghost-flow/"
 }

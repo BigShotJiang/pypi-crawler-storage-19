@@ -1,11 +1,11 @@
 {
   "name": "torchflint",
-  "version": "0.0.1b16.post1.dev2",
+  "version": "0.0.1b16.post1.dev3",
   "summary": "TorchFlint is a collection of advanced utility functions designed for tensor manipulation within the PyTorch ecosystem. It provides granular control over high-dimensional data processing, bridging the gap between high-level neural modules and low-level tensor operations.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "torchflint-0.0.1b16.post1.dev2.tar.gz",
-  "download_time": "2026-01-08T16:55:41.208163",
+  "download_filename": "torchflint-0.0.1b16.post1.dev3.tar.gz",
+  "download_time": "2026-01-08T18:19:43.357268",
   "package_url": "https://pypi.org/project/torchflint/"
 }

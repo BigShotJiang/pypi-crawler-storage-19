@@ -1,0 +1,11 @@
+{
+  "name": "NEMO-user-chemicals",
+  "version": "2.0.1",
+  "summary": "User chemical request and inventory management plugin for NEMO",
+  "author": "David Barth",
+  "license": null,
+  "home_page": "https://gitlab.com/nemo-community/upenn/nemo_user_chemicals",
+  "download_filename": "nemo_user_chemicals-2.0.1.tar.gz",
+  "download_time": "2026-01-08T18:19:51.207858",
+  "package_url": "https://pypi.org/project/NEMO-user-chemicals/"
+}

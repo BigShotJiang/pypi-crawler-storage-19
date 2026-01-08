@@ -1,0 +1,11 @@
+{
+  "name": "ff-inventory-api",
+  "version": "0.2.2",
+  "summary": "Unofficial Python client for the FF-Inventory web app.",
+  "author": "marci4",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ff_inventory_api-0.2.2.tar.gz",
+  "download_time": "2026-01-08T18:19:33.961466",
+  "package_url": "https://pypi.org/project/ff-inventory-api/"
+}

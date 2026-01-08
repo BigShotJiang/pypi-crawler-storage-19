@@ -1,0 +1,11 @@
+{
+  "name": "torch-betainc",
+  "version": "0.2.0",
+  "summary": "Differentiable incomplete beta function for PyTorch",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "torch_betainc-0.2.0.tar.gz",
+  "download_time": "2026-01-08T18:19:32.399577",
+  "package_url": "https://pypi.org/project/torch-betainc/"
+}

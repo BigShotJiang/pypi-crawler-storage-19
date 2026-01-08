@@ -1,0 +1,11 @@
+{
+  "name": "alibabacloud-sasrasp20240727",
+  "version": "1.0.2",
+  "summary": "Alibaba Cloud SasRasp (20240727) SDK Library for Python",
+  "author": "Alibaba Cloud SDK",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/aliyun/alibabacloud-python-sdk",
+  "download_filename": "alibabacloud_sasrasp20240727-1.0.2.tar.gz",
+  "download_time": "2026-01-08T18:19:48.575752",
+  "package_url": "https://pypi.org/project/alibabacloud-sasrasp20240727/"
+}

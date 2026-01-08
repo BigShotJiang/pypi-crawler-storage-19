@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-account-invoice-fixed-discount",
+  "version": "19.0.1.0.0.2",
+  "summary": "Allows to apply fixed amount discounts in invoices.",
+  "author": "ForgeFlow, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/account-invoicing",
+  "download_filename": "odoo_addon_account_invoice_fixed_discount-19.0.1.0.0.2-py3-none-any.whl",
+  "download_time": "2026-01-08T18:19:32.919839",
+  "package_url": "https://pypi.org/project/odoo-addon-account-invoice-fixed-discount/"
+}

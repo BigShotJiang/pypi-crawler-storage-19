@@ -1,0 +1,11 @@
+{
+  "name": "omnipkg",
+  "version": "2.1.2",
+  "summary": "The Ultimate Python Dependency Resolver. One environment. Infinite packages. Zero conflicts.",
+  "author": null,
+  "license": "AGPL-3.0-only OR LicenseRef-Proprietary",
+  "home_page": null,
+  "download_filename": "omnipkg-2.1.2.tar.gz",
+  "download_time": "2026-01-08T18:19:41.783651",
+  "package_url": "https://pypi.org/project/omnipkg/"
+}
