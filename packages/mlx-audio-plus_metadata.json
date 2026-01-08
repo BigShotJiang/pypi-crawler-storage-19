@@ -1,0 +1,11 @@
+{
+  "name": "mlx-audio-plus",
+  "version": "0.1.8",
+  "summary": "Python tools for text to speech (TTS), speech to text (STT), and speech to speech (STS) powered by MLX",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mlx_audio_plus-0.1.8.tar.gz",
+  "download_time": "2026-01-08T23:29:55.519386",
+  "package_url": "https://pypi.org/project/mlx-audio-plus/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "tnr",
+  "version": "1.7.31",
+  "summary": "Thunder Compute CLI",
+  "author": null,
+  "license": "Elastic License 2.0",
+  "home_page": null,
+  "download_filename": "tnr-1.7.31.tar.gz",
+  "download_time": "2026-01-08T23:30:08.216898",
+  "package_url": "https://pypi.org/project/tnr/"
+}

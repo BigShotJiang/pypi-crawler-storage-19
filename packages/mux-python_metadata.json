@@ -1,0 +1,11 @@
+{
+  "name": "mux-python",
+  "version": "5.1.2",
+  "summary": "Mux API",
+  "author": "Mux DevEx",
+  "license": "MIT",
+  "home_page": "https://github.com/muxinc/mux-python",
+  "download_filename": "mux_python-5.1.2.tar.gz",
+  "download_time": "2026-01-08T23:29:51.270748",
+  "package_url": "https://pypi.org/project/mux-python/"
+}

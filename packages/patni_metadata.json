@@ -1,11 +1,11 @@
 {
   "name": "patni",
-  "version": "0.1.0",
+  "version": "0.1.4",
   "summary": "Pipe like syntax",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "patni-0.1.0.tar.gz",
-  "download_time": "2026-01-08T22:54:41.463552",
+  "download_filename": "patni-0.1.4.tar.gz",
+  "download_time": "2026-01-08T23:30:09.785035",
   "package_url": "https://pypi.org/project/patni/"
 }

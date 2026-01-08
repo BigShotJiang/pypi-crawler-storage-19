@@ -1,0 +1,11 @@
+{
+  "name": "pypfb",
+  "version": "0.6.2",
+  "summary": "Python SDK for PFB format",
+  "author": "CTDS UChicago",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "pypfb-0.6.2.tar.gz",
+  "download_time": "2026-01-08T23:29:49.624708",
+  "package_url": "https://pypi.org/project/pypfb/"
+}

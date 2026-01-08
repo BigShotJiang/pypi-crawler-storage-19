@@ -1,0 +1,11 @@
+{
+  "name": "reana-workflow-engine-snakemake",
+  "version": "0.95.0a3",
+  "summary": "REANA-Workflow-Engine-Snakemake.",
+  "author": "REANA",
+  "license": null,
+  "home_page": "https://github.com/reanahub/reana-workflow-engine-snakemake",
+  "download_filename": "reana_workflow_engine_snakemake-0.95.0a3.tar.gz",
+  "download_time": "2026-01-08T23:30:27.761728",
+  "package_url": "https://pypi.org/project/reana-workflow-engine-snakemake/"
+}
