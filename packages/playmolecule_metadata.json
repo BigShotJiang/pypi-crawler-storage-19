@@ -1,11 +1,11 @@
 {
   "name": "playmolecule",
-  "version": "2.5.20",
+  "version": "2.5.22",
   "summary": "PlayMolecule python API",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "playmolecule-2.5.20.tar.gz",
-  "download_time": "2026-01-09T11:50:38.766424",
+  "download_filename": "playmolecule-2.5.22.tar.gz",
+  "download_time": "2026-01-09T16:24:08.612169",
   "package_url": "https://pypi.org/project/playmolecule/"
 }

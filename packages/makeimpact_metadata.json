@@ -1,0 +1,11 @@
+{
+  "name": "makeimpact",
+  "version": "1.2.2",
+  "summary": "Python SDK for 1ClickImpact API",
+  "author": "1ClickImpact",
+  "license": null,
+  "home_page": "https://github.com/1ClickImpact/makeimpact-py",
+  "download_filename": "makeimpact-1.2.2.tar.gz",
+  "download_time": "2026-01-09T16:24:10.194207",
+  "package_url": "https://pypi.org/project/makeimpact/"
+}

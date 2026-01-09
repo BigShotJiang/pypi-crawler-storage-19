@@ -1,11 +1,11 @@
 {
   "name": "qualpal",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "summary": "Automatically generate qualitative color palettes with distinct colors",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "qualpal-1.0.0.tar.gz",
-  "download_time": "2026-01-09T07:55:05.297741",
+  "download_filename": "qualpal-1.1.0.tar.gz",
+  "download_time": "2026-01-09T16:23:53.945263",
   "package_url": "https://pypi.org/project/qualpal/"
 }

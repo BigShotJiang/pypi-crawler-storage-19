@@ -1,0 +1,11 @@
+{
+  "name": "raincell",
+  "version": "0.1.2",
+  "summary": "A user-friendly Python library for transforming commercial microwave links into rain estimation insights. Built with nbdev and Jupyter notebooks, this tool offers robust scientific and visualization capabilities, tailored for researchers in the field.",
+  "author": "Rainsmore Group - IRD",
+  "license": "Apache Software License 2.0",
+  "home_page": "https://github.com/rainsmore/raincell",
+  "download_filename": "raincell-0.1.2.tar.gz",
+  "download_time": "2026-01-09T16:24:01.384799",
+  "package_url": "https://pypi.org/project/raincell/"
+}
