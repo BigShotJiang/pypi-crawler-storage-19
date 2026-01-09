@@ -1,0 +1,11 @@
+{
+  "name": "protobuf",
+  "version": "6.33.3",
+  "summary": null,
+  "author": "protobuf@googlegroups.com",
+  "license": "3-Clause BSD License",
+  "home_page": "https://developers.google.com/protocol-buffers/",
+  "download_filename": "protobuf-6.33.3.tar.gz",
+  "download_time": "2026-01-09T23:15:56.300761",
+  "package_url": "https://pypi.org/project/protobuf/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "lib389",
+  "version": "3.2.0",
+  "summary": "A library for accessing, testing, and configuring the 389 Directory Server",
+  "author": null,
+  "license": "GPL-3.0-or-later",
+  "home_page": null,
+  "download_filename": "lib389-3.2.0.tar.gz",
+  "download_time": "2026-01-09T23:16:05.637138",
+  "package_url": "https://pypi.org/project/lib389/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "abstractvision",
+  "version": "0.1.0",
+  "summary": "Generative vision capabilities for abstractcore.ai",
+  "author": "Laurent-Philippe Albou",
+  "license": null,
+  "home_page": "https://github.com/abstractcore/abstractvision",
+  "download_filename": "abstractvision-0.1.0.tar.gz",
+  "download_time": "2026-01-09T23:15:56.873683",
+  "package_url": "https://pypi.org/project/abstractvision/"
+}

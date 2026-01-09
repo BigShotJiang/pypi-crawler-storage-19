@@ -1,0 +1,11 @@
+{
+  "name": "uncertainties",
+  "version": "3.2.4",
+  "summary": "calculations with values with uncertainties, error propagation",
+  "author": null,
+  "license": "Revised BSD License",
+  "home_page": null,
+  "download_filename": "uncertainties-3.2.4.tar.gz",
+  "download_time": "2026-01-09T23:15:46.564788",
+  "package_url": "https://pypi.org/project/uncertainties/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "pain001",
-  "version": "0.0.31",
+  "version": "0.0.32",
   "summary": "Pain001, A Python Library for Automating ISO 20022-Compliant Payment Files Using CSV Or SQLite Data Files.",
   "author": "Sebastien Rousseau",
   "license": "Apache Software License",
   "home_page": "https://pain001.com",
-  "download_filename": "pain001-0.0.31.tar.gz",
-  "download_time": "2026-01-09T22:15:23.628490",
+  "download_filename": "pain001-0.0.32.tar.gz",
+  "download_time": "2026-01-09T23:15:43.448361",
   "package_url": "https://pypi.org/project/pain001/"
 }
