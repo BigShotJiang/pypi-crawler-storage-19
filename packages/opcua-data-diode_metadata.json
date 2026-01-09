@@ -1,0 +1,11 @@
+{
+  "name": "opcua-data-diode",
+  "version": "1.0.0",
+  "summary": "Secure one-way data replication for OPC UA servers using UDP over hardware data diodes",
+  "author": "Alin-Adrian Anton",
+  "license": "GPL-3.0-or-later",
+  "home_page": "https://github.com/cherubimro/opcua-data-diode",
+  "download_filename": "opcua_data_diode-1.0.0.tar.gz",
+  "download_time": "2026-01-09T13:50:56.220623",
+  "package_url": "https://pypi.org/project/opcua-data-diode/"
+}

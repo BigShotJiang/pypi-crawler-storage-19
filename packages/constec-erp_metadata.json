@@ -1,0 +1,11 @@
+{
+  "name": "constec-erp",
+  "version": "0.1.1",
+  "summary": "Async Python client for the Constec ERP API",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "constec_erp-0.1.1.tar.gz",
+  "download_time": "2026-01-09T13:50:44.147199",
+  "package_url": "https://pypi.org/project/constec-erp/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "netbox-plugin-bind-provisioner",
+  "version": "1.0.5",
+  "summary": "A Bind provisioning plugin that uses netbox_dns for its data source",
+  "author": "Sven Luethi",
+  "license": "GPL-2.0",
+  "home_page": null,
+  "download_filename": "netbox_plugin_bind_provisioner-1.0.5.tar.gz",
+  "download_time": "2026-01-09T13:50:38.349303",
+  "package_url": "https://pypi.org/project/netbox-plugin-bind-provisioner/"
+}

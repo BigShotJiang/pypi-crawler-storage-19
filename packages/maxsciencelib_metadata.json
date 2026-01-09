@@ -1,11 +1,11 @@
 {
   "name": "maxsciencelib",
-  "version": "0.0.4",
+  "version": "0.0.6",
   "summary": "Biblioteca de funções compartilhadas do time de Data Science da Maxpar",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "maxsciencelib-0.0.4.tar.gz",
-  "download_time": "2026-01-09T13:14:12.114698",
+  "download_filename": "maxsciencelib-0.0.6.tar.gz",
+  "download_time": "2026-01-09T13:50:57.791836",
   "package_url": "https://pypi.org/project/maxsciencelib/"
 }
