@@ -1,11 +1,11 @@
 {
   "name": "mp-repl",
-  "version": "0.1.0",
+  "version": "0.1.12",
   "summary": "Playwright 交互式调试工具",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "mp_repl-0.1.0.tar.gz",
-  "download_time": "2026-01-09T13:50:39.925757",
+  "download_filename": "mp_repl-0.1.12.tar.gz",
+  "download_time": "2026-01-09T14:49:10.487341",
   "package_url": "https://pypi.org/project/mp-repl/"
 }

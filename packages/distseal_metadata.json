@@ -1,0 +1,11 @@
+{
+  "name": "distseal",
+  "version": "0.0.1",
+  "summary": "Posthoc Watermarking for LLM Generated Text",
+  "author": "Facebook AI Research",
+  "license": null,
+  "home_page": null,
+  "download_filename": "distseal-0.0.1.tar.gz",
+  "download_time": "2026-01-09T14:49:03.729867",
+  "package_url": "https://pypi.org/project/distseal/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "litestruct",
+  "version": "0.0.1",
+  "summary": "Structured output with different LLM providers",
+  "author": "Gautam Ethiraj",
+  "license": "Apache Software License 2.0",
+  "home_page": "https://github.com/gautam-e/litestruct",
+  "download_filename": "litestruct-0.0.1.tar.gz",
+  "download_time": "2026-01-09T14:49:38.875090",
+  "package_url": "https://pypi.org/project/litestruct/"
+}

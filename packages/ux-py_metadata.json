@@ -1,0 +1,11 @@
+{
+  "name": "ux-py",
+  "version": "0.1.3",
+  "summary": "uv-based Python App Launcher - distribute Python apps as single executables",
+  "author": "Yasushi Itoh",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ux_py-0.1.3.tar.gz",
+  "download_time": "2026-01-09T14:49:49.210894",
+  "package_url": "https://pypi.org/project/ux-py/"
+}

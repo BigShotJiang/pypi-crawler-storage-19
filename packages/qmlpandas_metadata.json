@@ -1,0 +1,11 @@
+{
+  "name": "qmlpandas",
+  "version": "0.0.1",
+  "summary": "A simple parser for QGIS style files to pandas DataFrame",
+  "author": "Bas Altena",
+  "license": "APACHE",
+  "home_page": null,
+  "download_filename": "qmlpandas-0.0.1.tar.gz",
+  "download_time": "2026-01-09T14:49:35.184706",
+  "package_url": "https://pypi.org/project/qmlpandas/"
+}

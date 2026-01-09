@@ -1,11 +1,11 @@
 {
   "name": "webviz-ert",
-  "version": "0.6.6",
+  "version": "0.7.0",
   "summary": "Webviz plugins for ERT",
   "author": "Equinor",
   "license": null,
   "home_page": null,
-  "download_filename": "webviz_ert-0.6.6.tar.gz",
-  "download_time": "2026-01-07T09:21:50.052959",
+  "download_filename": "webviz_ert-0.7.0.tar.gz",
+  "download_time": "2026-01-09T14:49:25.931622",
   "package_url": "https://pypi.org/project/webviz-ert/"
 }

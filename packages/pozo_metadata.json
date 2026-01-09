@@ -1,0 +1,11 @@
+{
+  "name": "pozo",
+  "version": "0.10.0",
+  "summary": "Help visualizing well log data - Herramienta para visualizar registros de pozos",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pozo-0.10.0.tar.gz",
+  "download_time": "2026-01-09T14:49:14.565324",
+  "package_url": "https://pypi.org/project/pozo/"
+}
