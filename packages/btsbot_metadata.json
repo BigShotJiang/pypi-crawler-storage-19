@@ -1,11 +1,11 @@
 {
   "name": "btsbot",
-  "version": "2.0.5",
+  "version": "2.0.6",
   "summary": "Automatic supernova discovery with deep learning",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "btsbot-2.0.5.tar.gz",
-  "download_time": "2026-01-09T22:15:46.304453",
+  "download_filename": "btsbot-2.0.6.tar.gz",
+  "download_time": "2026-01-09T22:54:57.005285",
   "package_url": "https://pypi.org/project/btsbot/"
 }

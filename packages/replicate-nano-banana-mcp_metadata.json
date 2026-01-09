@@ -1,0 +1,11 @@
+{
+  "name": "replicate-nano-banana-mcp",
+  "version": "0.1.0",
+  "summary": "MCP server for generating images using Google's Nano Banana Pro model via Replicate",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "replicate_nano_banana_mcp-0.1.0.tar.gz",
+  "download_time": "2026-01-09T22:55:24.350204",
+  "package_url": "https://pypi.org/project/replicate-nano-banana-mcp/"
+}

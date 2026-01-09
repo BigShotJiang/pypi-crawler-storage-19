@@ -1,0 +1,11 @@
+{
+  "name": "paddleocr-mcp-server",
+  "version": "0.1.0",
+  "summary": "PaddleOCR MCP server - Extract text from images using PaddleOCR with optimized performance",
+  "author": "PaddleOCR-MCP Contributors",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "paddleocr_mcp_server-0.1.0.tar.gz",
+  "download_time": "2026-01-09T22:55:03.324695",
+  "package_url": "https://pypi.org/project/paddleocr-mcp-server/"
+}

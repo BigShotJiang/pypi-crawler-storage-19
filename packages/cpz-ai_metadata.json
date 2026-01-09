@@ -1,11 +1,11 @@
 {
   "name": "cpz-ai",
-  "version": "1.1.27",
+  "version": "1.1.30",
   "summary": "CPZ AI — Python SDK for trading strategies, data management, and multi-broker execution with CPZ-only authentication",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "cpz_ai-1.1.27.tar.gz",
-  "download_time": "2026-01-09T18:22:48.103273",
+  "download_filename": "cpz_ai-1.1.30.tar.gz",
+  "download_time": "2026-01-09T22:54:51.027402",
   "package_url": "https://pypi.org/project/cpz-ai/"
 }

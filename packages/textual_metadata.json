@@ -1,11 +1,11 @@
 {
   "name": "textual",
-  "version": "7.0.1",
+  "version": "7.0.3",
   "summary": "Modern Text User Interface framework",
   "author": "Will McGugan",
   "license": "MIT",
   "home_page": "https://github.com/Textualize/textual",
-  "download_filename": "textual-7.0.1.tar.gz",
-  "download_time": "2026-01-07T13:13:59.312795",
+  "download_filename": "textual-7.0.3.tar.gz",
+  "download_time": "2026-01-09T22:55:20.153651",
   "package_url": "https://pypi.org/project/textual/"
 }

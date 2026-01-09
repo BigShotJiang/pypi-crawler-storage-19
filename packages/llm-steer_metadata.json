@@ -1,0 +1,11 @@
+{
+  "name": "llm-steer",
+  "version": "2.0.0",
+  "summary": "Steer LLM outputs towards a certain topic/subject and enhance response capabilities using activation engineering by adding steer vectors",
+  "author": "Mihai Chirculescu",
+  "license": null,
+  "home_page": "https://github.com/Mihaiii/llm_steer",
+  "download_filename": "llm_steer-2.0.0.tar.gz",
+  "download_time": "2026-01-09T22:55:14.842538",
+  "package_url": "https://pypi.org/project/llm-steer/"
+}

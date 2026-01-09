@@ -1,11 +1,11 @@
 {
   "name": "chemgraphagent",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "summary": "A computational chemistry agent for molecular simulation tasks.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "chemgraphagent-0.2.0.tar.gz",
-  "download_time": "2026-01-09T10:16:31.180537",
+  "download_filename": "chemgraphagent-0.2.1.tar.gz",
+  "download_time": "2026-01-09T22:55:19.627111",
   "package_url": "https://pypi.org/project/chemgraphagent/"
 }

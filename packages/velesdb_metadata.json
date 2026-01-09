@@ -1,11 +1,11 @@
 {
   "name": "velesdb",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "summary": "A high-performance vector database for AI applications",
   "author": null,
   "license": "Elastic License 2.0 (ELv2)",
   "home_page": "https://velesdb.com",
-  "download_filename": "velesdb-1.0.0-cp311-cp311-manylinux_2_34_x86_64.whl",
-  "download_time": "2026-01-09T22:39:49.252352",
+  "download_filename": "velesdb-1.0.1-cp311-cp311-manylinux_2_34_x86_64.whl",
+  "download_time": "2026-01-09T22:55:09.575992",
   "package_url": "https://pypi.org/project/velesdb/"
 }
