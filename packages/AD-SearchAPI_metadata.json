@@ -1,0 +1,11 @@
+{
+  "name": "AD-SearchAPI",
+  "version": "2.0.3",
+  "summary": "A comprehensive Python client library for the Search API with enhanced error handling and balance management",
+  "author": "Search API Team",
+  "license": null,
+  "home_page": "https://github.com/AntiChrist-Coder/search_api_library",
+  "download_filename": "ad_searchapi-2.0.3.tar.gz",
+  "download_time": "2026-01-09T05:19:57.853379",
+  "package_url": "https://pypi.org/project/AD-SearchAPI/"
+}

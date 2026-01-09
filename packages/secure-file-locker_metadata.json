@@ -1,0 +1,11 @@
+{
+  "name": "secure-file-locker",
+  "version": "1.0.0",
+  "summary": "Offline secure file encryption application with modern UI",
+  "author": "Kaushik Basnet",
+  "license": null,
+  "home_page": "https://github.com/kaushikbasnet/Secure_File_Locker_App",
+  "download_filename": "secure_file_locker-1.0.0.tar.gz",
+  "download_time": "2026-01-09T05:20:00.597112",
+  "package_url": "https://pypi.org/project/secure-file-locker/"
+}
