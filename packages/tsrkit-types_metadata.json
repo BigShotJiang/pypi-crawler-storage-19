@@ -1,0 +1,11 @@
+{
+  "name": "tsrkit-types",
+  "version": "0.1.9",
+  "summary": "Performant Python Typings library for type-safe binary serialization, JSON encoding, and data validation with zero dependencies",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "tsrkit_types-0.1.9.tar.gz",
+  "download_time": "2026-01-09T09:49:49.638058",
+  "package_url": "https://pypi.org/project/tsrkit-types/"
+}

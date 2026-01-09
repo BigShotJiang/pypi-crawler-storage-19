@@ -1,11 +1,11 @@
 {
   "name": "skill-manager-treeshell",
-  "version": "0.1.8",
+  "version": "0.1.9",
   "summary": "Skill Manager TreeShell MCP - Three-tier skill architecture for compound intelligence",
   "author": "TreeShell Developer",
   "license": null,
   "home_page": null,
-  "download_filename": "skill_manager_treeshell-0.1.8.tar.gz",
-  "download_time": "2026-01-08T22:16:07.371898",
+  "download_filename": "skill_manager_treeshell-0.1.9.tar.gz",
+  "download_time": "2026-01-09T09:50:09.135250",
   "package_url": "https://pypi.org/project/skill-manager-treeshell/"
 }

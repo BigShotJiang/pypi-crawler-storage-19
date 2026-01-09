@@ -1,0 +1,11 @@
+{
+  "name": "provreq",
+  "version": "0.1.5",
+  "summary": "Provreq",
+  "author": "mnemonic AS",
+  "license": "MIT",
+  "home_page": "https://github.com/mnemonic-no/provreq",
+  "download_filename": "provreq-0.1.5.tar.gz",
+  "download_time": "2026-01-09T09:49:19.018123",
+  "package_url": "https://pypi.org/project/provreq/"
+}

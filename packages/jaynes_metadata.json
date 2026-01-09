@@ -1,11 +1,11 @@
 {
   "name": "jaynes",
-  "version": "0.9.13",
+  "version": "0.9.14",
   "summary": "A tool for running python code with runner on aws",
   "author": "Ge Yang",
   "license": "Copyright 2022 Ge Yang",
   "home_page": "https://github.com/episodeyang/jaynes",
-  "download_filename": "jaynes-0.9.13.tar.gz",
-  "download_time": "2026-01-08T03:05:56.417536",
+  "download_filename": "jaynes-0.9.14.tar.gz",
+  "download_time": "2026-01-09T09:49:59.640372",
   "package_url": "https://pypi.org/project/jaynes/"
 }

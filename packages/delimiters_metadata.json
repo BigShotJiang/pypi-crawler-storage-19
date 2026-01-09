@@ -1,0 +1,11 @@
+{
+  "name": "delimiters",
+  "version": "0.1.2",
+  "summary": "Advanced formatting add-ons for Telethon with predictable Markdown and HTML parsing",
+  "author": "Ankit Chaubey",
+  "license": null,
+  "home_page": "https://github.com/ankit-chaubey/delimiters",
+  "download_filename": "delimiters-0.1.2.tar.gz",
+  "download_time": "2026-01-09T09:49:55.480217",
+  "package_url": "https://pypi.org/project/delimiters/"
+}

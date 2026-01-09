@@ -1,0 +1,11 @@
+{
+  "name": "fluxdb-driver",
+  "version": "1.0.2.post1",
+  "summary": "Official Python driver for the FluxDB C++ Database",
+  "author": "Pranav Kandpal",
+  "license": null,
+  "home_page": "https://github.com/PranavKndpl/FluxDB",
+  "download_filename": "fluxdb_driver-1.0.2.post1.tar.gz",
+  "download_time": "2026-01-09T09:49:41.216151",
+  "package_url": "https://pypi.org/project/fluxdb-driver/"
+}

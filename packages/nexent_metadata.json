@@ -1,0 +1,11 @@
+{
+  "name": "nexent",
+  "version": "1.7.9.1",
+  "summary": "Nexent Agent Framework",
+  "author": "Nexent Dev Team",
+  "license": null,
+  "home_page": null,
+  "download_filename": "nexent-1.7.9.1.tar.gz",
+  "download_time": "2026-01-09T09:49:37.985369",
+  "package_url": "https://pypi.org/project/nexent/"
+}
