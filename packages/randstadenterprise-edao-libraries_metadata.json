@@ -1,11 +1,11 @@
 {
   "name": "randstadenterprise-edao-libraries",
-  "version": "0.1.10",
+  "version": "0.1.11",
   "summary": "Randstad Enterprise EDAO utility library.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "randstadenterprise_edao_libraries-0.1.10.tar.gz",
-  "download_time": "2026-01-09T20:56:48.879848",
+  "download_filename": "randstadenterprise_edao_libraries-0.1.11.tar.gz",
+  "download_time": "2026-01-09T21:16:15.532859",
   "package_url": "https://pypi.org/project/randstadenterprise-edao-libraries/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "qpane",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "summary": "High-performance Qt image viewer with pan, zoom, and tile-based rendering",
   "author": null,
   "license": "GPL-3.0-only",
   "home_page": null,
-  "download_filename": "qpane-1.2.0-py3-none-any.whl",
-  "download_time": "2026-01-09T19:16:27.785377",
+  "download_filename": "qpane-1.2.1-py3-none-any.whl",
+  "download_time": "2026-01-09T21:16:09.396817",
   "package_url": "https://pypi.org/project/qpane/"
 }

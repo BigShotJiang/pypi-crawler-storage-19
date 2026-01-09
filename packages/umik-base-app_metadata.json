@@ -1,0 +1,11 @@
+{
+  "name": "umik-base-app",
+  "version": "0.4.1a1.dev0",
+  "summary": "Base utilities for working with the Umik-1 microphone in Python applications.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "umik_base_app-0.4.1a1.dev0.tar.gz",
+  "download_time": "2026-01-09T21:15:51.497110",
+  "package_url": "https://pypi.org/project/umik-base-app/"
+}

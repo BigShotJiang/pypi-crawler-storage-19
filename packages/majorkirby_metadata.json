@@ -1,0 +1,11 @@
+{
+  "name": "majorkirby",
+  "version": "2.0.0",
+  "summary": "Puts CloudFormation stacks into motion.",
+  "author": "Sharp Hall",
+  "license": null,
+  "home_page": null,
+  "download_filename": "majorkirby-2.0.0.tar.gz",
+  "download_time": "2026-01-09T21:15:45.220746",
+  "package_url": "https://pypi.org/project/majorkirby/"
+}

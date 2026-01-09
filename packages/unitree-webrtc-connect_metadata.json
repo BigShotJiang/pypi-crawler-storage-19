@@ -1,0 +1,11 @@
+{
+  "name": "unitree-webrtc-connect",
+  "version": "2.0.4",
+  "summary": "Connect to the Unitree Go2 and G1 with WebRTC",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "unitree_webrtc_connect-2.0.4.tar.gz",
+  "download_time": "2026-01-09T21:16:04.215432",
+  "package_url": "https://pypi.org/project/unitree-webrtc-connect/"
+}

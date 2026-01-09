@@ -1,0 +1,11 @@
+{
+  "name": "clickup-api-client",
+  "version": "1.0.5",
+  "summary": "clickup-api-client: A Python client for the ClickUp API",
+  "author": "Gavka Serhiy",
+  "license": null,
+  "home_page": "https://github.com/sgavka/clickup-sdk",
+  "download_filename": "clickup_api_client-1.0.5.tar.gz",
+  "download_time": "2026-01-09T21:15:54.607615",
+  "package_url": "https://pypi.org/project/clickup-api-client/"
+}

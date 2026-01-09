@@ -1,11 +1,11 @@
 {
   "name": "mcp-semantic-search",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "summary": "MCP server for semantic code search",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "mcp_semantic_search-0.1.0.tar.gz",
-  "download_time": "2026-01-09T20:57:08.179901",
+  "download_filename": "mcp_semantic_search-0.1.2.tar.gz",
+  "download_time": "2026-01-09T21:15:58.798765",
   "package_url": "https://pypi.org/project/mcp-semantic-search/"
 }
