@@ -1,11 +1,11 @@
 {
   "name": "inflow-haisslab",
-  "version": "1.2.40",
+  "version": "1.2.41",
   "summary": "General python code for analysis pipeline",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "inflow_haisslab-1.2.40.tar.gz",
-  "download_time": "2026-01-09T14:49:15.076060",
+  "download_filename": "inflow_haisslab-1.2.41.tar.gz",
+  "download_time": "2026-01-09T17:18:59.736872",
   "package_url": "https://pypi.org/project/inflow-haisslab/"
 }

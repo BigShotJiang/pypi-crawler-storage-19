@@ -1,11 +1,11 @@
 {
   "name": "pywrkgame",
-  "version": "3.0.0",
+  "version": "3.0.2",
   "summary": "High-performance game engine with Python bindings for 2D/3D games",
-  "author": "PyWRKGame Team",
+  "author": "WorkerAI",
   "license": "MIT",
   "home_page": "https://github.com/your-org/pywrkgame",
-  "download_filename": "pywrkgame-3.0.0.tar.gz",
-  "download_time": "2026-01-09T16:52:41.971534",
+  "download_filename": "pywrkgame-3.0.2.tar.gz",
+  "download_time": "2026-01-09T17:18:44.203634",
   "package_url": "https://pypi.org/project/pywrkgame/"
 }

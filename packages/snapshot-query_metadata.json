@@ -1,0 +1,11 @@
+{
+  "name": "snapshot-query",
+  "version": "0.1.0",
+  "summary": "高效查询和分析 cursor-ide-browser 生成的快照日志文件",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "snapshot_query-0.1.0.tar.gz",
+  "download_time": "2026-01-09T17:18:39.917874",
+  "package_url": "https://pypi.org/project/snapshot-query/"
+}

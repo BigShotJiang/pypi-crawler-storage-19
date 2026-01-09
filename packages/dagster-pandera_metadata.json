@@ -1,11 +1,11 @@
 {
   "name": "dagster-pandera",
-  "version": "0.28.9",
+  "version": "0.28.10",
   "summary": "Integration layer for dagster and pandera.",
   "author": "Dagster Labs",
   "license": "Apache-2.0",
   "home_page": "https://github.com/dagster-io/dagster",
-  "download_filename": "dagster_pandera-0.28.9.tar.gz",
-  "download_time": "2026-01-08T20:45:35.969808",
+  "download_filename": "dagster_pandera-0.28.10.tar.gz",
+  "download_time": "2026-01-09T17:18:39.385517",
   "package_url": "https://pypi.org/project/dagster-pandera/"
 }
