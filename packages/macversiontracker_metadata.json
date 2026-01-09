@@ -1,0 +1,11 @@
+{
+  "name": "macversiontracker",
+  "version": "0.8.2",
+  "summary": "A command-line tool for tracking and managing applications installed outside of the Mac App Store",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "macversiontracker-0.8.2.tar.gz",
+  "download_time": "2026-01-09T11:50:55.035180",
+  "package_url": "https://pypi.org/project/macversiontracker/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "dsetool.policy",
+  "version": "1.0.2",
+  "summary": "DS eTool Policy package",
+  "author": "ale-rt",
+  "license": "GPL version 2",
+  "home_page": "https://github.com/syslabcom/dsetool.policy",
+  "download_filename": "dsetool_policy-1.0.2.tar.gz",
+  "download_time": "2026-01-09T11:50:40.329405",
+  "package_url": "https://pypi.org/project/dsetool.policy/"
+}

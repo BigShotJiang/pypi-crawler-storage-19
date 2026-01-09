@@ -1,0 +1,11 @@
+{
+  "name": "qcrypto-a7",
+  "version": "1.0.0",
+  "summary": "Quantum Cryptography Simulation Package (BB84 & E91)",
+  "author": "Patnam Kannabhiram",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "qcrypto_a7-1.0.0.tar.gz",
+  "download_time": "2026-01-09T11:50:39.810135",
+  "package_url": "https://pypi.org/project/qcrypto-a7/"
+}

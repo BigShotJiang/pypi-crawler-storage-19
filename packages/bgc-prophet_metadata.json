@@ -1,0 +1,11 @@
+{
+  "name": "bgc-prophet",
+  "version": "0.1.2",
+  "summary": "A cutting-edge deep learning approach that leverages language processing neural network to accurately identify known BGCs and extrapolate novel ones. ",
+  "author": "HUST NingKang Lab",
+  "license": "MIT",
+  "home_page": "https://github.com/HUST-NingKang-Lab/BGC-Prophet",
+  "download_filename": "bgc_prophet-0.1.2-py3-none-any.whl",
+  "download_time": "2026-01-09T11:50:38.197231",
+  "package_url": "https://pypi.org/project/bgc-prophet/"
+}

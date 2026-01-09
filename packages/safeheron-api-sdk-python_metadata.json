@@ -1,0 +1,11 @@
+{
+  "name": "safeheron-api-sdk-python",
+  "version": "1.1.22",
+  "summary": "Python for Safeheron API",
+  "author": "safeheron",
+  "license": "MIT License",
+  "home_page": "https://github.com/Safeheron/safeheron-api-sdk-python",
+  "download_filename": "safeheron_api_sdk_python-1.1.22.tar.gz",
+  "download_time": "2026-01-09T11:50:56.596350",
+  "package_url": "https://pypi.org/project/safeheron-api-sdk-python/"
+}
