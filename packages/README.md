@@ -1,11 +1,58 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2026-01-09T17:46:31.379508
-- **Total Packages**: 90
-- **Total Size**: 36.56 MB
+- **Download Time**: 2026-01-09T17:57:17.270937
+- **Total Packages**: 88
+- **Total Size**: 38.75 MB
 
 ## Packages List
+- whop-sdk
+- sl-shared-assets
+- graphor
+- pyquery-polars
+- filelock
+- mozilla-metric-config-parser
+- aerleon
+- django-agent-runtime
+- haplohub
+- passagemath-docbuild
+- synthetica-py
+- passagemath-doc-pdf
+- CTViewer-Research
+- passagemath-doc-html
+- agent-runtime-core
+- passagemath-database-stein-watkins
+- passagemath-database-polytopes-4d
+- passagemath-database-cremona-ellcurve
+- passagemath-conf
+- aegis-agent
+- modern-urwid
+- libera_utils
+- scs
+- stix2arango
+- m1n1-proxyclient
+- ncert-dl
+- gpia-agi-server
+- ai-code-autodoc
+- oper8
+- rpi-hid
+- torch-einops-utils
+- acbox
+- arango-cti-processor
+- agentia
+- decontaminate
+- marshmallow-recipe
+- pulumi-provider-boilerplate
+- interpolation-engine
+- history4feed
+- aps-common-libraries
+- heaserver-accounts
+- immich-autotag
+- kissml
+- discrete-structures-mcp
+- netforbpo-aws-cdk-aws-connect-lib
+- cspark
+- jupyter-retext-language-server
 - pulumi-xyz
 - fujin-cli
 - fujin-secrets-1password
@@ -13,12 +60,10 @@
 - fujin-secrets-doppler
 - python-age
 - pyfloq
-- synthetica-py
 - pyturso
 - cpz-ai
 - formate
 - langchain-core
-- acbox
 - mcanvil
 - mangleframes
 - content-summarizer
@@ -49,50 +94,3 @@
 - meshagent-agents
 - meshagent-cli
 - meshagent-livekit
-- meshagent-openai
-- meshagent
-- meshagent-mcp
-- meshagent-computers
-- magnopy
-- gms-mcp
-- aws-cis-controls-assessment
-- instancepedia
-- deepagents
-- context-fabric
-- pyreqwest
-- streamlit-pdf-viewer
-- gam7
-- gitxray
-- datacompy
-- LightSim2Grid
-- galileo
-- reqrio
-- StreamingCommunity
-- lexilux
-- cytoscnpy
-- openfoundry
-- niftyterminal
-- margarine
-- pipewire
-- sbox
-- modaic
-- cat-llm
-- hoper-ramanjaneyulu
-- taskmanager-exe
-- astreum
-- odoo-addon-helpdesk-mgmt-timesheet
-- Fast-Controller
-- atexplain
-- c2pa-text
-- ods-models-py
-- can-i-charge
-- numpyradiomics
-- pulumi-aws
-- circle-of-confusion
-- airops
-- inflow-haisslab
-- RockyRoad
-- ancIBD
-- pythonwrench
-- odoo-addon-helpdesk-mgmt
-- pywrkgame

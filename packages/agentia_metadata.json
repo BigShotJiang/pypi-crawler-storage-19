@@ -1,11 +1,11 @@
 {
   "name": "agentia",
-  "version": "0.1.14",
+  "version": "0.1.15",
   "summary": "Ergonomic LLM Agents",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "agentia-0.1.14.tar.gz",
-  "download_time": "2026-01-09T16:24:11.779405",
+  "download_filename": "agentia-0.1.15.tar.gz",
+  "download_time": "2026-01-09T17:56:48.842639",
   "package_url": "https://pypi.org/project/agentia/"
 }

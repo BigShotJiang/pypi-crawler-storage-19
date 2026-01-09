@@ -1,0 +1,11 @@
+{
+  "name": "oper8",
+  "version": "0.1.36",
+  "summary": "Python-native Kubernetes operator framework for managing trees of components",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "oper8-0.1.36.tar.gz",
+  "download_time": "2026-01-09T17:56:46.237788",
+  "package_url": "https://pypi.org/project/oper8/"
+}

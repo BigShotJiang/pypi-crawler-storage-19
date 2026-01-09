@@ -1,0 +1,11 @@
+{
+  "name": "mozilla-metric-config-parser",
+  "version": "2026.1.1",
+  "summary": "Parses metric configuration files.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mozilla_metric_config_parser-2026.1.1.tar.gz",
+  "download_time": "2026-01-09T17:56:33.365549",
+  "package_url": "https://pypi.org/project/mozilla-metric-config-parser/"
+}
