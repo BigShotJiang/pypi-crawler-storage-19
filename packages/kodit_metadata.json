@@ -1,11 +1,11 @@
 {
   "name": "kodit",
-  "version": "0.5.17",
+  "version": "0.5.18",
   "summary": "Code indexing for better AI code generation",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "kodit-0.5.17.tar.gz",
-  "download_time": "2026-01-07T11:49:55.861445",
+  "download_filename": "kodit-0.5.18.tar.gz",
+  "download_time": "2026-01-09T12:29:33.779830",
   "package_url": "https://pypi.org/project/kodit/"
 }

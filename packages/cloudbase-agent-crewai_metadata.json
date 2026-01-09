@@ -1,0 +1,11 @@
+{
+  "name": "cloudbase-agent-crewai",
+  "version": "0.1.12",
+  "summary": "Cloudbase Agent Python SDK - CrewAI framework integration",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "cloudbase_agent_crewai-0.1.12.tar.gz",
+  "download_time": "2026-01-09T12:29:35.342245",
+  "package_url": "https://pypi.org/project/cloudbase-agent-crewai/"
+}

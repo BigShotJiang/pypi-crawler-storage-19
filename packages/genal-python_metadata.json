@@ -1,0 +1,11 @@
+{
+  "name": "genal-python",
+  "version": "1.4.7",
+  "summary": "A python toolkit for polygenic risk scoring and mendelian randomization.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "genal_python-1.4.7.tar.gz",
+  "download_time": "2026-01-09T12:29:17.421720",
+  "package_url": "https://pypi.org/project/genal-python/"
+}

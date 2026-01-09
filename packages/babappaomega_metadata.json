@@ -1,11 +1,11 @@
 {
   "name": "babappaomega",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "BABAPPAΩ: Likelihood-free branch–site inference of episodic positive selection",
   "author": "Krishnendu Sinha",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "babappaomega-0.1.0.tar.gz",
-  "download_time": "2026-01-09T11:33:36.062524",
+  "download_filename": "babappaomega-0.1.1.tar.gz",
+  "download_time": "2026-01-09T12:29:16.864709",
   "package_url": "https://pypi.org/project/babappaomega/"
 }

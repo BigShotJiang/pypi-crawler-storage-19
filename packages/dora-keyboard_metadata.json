@@ -1,11 +1,11 @@
 {
   "name": "dora-keyboard",
-  "version": "0.3.14",
+  "version": "0.4.0",
   "summary": "Dora dora-keyboard",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "dora_keyboard-0.3.14.tar.gz",
-  "download_time": "2026-01-08T23:14:14.620004",
+  "download_filename": "dora_keyboard-0.4.0.tar.gz",
+  "download_time": "2026-01-09T12:29:06.247042",
   "package_url": "https://pypi.org/project/dora-keyboard/"
 }

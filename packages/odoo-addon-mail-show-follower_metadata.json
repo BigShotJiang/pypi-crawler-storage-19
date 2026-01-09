@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-mail-show-follower",
+  "version": "18.0.1.0.2",
+  "summary": "Show CC document followers in mails.",
+  "author": "Sygel, Moduon, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/mail",
+  "download_filename": "odoo_addon_mail_show_follower-18.0.1.0.2-py3-none-any.whl",
+  "download_time": "2026-01-09T12:29:20.620747",
+  "package_url": "https://pypi.org/project/odoo-addon-mail-show-follower/"
+}

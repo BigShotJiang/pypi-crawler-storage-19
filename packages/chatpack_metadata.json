@@ -1,0 +1,11 @@
+{
+  "name": "chatpack",
+  "version": "0.1.0",
+  "summary": "High-performance Python bindings for chatpack - parse chat exports from Telegram, WhatsApp, Instagram, and Discord",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "chatpack-0.1.0.tar.gz",
+  "download_time": "2026-01-09T12:29:09.374173",
+  "package_url": "https://pypi.org/project/chatpack/"
+}

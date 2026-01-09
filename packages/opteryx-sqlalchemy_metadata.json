@@ -1,0 +1,11 @@
+{
+  "name": "opteryx-sqlalchemy",
+  "version": "0.0.4",
+  "summary": "Opteryx SQLAlchemy Dialect",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "opteryx_sqlalchemy-0.0.4.tar.gz",
+  "download_time": "2026-01-09T12:29:39.566739",
+  "package_url": "https://pypi.org/project/opteryx-sqlalchemy/"
+}
