@@ -1,0 +1,11 @@
+{
+  "name": "pytest-httpchain",
+  "version": "0.2.1",
+  "summary": "pytest plugin for HTTP testing using JSON files",
+  "author": "Alexander Eresov",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pytest_httpchain-0.2.1.tar.gz",
+  "download_time": "2026-01-09T04:53:00.468791",
+  "package_url": "https://pypi.org/project/pytest-httpchain/"
+}

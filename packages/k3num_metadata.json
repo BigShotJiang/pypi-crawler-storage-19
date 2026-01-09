@@ -1,11 +1,11 @@
 {
   "name": "k3num",
-  "version": "0.1.7",
+  "version": "0.1.8",
   "summary": "Human-readable number formatting and hex string utilities",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "k3num-0.1.7.tar.gz",
-  "download_time": "2026-01-07T10:47:51.696738",
+  "download_filename": "k3num-0.1.8.tar.gz",
+  "download_time": "2026-01-09T04:53:01.009512",
   "package_url": "https://pypi.org/project/k3num/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "maxheap-minheap",
+  "version": "1.0.0",
+  "summary": "Library implementing min-heap and max-heap in Python.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "maxheap_minheap-1.0.0.tar.gz",
+  "download_time": "2026-01-09T04:52:20.850948",
+  "package_url": "https://pypi.org/project/maxheap-minheap/"
+}

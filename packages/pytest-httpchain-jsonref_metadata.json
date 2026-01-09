@@ -1,0 +1,11 @@
+{
+  "name": "pytest-httpchain-jsonref",
+  "version": "0.2.1",
+  "summary": "JSON reference ($ref) support for pytest-httpchain",
+  "author": "Alexander Eresov",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pytest_httpchain_jsonref-0.2.1.tar.gz",
+  "download_time": "2026-01-09T04:52:59.684409",
+  "package_url": "https://pypi.org/project/pytest-httpchain-jsonref/"
+}

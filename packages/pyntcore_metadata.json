@@ -1,0 +1,11 @@
+{
+  "name": "pyntcore",
+  "version": "2026.1.1",
+  "summary": "Binary wrappers for the FRC ntcore library",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pyntcore-2026.1.1-cp310-cp310-macosx_13_0_arm64.whl",
+  "download_time": "2026-01-09T04:52:29.971453",
+  "package_url": "https://pypi.org/project/pyntcore/"
+}

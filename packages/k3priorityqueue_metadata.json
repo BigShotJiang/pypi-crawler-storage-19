@@ -1,11 +1,11 @@
 {
   "name": "k3priorityqueue",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "summary": "Priority queue with weighted producer support",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "k3priorityqueue-0.1.3.tar.gz",
-  "download_time": "2026-01-07T14:17:32.642086",
+  "download_filename": "k3priorityqueue-0.1.4.tar.gz",
+  "download_time": "2026-01-09T04:52:46.047570",
   "package_url": "https://pypi.org/project/k3priorityqueue/"
 }

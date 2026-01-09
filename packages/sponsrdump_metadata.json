@@ -1,0 +1,11 @@
+{
+  "name": "sponsrdump",
+  "version": "0.1.3",
+  "summary": "Make local backup copies for materials from sponsr.ru",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "sponsrdump-0.1.3.tar.gz",
+  "download_time": "2026-01-09T04:52:47.630628",
+  "package_url": "https://pypi.org/project/sponsrdump/"
+}

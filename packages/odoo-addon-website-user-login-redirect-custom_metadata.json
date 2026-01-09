@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-website-user-login-redirect-custom",
+  "version": "18.0.1.0.0.3",
+  "summary": "Redirect website/portal user to custom URL after login or signup",
+  "author": "=?utf-8?q?Cetmix_O=C3=9C=2C_Odoo_Community_Association_=28OCA=29?=",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/website",
+  "download_filename": "odoo_addon_website_user_login_redirect_custom-18.0.1.0.0.3-py3-none-any.whl",
+  "download_time": "2026-01-09T04:52:46.569219",
+  "package_url": "https://pypi.org/project/odoo-addon-website-user-login-redirect-custom/"
+}
