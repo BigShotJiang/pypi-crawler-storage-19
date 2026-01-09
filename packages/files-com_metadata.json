@@ -1,11 +1,11 @@
 {
   "name": "files-com",
-  "version": "1.6.213",
+  "version": "1.6.215",
   "summary": "Python bindings for the Files.com API",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "files_com-1.6.213.tar.gz",
-  "download_time": "2026-01-09T23:15:48.551276",
+  "download_filename": "files_com-1.6.215.tar.gz",
+  "download_time": "2026-01-09T23:52:13.687424",
   "package_url": "https://pypi.org/project/files-com/"
 }

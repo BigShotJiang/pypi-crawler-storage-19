@@ -1,11 +1,11 @@
 {
   "name": "serena-vbnet",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "summary": "Visual Basic .NET language support for Serena MCP Server",
   "author": "LaunchCG",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "serena_vbnet-1.0.8.tar.gz",
-  "download_time": "2026-01-09T20:17:08.662858",
+  "download_filename": "serena_vbnet-1.0.9.tar.gz",
+  "download_time": "2026-01-09T23:52:22.437063",
   "package_url": "https://pypi.org/project/serena-vbnet/"
 }

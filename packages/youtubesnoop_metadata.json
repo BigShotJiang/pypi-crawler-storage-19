@@ -1,0 +1,11 @@
+{
+  "name": "youtubesnoop",
+  "version": "0.1.6",
+  "summary": "YouTube video/music downloader with metadata tagging and cover art",
+  "author": "Anders",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "youtubesnoop-0.1.6.tar.gz",
+  "download_time": "2026-01-09T23:52:19.328179",
+  "package_url": "https://pypi.org/project/youtubesnoop/"
+}
