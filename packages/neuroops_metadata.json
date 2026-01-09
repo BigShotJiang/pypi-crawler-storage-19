@@ -1,0 +1,11 @@
+{
+  "name": "neuroops",
+  "version": "0.3.0",
+  "summary": "A linter for neuroimaging data + universal format converter to BIDS",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "neuroops-0.3.0.tar.gz",
+  "download_time": "2026-01-09T08:21:13.564047",
+  "package_url": "https://pypi.org/project/neuroops/"
+}

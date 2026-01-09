@@ -1,0 +1,11 @@
+{
+  "name": "url-jail",
+  "version": "0.1.10",
+  "summary": "SSRF-safe URL validation for Python",
+  "author": null,
+  "license": "MIT OR Apache-2.0",
+  "home_page": null,
+  "download_filename": "url_jail-0.1.10-cp310-cp310-macosx_11_0_arm64.whl",
+  "download_time": "2026-01-09T08:21:23.478063",
+  "package_url": "https://pypi.org/project/url-jail/"
+}

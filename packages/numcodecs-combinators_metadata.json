@@ -1,0 +1,11 @@
+{
+  "name": "numcodecs-combinators",
+  "version": "0.2.13",
+  "summary": "Combinator codecs for the `numcodecs` buffer compression API",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "numcodecs_combinators-0.2.13.tar.gz",
+  "download_time": "2026-01-09T08:21:20.340382",
+  "package_url": "https://pypi.org/project/numcodecs-combinators/"
+}

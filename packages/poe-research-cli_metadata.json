@@ -1,0 +1,11 @@
+{
+  "name": "poe-research-cli",
+  "version": "0.1.1",
+  "summary": "CLI for Poe Deep Research with retry/resume support",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "poe_research_cli-0.1.1.tar.gz",
+  "download_time": "2026-01-09T08:21:30.234931",
+  "package_url": "https://pypi.org/project/poe-research-cli/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "onceonly-sdk",
-  "version": "1.2.0",
+  "version": "2.0.0",
   "summary": "Python SDK for OnceOnly idempotency API",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "onceonly_sdk-1.2.0.tar.gz",
-  "download_time": "2026-01-07T14:48:36.159505",
+  "download_filename": "onceonly_sdk-2.0.0.tar.gz",
+  "download_time": "2026-01-09T08:21:14.601227",
   "package_url": "https://pypi.org/project/onceonly-sdk/"
 }

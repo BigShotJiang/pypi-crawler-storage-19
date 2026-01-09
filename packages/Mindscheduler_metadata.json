@@ -1,0 +1,11 @@
+{
+  "name": "Mindscheduler",
+  "version": "1.0.1",
+  "summary": "一个轻量级、模块化的 LLM 增强型技能调度框架",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mindscheduler-1.0.1.tar.gz",
+  "download_time": "2026-01-09T08:21:08.311541",
+  "package_url": "https://pypi.org/project/Mindscheduler/"
+}

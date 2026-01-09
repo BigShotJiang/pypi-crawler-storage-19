@@ -1,11 +1,11 @@
 {
   "name": "a9x-webstatistics",
-  "version": "1.8.15",
+  "version": "1.8.16",
   "summary": "Web Statistics and Analytics Package",
   "author": "André von Arx",
   "license": null,
   "home_page": "https://github.com/ava007/a9x-webstatistics",
-  "download_filename": "a9x_webstatistics-1.8.15.tar.gz",
-  "download_time": "2026-01-08T13:23:46.326677",
+  "download_filename": "a9x_webstatistics-1.8.16.tar.gz",
+  "download_time": "2026-01-09T08:21:13.043427",
   "package_url": "https://pypi.org/project/a9x-webstatistics/"
 }

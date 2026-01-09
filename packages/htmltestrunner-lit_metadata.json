@@ -1,0 +1,11 @@
+{
+  "name": "htmltestrunner-lit",
+  "version": "1.0.4",
+  "summary": "现代化的 Python unittest HTML 测试报告生成器",
+  "author": "Lit",
+  "license": "MIT",
+  "home_page": "https://github.com/Aquarius-0455/HTMLTestRunner-Lit",
+  "download_filename": "htmltestrunner_lit-1.0.4.tar.gz",
+  "download_time": "2026-01-09T08:21:31.271697",
+  "package_url": "https://pypi.org/project/htmltestrunner-lit/"
+}
