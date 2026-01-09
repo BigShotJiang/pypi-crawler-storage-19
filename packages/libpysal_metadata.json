@@ -1,0 +1,11 @@
+{
+  "name": "libpysal",
+  "version": "4.14.1",
+  "summary": "Core components of PySAL - A library of spatial analysis functions",
+  "author": null,
+  "license": "BSD 3-Clause",
+  "home_page": null,
+  "download_filename": "libpysal-4.14.1.tar.gz",
+  "download_time": "2026-01-09T18:22:36.019377",
+  "package_url": "https://pypi.org/project/libpysal/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "django-ai-boost",
+  "version": "0.6.0",
+  "summary": "A Model Context Protocol (MCP) server for Django applications, inspired by Laravel Boost",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "django_ai_boost-0.6.0.tar.gz",
+  "download_time": "2026-01-09T18:22:59.148499",
+  "package_url": "https://pypi.org/project/django-ai-boost/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "hangeul",
+  "version": "1.0.0",
+  "summary": "A modern, optimized Korean Hangul syllable and jamo manipulation library for Python 3.13+",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "hangeul-1.0.0.tar.gz",
+  "download_time": "2026-01-09T18:22:57.057812",
+  "package_url": "https://pypi.org/project/hangeul/"
+}

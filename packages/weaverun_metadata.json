@@ -1,0 +1,11 @@
+{
+  "name": "weaverun",
+  "version": "0.1.1",
+  "summary": "Run any app and capture LLM API traffic to Weave (OpenAI, Anthropic, Gemini, Bedrock, Azure, and more)",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "weaverun-0.1.1.tar.gz",
+  "download_time": "2026-01-09T18:22:23.819169",
+  "package_url": "https://pypi.org/project/weaverun/"
+}

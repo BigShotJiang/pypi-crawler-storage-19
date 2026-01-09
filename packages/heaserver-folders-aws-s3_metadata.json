@@ -1,11 +1,11 @@
 {
   "name": "heaserver-folders-aws-s3",
-  "version": "1.20.1",
+  "version": "1.21.0",
   "summary": "The HEA AWS S3 bucket folder service.",
   "author": "Research Informatics Shared Resource, Huntsman Cancer Institute, Salt Lake City, UT",
   "license": "Apache License 2.0",
   "home_page": "https://risr.hci.utah.edu",
-  "download_filename": "heaserver_folders_aws_s3-1.20.1-py3-none-any.whl",
-  "download_time": "2026-01-08T01:05:25.835799",
+  "download_filename": "heaserver_folders_aws_s3-1.21.0-py3-none-any.whl",
+  "download_time": "2026-01-09T18:22:26.507950",
   "package_url": "https://pypi.org/project/heaserver-folders-aws-s3/"
 }

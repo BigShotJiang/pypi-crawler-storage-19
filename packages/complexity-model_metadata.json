@@ -1,0 +1,11 @@
+{
+  "name": "complexity-model",
+  "version": "0.2.1",
+  "summary": "Complexity transformer with Token-Routed MLP, Flash Attention, QK Norm",
+  "author": "Pacific-Prime",
+  "license": null,
+  "home_page": "https://github.com/Web3-League/complexity-model",
+  "download_filename": "complexity_model-0.2.1.tar.gz",
+  "download_time": "2026-01-09T18:22:45.491135",
+  "package_url": "https://pypi.org/project/complexity-model/"
+}
