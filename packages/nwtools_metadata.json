@@ -1,0 +1,11 @@
+{
+  "name": "nwtools",
+  "version": "3.0.0",
+  "summary": "A Python package for negatively optimizing your Windows/Linux system performance",
+  "author": "ruin321",
+  "license": null,
+  "home_page": null,
+  "download_filename": "nwtools-3.0.0.tar.gz",
+  "download_time": "2026-01-09T05:48:09.184864",
+  "package_url": "https://pypi.org/project/nwtools/"
+}

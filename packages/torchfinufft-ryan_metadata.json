@@ -1,0 +1,11 @@
+{
+  "name": "torchfinufft-ryan",
+  "version": "1.2.1",
+  "summary": "NUFFT module for PyTorch.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "torchfinufft_ryan-1.2.1.tar.gz",
+  "download_time": "2026-01-09T05:48:16.889012",
+  "package_url": "https://pypi.org/project/torchfinufft-ryan/"
+}

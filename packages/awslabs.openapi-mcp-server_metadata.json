@@ -1,0 +1,11 @@
+{
+  "name": "awslabs.openapi-mcp-server",
+  "version": "0.2.10",
+  "summary": "An AWS Labs Model Context Protocol (MCP) server for OpenAPI",
+  "author": "Amazon Web Services",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "awslabs_openapi_mcp_server-0.2.10.tar.gz",
+  "download_time": "2026-01-09T05:47:57.896206",
+  "package_url": "https://pypi.org/project/awslabs.openapi-mcp-server/"
+}

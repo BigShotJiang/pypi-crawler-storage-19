@@ -1,0 +1,11 @@
+{
+  "name": "awslabs.postgres-mcp-server",
+  "version": "1.0.15",
+  "summary": "An AWS Labs Model Context Protocol (MCP) server for postgres",
+  "author": "Amazon Web Services",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "awslabs_postgres_mcp_server-1.0.15.tar.gz",
+  "download_time": "2026-01-09T05:47:59.431889",
+  "package_url": "https://pypi.org/project/awslabs.postgres-mcp-server/"
+}

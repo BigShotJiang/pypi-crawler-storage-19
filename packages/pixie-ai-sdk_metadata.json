@@ -1,11 +1,11 @@
 {
   "name": "pixie-ai-sdk",
-  "version": "0.1.2",
+  "version": "0.1.4",
   "summary": "SDK for iterating on AI applications",
   "author": "Yiou Li",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "pixie_ai_sdk-0.1.2.tar.gz",
-  "download_time": "2026-01-09T04:10:22.018800",
+  "download_filename": "pixie_ai_sdk-0.1.4.tar.gz",
+  "download_time": "2026-01-09T05:47:54.820280",
   "package_url": "https://pypi.org/project/pixie-ai-sdk/"
 }
