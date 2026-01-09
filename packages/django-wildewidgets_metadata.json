@@ -1,0 +1,11 @@
+{
+  "name": "django-wildewidgets",
+  "version": "1.2.5",
+  "summary": "django-wildewidgets is a Django design library providing several tools for building full-featured, widget-based web applications with a standard, consistent design, based on Bootstrap.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "django_wildewidgets-1.2.5.tar.gz",
+  "download_time": "2026-01-09T10:16:36.554876",
+  "package_url": "https://pypi.org/project/django-wildewidgets/"
+}

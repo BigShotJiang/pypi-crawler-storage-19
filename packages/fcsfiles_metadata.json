@@ -1,0 +1,11 @@
+{
+  "name": "fcsfiles",
+  "version": "2026.1.8",
+  "summary": "Read fluorescence correlation spectroscopy (FCS) data files",
+  "author": "Christoph Gohlke",
+  "license": "BSD-3-Clause",
+  "home_page": "https://www.cgohlke.com",
+  "download_filename": "fcsfiles-2026.1.8.tar.gz",
+  "download_time": "2026-01-09T10:16:20.452349",
+  "package_url": "https://pypi.org/project/fcsfiles/"
+}

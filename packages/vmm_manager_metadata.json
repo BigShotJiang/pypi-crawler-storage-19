@@ -1,0 +1,11 @@
+{
+  "name": "vmm_manager",
+  "version": "1.3.0",
+  "summary": "Management of resources on System Center Virtual Machine Manager (SCVMM) in a declarative way.",
+  "author": "Estevão Costa",
+  "license": "MIT",
+  "home_page": "https://github.com/MP-ES/vmm_manager",
+  "download_filename": "vmm_manager-1.3.0.tar.gz",
+  "download_time": "2026-01-09T10:16:38.682517",
+  "package_url": "https://pypi.org/project/vmm_manager/"
+}

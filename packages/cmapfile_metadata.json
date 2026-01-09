@@ -1,0 +1,11 @@
+{
+  "name": "cmapfile",
+  "version": "2026.1.8",
+  "summary": "Write Chimera Map (CMAP) files",
+  "author": "Christoph Gohlke",
+  "license": "BSD-3-Clause",
+  "home_page": "https://www.cgohlke.com",
+  "download_filename": "cmapfile-2026.1.8.tar.gz",
+  "download_time": "2026-01-09T10:16:31.727629",
+  "package_url": "https://pypi.org/project/cmapfile/"
+}
