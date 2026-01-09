@@ -1,11 +1,11 @@
 {
   "name": "nautobot-ai-ops",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "summary": "AI Ops - Advanced artificial intelligence capabilities for Nautobot through multi-provider LLM architecture and Model Context Protocol",
   "author": "Kevin Campos",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "nautobot_ai_ops-1.0.1.tar.gz",
-  "download_time": "2026-01-08T21:42:22.140452",
+  "download_filename": "nautobot_ai_ops-1.0.2.tar.gz",
+  "download_time": "2026-01-09T19:51:44.466131",
   "package_url": "https://pypi.org/project/nautobot-ai-ops/"
 }

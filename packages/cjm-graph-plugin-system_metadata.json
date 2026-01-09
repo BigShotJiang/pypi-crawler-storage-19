@@ -1,0 +1,11 @@
+{
+  "name": "cjm-graph-plugin-system",
+  "version": "0.0.3",
+  "summary": "Defines the standardized interface and data structures for Context Graph plugins, enabling the semantic linking, decomposition, and enrichment of multi-modal content.",
+  "author": "Christian J. Mills",
+  "license": "Apache Software License 2.0",
+  "home_page": "https://github.com/cj-mills/cjm-graph-plugin-system",
+  "download_filename": "cjm_graph_plugin_system-0.0.3.tar.gz",
+  "download_time": "2026-01-09T19:51:43.874346",
+  "package_url": "https://pypi.org/project/cjm-graph-plugin-system/"
+}

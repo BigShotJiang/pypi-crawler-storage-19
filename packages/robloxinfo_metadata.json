@@ -1,11 +1,11 @@
 {
   "name": "robloxinfo",
-  "version": "0.0.0",
-  "summary": null,
+  "version": "0.1.1",
+  "summary": "Fetch public Roblox account information safely using Python",
   "author": null,
-  "license": null,
+  "license": "MIT",
   "home_page": null,
-  "download_filename": "robloxinfo-0.0.0.tar.gz",
-  "download_time": "2026-01-09T19:32:59.522252",
+  "download_filename": "robloxinfo-0.1.1.tar.gz",
+  "download_time": "2026-01-09T19:52:03.235292",
   "package_url": "https://pypi.org/project/robloxinfo/"
 }
