@@ -1,0 +1,11 @@
+{
+  "name": "godlib",
+  "version": "0.0.1",
+  "summary": "A Python package for intelligent information bagging system",
+  "author": "lqxnjk",
+  "license": "MIT",
+  "home_page": "https://github.com/lqxnjk/godlib",
+  "download_filename": "godlib-0.0.1.tar.gz",
+  "download_time": "2026-01-09T03:06:22.063907",
+  "package_url": "https://pypi.org/project/godlib/"
+}

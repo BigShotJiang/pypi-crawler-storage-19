@@ -1,0 +1,11 @@
+{
+  "name": "PyNiteFEA",
+  "version": "2.2.0",
+  "summary": "A simple elastic 3D structural finite element library for Python.",
+  "author": "D. Craig Brinck, PE, SE",
+  "license": null,
+  "home_page": "https://github.com/JWock82/Pynite.git",
+  "download_filename": "pynitefea-2.2.0.tar.gz",
+  "download_time": "2026-01-09T03:06:21.008333",
+  "package_url": "https://pypi.org/project/PyNiteFEA/"
+}

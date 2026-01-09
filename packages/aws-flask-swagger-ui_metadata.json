@@ -1,0 +1,11 @@
+{
+  "name": "aws-flask-swagger-ui",
+  "version": "1.2.0",
+  "summary": "Swagger UI Blueprint for Flask on AWS Lambda",
+  "author": "Tobias Bruckert",
+  "license": "Apache License, Version 2.0",
+  "home_page": "https://github.com/tb102122/aws_flask_swagger_ui",
+  "download_filename": "aws_flask_swagger_ui-1.2.0.tar.gz",
+  "download_time": "2026-01-09T03:06:48.349487",
+  "package_url": "https://pypi.org/project/aws-flask-swagger-ui/"
+}

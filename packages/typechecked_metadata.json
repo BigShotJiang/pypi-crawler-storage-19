@@ -1,11 +1,11 @@
 {
   "name": "typechecked",
-  "version": "0.8.1",
+  "version": "0.11.0",
   "summary": "Runtime type checking using type hints.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "typechecked-0.8.1.tar.gz",
-  "download_time": "2026-01-08T20:57:36.202114",
+  "download_filename": "typechecked-0.11.0.tar.gz",
+  "download_time": "2026-01-09T03:06:58.669480",
   "package_url": "https://pypi.org/project/typechecked/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "textswap",
+  "version": "0.1.0",
+  "summary": "Bulk text replacement in files using dictionary mappings",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "textswap-0.1.0.tar.gz",
+  "download_time": "2026-01-09T03:06:30.188090",
+  "package_url": "https://pypi.org/project/textswap/"
+}

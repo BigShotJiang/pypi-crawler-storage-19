@@ -1,0 +1,11 @@
+{
+  "name": "handyio",
+  "version": "0.1.1",
+  "summary": "Handy utilities for saving/loading lists and dicts to txt files",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "handyio-0.1.1.tar.gz",
+  "download_time": "2026-01-09T03:06:59.192330",
+  "package_url": "https://pypi.org/project/handyio/"
+}

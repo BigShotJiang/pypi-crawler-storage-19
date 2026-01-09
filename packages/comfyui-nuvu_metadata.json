@@ -1,11 +1,11 @@
 {
   "name": "comfyui-nuvu",
-  "version": "0.0.30",
-  "summary": "Nuvu custom node for ComfyUI",
+  "version": "1.0.0",
+  "summary": "www.nuvulabs.ai | Production-ready workflows and subgraphs for film and VFX. Instant access to 100+ premium AI workflows with automatic model and dependency installation. Built for privacy and creative control.",
   "author": "Nuvu Labs",
   "license": "Proprietary",
   "home_page": null,
-  "download_filename": "comfyui_nuvu-0.0.30-cp39-abi3-manylinux_2_5_x86_64.manylinux1_x86_64.manylinux_2_17_x86_64.manylinux2014_x86_64.whl",
-  "download_time": "2026-01-07T20:45:54.556004",
+  "download_filename": "comfyui_nuvu-1.0.0-cp39-abi3-manylinux_2_5_x86_64.manylinux1_x86_64.manylinux_2_17_x86_64.manylinux2014_x86_64.whl",
+  "download_time": "2026-01-09T03:06:27.441208",
   "package_url": "https://pypi.org/project/comfyui-nuvu/"
 }

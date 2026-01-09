@@ -1,0 +1,11 @@
+{
+  "name": "awslabs.aws-appsync-mcp-server",
+  "version": "0.1.6",
+  "summary": "An AWS Labs Model Context Protocol (MCP) server for AWS AppSync Service capabilities",
+  "author": "Amazon Web Services",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "awslabs_aws_appsync_mcp_server-0.1.6.tar.gz",
+  "download_time": "2026-01-09T03:07:03.415494",
+  "package_url": "https://pypi.org/project/awslabs.aws-appsync-mcp-server/"
+}

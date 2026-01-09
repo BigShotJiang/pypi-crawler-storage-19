@@ -1,11 +1,11 @@
 {
   "name": "binsmith",
-  "version": "0.4.0",
-  "summary": "A bash-native AI agent that builds its own toolkit",
+  "version": "0.5.1",
+  "summary": "Binsmith agent plugin for Lattis",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "binsmith-0.4.0-py3-none-any.whl",
-  "download_time": "2026-01-07T05:54:15.677968",
+  "download_filename": "binsmith-0.5.1-py3-none-any.whl",
+  "download_time": "2026-01-09T03:06:32.300956",
   "package_url": "https://pypi.org/project/binsmith/"
 }
