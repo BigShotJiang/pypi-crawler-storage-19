@@ -1,0 +1,11 @@
+{
+  "name": "k2-connect",
+  "version": "1.2.7",
+  "summary": "A python SDK to connect to Kopo Kopo API",
+  "author": "Philip Wafula, David Mwangi",
+  "license": "MIT",
+  "home_page": "https://github.com/kopokopo/k2-connect-python",
+  "download_filename": "k2_connect-1.2.7.tar.gz",
+  "download_time": "2026-01-09T06:56:39.301458",
+  "package_url": "https://pypi.org/project/k2-connect/"
+}

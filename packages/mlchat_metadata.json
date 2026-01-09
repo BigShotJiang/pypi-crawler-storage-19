@@ -1,11 +1,11 @@
 {
   "name": "mlchat",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "summary": "opean+mcp调用工具",
   "author": "mengling",
   "license": null,
   "home_page": "https://www.python.org",
-  "download_filename": "mlchat-1.0.2.tar.gz",
-  "download_time": "2026-01-08T06:56:33.137247",
+  "download_filename": "mlchat-1.0.3.tar.gz",
+  "download_time": "2026-01-09T06:56:24.712654",
   "package_url": "https://pypi.org/project/mlchat/"
 }

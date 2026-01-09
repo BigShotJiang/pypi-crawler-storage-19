@@ -1,11 +1,11 @@
 {
   "name": "shaper-bin",
-  "version": "0.13.1",
+  "version": "0.13.2",
   "summary": "Minimal Embedded Analytics and Data Platform",
   "author": null,
   "license": "MPL-2.0",
   "home_page": null,
-  "download_filename": "shaper_bin-0.13.1.tar.gz",
-  "download_time": "2026-01-08T10:49:42.183663",
+  "download_filename": "shaper_bin-0.13.2.tar.gz",
+  "download_time": "2026-01-09T06:56:44.093023",
   "package_url": "https://pypi.org/project/shaper-bin/"
 }

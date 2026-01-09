@@ -1,0 +1,11 @@
+{
+  "name": "lyricalabs-nexa",
+  "version": "0.3.1",
+  "summary": "Lyrica Labs Nexa LLM API Python İstemci Kütüphanesi",
+  "author": "Lyrica Labs",
+  "license": null,
+  "home_page": "https://github.com/lyricaizm/lyricalabs_nexa",
+  "download_filename": "lyricalabs_nexa-0.3.1.tar.gz",
+  "download_time": "2026-01-09T06:56:10.951075",
+  "package_url": "https://pypi.org/project/lyricalabs-nexa/"
+}

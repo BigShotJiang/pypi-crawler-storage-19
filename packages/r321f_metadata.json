@@ -1,11 +1,11 @@
 {
   "name": "r321f",
-  "version": "2.0.0",
+  "version": "4.0.0",
   "summary": "文件加密解密工具 - 支持多种文件格式",
-  "author": null,
+  "author": "ruin321",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "r321f-2.0.0.tar.gz",
-  "download_time": "2026-01-08T13:56:24.518987",
+  "download_filename": "r321f-4.0.0.tar.gz",
+  "download_time": "2026-01-09T06:56:45.119226",
   "package_url": "https://pypi.org/project/r321f/"
 }

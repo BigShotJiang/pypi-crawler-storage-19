@@ -1,0 +1,11 @@
+{
+  "name": "pynicolet",
+  "version": "0.1.0",
+  "summary": "A lightweight Python library for reading legacy Nicolet EEG files",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pynicolet-0.1.0.tar.gz",
+  "download_time": "2026-01-09T06:56:52.851946",
+  "package_url": "https://pypi.org/project/pynicolet/"
+}

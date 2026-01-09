@@ -1,0 +1,11 @@
+{
+  "name": "Lyrica-Labs-Nexa-LLM",
+  "version": "0.3.0",
+  "summary": "Nexa: Lyrica Labs tarafından eğitilmiş geniş veri LLM Python kütüphanesi",
+  "author": "Lyrica Labs",
+  "license": "MIT",
+  "home_page": "https://lyricalabs.vercel.app/nexa",
+  "download_filename": "lyrica_labs_nexa_llm-0.3.0.tar.gz",
+  "download_time": "2026-01-09T06:56:55.427088",
+  "package_url": "https://pypi.org/project/Lyrica-Labs-Nexa-LLM/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "tlnr",
+  "version": "0.1.70",
+  "summary": "TLNR (Too Long; No Need To Read) - Real-time terminal command education for Zsh",
+  "author": "Jatin Mayekar",
+  "license": "AGPL-3.0",
+  "home_page": "https://github.com/jatinmayekar/tlnr",
+  "download_filename": "tlnr-0.1.70.tar.gz",
+  "download_time": "2026-01-09T06:56:14.699293",
+  "package_url": "https://pypi.org/project/tlnr/"
+}
