@@ -1,11 +1,11 @@
 {
   "name": "isage-kernel",
-  "version": "0.2.4.2",
+  "version": "0.2.4.3",
   "summary": "SAGE Kernel Module - Streaming-Augmented Generative Execution",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "isage_kernel-0.2.4.2-cp311-none-any.whl",
-  "download_time": "2026-01-08T08:52:46.831962",
+  "download_filename": "isage_kernel-0.2.4.3-cp311-none-any.whl",
+  "download_time": "2026-01-09T07:21:41.069496",
   "package_url": "https://pypi.org/project/isage-kernel/"
 }

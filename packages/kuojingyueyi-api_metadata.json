@@ -1,0 +1,11 @@
+{
+  "name": "kuojingyueyi-api",
+  "version": "0.5.1",
+  "summary": "阔景Api接口",
+  "author": "lds",
+  "license": "GNU GPL 3",
+  "home_page": "https://github.com/ldsxp/kuojingyueyi-api",
+  "download_filename": "kuojingyueyi_api-0.5.1-py3-none-any.whl",
+  "download_time": "2026-01-09T07:21:16.324940",
+  "package_url": "https://pypi.org/project/kuojingyueyi-api/"
+}

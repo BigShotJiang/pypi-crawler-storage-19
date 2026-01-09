@@ -1,0 +1,11 @@
+{
+  "name": "adbc-driver-sqlite",
+  "version": "1.10.0",
+  "summary": "An ADBC driver for working with SQLite.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "adbc_driver_sqlite-1.10.0.tar.gz",
+  "download_time": "2026-01-09T07:21:28.897971",
+  "package_url": "https://pypi.org/project/adbc-driver-sqlite/"
+}

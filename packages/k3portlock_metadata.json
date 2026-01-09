@@ -1,11 +1,11 @@
 {
   "name": "k3portlock",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "summary": "Cross-process lock using TCP port binding",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "k3portlock-0.1.4.tar.gz",
-  "download_time": "2026-01-09T04:52:50.831094",
+  "download_filename": "k3portlock-0.1.5.tar.gz",
+  "download_time": "2026-01-09T07:21:13.625671",
   "package_url": "https://pypi.org/project/k3portlock/"
 }

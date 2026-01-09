@@ -1,11 +1,11 @@
 {
   "name": "robogpt-client",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "RoboGPT gRPC Client for agent communication",
   "author": "Orangewood Labs",
   "license": null,
   "home_page": "https://github.com/orangewood-co/robogpt",
-  "download_filename": "robogpt_client-0.1.1.tar.gz",
-  "download_time": "2026-01-07T11:49:50.617443",
+  "download_filename": "robogpt_client-0.1.2.tar.gz",
+  "download_time": "2026-01-09T07:21:00.735290",
   "package_url": "https://pypi.org/project/robogpt-client/"
 }

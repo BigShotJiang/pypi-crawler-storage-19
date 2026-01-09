@@ -1,11 +1,11 @@
 {
   "name": "k3ut",
-  "version": "0.1.17",
+  "version": "0.1.18",
   "summary": "Unittest utilities with debug logging and test helpers",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "k3ut-0.1.17.tar.gz",
-  "download_time": "2026-01-09T06:24:03.891951",
+  "download_filename": "k3ut-0.1.18.tar.gz",
+  "download_time": "2026-01-09T07:20:57.140233",
   "package_url": "https://pypi.org/project/k3ut/"
 }

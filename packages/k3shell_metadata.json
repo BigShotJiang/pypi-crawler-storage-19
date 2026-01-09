@@ -1,11 +1,11 @@
 {
   "name": "k3shell",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "summary": "Shell command dispatcher with nested subcommand support",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "k3shell-0.1.3.tar.gz",
-  "download_time": "2026-01-09T04:52:21.389969",
+  "download_filename": "k3shell-0.1.4.tar.gz",
+  "download_time": "2026-01-09T07:21:03.405941",
   "package_url": "https://pypi.org/project/k3shell/"
 }

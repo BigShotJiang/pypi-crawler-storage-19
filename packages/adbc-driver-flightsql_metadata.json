@@ -1,0 +1,11 @@
+{
+  "name": "adbc-driver-flightsql",
+  "version": "1.10.0",
+  "summary": "An ADBC driver for working with Apache Arrow Flight SQL.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "adbc_driver_flightsql-1.10.0.tar.gz",
+  "download_time": "2026-01-09T07:21:37.313203",
+  "package_url": "https://pypi.org/project/adbc-driver-flightsql/"
+}
