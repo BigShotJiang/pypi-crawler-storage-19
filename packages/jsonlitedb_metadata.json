@@ -1,0 +1,11 @@
+{
+  "name": "jsonlitedb",
+  "version": "0.1.9",
+  "summary": "SQLite3-backed JSON document database with support for indices and advanced queries",
+  "author": "Justin Winokur",
+  "license": null,
+  "home_page": "https://github.com/Jwink3101/jsonlitedb",
+  "download_filename": "jsonlitedb-0.1.9.tar.gz",
+  "download_time": "2026-01-09T23:33:42.677164",
+  "package_url": "https://pypi.org/project/jsonlitedb/"
+}

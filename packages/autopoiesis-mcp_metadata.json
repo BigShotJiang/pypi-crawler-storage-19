@@ -1,11 +1,11 @@
 {
   "name": "autopoiesis-mcp",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "Self-maintaining work loop system for Claude. Disingenuousness is death.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "autopoiesis_mcp-0.1.1.tar.gz",
-  "download_time": "2026-01-07T14:48:12.468293",
+  "download_filename": "autopoiesis_mcp-0.1.2.tar.gz",
+  "download_time": "2026-01-09T23:33:55.654223",
   "package_url": "https://pypi.org/project/autopoiesis-mcp/"
 }

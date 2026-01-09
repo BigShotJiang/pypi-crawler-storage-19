@@ -1,0 +1,11 @@
+{
+  "name": "fish-audio-sdk",
+  "version": "1.2.0",
+  "summary": "The official Python library for the Fish Audio API",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "fish_audio_sdk-1.2.0.tar.gz",
+  "download_time": "2026-01-09T23:33:42.159817",
+  "package_url": "https://pypi.org/project/fish-audio-sdk/"
+}

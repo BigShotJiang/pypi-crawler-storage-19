@@ -1,11 +1,11 @@
 {
   "name": "meteocatpy",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "summary": "Script para obtener datos meteorológicos de la API de Meteocat",
   "author": "figorr",
   "license": "Apache-2.0",
   "home_page": "https://gitlab.com/figorr/meteocatpy",
-  "download_filename": "meteocatpy-1.0.3.tar.gz",
-  "download_time": "2026-01-09T23:15:37.296813",
+  "download_filename": "meteocatpy-1.0.4.tar.gz",
+  "download_time": "2026-01-09T23:33:48.307741",
   "package_url": "https://pypi.org/project/meteocatpy/"
 }
