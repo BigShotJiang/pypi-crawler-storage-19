@@ -1,11 +1,11 @@
 {
   "name": "task-ng",
-  "version": "0.1.4",
+  "version": "0.1.6",
   "summary": "A modern Python reimagining of Taskwarrior",
   "author": "Task-NG Contributors",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "task_ng-0.1.4.tar.gz",
-  "download_time": "2026-01-09T13:14:42.279650",
+  "download_filename": "task_ng-0.1.6.tar.gz",
+  "download_time": "2026-01-09T20:17:00.921418",
   "package_url": "https://pypi.org/project/task-ng/"
 }

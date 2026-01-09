@@ -1,0 +1,11 @@
+{
+  "name": "flytekitplugins-onnxscikitlearn",
+  "version": "1.16.12",
+  "summary": "ONNX ScikitLearn Plugin for Flytekit",
+  "author": "flyteorg",
+  "license": "apache2",
+  "home_page": null,
+  "download_filename": "flytekitplugins_onnxscikitlearn-1.16.12.tar.gz",
+  "download_time": "2026-01-09T20:17:26.223565",
+  "package_url": "https://pypi.org/project/flytekitplugins-onnxscikitlearn/"
+}

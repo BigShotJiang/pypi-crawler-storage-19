@@ -1,0 +1,11 @@
+{
+  "name": "ftoolss",
+  "version": "6.0.26",
+  "summary": "Small C extensions for local image filters (fmedian, fsigma)",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ftoolss-6.0.26.tar.gz",
+  "download_time": "2026-01-09T20:17:17.462480",
+  "package_url": "https://pypi.org/project/ftoolss/"
+}

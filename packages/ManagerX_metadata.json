@@ -1,11 +1,11 @@
 {
   "name": "ManagerX",
-  "version": "2026.0.1",
+  "version": "2.2026.1.9",
   "summary": "A powerful Discord bot for server management and fun.",
   "author": null,
   "license": "GPL-3.0-or-later",
   "home_page": null,
-  "download_filename": "managerx-2026.0.1.tar.gz",
-  "download_time": "2026-01-09T13:14:32.954335",
+  "download_filename": "managerx-2.2026.1.9.tar.gz",
+  "download_time": "2026-01-09T20:17:13.364980",
   "package_url": "https://pypi.org/project/ManagerX/"
 }

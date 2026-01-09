@@ -1,0 +1,11 @@
+{
+  "name": "raphson-music-headless",
+  "version": "1.5.0",
+  "summary": "Headless music player server for the Raphson music player",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "raphson_music_headless-1.5.0.tar.gz",
+  "download_time": "2026-01-09T20:17:06.608473",
+  "package_url": "https://pypi.org/project/raphson-music-headless/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "flytekitplugins-ray",
+  "version": "1.16.12",
+  "summary": "This package holds the Ray plugins for flytekit",
+  "author": "flyteorg",
+  "license": "apache2",
+  "home_page": null,
+  "download_filename": "flytekitplugins_ray-1.16.12.tar.gz",
+  "download_time": "2026-01-09T20:17:21.578654",
+  "package_url": "https://pypi.org/project/flytekitplugins-ray/"
+}

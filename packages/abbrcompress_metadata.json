@@ -1,0 +1,11 @@
+{
+  "name": "abbrcompress",
+  "version": "0.1.3",
+  "summary": "Token-saving abbreviation compressor for OpenAI LLM prompts",
+  "author": "Louis Mai",
+  "license": null,
+  "home_page": null,
+  "download_filename": "abbrcompress-0.1.3.tar.gz",
+  "download_time": "2026-01-09T20:16:53.430301",
+  "package_url": "https://pypi.org/project/abbrcompress/"
+}

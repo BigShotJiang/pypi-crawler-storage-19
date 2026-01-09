@@ -1,0 +1,11 @@
+{
+  "name": "flytekitplugins-data-fsspec",
+  "version": "1.16.12",
+  "summary": "This is a deprecated plugin as of flytekit 1.5",
+  "author": "flyteorg",
+  "license": "apache2",
+  "home_page": "https://github.com/flyteorg/flytekit/tree/master/plugins/flytekit-data-fsspec",
+  "download_filename": "flytekitplugins_data_fsspec-1.16.12.tar.gz",
+  "download_time": "2026-01-09T20:17:40.204371",
+  "package_url": "https://pypi.org/project/flytekitplugins-data-fsspec/"
+}

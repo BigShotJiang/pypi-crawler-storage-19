@@ -1,0 +1,11 @@
+{
+  "name": "flytekitplugins-great-expectations",
+  "version": "1.16.12",
+  "summary": "Great Expectations Plugin for Flytekit",
+  "author": "flyteorg",
+  "license": "apache2",
+  "home_page": null,
+  "download_filename": "flytekitplugins_great_expectations-1.16.12.tar.gz",
+  "download_time": "2026-01-09T20:17:35.506103",
+  "package_url": "https://pypi.org/project/flytekitplugins-great-expectations/"
+}
