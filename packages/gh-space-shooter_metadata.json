@@ -1,0 +1,11 @@
+{
+  "name": "gh-space-shooter",
+  "version": "0.0.4",
+  "summary": "A CLI tool that visualizes GitHub contribution graphs as gamified GIFs",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "gh_space_shooter-0.0.4.tar.gz",
+  "download_time": "2026-01-09T16:52:47.837217",
+  "package_url": "https://pypi.org/project/gh-space-shooter/"
+}

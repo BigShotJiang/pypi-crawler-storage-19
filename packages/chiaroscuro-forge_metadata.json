@@ -1,0 +1,11 @@
+{
+  "name": "chiaroscuro-forge",
+  "version": "0.2.1",
+  "summary": "An intelligent image enhancement tool inspired by Renaissance techniques",
+  "author": "Michail Semoglou",
+  "license": "MIT",
+  "home_page": "https://github.com/MichailSemoglou/chiaroscuro-forge",
+  "download_filename": "chiaroscuro_forge-0.2.1.tar.gz",
+  "download_time": "2026-01-09T16:53:26.308011",
+  "package_url": "https://pypi.org/project/chiaroscuro-forge/"
+}

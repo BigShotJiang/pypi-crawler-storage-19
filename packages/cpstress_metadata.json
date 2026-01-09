@@ -1,11 +1,11 @@
 {
   "name": "cpstress",
-  "version": "0.1.0",
-  "summary": "A comprehensive stress testing data generator for competitive programming with cryptographically secure randomness",
+  "version": "0.2.1",
+  "summary": "Cryptographically secure stress testing data generator library for competitive programming. Generates random test cases for arrays, numbers, strings, and graphs using secrets module.",
   "author": "Srijan Verma",
   "license": null,
   "home_page": "https://github.com/sharpsalt/cpstress",
-  "download_filename": "cpstress-0.1.0.tar.gz",
-  "download_time": "2026-01-09T16:23:56.020598",
+  "download_filename": "cpstress-0.2.1.tar.gz",
+  "download_time": "2026-01-09T16:52:41.358070",
   "package_url": "https://pypi.org/project/cpstress/"
 }

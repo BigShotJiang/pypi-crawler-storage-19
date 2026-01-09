@@ -1,0 +1,11 @@
+{
+  "name": "sphinx-needs-tree-map",
+  "version": "0.1.0",
+  "summary": "StrictDoc-style tree map visualizations for sphinx-needs",
+  "author": "patdhlk",
+  "license": null,
+  "home_page": null,
+  "download_filename": "sphinx_needs_tree_map-0.1.0.tar.gz",
+  "download_time": "2026-01-09T16:52:52.272002",
+  "package_url": "https://pypi.org/project/sphinx-needs-tree-map/"
+}

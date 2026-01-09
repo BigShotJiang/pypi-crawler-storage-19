@@ -1,11 +1,11 @@
 {
   "name": "bilicache",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "summary": "B站视频自动下载缓存工具",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "bilicache-0.1.4.tar.gz",
-  "download_time": "2026-01-09T09:50:03.329256",
+  "download_filename": "bilicache-0.1.5.tar.gz",
+  "download_time": "2026-01-09T16:53:31.877784",
   "package_url": "https://pypi.org/project/bilicache/"
 }

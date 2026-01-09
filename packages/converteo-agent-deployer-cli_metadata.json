@@ -1,0 +1,11 @@
+{
+  "name": "converteo-agent-deployer-cli",
+  "version": "1.1.2",
+  "summary": "A custom CLI to operate CRUD ops on Agent Engine resources. List, Create, Update and Delete agents in Agent Engine.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "converteo_agent_deployer_cli-1.1.2.tar.gz",
+  "download_time": "2026-01-09T16:53:04.617091",
+  "package_url": "https://pypi.org/project/converteo-agent-deployer-cli/"
+}
