@@ -1,0 +1,11 @@
+{
+  "name": "unravelsports",
+  "version": "1.2.0",
+  "summary": "A project to analyze sports event and tracking data",
+  "author": "Joris Bekkers",
+  "license": null,
+  "home_page": "https://github.com/unravelsports/unravelsports",
+  "download_filename": "unravelsports-1.2.0.tar.gz",
+  "download_time": "2026-01-09T14:19:35.942106",
+  "package_url": "https://pypi.org/project/unravelsports/"
+}

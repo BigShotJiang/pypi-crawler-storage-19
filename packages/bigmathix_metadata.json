@@ -1,0 +1,11 @@
+{
+  "name": "bigmathix",
+  "version": "1.0.1",
+  "summary": "A small, easy-to-use wrapper around Python's Decimal with configurable precision and rounding.",
+  "author": "Margarito",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "bigmathix-1.0.1.tar.gz",
+  "download_time": "2026-01-09T14:19:34.637900",
+  "package_url": "https://pypi.org/project/bigmathix/"
+}

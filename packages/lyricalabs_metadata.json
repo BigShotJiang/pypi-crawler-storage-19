@@ -1,0 +1,11 @@
+{
+  "name": "lyricalabs",
+  "version": "0.1.2",
+  "summary": "Lyrica Labs API Python, Nexa LLM",
+  "author": "Lyrica Labs",
+  "license": null,
+  "home_page": "https://lyricalabs.vercel.app",
+  "download_filename": "lyricalabs-0.1.2.tar.gz",
+  "download_time": "2026-01-09T14:19:31.319410",
+  "package_url": "https://pypi.org/project/lyricalabs/"
+}

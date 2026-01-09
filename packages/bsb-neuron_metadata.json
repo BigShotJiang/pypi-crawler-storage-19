@@ -1,0 +1,11 @@
+{
+  "name": "bsb-neuron",
+  "version": "7.1.0",
+  "summary": "NEURON simulator adapter for the BSB framework.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "bsb_neuron-7.1.0.tar.gz",
+  "download_time": "2026-01-09T14:19:26.126106",
+  "package_url": "https://pypi.org/project/bsb-neuron/"
+}
