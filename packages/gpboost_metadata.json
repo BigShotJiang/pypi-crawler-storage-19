@@ -1,0 +1,11 @@
+{
+  "name": "gpboost",
+  "version": "1.6.5",
+  "summary": "GPBoost Python Package",
+  "author": null,
+  "license": "Apache License, Version 2.0, + see LICENSE file",
+  "home_page": "https://github.com/fabsig/GPBoost",
+  "download_filename": "gpboost-1.6.5.tar.gz",
+  "download_time": "2026-01-09T07:44:57.389700",
+  "package_url": "https://pypi.org/project/gpboost/"
+}

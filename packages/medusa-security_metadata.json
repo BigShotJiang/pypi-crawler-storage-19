@@ -1,0 +1,11 @@
+{
+  "name": "medusa-security",
+  "version": "2025.9.0.10",
+  "summary": "AI-first security scanner with 73+ analyzers, intelligent false positive reduction, and 180+ AI agent security rules",
+  "author": null,
+  "license": "AGPL-3.0-or-later",
+  "home_page": null,
+  "download_filename": "medusa_security-2025.9.0.10.tar.gz",
+  "download_time": "2026-01-09T07:44:40.329380",
+  "package_url": "https://pypi.org/project/medusa-security/"
+}

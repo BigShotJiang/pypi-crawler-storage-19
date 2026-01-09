@@ -1,11 +1,11 @@
 {
   "name": "k3wsjobd",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "summary": "Gevent-based WebSocket server for async job processing",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "k3wsjobd-0.1.2.tar.gz",
-  "download_time": "2026-01-09T06:23:53.247843",
+  "download_filename": "k3wsjobd-0.1.3.tar.gz",
+  "download_time": "2026-01-09T07:45:07.102366",
   "package_url": "https://pypi.org/project/k3wsjobd/"
 }

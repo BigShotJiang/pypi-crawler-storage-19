@@ -1,0 +1,11 @@
+{
+  "name": "llm-openai-images",
+  "version": "0.3.1",
+  "summary": "LLM plugin for OpenAI and Google image generation and editing",
+  "author": "Graham Bing",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "llm_openai_images-0.3.1.tar.gz",
+  "download_time": "2026-01-09T07:45:03.831536",
+  "package_url": "https://pypi.org/project/llm-openai-images/"
+}
