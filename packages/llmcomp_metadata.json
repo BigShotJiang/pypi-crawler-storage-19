@@ -1,0 +1,11 @@
+{
+  "name": "llmcomp",
+  "version": "1.2.3",
+  "summary": "Research library for black-box experiments on language models.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "llmcomp-1.2.3.tar.gz",
+  "download_time": "2026-01-09T15:46:08.523554",
+  "package_url": "https://pypi.org/project/llmcomp/"
+}

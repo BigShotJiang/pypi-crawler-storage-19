@@ -1,0 +1,11 @@
+{
+  "name": "ediq",
+  "version": "2.0.0",
+  "summary": "Official Python SDK for Ediq AI Detection API - Education & HR modes",
+  "author": "Wyzcon",
+  "license": null,
+  "home_page": "https://github.com/wyzcon/ediq-python",
+  "download_filename": "ediq-2.0.0.tar.gz",
+  "download_time": "2026-01-09T15:46:10.259062",
+  "package_url": "https://pypi.org/project/ediq/"
+}

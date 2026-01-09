@@ -1,11 +1,11 @@
 {
   "name": "mcp-supervisor-squad",
-  "version": "0.1.49",
+  "version": "0.1.51",
   "summary": "MCP server for the supervisor-squad workflow.",
   "author": "Codex Agent",
   "license": null,
   "home_page": null,
-  "download_filename": "mcp_supervisor_squad-0.1.49.tar.gz",
-  "download_time": "2026-01-09T14:49:12.012047",
+  "download_filename": "mcp_supervisor_squad-0.1.51.tar.gz",
+  "download_time": "2026-01-09T15:46:47.496390",
   "package_url": "https://pypi.org/project/mcp-supervisor-squad/"
 }

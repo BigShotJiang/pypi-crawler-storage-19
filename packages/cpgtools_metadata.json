@@ -1,0 +1,11 @@
+{
+  "name": "cpgtools",
+  "version": "2.0.5",
+  "summary": "Tools to analyze and visualize DNA methylation data",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "cpgtools-2.0.5.tar.gz",
+  "download_time": "2026-01-09T15:46:50.402339",
+  "package_url": "https://pypi.org/project/cpgtools/"
+}

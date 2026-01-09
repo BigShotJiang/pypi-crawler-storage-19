@@ -1,0 +1,11 @@
+{
+  "name": "emulo-backtest",
+  "version": "0.1.0",
+  "summary": "Minimal backtesting for Polymarket/Kalshi prediction markets via Dome API",
+  "author": "tweidv",
+  "license": "MIT",
+  "home_page": "https://github.com/tweidv/emulo-backtest",
+  "download_filename": "emulo_backtest-0.1.0.tar.gz",
+  "download_time": "2026-01-09T15:46:41.144603",
+  "package_url": "https://pypi.org/project/emulo-backtest/"
+}

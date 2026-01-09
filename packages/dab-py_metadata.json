@@ -1,0 +1,11 @@
+{
+  "name": "dab-py",
+  "version": "0.7.0",
+  "summary": "A Python client for DAB Terms API and WHOS API",
+  "author": "Alun Sagara Putra (CNR Internship)",
+  "license": "AGPL-3.0",
+  "home_page": "https://github.com/ESSI-Lab/dab-py/tree/main",
+  "download_filename": "dab_py-0.7.0.tar.gz",
+  "download_time": "2026-01-09T15:46:43.454549",
+  "package_url": "https://pypi.org/project/dab-py/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "simple-dwd-weatherforecast",
-  "version": "3.2.1",
+  "version": "3.2.2",
   "summary": "A simple tool to retrieve a weather forecast from DWD OpenData",
   "author": "Max Fermor",
   "license": null,
   "home_page": "https://github.com/FL550/simple_dwd_weatherforecast.git",
-  "download_filename": "simple_dwd_weatherforecast-3.2.1.tar.gz",
-  "download_time": "2026-01-09T15:16:49.833036",
+  "download_filename": "simple_dwd_weatherforecast-3.2.2.tar.gz",
+  "download_time": "2026-01-09T15:46:48.076744",
   "package_url": "https://pypi.org/project/simple-dwd-weatherforecast/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "automatix",
+  "version": "3.2.0",
+  "summary": "Automation wrapper for bash and python commands",
+  "author": "Johannes Paul",
+  "license": "MIT",
+  "home_page": "https://github.com/seibert-media/automatix",
+  "download_filename": "automatix-3.2.0.tar.gz",
+  "download_time": "2026-01-09T15:45:59.060969",
+  "package_url": "https://pypi.org/project/automatix/"
+}
