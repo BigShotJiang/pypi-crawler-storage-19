@@ -1,0 +1,11 @@
+{
+  "name": "bpkio-python-sdk",
+  "version": "3.0.0",
+  "summary": "An (opinionated) Python SDK for the broadpeak.io REST APIs",
+  "author": "Fabre Lambeau",
+  "license": null,
+  "home_page": null,
+  "download_filename": "bpkio_python_sdk-3.0.0.tar.gz",
+  "download_time": "2026-01-09T11:33:40.244226",
+  "package_url": "https://pypi.org/project/bpkio-python-sdk/"
+}

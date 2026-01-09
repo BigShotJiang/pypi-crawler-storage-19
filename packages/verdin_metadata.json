@@ -1,0 +1,11 @@
+{
+  "name": "verdin",
+  "version": "0.5.2",
+  "summary": "A Python SDK for Tinybird",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "verdin-0.5.2.tar.gz",
+  "download_time": "2026-01-09T11:33:37.119083",
+  "package_url": "https://pypi.org/project/verdin/"
+}

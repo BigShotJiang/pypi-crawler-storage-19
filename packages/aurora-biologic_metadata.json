@@ -1,0 +1,11 @@
+{
+  "name": "aurora-biologic",
+  "version": "0.2.3",
+  "summary": "Python API for Biologic EC-lab potentiostats",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "aurora_biologic-0.2.3.tar.gz",
+  "download_time": "2026-01-09T11:34:11.399181",
+  "package_url": "https://pypi.org/project/aurora-biologic/"
+}

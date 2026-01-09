@@ -1,0 +1,11 @@
+{
+  "name": "python-dmon",
+  "version": "0.3.0",
+  "summary": "A lightweight, cross-platform daemon manager that runs any command as a background process.",
+  "author": "Atomie CHEN",
+  "license": null,
+  "home_page": null,
+  "download_filename": "python_dmon-0.3.0.tar.gz",
+  "download_time": "2026-01-09T11:34:06.811255",
+  "package_url": "https://pypi.org/project/python-dmon/"
+}

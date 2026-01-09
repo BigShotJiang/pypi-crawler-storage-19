@@ -1,11 +1,11 @@
 {
   "name": "documentdataextraction",
-  "version": "0.0.163",
-  "summary": "Resolve the issue where OCR data is not being fetched when filters are applied in the Excel file.",
+  "version": "0.0.164",
+  "summary": "Resolve the issue of inconsistent or fluctuating responses returned by Gemini.",
   "author": "Proteus Technology PVT. LTD.",
   "license": null,
   "home_page": null,
-  "download_filename": "documentdataextraction-0.0.163-py3-none-any.whl",
-  "download_time": "2026-01-07T10:48:01.881510",
+  "download_filename": "documentdataextraction-0.0.164-py3-none-any.whl",
+  "download_time": "2026-01-09T11:33:48.074293",
   "package_url": "https://pypi.org/project/documentdataextraction/"
 }

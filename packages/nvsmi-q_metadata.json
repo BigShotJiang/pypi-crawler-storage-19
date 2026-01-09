@@ -1,0 +1,11 @@
+{
+  "name": "nvsmi-q",
+  "version": "0.1",
+  "summary": "Yet another python wrapper for nvidia-smi, keep it simple & stupid ;)",
+  "author": "Kahsolt",
+  "license": "MIT",
+  "home_page": "https://github.com/Kahsolt/nvsmi-q",
+  "download_filename": "nvsmi_q-0.1.tar.gz",
+  "download_time": "2026-01-09T11:33:53.738898",
+  "package_url": "https://pypi.org/project/nvsmi-q/"
+}
