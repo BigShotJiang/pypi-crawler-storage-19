@@ -1,0 +1,11 @@
+{
+  "name": "prometheus-pve-sd",
+  "version": "5.1.2",
+  "summary": "Prometheus Service Discovery for Proxmox VE.",
+  "author": "Robert Kaussow",
+  "license": "MIT",
+  "home_page": "https://github.com/thegeeklab/prometheus-pve-sd/",
+  "download_filename": "prometheus_pve_sd-5.1.2.tar.gz",
+  "download_time": "2026-01-09T19:33:08.709735",
+  "package_url": "https://pypi.org/project/prometheus-pve-sd/"
+}

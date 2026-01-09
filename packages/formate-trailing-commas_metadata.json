@@ -1,0 +1,11 @@
+{
+  "name": "formate-trailing-commas",
+  "version": "0.1.1",
+  "summary": "Formate plugin to add trailing commas.",
+  "author": null,
+  "license": "MIT",
+  "home_page": "https://github.com/python-formate/formate-trailing-commas",
+  "download_filename": "formate_trailing_commas-0.1.1.tar.gz",
+  "download_time": "2026-01-09T19:33:02.215975",
+  "package_url": "https://pypi.org/project/formate-trailing-commas/"
+}

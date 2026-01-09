@@ -1,11 +1,11 @@
 {
   "name": "obsidian-kb",
-  "version": "2.0.2",
+  "version": "2.0.3",
   "summary": "Local knowledge base for Obsidian vaults with vector search via MCP (Model Context Protocol)",
   "author": "obsidian-kb contributors",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "obsidian_kb-2.0.2.tar.gz",
-  "download_time": "2026-01-09T18:55:31.072549",
+  "download_filename": "obsidian_kb-2.0.3.tar.gz",
+  "download_time": "2026-01-09T19:33:19.391089",
   "package_url": "https://pypi.org/project/obsidian-kb/"
 }

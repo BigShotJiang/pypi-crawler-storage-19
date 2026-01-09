@@ -1,11 +1,11 @@
 {
   "name": "nia-sync",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "Keep your local files in sync with Nia",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "nia_sync-0.1.0.tar.gz",
-  "download_time": "2026-01-09T04:10:43.713168",
+  "download_filename": "nia_sync-0.1.1.tar.gz",
+  "download_time": "2026-01-09T19:33:01.116050",
   "package_url": "https://pypi.org/project/nia-sync/"
 }

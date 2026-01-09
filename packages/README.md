@@ -1,11 +1,57 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2026-01-09T19:17:13.533745
-- **Total Packages**: 94
-- **Total Size**: 35.46 MB
+- **Download Time**: 2026-01-09T19:33:33.644820
+- **Total Packages**: 89
+- **Total Size**: 26.6 MB
 
 ## Packages List
+- neuro-san
+- instancepedia
+- pylxpweb
+- pymor
+- arq-base-python
+- yeref
+- cnry-mcp-server-qdrant
+- xrtm-forecast
+- training-hub
+- Supervertaler
+- canvas-chat
+- ai-code-autodoc
+- pyrevealed
+- cuequivariance-torch
+- cuequivariance-jax
+- cuequivariance
+- arqonhpo
+- askOmi
+- pulumi-aws
+- cvforge
+- mobility-db-api
+- gemini-media-mcp
+- videofetch
+- boring-aicoding
+- cuequivariance-ops-torch-cu13
+- cuequivariance-ops-torch-cu12
+- cuequivariance-ops-jax-cu13
+- cuequivariance-ops-jax-cu12
+- robloxinfo
+- ultracontext
+- hekaos-text-insights
+- nia-sync
+- spnl
+- formate-trailing-commas
+- CYPHER-STT
+- clicycle
+- ruminant
+- bb-integrations-library
+- sb2n
+- docker-tidy
+- jorbit
+- assay-it
+- niftyterminal
+- devsecops-engine-tools
+- prometheus-pve-sd
+- lampsible
 - git-batch
 - ansible-doctor
 - wmill-pg
@@ -41,7 +87,6 @@
 - learning-credentials
 - dissect.target
 - tklr-dgraham
-- cnry-mcp-server-qdrant
 - dve-lumipy-testing
 - jl-ecms-server
 - jl-ecms-client
@@ -50,53 +95,3 @@
 - jupyterlab-language-pack-zh-CN
 - jupyterlab-language-pack-vi-VN
 - jupyterlab-language-pack-uk-UA
-- jupyterlab-language-pack-tr-TR
-- jupyterlab-language-pack-ru-RU
-- jupyterlab-language-pack-ro-RO
-- jupyterlab-language-pack-pt-BR
-- jupyterlab-language-pack-pl-PL
-- jupyterlab-language-pack-no-NO
-- jupyterlab-language-pack-nl-NL
-- jupyterlab-language-pack-lt-LT
-- jupyterlab-language-pack-ko-KR
-- jupyterlab-language-pack-ja-JP
-- jupyterlab-language-pack-it-IT
-- pengent
-- jupyterlab-language-pack-id-ID
-- jupyterlab-language-pack-hy-AM
-- jupyterlab-language-pack-hu-HU
-- kumo-api
-- jupyterlab-language-pack-he-IL
-- jupyterlab-language-pack-fr-FR
-- jupyterlab-language-pack-fi-FI
-- jupyterlab-language-pack-et-EE
-- jupyterlab-language-pack-es-ES
-- jupyterlab-language-pack-el-GR
-- jupyterlab-language-pack-de-DE
-- jupyterlab-language-pack-da-DK
-- jupyterlab-language-pack-cs-CZ
-- goedels-poetry
-- jupyterlab-language-pack-ca-ES
-- jupyterlab-language-pack-ar-SA
-- IncludeCPP
-- emmet-api
-- zhijiang
-- dmcp
-- etl-utilities
-- emmet-builders
-- markdown_convert
-- emmet-core
-- delphai-utils
-- synqly
-- aiovantage
-- codeflash
-- tentoku
-- videoipath-automation-tool
-- torch-einops-utils
-- papis-zotero
-- datalab-python-sdk
-- luminesce-sdk
-- gcmd
-- md2pdf
-- keba-keenergy-api
-- vl-stream-client
