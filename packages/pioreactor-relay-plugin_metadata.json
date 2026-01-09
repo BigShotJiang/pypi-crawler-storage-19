@@ -1,0 +1,11 @@
+{
+  "name": "pioreactor-relay-plugin",
+  "version": "0.7.1",
+  "summary": "Turn the PWM channels into a simple on/off relay for additional hardware.",
+  "author": "Kelly Tran, Pioreactor",
+  "license": "MIT",
+  "home_page": "https://github.com/CamDavidsonPilon/pioreactor-relay-plugin",
+  "download_filename": "pioreactor_relay_plugin-0.7.1.tar.gz",
+  "download_time": "2026-01-09T15:58:37.812313",
+  "package_url": "https://pypi.org/project/pioreactor-relay-plugin/"
+}

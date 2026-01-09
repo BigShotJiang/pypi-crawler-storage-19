@@ -1,11 +1,21 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2026-01-09T15:46:53.225394
-- **Total Packages**: 90
-- **Total Size**: 53.28 MB
+- **Download Time**: 2026-01-09T15:59:24.192442
+- **Total Packages**: 87
+- **Total Size**: 2.68 MB
 
 ## Packages List
+- rtems-proxy
+- mp-repl
+- abilian-devtools
+- pioreactor-relay-plugin
+- tablegis
+- WsTranslator
+- py-opw-kinematics
+- SURE-tools
+- hydra-router
+- eval-framework
 - automatix
 - cybrid-api-bank-python
 - pyap2
@@ -21,7 +31,6 @@
 - praisonaiagents
 - lydwhitt-tools
 - kissml
-- mp-repl
 - llmcomp
 - financial-services-register-api
 - mostlyai
@@ -29,7 +38,6 @@
 - cgd-verify
 - jarvis-ai-assistant
 - sot-verify
-- SURE-tools
 - py3-web
 - macos-messages
 - cgd-validator
@@ -38,7 +46,6 @@
 - stellar-stats
 - sot-validator
 - aimodelshare
-- hydra-router
 - openreward
 - codemie-tools
 - adk-sim-testing
@@ -86,13 +93,3 @@
 - racs
 - maia-toolkit
 - unique_six
-- mcp-supervisor-squad
-- simple-dwd-weatherforecast
-- fsspec
-- climb-dashboard-gui
-- linkarchivetools
-- cpgtools
-- cachekaro
-- tactigon-speech-socket
-- streamlit-js-eval
-- python-imager

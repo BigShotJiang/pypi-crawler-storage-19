@@ -1,11 +1,11 @@
 {
   "name": "hydra-router",
-  "version": "0.12.36",
+  "version": "0.12.37",
   "summary": "ZeroMQ-based distributed framework",
   "author": "Nadim-Daniel Ghaznavi",
   "license": null,
   "home_page": null,
-  "download_filename": "hydra_router-0.12.36.tar.gz",
-  "download_time": "2026-01-09T15:46:19.059983",
+  "download_filename": "hydra_router-0.12.37.tar.gz",
+  "download_time": "2026-01-09T15:58:40.836832",
   "package_url": "https://pypi.org/project/hydra-router/"
 }
