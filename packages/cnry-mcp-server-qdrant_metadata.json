@@ -1,11 +1,11 @@
 {
   "name": "cnry-mcp-server-qdrant",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "summary": "MCP server for retrieving context from a Qdrant vector database",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "cnry_mcp_server_qdrant-0.0.1.tar.gz",
-  "download_time": "2026-01-09T17:18:25.370279",
+  "download_filename": "cnry_mcp_server_qdrant-0.0.2.tar.gz",
+  "download_time": "2026-01-09T19:16:39.927790",
   "package_url": "https://pypi.org/project/cnry-mcp-server-qdrant/"
 }

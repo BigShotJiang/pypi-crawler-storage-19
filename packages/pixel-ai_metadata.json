@@ -1,0 +1,11 @@
+{
+  "name": "pixel-ai",
+  "version": "0.1.0",
+  "summary": "Offline Raspberry Pi-optimized LLM for Emotion Mirror Project",
+  "author": "Your Name",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pixel_ai-0.1.0.tar.gz",
+  "download_time": "2026-01-09T19:16:21.234770",
+  "package_url": "https://pypi.org/project/pixel-ai/"
+}

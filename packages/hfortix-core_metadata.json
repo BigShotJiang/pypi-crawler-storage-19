@@ -1,11 +1,11 @@
 {
   "name": "hfortix-core",
-  "version": "0.5.46",
+  "version": "0.5.47",
   "summary": "Core foundation for HFortix - Fortinet SDK",
   "author": null,
   "license": "Proprietary",
   "home_page": null,
-  "download_filename": "hfortix_core-0.5.46.tar.gz",
-  "download_time": "2026-01-09T18:22:30.216320",
+  "download_filename": "hfortix_core-0.5.47.tar.gz",
+  "download_time": "2026-01-09T19:16:37.766890",
   "package_url": "https://pypi.org/project/hfortix-core/"
 }

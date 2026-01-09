@@ -1,0 +1,11 @@
+{
+  "name": "delphai-utils",
+  "version": "7.2.1",
+  "summary": "delphai backend utilities",
+  "author": "Barath Kumar",
+  "license": null,
+  "home_page": "https://github.com/delphai/delphai-utils",
+  "download_filename": "delphai_utils-7.2.1.tar.gz",
+  "download_time": "2026-01-09T19:17:06.143800",
+  "package_url": "https://pypi.org/project/delphai-utils/"
+}
