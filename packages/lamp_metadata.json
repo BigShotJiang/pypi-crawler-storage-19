@@ -1,11 +1,11 @@
 {
   "name": "lamp",
-  "version": "0.1.0",
+  "version": "0.1.0.post1",
   "summary": "Laser-plasma Analysis for Multiple Platforms",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "lamp-0.1.0.tar.gz",
-  "download_time": "2026-01-09T22:15:48.668735",
+  "download_filename": "lamp-0.1.0.post1.tar.gz",
+  "download_time": "2026-01-09T22:40:11.535958",
   "package_url": "https://pypi.org/project/lamp/"
 }

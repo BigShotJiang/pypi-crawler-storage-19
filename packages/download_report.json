@@ -1,8 +1,9 @@
 {
-  "download_time": "2026-01-09T22:16:14.962867",
+  "download_time": "2026-01-09T22:40:35.406528",
   "total_packages_downloaded": 92,
-  "total_size_mb": 44.23,
+  "total_size_mb": 7.33,
   "packages": [
+    "prepress",
     "instanton",
     "ladok3",
     "animegifs",
@@ -93,7 +94,6 @@
     "ourskyai_node_platform_api",
     "ourskyai_platform_api",
     "ourskyai_sda_api",
-    "ourskyai_astro_api",
-    "tethys-platform"
+    "ourskyai_astro_api"
   ]
 }

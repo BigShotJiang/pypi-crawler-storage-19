@@ -1,11 +1,11 @@
 {
   "name": "wingman-cli",
-  "version": "0.4.1",
+  "version": "0.4.2",
   "summary": "AI-powered TUI coding assistant for the terminal",
   "author": "Aryan Mahajan, Dedalus Labs",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "wingman_cli-0.4.1.tar.gz",
-  "download_time": "2026-01-09T21:53:15.449720",
+  "download_filename": "wingman_cli-0.4.2.tar.gz",
+  "download_time": "2026-01-09T22:40:28.564263",
   "package_url": "https://pypi.org/project/wingman-cli/"
 }

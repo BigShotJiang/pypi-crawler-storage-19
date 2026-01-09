@@ -1,11 +1,11 @@
 {
   "name": "chunkana",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "summary": "Intelligent Markdown chunking library for RAG systems",
   "author": "asukhodko",
   "license": null,
   "home_page": null,
-  "download_filename": "chunkana-0.1.5.tar.gz",
-  "download_time": "2026-01-08T17:51:10.710543",
+  "download_filename": "chunkana-0.1.6.tar.gz",
+  "download_time": "2026-01-09T22:39:51.385297",
   "package_url": "https://pypi.org/project/chunkana/"
 }
