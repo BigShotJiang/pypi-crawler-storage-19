@@ -1,11 +1,11 @@
 {
   "name": "inl-llm-v3",
-  "version": "3.0.2",
+  "version": "3.0.3",
   "summary": "INL-LLM v3: Ultra-Optimized Integrator Neuron Language Model with GQA, RoPE, SwiGLU",
   "author": "nano3",
   "license": "CC BY-NC 4.0",
   "home_page": "https://github.com/Web3-League/llm-v3-dynamics",
-  "download_filename": "inl_llm_v3-3.0.2.tar.gz",
-  "download_time": "2026-01-08T14:51:08.864081",
+  "download_filename": "inl_llm_v3-3.0.3.tar.gz",
+  "download_time": "2026-01-09T13:14:21.445738",
   "package_url": "https://pypi.org/project/inl-llm-v3/"
 }

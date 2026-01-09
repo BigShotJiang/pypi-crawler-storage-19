@@ -1,0 +1,11 @@
+{
+  "name": "pai-agent-sdk",
+  "version": "0.1.1",
+  "summary": "Toolsets and context management for building agents with Pydantic AI.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pai_agent_sdk-0.1.1.tar.gz",
+  "download_time": "2026-01-09T13:14:41.755694",
+  "package_url": "https://pypi.org/project/pai-agent-sdk/"
+}

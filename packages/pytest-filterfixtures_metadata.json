@@ -1,0 +1,11 @@
+{
+  "name": "pytest-filterfixtures",
+  "version": "0.1.0",
+  "summary": "pytest plugin to execute or ignore tests based on fixtures",
+  "author": "Ignacio Goldchluk",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pytest_filterfixtures-0.1.0.tar.gz",
+  "download_time": "2026-01-09T13:14:48.004100",
+  "package_url": "https://pypi.org/project/pytest-filterfixtures/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "cdes",
+  "version": "0.1.1",
+  "summary": "Cannabis Data Exchange Standard (CDES) Python SDK",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "cdes-0.1.1.tar.gz",
+  "download_time": "2026-01-09T13:14:33.466167",
+  "package_url": "https://pypi.org/project/cdes/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "p-pattern",
+  "version": "2026.2",
+  "summary": "Parametric patterns/shapes definition and sampling",
+  "author": "Eric Debreuve",
+  "license": "CeCILL-2.1",
+  "home_page": "https://src.koda.cnrs.fr/eric.debreuve/p-pattern/",
+  "download_filename": "p_pattern-2026.2.tar.gz",
+  "download_time": "2026-01-09T13:14:37.111378",
+  "package_url": "https://pypi.org/project/p-pattern/"
+}

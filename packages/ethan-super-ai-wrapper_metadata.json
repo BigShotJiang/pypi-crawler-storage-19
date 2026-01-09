@@ -1,11 +1,11 @@
 {
   "name": "ethan-super-ai-wrapper",
-  "version": "0.1.6",
-  "summary": "The easiest AI wrapper for OpenAI, Anthropic, and HuggingFace",
+  "version": "0.1.16",
+  "summary": "The easiest AI wrapper for OpenAI, Anthropic, Gemini, and HuggingFace",
   "author": "Ethan",
   "license": null,
   "home_page": null,
-  "download_filename": "ethan_super_ai_wrapper-0.1.6.tar.gz",
-  "download_time": "2026-01-08T19:15:27.833678",
+  "download_filename": "ethan_super_ai_wrapper-0.1.16.tar.gz",
+  "download_time": "2026-01-09T13:14:19.356080",
   "package_url": "https://pypi.org/project/ethan-super-ai-wrapper/"
 }

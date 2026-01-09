@@ -1,11 +1,11 @@
 {
   "name": "tg-prepare",
-  "version": "2.2.4",
+  "version": "2.2.5",
   "summary": "Simple UI to handle TextGrid imports visually.",
   "author": "Ralf Klammer, Moritz Wilhelm",
   "license": null,
   "home_page": null,
-  "download_filename": "tg_prepare-2.2.4.tar.gz",
-  "download_time": "2026-01-09T12:29:42.688193",
+  "download_filename": "tg_prepare-2.2.5.tar.gz",
+  "download_time": "2026-01-09T13:14:29.342704",
   "package_url": "https://pypi.org/project/tg-prepare/"
 }

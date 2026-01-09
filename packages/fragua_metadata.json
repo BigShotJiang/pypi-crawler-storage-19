@@ -1,11 +1,11 @@
 {
   "name": "fragua",
-  "version": "1.6.1",
+  "version": "1.6.2",
   "summary": "Framework for modeling, orchestrating,and executing ETL pipelines in a controlled environment.",
   "author": "SagoDev",
   "license": null,
   "home_page": "https://github.com/SagoDev/Fragua",
-  "download_filename": "fragua-1.6.1.tar.gz",
-  "download_time": "2026-01-08T21:42:35.724627",
+  "download_filename": "fragua-1.6.2.tar.gz",
+  "download_time": "2026-01-09T13:14:31.916597",
   "package_url": "https://pypi.org/project/fragua/"
 }

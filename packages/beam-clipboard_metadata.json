@@ -1,0 +1,11 @@
+{
+  "name": "beam-clipboard",
+  "version": "0.2.0",
+  "summary": "Cross-device clipboard tool via cloud",
+  "author": "vw2x",
+  "license": null,
+  "home_page": "https://github.com/vwww-droid/Beam",
+  "download_filename": "beam_clipboard-0.2.0.tar.gz",
+  "download_time": "2026-01-09T13:14:06.210292",
+  "package_url": "https://pypi.org/project/beam-clipboard/"
+}

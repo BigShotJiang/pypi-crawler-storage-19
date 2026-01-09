@@ -1,0 +1,11 @@
+{
+  "name": "uniseg",
+  "version": "0.10.1",
+  "summary": "Determine Unicode text segmentations",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "uniseg-0.10.1.tar.gz",
+  "download_time": "2026-01-09T13:14:47.491642",
+  "package_url": "https://pypi.org/project/uniseg/"
+}

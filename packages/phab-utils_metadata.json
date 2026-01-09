@@ -1,0 +1,11 @@
+{
+  "name": "phab-utils",
+  "version": "2026.1.9",
+  "summary": "PHAB utilities for data processing",
+  "author": "retif",
+  "license": null,
+  "home_page": "https://github.com/retifrav/phab-utils",
+  "download_filename": "phab_utils-2026.1.9.tar.gz",
+  "download_time": "2026-01-09T13:14:10.060745",
+  "package_url": "https://pypi.org/project/phab-utils/"
+}
