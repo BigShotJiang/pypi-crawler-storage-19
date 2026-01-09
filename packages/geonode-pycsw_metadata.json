@@ -1,0 +1,11 @@
+{
+  "name": "geonode-pycsw",
+  "version": "3.0.0b2",
+  "summary": "pycsw is an OGC API - Records and OGC CSW server implementation written in Python",
+  "author": "Tom Kralidis",
+  "license": "MIT",
+  "home_page": "https://pycsw.org/",
+  "download_filename": "geonode_pycsw-3.0.0b2-py3-none-any.whl",
+  "download_time": "2026-01-09T10:48:30.342584",
+  "package_url": "https://pypi.org/project/geonode-pycsw/"
+}

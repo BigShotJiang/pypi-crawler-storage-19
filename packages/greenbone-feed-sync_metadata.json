@@ -1,0 +1,11 @@
+{
+  "name": "greenbone-feed-sync",
+  "version": "25.2.0",
+  "summary": "A tool for downloading the Greenbone Community Feed",
+  "author": "Björn Ricks",
+  "license": "GPL-3.0-or-later",
+  "home_page": null,
+  "download_filename": "greenbone_feed_sync-25.2.0.tar.gz",
+  "download_time": "2026-01-09T10:48:04.647427",
+  "package_url": "https://pypi.org/project/greenbone-feed-sync/"
+}

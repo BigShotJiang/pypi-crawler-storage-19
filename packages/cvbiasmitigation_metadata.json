@@ -1,0 +1,11 @@
+{
+  "name": "cvbiasmitigation",
+  "version": "0.0.16",
+  "summary": "A package for discovering biases and suggesting mitigation approaches",
+  "author": "Ioannis Sarridis",
+  "license": null,
+  "home_page": "https://github.com/gsarridis/",
+  "download_filename": "cvbiasmitigation-0.0.16-py3-none-any.whl",
+  "download_time": "2026-01-09T10:48:27.175834",
+  "package_url": "https://pypi.org/project/cvbiasmitigation/"
+}

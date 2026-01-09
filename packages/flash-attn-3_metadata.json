@@ -1,0 +1,11 @@
+{
+  "name": "flash-attn-3",
+  "version": "0.0.0",
+  "summary": "FlashAttention-3",
+  "author": null,
+  "license": "BSD-3-Clause",
+  "home_page": null,
+  "download_filename": "flash_attn_3-0.0.0-py3-none-any.whl",
+  "download_time": "2026-01-09T10:48:35.061169",
+  "package_url": "https://pypi.org/project/flash-attn-3/"
+}

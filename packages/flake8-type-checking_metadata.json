@@ -1,0 +1,11 @@
+{
+  "name": "flake8-type-checking",
+  "version": "3.1.1",
+  "summary": "A flake8 plugin for managing type-checking imports & forward references",
+  "author": "Sondre Lillebø Gundersen",
+  "license": "BSD-3-Clause",
+  "home_page": "https://github.com/snok",
+  "download_filename": "flake8_type_checking-3.1.1.tar.gz",
+  "download_time": "2026-01-09T10:48:38.174927",
+  "package_url": "https://pypi.org/project/flake8-type-checking/"
+}

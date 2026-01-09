@@ -1,11 +1,11 @@
 {
   "name": "hyperscore",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "summary": "Structural music composition framework",
   "author": "inaba1115",
   "license": null,
   "home_page": null,
-  "download_filename": "hyperscore-0.1.0.tar.gz",
-  "download_time": "2026-01-07T13:13:55.655372",
+  "download_filename": "hyperscore-0.2.0.tar.gz",
+  "download_time": "2026-01-09T10:48:06.716797",
   "package_url": "https://pypi.org/project/hyperscore/"
 }

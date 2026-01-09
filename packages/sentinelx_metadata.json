@@ -1,11 +1,11 @@
 {
   "name": "sentinelx",
-  "version": "2.2.0",
+  "version": "2.3.0",
   "summary": "SentinelX - Red/Blue/Purple Team Security Framework",
   "author": "Hackura",
   "license": null,
   "home_page": "https://github.com/hackura/SentinelX",
-  "download_filename": "sentinelx-2.2.0.tar.gz",
-  "download_time": "2026-01-09T01:06:19.418861",
+  "download_filename": "sentinelx-2.3.0.tar.gz",
+  "download_time": "2026-01-09T10:48:34.023516",
   "package_url": "https://pypi.org/project/sentinelx/"
 }

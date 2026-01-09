@@ -1,0 +1,11 @@
+{
+  "name": "Micro-Mastodon-Reader",
+  "version": "1.1.1",
+  "summary": "Light Mastodon project file reader for Python",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "micro_mastodon_reader-1.1.1.tar.gz",
+  "download_time": "2026-01-09T10:48:02.054537",
+  "package_url": "https://pypi.org/project/Micro-Mastodon-Reader/"
+}

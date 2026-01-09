@@ -1,0 +1,11 @@
+{
+  "name": "canvaslms",
+  "version": "5.0",
+  "summary": "Command-line interface to Canvas LMS",
+  "author": "Daniel Bosk",
+  "license": null,
+  "home_page": "https://github.com/dbosk/canvaslms",
+  "download_filename": "canvaslms-5.0.tar.gz",
+  "download_time": "2026-01-09T10:48:31.385416",
+  "package_url": "https://pypi.org/project/canvaslms/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "codemie-mcp-assistants",
-  "version": "0.1.291",
+  "version": "0.1.296",
   "summary": "MCP server for connecting to CodeMie Assistants API",
   "author": "Vadym Vlasenko",
   "license": null,
   "home_page": null,
-  "download_filename": "codemie_mcp_assistants-0.1.291.tar.gz",
-  "download_time": "2026-01-08T11:15:07.250863",
+  "download_filename": "codemie_mcp_assistants-0.1.296.tar.gz",
+  "download_time": "2026-01-09T10:48:32.946509",
   "package_url": "https://pypi.org/project/codemie-mcp-assistants/"
 }

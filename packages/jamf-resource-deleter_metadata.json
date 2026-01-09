@@ -1,11 +1,11 @@
 {
   "name": "jamf-resource-deleter",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "summary": "A module that reads JSON files of Jamf resources (IDs) and deletes them",
   "author": null,
   "license": "Apache 2.0",
   "home_page": null,
-  "download_filename": "jamf_resource_deleter-0.3.0.tar.gz",
-  "download_time": "2026-01-09T08:53:14.048905",
+  "download_filename": "jamf_resource_deleter-0.4.0.tar.gz",
+  "download_time": "2026-01-09T10:48:35.579094",
   "package_url": "https://pypi.org/project/jamf-resource-deleter/"
 }
