@@ -1,0 +1,11 @@
+{
+  "name": "phue2",
+  "version": "0.0.4",
+  "summary": "A Philips Hue Python library",
+  "author": "Nathanaël Lécaudé, Nathan Nowack",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "phue2-0.0.4.tar.gz",
+  "download_time": "2026-01-09T04:10:38.042010",
+  "package_url": "https://pypi.org/project/phue2/"
+}

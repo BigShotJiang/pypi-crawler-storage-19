@@ -1,11 +1,11 @@
 {
   "name": "k3httpmultipart",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "HTTP multipart form data encoder",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "k3httpmultipart-0.1.1.tar.gz",
-  "download_time": "2026-01-07T09:48:19.422483",
+  "download_filename": "k3httpmultipart-0.1.2.tar.gz",
+  "download_time": "2026-01-09T04:10:41.643796",
   "package_url": "https://pypi.org/project/k3httpmultipart/"
 }

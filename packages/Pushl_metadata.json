@@ -1,0 +1,11 @@
+{
+  "name": "Pushl",
+  "version": "0.4.1",
+  "summary": "A conduit for pushing changes in a feed to the rest of the IndieWeb",
+  "author": "fluffy",
+  "license": "MIT",
+  "home_page": "https://plaidweb.site/",
+  "download_filename": "pushl-0.4.1.tar.gz",
+  "download_time": "2026-01-09T04:10:20.981775",
+  "package_url": "https://pypi.org/project/Pushl/"
+}

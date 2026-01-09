@@ -1,0 +1,11 @@
+{
+  "name": "pycourt",
+  "version": "0.1.1",
+  "summary": "Production-grade code audit engine for AI-generated Python code. AST-powered, rule-based quality enforcement.",
+  "author": "PythonCourt Team",
+  "license": null,
+  "home_page": "https://pythoncourt.com",
+  "download_filename": "pycourt-0.1.1.tar.gz",
+  "download_time": "2026-01-09T04:10:19.426545",
+  "package_url": "https://pypi.org/project/pycourt/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "pytest-uuid",
+  "version": "0.4.0",
+  "summary": "A pytest plugin for mocking uuid.uuid4() calls",
+  "author": "CaptainDriftwood",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pytest_uuid-0.4.0.tar.gz",
+  "download_time": "2026-01-09T04:10:28.725004",
+  "package_url": "https://pypi.org/project/pytest-uuid/"
+}
