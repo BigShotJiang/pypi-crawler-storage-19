@@ -1,0 +1,11 @@
+{
+  "name": "google-cloud-data-fusion",
+  "version": "1.15.0",
+  "summary": "Google Cloud Data Fusion API client library",
+  "author": "Google LLC",
+  "license": "Apache 2.0",
+  "home_page": "https://github.com/googleapis/google-cloud-python/tree/main/packages/google-cloud-data-fusion",
+  "download_filename": "google_cloud_data_fusion-1.15.0-py3-none-any.whl",
+  "download_time": "2026-01-09T15:17:07.544677",
+  "package_url": "https://pypi.org/project/google-cloud-data-fusion/"
+}

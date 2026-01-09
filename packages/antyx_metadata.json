@@ -1,0 +1,11 @@
+{
+  "name": "antyx",
+  "version": "0.1.5",
+  "summary": "Antyx is an automated EDA engine designed to generate fast, structured and professional exploratory reports from any tabular dataset.",
+  "author": "Daniel Rodrigálvarez Morente",
+  "license": null,
+  "home_page": "https://github.com/drmdata/antyx",
+  "download_filename": "antyx-0.1.5.tar.gz",
+  "download_time": "2026-01-09T15:16:51.399663",
+  "package_url": "https://pypi.org/project/antyx/"
+}

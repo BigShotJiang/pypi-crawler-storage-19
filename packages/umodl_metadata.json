@@ -1,0 +1,11 @@
+{
+  "name": "umodl",
+  "version": "0.0.27",
+  "summary": "A 'subprocess.run' wrapper around the umodl program",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "umodl-0.0.27.tar.gz",
+  "download_time": "2026-01-09T15:16:37.775470",
+  "package_url": "https://pypi.org/project/umodl/"
+}

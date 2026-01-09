@@ -1,0 +1,11 @@
+{
+  "name": "pywincode",
+  "version": "0.1.0",
+  "summary": "Python bindings for the wincode serialization library with zerocopy support",
+  "author": "Ian Mizer",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pywincode-0.1.0.tar.gz",
+  "download_time": "2026-01-09T15:16:32.562839",
+  "package_url": "https://pypi.org/project/pywincode/"
+}

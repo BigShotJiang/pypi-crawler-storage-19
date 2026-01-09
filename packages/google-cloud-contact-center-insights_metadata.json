@@ -1,0 +1,11 @@
+{
+  "name": "google-cloud-contact-center-insights",
+  "version": "1.25.0",
+  "summary": "Google Cloud Contact Center Insights API client library",
+  "author": "Google LLC",
+  "license": "Apache 2.0",
+  "home_page": "https://github.com/googleapis/google-cloud-python/tree/main/packages/google-cloud-contact-center-insights",
+  "download_filename": "google_cloud_contact_center_insights-1.25.0-py3-none-any.whl",
+  "download_time": "2026-01-09T15:17:09.658873",
+  "package_url": "https://pypi.org/project/google-cloud-contact-center-insights/"
+}

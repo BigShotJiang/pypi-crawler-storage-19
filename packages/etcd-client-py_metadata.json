@@ -1,0 +1,11 @@
+{
+  "name": "etcd-client-py",
+  "version": "0.5.1",
+  "summary": "Yet another etcd-client API binding based on the Rust's etcd-client package",
+  "author": "Sanghyeon Seo, Joongi Kim",
+  "license": null,
+  "home_page": null,
+  "download_filename": "etcd_client_py-0.5.1.tar.gz",
+  "download_time": "2026-01-09T15:16:58.625777",
+  "package_url": "https://pypi.org/project/etcd-client-py/"
+}

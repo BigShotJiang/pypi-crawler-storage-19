@@ -1,0 +1,11 @@
+{
+  "name": "google-cloud-data-qna",
+  "version": "0.12.0",
+  "summary": "Google Cloud Data Qna API client library",
+  "author": "Google LLC",
+  "license": "Apache 2.0",
+  "home_page": "https://github.com/googleapis/google-cloud-python/tree/main/packages/google-cloud-data-qna",
+  "download_filename": "google_cloud_data_qna-0.12.0-py3-none-any.whl",
+  "download_time": "2026-01-09T15:17:07.033279",
+  "package_url": "https://pypi.org/project/google-cloud-data-qna/"
+}

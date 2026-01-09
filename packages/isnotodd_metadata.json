@@ -1,11 +1,11 @@
 {
   "name": "isnotodd",
-  "version": "0.1.18",
+  "version": "0.1.19",
   "summary": "use this library if you want to check if an integer is even or not and you think '%' is stupid.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "isnotodd-0.1.18.tar.gz",
-  "download_time": "2026-01-09T11:33:31.951734",
+  "download_filename": "isnotodd-0.1.19.tar.gz",
+  "download_time": "2026-01-09T15:16:46.116723",
   "package_url": "https://pypi.org/project/isnotodd/"
 }

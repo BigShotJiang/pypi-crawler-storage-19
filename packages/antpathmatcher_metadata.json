@@ -1,0 +1,11 @@
+{
+  "name": "antpathmatcher",
+  "version": "1.0.2",
+  "summary": "Python Implementation of the Ant-style path patterns, inspired by Spring Framework's AntPathMatcher.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "antpathmatcher-1.0.2.tar.gz",
+  "download_time": "2026-01-09T15:16:23.633141",
+  "package_url": "https://pypi.org/project/antpathmatcher/"
+}
