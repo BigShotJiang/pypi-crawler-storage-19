@@ -1,11 +1,11 @@
 {
   "name": "octobot-node",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "summary": "OctoBot Node",
   "author": "Drakkar-Software",
   "license": "GPL-3.0",
   "home_page": "https://github.com/Drakkar-Software/OctoBot-Node",
-  "download_filename": "octobot_node-0.0.2.tar.gz",
-  "download_time": "2026-01-07T21:51:34.692268",
+  "download_filename": "octobot_node-0.0.3.tar.gz",
+  "download_time": "2026-01-09T08:53:07.139041",
   "package_url": "https://pypi.org/project/octobot-node/"
 }

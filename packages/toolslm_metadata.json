@@ -1,11 +1,11 @@
 {
   "name": "toolslm",
-  "version": "0.3.19",
+  "version": "0.3.20",
   "summary": "Tools to make language models a bit easier to use",
   "author": "Jeremy Howard",
   "license": "Apache Software License 2.0",
   "home_page": "https://github.com/AnswerDotAI/toolslm",
-  "download_filename": "toolslm-0.3.19.tar.gz",
-  "download_time": "2026-01-08T01:05:42.840777",
+  "download_filename": "toolslm-0.3.20.tar.gz",
+  "download_time": "2026-01-09T08:52:40.115860",
   "package_url": "https://pypi.org/project/toolslm/"
 }

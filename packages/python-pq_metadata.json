@@ -1,0 +1,11 @@
+{
+  "name": "python-pq",
+  "version": "0.3.1",
+  "summary": "Postgres-backed job queue for Python",
+  "author": "ricwo",
+  "license": null,
+  "home_page": null,
+  "download_filename": "python_pq-0.3.1.tar.gz",
+  "download_time": "2026-01-09T08:52:49.571615",
+  "package_url": "https://pypi.org/project/python-pq/"
+}

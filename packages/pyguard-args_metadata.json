@@ -1,0 +1,11 @@
+{
+  "name": "pyguard-args",
+  "version": "0.2.0",
+  "summary": "A Python library for validating function arguments using decorators",
+  "author": "Mateusz Jasinski",
+  "license": null,
+  "home_page": "https://github.com/tadow-dev/pyguard",
+  "download_filename": "pyguard_args-0.2.0.tar.gz",
+  "download_time": "2026-01-09T08:52:54.292917",
+  "package_url": "https://pypi.org/project/pyguard-args/"
+}

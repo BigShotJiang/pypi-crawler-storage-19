@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-stock-picking-report-valued",
+  "version": "18.0.1.1.0",
+  "summary": "Adding Valued Picking on Delivery Slip report",
+  "author": "Tecnativa, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/stock-logistics-reporting",
+  "download_filename": "odoo_addon_stock_picking_report_valued-18.0.1.1.0-py3-none-any.whl",
+  "download_time": "2026-01-09T08:52:52.706687",
+  "package_url": "https://pypi.org/project/odoo-addon-stock-picking-report-valued/"
+}

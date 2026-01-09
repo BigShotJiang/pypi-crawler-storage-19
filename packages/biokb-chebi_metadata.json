@@ -1,0 +1,11 @@
+{
+  "name": "biokb-chebi",
+  "version": "0.1.2",
+  "summary": "A Python package to import ChEBI data in MySQL and Neo4J",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "biokb_chebi-0.1.2.tar.gz",
+  "download_time": "2026-01-09T08:52:46.228644",
+  "package_url": "https://pypi.org/project/biokb-chebi/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "warden-core",
-  "version": "1.8.3",
+  "version": "1.8.4",
   "summary": "Warden - AI Code Guardian for comprehensive code validation",
   "author": "Warden Team",
   "license": null,
   "home_page": "https://github.com/alperduzgun/warden-core",
-  "download_filename": "warden_core-1.8.3.tar.gz",
-  "download_time": "2026-01-08T23:29:51.803604",
+  "download_filename": "warden_core-1.8.4.tar.gz",
+  "download_time": "2026-01-09T08:52:44.586247",
   "package_url": "https://pypi.org/project/warden-core/"
 }

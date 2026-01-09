@@ -1,0 +1,11 @@
+{
+  "name": "aepybamm",
+  "version": "0.2.1",
+  "summary": "Interfacing between About:Energy's BPX electrochemical parameter sets for batteries and the PyBaMM package for battery modelling.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "aepybamm-0.2.1.tar.gz",
+  "download_time": "2026-01-09T08:52:52.185490",
+  "package_url": "https://pypi.org/project/aepybamm/"
+}

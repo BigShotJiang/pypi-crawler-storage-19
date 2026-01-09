@@ -1,11 +1,11 @@
 {
   "name": "aider-ce",
-  "version": "0.95.10",
+  "version": "0.95.11",
   "summary": "⚠️ DEPRECATED: This package has been renamed to 'cecli-dev'.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "aider_ce-0.95.10.tar.gz",
-  "download_time": "2026-01-09T08:21:35.428037",
+  "download_filename": "aider_ce-0.95.11.tar.gz",
+  "download_time": "2026-01-09T08:53:08.764660",
   "package_url": "https://pypi.org/project/aider-ce/"
 }
