@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-l10n-ro-account-bank-statement-import-mt940-ing",
+  "version": "19.0.0.2.0",
+  "summary": "MT940 ING Format Bank Statements Import",
+  "author": "Terrabit,NextERP Romania SRL,Forest and Biomass Romania, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/l10n-romania",
+  "download_filename": "odoo_addon_l10n_ro_account_bank_statement_import_mt940_ing-19.0.0.2.0-py3-none-any.whl",
+  "download_time": "2026-01-09T22:15:44.570366",
+  "package_url": "https://pypi.org/project/odoo-addon-l10n-ro-account-bank-statement-import-mt940-ing/"
+}

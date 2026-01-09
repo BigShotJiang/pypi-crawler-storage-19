@@ -1,0 +1,11 @@
+{
+  "name": "ladok3",
+  "version": "5.7",
+  "summary": "Python wrapper and CLI for the LADOK3 REST API.",
+  "author": "Daniel Bosk",
+  "license": null,
+  "home_page": "https://github.com/dbosk/ladok3",
+  "download_filename": "ladok3-5.7.tar.gz",
+  "download_time": "2026-01-09T22:15:21.887561",
+  "package_url": "https://pypi.org/project/ladok3/"
+}

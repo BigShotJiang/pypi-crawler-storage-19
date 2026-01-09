@@ -1,11 +1,11 @@
 {
   "name": "papercutter",
-  "version": "2.0.1",
+  "version": "2.0.2",
   "summary": "Automated evidence synthesis pipeline for systematic literature reviews",
   "author": "Pranjal Rawat",
   "license": null,
   "home_page": null,
-  "download_filename": "papercutter-2.0.1.tar.gz",
-  "download_time": "2026-01-09T21:35:13.592279",
+  "download_filename": "papercutter-2.0.2.tar.gz",
+  "download_time": "2026-01-09T22:15:51.042410",
   "package_url": "https://pypi.org/project/papercutter/"
 }

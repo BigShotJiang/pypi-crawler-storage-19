@@ -1,0 +1,11 @@
+{
+  "name": "animegifs",
+  "version": "1.2.2",
+  "summary": "Get random anime gifs by category.",
+  "author": "Marco-Sa2000",
+  "license": "MIT",
+  "home_page": "https://github.com/MarcoSa-2000/animegifs",
+  "download_filename": "animegifs-1.2.2.tar.gz",
+  "download_time": "2026-01-09T22:15:23.031733",
+  "package_url": "https://pypi.org/project/animegifs/"
+}

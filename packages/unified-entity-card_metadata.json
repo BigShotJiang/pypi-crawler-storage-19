@@ -1,11 +1,11 @@
 {
   "name": "unified-entity-card",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "Unified Entity Card helpers",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "unified_entity_card-0.1.0.tar.gz",
-  "download_time": "2026-01-09T21:35:07.022052",
+  "download_filename": "unified_entity_card-0.1.1.tar.gz",
+  "download_time": "2026-01-09T22:15:34.679358",
   "package_url": "https://pypi.org/project/unified-entity-card/"
 }
