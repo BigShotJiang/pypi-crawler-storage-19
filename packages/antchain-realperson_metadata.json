@@ -1,0 +1,11 @@
+{
+  "name": "antchain-realperson",
+  "version": "1.22.13",
+  "summary": "Ant Chain REALPERSON SDK Library for Python",
+  "author": "Ant Chain SDK",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/alipay/antchain-openapi-prod-sdk",
+  "download_filename": "antchain_realperson-1.22.13.tar.gz",
+  "download_time": "2026-01-09T07:54:49.409757",
+  "package_url": "https://pypi.org/project/antchain-realperson/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "montblanc",
+  "version": "0.7.4",
+  "summary": "GPU-accelerated RIME implementations.",
+  "author": "Simon Perkins",
+  "license": "GPL2",
+  "home_page": "http://github.com/ska-sa/montblanc",
+  "download_filename": "montblanc-0.7.4.tar.gz",
+  "download_time": "2026-01-09T07:54:42.624536",
+  "package_url": "https://pypi.org/project/montblanc/"
+}

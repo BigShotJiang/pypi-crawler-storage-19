@@ -1,0 +1,11 @@
+{
+  "name": "pluvo",
+  "version": "0.3.0",
+  "summary": "Python library to access the Pluvo REST API.",
+  "author": "Wend BV",
+  "license": "MIT",
+  "home_page": "https://github.com/wendbv/pluvo-python",
+  "download_filename": "pluvo-0.3.0.tar.gz",
+  "download_time": "2026-01-09T07:54:49.921553",
+  "package_url": "https://pypi.org/project/pluvo/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "xqdata",
+  "version": "0.2.1",
+  "summary": "统一适配rqdata/火富牛API等数据源",
+  "author": "xuanq",
+  "license": null,
+  "home_page": null,
+  "download_filename": "xqdata-0.2.1.tar.gz",
+  "download_time": "2026-01-09T07:54:43.646454",
+  "package_url": "https://pypi.org/project/xqdata/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "nextpoly-data-provider",
+  "version": "0.7.0",
+  "summary": "Data provider for Python - Query data from local DuckDB",
+  "author": "cupnfish",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "nextpoly_data_provider-0.7.0-cp311-abi3-manylinux_2_17_aarch64.manylinux2014_aarch64.whl",
+  "download_time": "2026-01-09T07:54:45.764502",
+  "package_url": "https://pypi.org/project/nextpoly-data-provider/"
+}
