@@ -1,0 +1,11 @@
+{
+  "name": "stateset-embedded",
+  "version": "0.1.9",
+  "summary": "Local-first embedded commerce library for Python",
+  "author": null,
+  "license": "MIT OR Apache-2.0",
+  "home_page": null,
+  "download_filename": "stateset_embedded-0.1.9.tar.gz",
+  "download_time": "2026-01-09T20:56:50.719261",
+  "package_url": "https://pypi.org/project/stateset-embedded/"
+}

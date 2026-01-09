@@ -1,0 +1,11 @@
+{
+  "name": "rmbloat",
+  "version": "0.8.0",
+  "summary": "An intelligent FFmpeg utility for prioritizing and converting inefficient video files (BLOAT score).",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "rmbloat-0.8.0.tar.gz",
+  "download_time": "2026-01-09T20:57:18.167277",
+  "package_url": "https://pypi.org/project/rmbloat/"
+}

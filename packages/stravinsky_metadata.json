@@ -1,11 +1,11 @@
 {
   "name": "stravinsky",
-  "version": "0.4.16",
+  "version": "0.4.17",
   "summary": "MCP Bridge for Claude Code with Multi-Model Support. Install globally: claude mcp add --scope user stravinsky -- uvx stravinsky. Add to CLAUDE.md: See https://pypi.org/project/stravinsky/",
   "author": "Stravinsky Team",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "stravinsky-0.4.16.tar.gz",
-  "download_time": "2026-01-09T09:49:45.947583",
+  "download_filename": "stravinsky-0.4.17.tar.gz",
+  "download_time": "2026-01-09T20:57:18.910304",
   "package_url": "https://pypi.org/project/stravinsky/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "goldhand",
-  "version": "20.3",
+  "version": "21.0",
   "summary": "A package working with financial data",
   "author": "Mihaly",
   "license": "MIT",
   "home_page": "https://github.com/misrori/goldhand",
-  "download_filename": "goldhand-20.3.tar.gz",
-  "download_time": "2026-01-09T19:51:58.954546",
+  "download_filename": "goldhand-21.0.tar.gz",
+  "download_time": "2026-01-09T20:56:53.350095",
   "package_url": "https://pypi.org/project/goldhand/"
 }
