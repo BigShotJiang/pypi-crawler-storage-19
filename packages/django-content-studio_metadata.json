@@ -1,0 +1,11 @@
+{
+  "name": "django-content-studio",
+  "version": "1.0.0b5",
+  "summary": "Modern & flexible Django admin",
+  "author": "Leon van der Grient",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "django_content_studio-1.0.0b5.tar.gz",
+  "download_time": "2026-01-09T21:53:27.968895",
+  "package_url": "https://pypi.org/project/django-content-studio/"
+}

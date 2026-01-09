@@ -1,11 +1,11 @@
 {
   "name": "consensys",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "summary": "Multi-agent code review with AI debate",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "consensys-0.2.0.tar.gz",
-  "download_time": "2026-01-09T21:16:14.003430",
+  "download_filename": "consensys-0.2.1.tar.gz",
+  "download_time": "2026-01-09T21:53:32.829388",
   "package_url": "https://pypi.org/project/consensys/"
 }

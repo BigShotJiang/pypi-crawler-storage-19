@@ -1,0 +1,11 @@
+{
+  "name": "transformerlab-inference",
+  "version": "0.2.52",
+  "summary": "An open platform for training, serving, and evaluating large language model based chatbots.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "transformerlab_inference-0.2.52.tar.gz",
+  "download_time": "2026-01-09T21:53:30.650390",
+  "package_url": "https://pypi.org/project/transformerlab-inference/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "ibis-gizmosql",
+  "version": "0.0.14",
+  "summary": "An Ibis backend for GizmoSQL",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ibis_gizmosql-0.0.14.tar.gz",
+  "download_time": "2026-01-09T21:53:15.966550",
+  "package_url": "https://pypi.org/project/ibis-gizmosql/"
+}

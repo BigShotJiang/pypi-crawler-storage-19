@@ -1,11 +1,11 @@
 {
   "name": "dataforge-sdk",
-  "version": "9.2.6",
+  "version": "10.0.0",
   "summary": "SDK for creating DataForge extensions",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "dataforge_sdk-9.2.6.tar.gz",
-  "download_time": "2026-01-07T19:16:20.103822",
+  "download_filename": "dataforge_sdk-10.0.0.tar.gz",
+  "download_time": "2026-01-09T21:53:51.079053",
   "package_url": "https://pypi.org/project/dataforge-sdk/"
 }

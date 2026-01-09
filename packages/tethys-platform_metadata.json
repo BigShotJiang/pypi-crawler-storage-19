@@ -1,0 +1,11 @@
+{
+  "name": "tethys-platform",
+  "version": "4.4.0",
+  "summary": "Primary Tethys Platform Django Site Project",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "tethys_platform-4.4.0.tar.gz",
+  "download_time": "2026-01-09T21:53:22.810978",
+  "package_url": "https://pypi.org/project/tethys-platform/"
+}

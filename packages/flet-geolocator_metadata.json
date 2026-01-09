@@ -1,0 +1,11 @@
+{
+  "name": "flet-geolocator",
+  "version": "0.80.1",
+  "summary": "Adds geolocation capabilities to your Flet apps.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "flet_geolocator-0.80.1.tar.gz",
+  "download_time": "2026-01-09T21:53:40.524573",
+  "package_url": "https://pypi.org/project/flet-geolocator/"
+}

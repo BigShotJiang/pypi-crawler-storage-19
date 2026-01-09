@@ -1,11 +1,11 @@
 {
   "name": "cegaware",
-  "version": "0.1.10",
+  "version": "0.1.11",
   "summary": "Cegaware Python SDK",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "cegaware-0.1.10.tar.gz",
-  "download_time": "2026-01-07T10:16:24.919545",
+  "download_filename": "cegaware-0.1.11.tar.gz",
+  "download_time": "2026-01-09T21:53:20.139414",
   "package_url": "https://pypi.org/project/cegaware/"
 }
