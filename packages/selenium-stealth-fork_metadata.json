@@ -1,0 +1,11 @@
+{
+  "name": "selenium-stealth-fork",
+  "version": "1.0.7",
+  "summary": "Trying to make python selenium more stealthy.",
+  "author": "Andrey Plugin",
+  "license": null,
+  "home_page": "https://github.com/repen/selenium-stealth",
+  "download_filename": "selenium_stealth_fork-1.0.7.tar.gz",
+  "download_time": "2026-01-09T09:22:22.578946",
+  "package_url": "https://pypi.org/project/selenium-stealth-fork/"
+}

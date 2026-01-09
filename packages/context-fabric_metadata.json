@@ -1,11 +1,11 @@
 {
   "name": "context-fabric",
-  "version": "0.4.1",
+  "version": "0.5.0",
   "summary": "Graph-based corpus engine for annotated text with efficient traversal and search",
   "author": "Cody Kingham, Dirk Roorda",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "context_fabric-0.4.1.tar.gz",
-  "download_time": "2026-01-08T16:55:29.163839",
+  "download_filename": "context_fabric-0.5.0.tar.gz",
+  "download_time": "2026-01-09T09:22:04.134890",
   "package_url": "https://pypi.org/project/context-fabric/"
 }

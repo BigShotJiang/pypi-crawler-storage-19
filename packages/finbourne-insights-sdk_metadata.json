@@ -1,0 +1,11 @@
+{
+  "name": "finbourne-insights-sdk",
+  "version": "2.3.1",
+  "summary": "FINBOURNE Insights API",
+  "author": "FINBOURNE Technology",
+  "license": "MIT",
+  "home_page": "https://github.com/finbourne/insights-sdk-python",
+  "download_filename": "finbourne_insights_sdk-2.3.1.tar.gz",
+  "download_time": "2026-01-09T09:22:13.836783",
+  "package_url": "https://pypi.org/project/finbourne-insights-sdk/"
+}

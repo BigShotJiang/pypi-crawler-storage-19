@@ -1,0 +1,11 @@
+{
+  "name": "snowflake-bronze-to-silver-mapper",
+  "version": "0.0.0",
+  "summary": "Transform Bronze to Silver layer data in Snowflake",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "snowflake_bronze_to_silver_mapper-0.0.0.tar.gz",
+  "download_time": "2026-01-09T09:21:54.808201",
+  "package_url": "https://pypi.org/project/snowflake-bronze-to-silver-mapper/"
+}

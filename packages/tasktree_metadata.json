@@ -1,0 +1,11 @@
+{
+  "name": "tasktree",
+  "version": "0.0.19",
+  "summary": "A task automation tool with incremental execution",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "tasktree-0.0.19.tar.gz",
+  "download_time": "2026-01-09T09:22:01.931693",
+  "package_url": "https://pypi.org/project/tasktree/"
+}

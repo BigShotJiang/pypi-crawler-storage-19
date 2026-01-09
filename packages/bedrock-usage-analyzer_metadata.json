@@ -1,11 +1,11 @@
 {
   "name": "bedrock-usage-analyzer",
-  "version": "0.4.1b0",
+  "version": "0.4.3b0",
   "summary": "Calculate token usage statistics and map quotas for Amazon Bedrock models",
   "author": "Amazon Web Services",
   "license": null,
   "home_page": null,
-  "download_filename": "bedrock_usage_analyzer-0.4.1b0.tar.gz",
-  "download_time": "2026-01-07T16:20:26.976564",
+  "download_filename": "bedrock_usage_analyzer-0.4.3b0.tar.gz",
+  "download_time": "2026-01-09T09:22:24.709673",
   "package_url": "https://pypi.org/project/bedrock-usage-analyzer/"
 }

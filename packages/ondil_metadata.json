@@ -1,0 +1,11 @@
+{
+  "name": "ondil",
+  "version": "0.4.6",
+  "summary": "Methods for online / incremental estimation of distributional regression models",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ondil-0.4.6.tar.gz",
+  "download_time": "2026-01-09T09:22:02.497524",
+  "package_url": "https://pypi.org/project/ondil/"
+}

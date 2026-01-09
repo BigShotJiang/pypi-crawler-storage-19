@@ -1,11 +1,11 @@
 {
   "name": "pathgenerator",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "Human-like mouse path generation using PD control",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "pathgenerator-0.1.1.tar.gz",
-  "download_time": "2026-01-09T08:53:16.199982",
+  "download_filename": "pathgenerator-0.1.2.tar.gz",
+  "download_time": "2026-01-09T09:22:25.852191",
   "package_url": "https://pypi.org/project/pathgenerator/"
 }
