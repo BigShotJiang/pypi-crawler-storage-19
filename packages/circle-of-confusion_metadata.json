@@ -1,0 +1,11 @@
+{
+  "name": "circle-of-confusion",
+  "version": "0.2.6",
+  "summary": "Calculator for Circle of Confusion (CoC) to calculate the size in pixels of an area, used for depth of field processing.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "circle_of_confusion-0.2.6.tar.gz",
+  "download_time": "2026-01-09T17:46:26.162688",
+  "package_url": "https://pypi.org/project/circle-of-confusion/"
+}

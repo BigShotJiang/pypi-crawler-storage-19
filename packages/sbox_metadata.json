@@ -1,11 +1,11 @@
 {
   "name": "sbox",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "summary": "A simple secret manager with Pydantic model migration support",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "sbox-1.0.0.tar.gz",
-  "download_time": "2026-01-08T13:23:41.594409",
+  "download_filename": "sbox-1.1.0.tar.gz",
+  "download_time": "2026-01-09T17:46:18.335618",
   "package_url": "https://pypi.org/project/sbox/"
 }

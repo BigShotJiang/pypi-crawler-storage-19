@@ -1,0 +1,11 @@
+{
+  "name": "runyx",
+  "version": "1.0.3",
+  "summary": "Local bridge for Runyx extension",
+  "author": "Guiflayrom",
+  "license": "MIT",
+  "home_page": "https://github.com/Guiflayrom/runyx",
+  "download_filename": "runyx-1.0.3.tar.gz",
+  "download_time": "2026-01-09T17:45:49.755783",
+  "package_url": "https://pypi.org/project/runyx/"
+}

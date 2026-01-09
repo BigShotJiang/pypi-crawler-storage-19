@@ -1,0 +1,11 @@
+{
+  "name": "gitxray",
+  "version": "1.0.20",
+  "summary": "A multifaceted security tool which leverages Public GitHub REST APIs for OSINT, Forensics, Pentesting and more.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "gitxray-1.0.20.tar.gz",
+  "download_time": "2026-01-09T17:46:11.634013",
+  "package_url": "https://pypi.org/project/gitxray/"
+}

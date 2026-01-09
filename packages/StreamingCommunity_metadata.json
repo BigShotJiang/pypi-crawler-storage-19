@@ -1,11 +1,11 @@
 {
   "name": "StreamingCommunity",
-  "version": "3.5.8",
+  "version": "3.5.9",
   "summary": "Download content from streaming platforms",
   "author": "Arrowar",
   "license": null,
   "home_page": "https://github.com/Arrowar/StreamingCommunity",
-  "download_filename": "streamingcommunity-3.5.8.tar.gz",
-  "download_time": "2026-01-09T17:18:40.981075",
+  "download_filename": "streamingcommunity-3.5.9.tar.gz",
+  "download_time": "2026-01-09T17:46:14.551703",
   "package_url": "https://pypi.org/project/StreamingCommunity/"
 }

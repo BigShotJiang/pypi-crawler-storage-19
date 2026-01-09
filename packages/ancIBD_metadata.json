@@ -1,0 +1,11 @@
+{
+  "name": "ancIBD",
+  "version": "0.8",
+  "summary": "Identify identity-by-descent (IBD) segments between pairs of individuals in human ancient DNA data.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ancibd-0.8.tar.gz",
+  "download_time": "2026-01-09T17:46:28.785300",
+  "package_url": "https://pypi.org/project/ancIBD/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "cfabric-benchmarks",
+  "version": "0.1.0",
+  "summary": "Comprehensive benchmarking suite for Context-Fabric vs Text-Fabric",
+  "author": "Cody Kingham",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "cfabric_benchmarks-0.1.0.tar.gz",
+  "download_time": "2026-01-09T17:45:56.112695",
+  "package_url": "https://pypi.org/project/cfabric-benchmarks/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "ods-types-py",
+  "version": "0.1.5",
+  "summary": "Core types and enums for ODS (Optikka Design System) - Python implementation",
+  "author": null,
+  "license": "PROPRIETARY",
+  "home_page": null,
+  "download_filename": "ods_types_py-0.1.5.tar.gz",
+  "download_time": "2026-01-09T17:45:53.465368",
+  "package_url": "https://pypi.org/project/ods-types-py/"
+}
