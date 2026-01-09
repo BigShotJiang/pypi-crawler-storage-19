@@ -1,11 +1,11 @@
 {
   "name": "airops",
-  "version": "0.1.12",
+  "version": "0.1.13",
   "summary": "AirOps Python SDK for building custom tools that integrate with AirOps Steps API",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "airops-0.1.12.tar.gz",
-  "download_time": "2026-01-09T18:22:34.415653",
+  "download_filename": "airops-0.1.13.tar.gz",
+  "download_time": "2026-01-09T18:55:25.778187",
   "package_url": "https://pypi.org/project/airops/"
 }

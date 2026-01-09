@@ -1,0 +1,11 @@
+{
+  "name": "pdnd-python-client",
+  "version": "0.1.15",
+  "summary": "Client Python per autenticazione e interazione con le API della Piattaforma Digitale Nazionale Dati (PDND).",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pdnd_python_client-0.1.15.tar.gz",
+  "download_time": "2026-01-09T18:55:13.536777",
+  "package_url": "https://pypi.org/project/pdnd-python-client/"
+}

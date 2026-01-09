@@ -1,11 +1,11 @@
 {
   "name": "kacs",
-  "version": "0.4.0",
+  "version": "0.6.0",
   "summary": "Keep a changelog, stupid! Generate changelogs from git commits using LLM.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "kacs-0.4.0.tar.gz",
-  "download_time": "2026-01-07T19:49:51.434761",
+  "download_filename": "kacs-0.6.0.tar.gz",
+  "download_time": "2026-01-09T18:54:55.630332",
   "package_url": "https://pypi.org/project/kacs/"
 }

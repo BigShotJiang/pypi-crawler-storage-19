@@ -1,0 +1,11 @@
+{
+  "name": "multi-llm-orchestrator",
+  "version": "0.8.1",
+  "summary": "Unified interface for Russian LLMs with intelligent routing and fallback",
+  "author": "Mikhail Malorod",
+  "license": "MIT",
+  "home_page": "https://github.com/MikhailMalorod/Multi-LLM-Orchestrator",
+  "download_filename": "multi_llm_orchestrator-0.8.1.tar.gz",
+  "download_time": "2026-01-09T18:55:09.280972",
+  "package_url": "https://pypi.org/project/multi-llm-orchestrator/"
+}

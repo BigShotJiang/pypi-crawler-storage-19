@@ -1,0 +1,11 @@
+{
+  "name": "klira",
+  "version": "0.4.1",
+  "summary": "Klira AI SDK for LLM observability and policy enforcement",
+  "author": "Klira AI Team",
+  "license": "Proprietary",
+  "home_page": null,
+  "download_filename": "klira-0.4.1.tar.gz",
+  "download_time": "2026-01-09T18:54:50.549974",
+  "package_url": "https://pypi.org/project/klira/"
+}

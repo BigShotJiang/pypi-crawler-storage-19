@@ -1,11 +1,11 @@
 {
   "name": "aquiles-image",
-  "version": "0.3.2",
+  "version": "0.3.5",
   "summary": "A high-performance, memory-efficient inference server for diffusion models, compatible with the OpenAI client",
   "author": null,
   "license": "Apache License 2.0",
   "home_page": null,
-  "download_filename": "aquiles_image-0.3.2.tar.gz",
-  "download_time": "2026-01-07T18:55:21.967464",
+  "download_filename": "aquiles_image-0.3.5.tar.gz",
+  "download_time": "2026-01-09T18:55:29.529431",
   "package_url": "https://pypi.org/project/aquiles-image/"
 }
