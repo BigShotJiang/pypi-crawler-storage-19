@@ -1,0 +1,11 @@
+{
+  "name": "geofabric",
+  "version": "0.1.0",
+  "summary": "Query geospatial sources, analyze at scale, and publish results with a consistent API.",
+  "author": "Marcos Tulio Fermin Lopez",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "geofabric-0.1.0.tar.gz",
+  "download_time": "2026-01-09T06:24:05.947920",
+  "package_url": "https://pypi.org/project/geofabric/"
+}

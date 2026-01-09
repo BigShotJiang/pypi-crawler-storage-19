@@ -1,0 +1,11 @@
+{
+  "name": "apache-sedona",
+  "version": "1.8.1",
+  "summary": "Apache Sedona is a cluster computing system for processing large-scale spatial data",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "apache_sedona-1.8.1.tar.gz",
+  "download_time": "2026-01-09T06:23:44.821794",
+  "package_url": "https://pypi.org/project/apache-sedona/"
+}

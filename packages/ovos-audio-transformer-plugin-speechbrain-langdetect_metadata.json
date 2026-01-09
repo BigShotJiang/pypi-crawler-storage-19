@@ -1,0 +1,11 @@
+{
+  "name": "ovos-audio-transformer-plugin-speechbrain-langdetect",
+  "version": "0.0.1",
+  "summary": "A speech lang detection plugin for mycroft",
+  "author": "JarbasAi",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/OpenVoiceOS/ovos-audio-transformer-plugin-speechbrain-langdetect",
+  "download_filename": "ovos_audio_transformer_plugin_speechbrain_langdetect-0.0.1.tar.gz",
+  "download_time": "2026-01-09T06:23:30.642589",
+  "package_url": "https://pypi.org/project/ovos-audio-transformer-plugin-speechbrain-langdetect/"
+}

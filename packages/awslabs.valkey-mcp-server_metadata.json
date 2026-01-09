@@ -1,0 +1,11 @@
+{
+  "name": "awslabs.valkey-mcp-server",
+  "version": "1.0.12",
+  "summary": "An AWS Labs Model Context Protocol (MCP) server for valkey",
+  "author": "Amazon Web Services",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "awslabs_valkey_mcp_server-1.0.12.tar.gz",
+  "download_time": "2026-01-09T06:24:08.590025",
+  "package_url": "https://pypi.org/project/awslabs.valkey-mcp-server/"
+}

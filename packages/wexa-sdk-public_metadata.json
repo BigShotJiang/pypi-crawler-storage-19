@@ -1,0 +1,11 @@
+{
+  "name": "wexa-sdk-public",
+  "version": "0.1.0",
+  "summary": "Official Wexa Python SDK (Public - No Authentication)",
+  "author": "Wexa",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "wexa_sdk_public-0.1.0.tar.gz",
+  "download_time": "2026-01-09T06:24:05.436461",
+  "package_url": "https://pypi.org/project/wexa-sdk-public/"
+}
