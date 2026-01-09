@@ -1,0 +1,11 @@
+{
+  "name": "reminix",
+  "version": "0.6.0",
+  "summary": "Reminix Python SDK",
+  "author": "Reminix",
+  "license": "MIT",
+  "home_page": "https://github.com/reminix-ai/reminix-python",
+  "download_filename": "reminix-0.6.0.tar.gz",
+  "download_time": "2026-01-09T01:06:29.832276",
+  "package_url": "https://pypi.org/project/reminix/"
+}

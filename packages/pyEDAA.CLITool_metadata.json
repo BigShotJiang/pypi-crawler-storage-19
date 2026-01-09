@@ -1,0 +1,11 @@
+{
+  "name": "pyEDAA.CLITool",
+  "version": "0.3.11",
+  "summary": "An abstraction layer of EDA CLI tools.",
+  "author": "Patrick Lehmann",
+  "license": "Apache-2.0",
+  "home_page": "https://GitHub.com/edaa-org/pyEDAA.CLITool",
+  "download_filename": "pyedaa_clitool-0.3.11.tar.gz",
+  "download_time": "2026-01-09T01:06:14.887226",
+  "package_url": "https://pypi.org/project/pyEDAA.CLITool/"
+}

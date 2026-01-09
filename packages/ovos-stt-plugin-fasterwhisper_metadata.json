@@ -1,0 +1,11 @@
+{
+  "name": "ovos-stt-plugin-fasterwhisper",
+  "version": "0.4.0",
+  "summary": "A fasterwhisper stt plugin for mycroft",
+  "author": "JarbasAi",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/OpenVoiceOS/ovos-stt-plugin-fasterwhisper",
+  "download_filename": "ovos_stt_plugin_fasterwhisper-0.4.0.tar.gz",
+  "download_time": "2026-01-09T01:06:22.282277",
+  "package_url": "https://pypi.org/project/ovos-stt-plugin-fasterwhisper/"
+}
