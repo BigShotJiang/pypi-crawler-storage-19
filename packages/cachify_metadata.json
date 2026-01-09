@@ -1,0 +1,11 @@
+{
+  "name": "cachify",
+  "version": "0.3.0",
+  "summary": "A simple cache library with sync/async support, Memory and Redis backend",
+  "author": "dynalz",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "cachify-0.3.0.tar.gz",
+  "download_time": "2026-01-09T11:15:01.891148",
+  "package_url": "https://pypi.org/project/cachify/"
+}

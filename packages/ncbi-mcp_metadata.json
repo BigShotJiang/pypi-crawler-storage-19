@@ -1,11 +1,11 @@
 {
   "name": "ncbi-mcp",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "NCBI E-utilities MCP server for accessing NCBI databases",
   "author": "goki",
   "license": null,
   "home_page": "https://github.com/goki/ncbi-mcp",
-  "download_filename": "ncbi_mcp-0.1.0.tar.gz",
-  "download_time": "2026-01-09T10:48:36.617056",
+  "download_filename": "ncbi_mcp-0.1.1.tar.gz",
+  "download_time": "2026-01-09T11:14:44.579522",
   "package_url": "https://pypi.org/project/ncbi-mcp/"
 }
