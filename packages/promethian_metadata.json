@@ -1,11 +1,11 @@
 {
   "name": "promethian",
-  "version": "0.2.3",
+  "version": "0.2.5",
   "summary": "Self-improving AI agent with centralized knowledge",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "promethian-0.2.3.tar.gz",
-  "download_time": "2026-01-09T12:29:33.255598",
+  "download_filename": "promethian-0.2.5.tar.gz",
+  "download_time": "2026-01-09T20:45:17.526803",
   "package_url": "https://pypi.org/project/promethian/"
 }

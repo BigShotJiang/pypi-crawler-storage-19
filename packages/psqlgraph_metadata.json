@@ -1,0 +1,11 @@
+{
+  "name": "psqlgraph",
+  "version": "3.2.0",
+  "summary": null,
+  "author": "CTDS UChicago",
+  "license": "Apache-2.0",
+  "home_page": "https://gen3.org/",
+  "download_filename": "psqlgraph-3.2.0.tar.gz",
+  "download_time": "2026-01-09T20:45:31.689380",
+  "package_url": "https://pypi.org/project/psqlgraph/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "authutils",
+  "version": "7.2.1",
+  "summary": "Gen3 auth utility functions",
+  "author": "CTDS UChicago",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "authutils-7.2.1.tar.gz",
+  "download_time": "2026-01-09T20:45:29.103938",
+  "package_url": "https://pypi.org/project/authutils/"
+}

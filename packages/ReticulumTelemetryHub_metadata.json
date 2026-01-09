@@ -1,11 +1,11 @@
 {
   "name": "ReticulumTelemetryHub",
-  "version": "0.95.0",
+  "version": "0.99.0",
   "summary": "Reticulum-Telemetry-Hub (RTH) manages a complete TCP node across a Reticulum-based network, enabling communication and data sharing between clients like Sideband or Meshchat.",
   "author": "naman108, corvo",
   "license": null,
   "home_page": null,
-  "download_filename": "reticulumtelemetryhub-0.95.0.tar.gz",
-  "download_time": "2026-01-07T19:49:55.763464",
+  "download_filename": "reticulumtelemetryhub-0.99.0.tar.gz",
+  "download_time": "2026-01-09T20:45:13.837501",
   "package_url": "https://pypi.org/project/ReticulumTelemetryHub/"
 }
