@@ -1,0 +1,11 @@
+{
+  "name": "geoutils",
+  "version": "0.2.2",
+  "summary": "Analysis of georeferenced rasters, vectors and point clouds",
+  "author": "GeoUtils developers",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/GlacioHack/geoutils",
+  "download_filename": "geoutils-0.2.2.tar.gz",
+  "download_time": "2026-01-09T21:35:28.324074",
+  "package_url": "https://pypi.org/project/geoutils/"
+}

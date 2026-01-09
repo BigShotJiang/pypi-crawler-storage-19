@@ -1,0 +1,11 @@
+{
+  "name": "bmi-arcgis-restapi",
+  "version": "2.4.14",
+  "summary": "Package for working with ArcGIS REST API",
+  "author": "Caleb Mackey",
+  "license": "GPL",
+  "home_page": "https://github.com/Bolton-and-Menk-GIS/restapi",
+  "download_filename": "bmi_arcgis_restapi-2.4.14.tar.gz",
+  "download_time": "2026-01-09T21:35:09.903552",
+  "package_url": "https://pypi.org/project/bmi-arcgis-restapi/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "apache-airflow-ctl",
+  "version": "0.1.0",
+  "summary": "Apache Airflow command line tool for communicating with an Apache Airflow, using the API.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "apache_airflow_ctl-0.1.0.tar.gz",
+  "download_time": "2026-01-09T21:35:08.704218",
+  "package_url": "https://pypi.org/project/apache-airflow-ctl/"
+}

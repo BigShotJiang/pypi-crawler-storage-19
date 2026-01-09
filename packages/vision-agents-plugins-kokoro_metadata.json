@@ -1,11 +1,11 @@
 {
   "name": "vision-agents-plugins-kokoro",
-  "version": "0.2.8",
+  "version": "0.2.9",
   "summary": "Kokoro TTS integration for Vision Agents",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "vision_agents_plugins_kokoro-0.2.8-py3-none-any.whl",
-  "download_time": "2026-01-08T20:44:56.930368",
+  "download_filename": "vision_agents_plugins_kokoro-0.2.9.tar.gz",
+  "download_time": "2026-01-09T21:35:30.510590",
   "package_url": "https://pypi.org/project/vision-agents-plugins-kokoro/"
 }
