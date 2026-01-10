@@ -1,11 +1,11 @@
 {
   "name": "greeclimate",
-  "version": "2.1.1",
+  "version": "2.1.2",
   "summary": "Discover, connect and control Gree based minisplit systems",
   "author": "Clifford Roche",
   "license": null,
   "home_page": "https://github.com/cmroche/greeclimate",
-  "download_filename": "greeclimate-2.1.1.tar.gz",
-  "download_time": "2026-01-10T15:33:39.014213",
+  "download_filename": "greeclimate-2.1.2.tar.gz",
+  "download_time": "2026-01-10T17:33:07.096504",
   "package_url": "https://pypi.org/project/greeclimate/"
 }

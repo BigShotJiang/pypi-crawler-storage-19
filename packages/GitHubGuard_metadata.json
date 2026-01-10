@@ -1,11 +1,11 @@
 {
   "name": "GitHubGuard",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "Automatically create GitHub issues from Python scripts.",
   "author": "Matteo",
   "license": null,
   "home_page": "https://github.com/Xehia/GitHubGuard",
-  "download_filename": "githubguard-0.1.0.tar.gz",
-  "download_time": "2026-01-10T17:13:33.808750",
+  "download_filename": "githubguard-0.1.1.tar.gz",
+  "download_time": "2026-01-10T17:33:02.745696",
   "package_url": "https://pypi.org/project/GitHubGuard/"
 }

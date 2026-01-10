@@ -1,0 +1,11 @@
+{
+  "name": "vondb",
+  "version": "3.6.0",
+  "summary": "VON: vEnhance's Olympiad Navigator",
+  "author": null,
+  "license": "MPL-2.0",
+  "home_page": null,
+  "download_filename": "vondb-3.6.0.tar.gz",
+  "download_time": "2026-01-10T17:33:14.925451",
+  "package_url": "https://pypi.org/project/vondb/"
+}

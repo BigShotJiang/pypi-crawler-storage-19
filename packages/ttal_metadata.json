@@ -1,0 +1,11 @@
+{
+  "name": "ttal",
+  "version": "0.1.1",
+  "summary": "Torch Tune abstractions for local LLM inference.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ttal-0.1.1.tar.gz",
+  "download_time": "2026-01-10T17:33:17.008578",
+  "package_url": "https://pypi.org/project/ttal/"
+}

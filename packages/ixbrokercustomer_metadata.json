@@ -1,0 +1,11 @@
+{
+  "name": "ixbrokercustomer",
+  "version": "0.0.3",
+  "summary": "Auto-generated python gRPC stubs for communication between broker and customer applications",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ixbrokercustomer-0.0.3-py3-none-any.whl",
+  "download_time": "2026-01-10T17:33:28.525635",
+  "package_url": "https://pypi.org/project/ixbrokercustomer/"
+}

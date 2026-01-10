@@ -1,11 +1,11 @@
 {
   "name": "dycw-github-downloader",
-  "version": "0.1.23",
+  "version": "0.1.24",
   "summary": "GitHub release downloader",
   "author": "Derek Wan",
   "license": null,
   "home_page": null,
-  "download_filename": "dycw_github_downloader-0.1.23-py3-none-any.whl",
-  "download_time": "2026-01-10T17:13:48.816357",
+  "download_filename": "dycw_github_downloader-0.1.24-py3-none-any.whl",
+  "download_time": "2026-01-10T17:33:07.617255",
   "package_url": "https://pypi.org/project/dycw-github-downloader/"
 }

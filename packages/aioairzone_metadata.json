@@ -1,0 +1,11 @@
+{
+  "name": "aioairzone",
+  "version": "1.0.5",
+  "summary": "Library to control Airzone devices",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "aioairzone-1.0.5.tar.gz",
+  "download_time": "2026-01-10T17:33:15.966491",
+  "package_url": "https://pypi.org/project/aioairzone/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "kafklient",
-  "version": "0.5.0",
+  "version": "0.5.2",
   "summary": "Async Kafka helpers built on confluent_kafka.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "kafklient-0.5.0.tar.gz",
-  "download_time": "2026-01-08T11:34:18.555295",
+  "download_filename": "kafklient-0.5.2.tar.gz",
+  "download_time": "2026-01-10T17:33:08.136584",
   "package_url": "https://pypi.org/project/kafklient/"
 }

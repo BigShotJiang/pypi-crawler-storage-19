@@ -1,0 +1,11 @@
+{
+  "name": "h3sed",
+  "version": "3.3",
+  "summary": "Heroes3 Savegame Editor",
+  "author": "Erki Suurjaak",
+  "license": "MIT",
+  "home_page": "https://github.com/suurjaak/h3sed",
+  "download_filename": "h3sed-3.3-py2.py3-none-any.whl",
+  "download_time": "2026-01-10T17:33:17.527325",
+  "package_url": "https://pypi.org/project/h3sed/"
+}
