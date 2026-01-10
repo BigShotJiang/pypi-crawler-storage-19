@@ -1,11 +1,11 @@
 {
   "name": "aps-common-libraries",
-  "version": "1.0.19",
+  "version": "1.0.20",
   "summary": "APS Common Libraries",
   "author": "Luca Rebuffi",
   "license": "BSD-3",
   "home_page": "https://github.com/APS-XSD-OPT-Group/Common-Libraries",
-  "download_filename": "aps_common_libraries-1.0.19.tar.gz",
-  "download_time": "2026-01-09T17:56:51.989946",
+  "download_filename": "aps_common_libraries-1.0.20.tar.gz",
+  "download_time": "2026-01-10T19:50:09.157135",
   "package_url": "https://pypi.org/project/aps-common-libraries/"
 }
