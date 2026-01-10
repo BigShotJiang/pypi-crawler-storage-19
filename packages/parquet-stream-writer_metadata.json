@@ -1,0 +1,11 @@
+{
+  "name": "parquet-stream-writer",
+  "version": "0.1.0",
+  "summary": "Write streaming data to Parquet files with automatic file rollover.",
+  "author": "Antonio Camargo",
+  "license": null,
+  "home_page": null,
+  "download_filename": "parquet_stream_writer-0.1.0.tar.gz",
+  "download_time": "2026-01-10T16:16:56.044766",
+  "package_url": "https://pypi.org/project/parquet-stream-writer/"
+}

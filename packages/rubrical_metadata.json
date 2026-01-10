@@ -1,0 +1,11 @@
+{
+  "name": "rubrical",
+  "version": "2.0.0",
+  "summary": "A CLI to encourage (😅) people to update their dependencies!",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "rubrical-2.0.0.tar.gz",
+  "download_time": "2026-01-10T16:17:02.915122",
+  "package_url": "https://pypi.org/project/rubrical/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "stock-pandas",
-  "version": "5.1.0",
+  "version": "5.2.0",
   "summary": "The production-ready subclass of `pandas.DataFrame` to support stock statistics and indicators.",
   "author": null,
   "license": null,
   "home_page": "https://github.com/kaelzhang/stock-pandas",
-  "download_filename": "stock_pandas-5.1.0.tar.gz",
-  "download_time": "2026-01-07T12:29:29.943547",
+  "download_filename": "stock_pandas-5.2.0.tar.gz",
+  "download_time": "2026-01-10T16:16:35.120378",
   "package_url": "https://pypi.org/project/stock-pandas/"
 }

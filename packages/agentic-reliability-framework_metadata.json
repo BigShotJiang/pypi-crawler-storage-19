@@ -1,0 +1,11 @@
+{
+  "name": "agentic-reliability-framework",
+  "version": "3.3.8",
+  "summary": "Agentic Reliability Framework (OSS Edition): Enterprise-grade multi-agent AI for infrastructure reliability monitoring and advisory-only self-healing.",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "agentic_reliability_framework-3.3.8.tar.gz",
+  "download_time": "2026-01-10T16:16:55.018193",
+  "package_url": "https://pypi.org/project/agentic-reliability-framework/"
+}

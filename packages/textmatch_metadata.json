@@ -1,0 +1,11 @@
+{
+  "name": "textmatch",
+  "version": "1.2.0",
+  "summary": "Find fuzzy matches between datasets.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "textmatch-1.2.0.tar.gz",
+  "download_time": "2026-01-10T16:16:37.235036",
+  "package_url": "https://pypi.org/project/textmatch/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "idu-network-monitor",
+  "version": "0.1.0",
+  "summary": "A network data usage monitor that generates beautiful HTML reports with interactive charts",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "idu_network_monitor-0.1.0.tar.gz",
+  "download_time": "2026-01-10T16:16:39.337025",
+  "package_url": "https://pypi.org/project/idu-network-monitor/"
+}

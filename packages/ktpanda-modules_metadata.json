@@ -1,0 +1,11 @@
+{
+  "name": "ktpanda-modules",
+  "version": "1.0.48",
+  "summary": "A collection of miscellaneous utility modules",
+  "author": "Katie Rust",
+  "license": "MIT License",
+  "home_page": "https://ktpanda.org/software/ktpanda-modules",
+  "download_filename": "ktpanda_modules-1.0.48.tar.gz",
+  "download_time": "2026-01-10T16:17:04.480283",
+  "package_url": "https://pypi.org/project/ktpanda-modules/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "st3215",
+  "version": "0.4.0",
+  "summary": "A library to manage ST3215 servo motors",
+  "author": "Mickael Roger",
+  "license": "Apache License Version 2.0",
+  "home_page": "https://github.com/Mickael-Roger/python-st3215",
+  "download_filename": "st3215-0.4.0.tar.gz",
+  "download_time": "2026-01-10T16:16:42.427374",
+  "package_url": "https://pypi.org/project/st3215/"
+}

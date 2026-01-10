@@ -1,0 +1,11 @@
+{
+  "name": "mlx-mhc",
+  "version": "0.4.1",
+  "summary": "MLX implementation of Manifold-Constrained Hyper-Connections (mHC) for Apple Silicon",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mlx_mhc-0.4.1.tar.gz",
+  "download_time": "2026-01-10T16:16:58.228586",
+  "package_url": "https://pypi.org/project/mlx-mhc/"
+}
