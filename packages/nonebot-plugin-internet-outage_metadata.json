@@ -1,0 +1,11 @@
+{
+  "name": "nonebot-plugin-internet-outage",
+  "version": "0.1.1",
+  "summary": "NoneBot2 plugin for monitoring global internet outages based on Cloudflare Radar",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "nonebot_plugin_internet_outage-0.1.1.tar.gz",
+  "download_time": "2026-01-10T12:25:59.139426",
+  "package_url": "https://pypi.org/project/nonebot-plugin-internet-outage/"
+}

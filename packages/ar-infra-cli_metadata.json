@@ -1,11 +1,11 @@
 {
   "name": "ar-infra-cli",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "summary": "Production-ready Spring Boot project generator CLI",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "ar_infra_cli-0.1.0.tar.gz",
-  "download_time": "2026-01-07T19:50:25.313809",
+  "download_filename": "ar_infra_cli-0.1.2.tar.gz",
+  "download_time": "2026-01-10T12:25:58.588827",
   "package_url": "https://pypi.org/project/ar-infra-cli/"
 }

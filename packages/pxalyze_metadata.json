@@ -1,0 +1,11 @@
+{
+  "name": "pxalyze",
+  "version": "0.1.0",
+  "summary": "Pxalyze - a single file for your computer vision debugging",
+  "author": null,
+  "license": "Apache License, Version 2.0",
+  "home_page": null,
+  "download_filename": "pxalyze-0.1.0-py3-none-any.whl",
+  "download_time": "2026-01-10T12:26:17.310163",
+  "package_url": "https://pypi.org/project/pxalyze/"
+}

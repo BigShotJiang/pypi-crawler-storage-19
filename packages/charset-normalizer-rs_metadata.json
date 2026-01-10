@@ -1,0 +1,11 @@
+{
+  "name": "charset-normalizer-rs",
+  "version": "0.1.0",
+  "summary": "Fast Rust implementation of charset-normalizer",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "charset_normalizer_rs-0.1.0.tar.gz",
+  "download_time": "2026-01-10T12:26:21.603900",
+  "package_url": "https://pypi.org/project/charset-normalizer-rs/"
+}

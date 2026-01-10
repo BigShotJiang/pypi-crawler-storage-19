@@ -1,0 +1,11 @@
+{
+  "name": "py2cpp",
+  "version": "1.7.1",
+  "summary": "A Python-to-C++ translator.",
+  "author": "typeulli",
+  "license": null,
+  "home_page": null,
+  "download_filename": "py2cpp-1.7.1.tar.gz",
+  "download_time": "2026-01-10T12:25:51.606321",
+  "package_url": "https://pypi.org/project/py2cpp/"
+}

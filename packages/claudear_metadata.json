@@ -1,11 +1,11 @@
 {
   "name": "claudear",
-  "version": "0.2.2",
+  "version": "0.2.7",
   "summary": "Autonomous development automation with Claude Code, Linear, and Notion",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "claudear-0.2.2.tar.gz",
-  "download_time": "2026-01-10T11:49:46.444009",
+  "download_filename": "claudear-0.2.7.tar.gz",
+  "download_time": "2026-01-10T12:25:59.697991",
   "package_url": "https://pypi.org/project/claudear/"
 }
