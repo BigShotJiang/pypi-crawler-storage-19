@@ -1,11 +1,29 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2026-01-10T05:44:49.418301
-- **Total Packages**: 83
-- **Total Size**: 11.17 MB
+- **Download Time**: 2026-01-10T05:54:07.055149
+- **Total Packages**: 81
+- **Total Size**: 1.86 MB
 
 ## Packages List
+- preocr
+- mixinforge
+- pulumi-github
+- omnibioai-tool-exec
+- pulumi-fastly
+- llmops-observability
+- randstadenterprise-edao-libraries
+- gegd
+- agent-observe
+- llcat
+- dvc-yadisk
+- wtf-ai
+- Jarvis-Brain
+- pulumi-azuredevops
+- nodepasta
+- pulumi-external
+- instancepedia
+- binary-extensions
 - pulumi-dnsimple
 - tactus
 - agentpool
@@ -29,16 +47,12 @@
 - pulumi-cloudamqp
 - langvision
 - langtune
-- omnibioai-tool-exec
-- gegd
 - sleap-io
 - codepathfinder
 - rationalize-sqrt
-- binary-extensions
 - kiva-sdk
 - agentic-coder
 - threadracer
-- wtf-ai
 - daisy-sdk
 - FourCIPP
 - fastapi-bootstrap
@@ -60,7 +74,6 @@
 - teareduce
 - llmcachex
 - pypowerwall
-- dvc-yadisk
 - atomic-agents-namurokuro
 - persidict
 - epstein-files
@@ -74,18 +87,3 @@
 - envdrift
 - iamdata
 - simple-utils
-- k3handy
-- agentjoy-bridge
-- mattyt
-- harbor
-- chiz
-- karaoke-gen
-- mc-shell
-- autorag-optim
-- stravinsky
-- finlab-sentinel
-- semistaticsim
-- spark-bestfit
-- llm-tldr
-- hyundai-kia-connect-api
-- mercedtodo

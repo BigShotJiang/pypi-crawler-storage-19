@@ -1,11 +1,11 @@
 {
   "name": "llmops-observability",
-  "version": "8.0.0",
+  "version": "8.2.0",
   "summary": "LLMOps Observability SDK with direct Langfuse integration (no SQS/batching)",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "llmops_observability-8.0.0.tar.gz",
-  "download_time": "2026-01-09T13:14:46.929328",
+  "download_filename": "llmops_observability-8.2.0.tar.gz",
+  "download_time": "2026-01-10T05:53:28.259584",
   "package_url": "https://pypi.org/project/llmops-observability/"
 }
