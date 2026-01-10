@@ -1,0 +1,11 @@
+{
+  "name": "liumi-cli",
+  "version": "5.0.0",
+  "summary": "The Legendary AI DevOps Interface Utility",
+  "author": "Liumi Corporation",
+  "license": null,
+  "home_page": "https://liumi.cloud/liu",
+  "download_filename": "liumi_cli-5.0.0.tar.gz",
+  "download_time": "2026-01-10T08:19:22.021354",
+  "package_url": "https://pypi.org/project/liumi-cli/"
+}

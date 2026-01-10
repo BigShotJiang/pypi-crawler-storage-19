@@ -1,0 +1,11 @@
+{
+  "name": "gpusweep",
+  "version": "0.0.2",
+  "summary": "GPU runner: binary/grid search over experiment configs with GPU scheduling",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "gpusweep-0.0.2.tar.gz",
+  "download_time": "2026-01-10T08:19:04.036665",
+  "package_url": "https://pypi.org/project/gpusweep/"
+}

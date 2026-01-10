@@ -1,0 +1,11 @@
+{
+  "name": "risk-engine",
+  "version": "1.1.0",
+  "summary": "Explainable risk-based transaction anomaly detection engine with authentication and dashboard",
+  "author": "Your Team",
+  "license": null,
+  "home_page": null,
+  "download_filename": "risk_engine-1.1.0.tar.gz",
+  "download_time": "2026-01-10T08:19:20.995887",
+  "package_url": "https://pypi.org/project/risk-engine/"
+}

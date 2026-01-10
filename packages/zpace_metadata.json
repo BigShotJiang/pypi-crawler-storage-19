@@ -1,0 +1,11 @@
+{
+  "name": "zpace",
+  "version": "0.3.0",
+  "summary": "A CLI tool to discover what's consuming your disk space",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "zpace-0.3.0.tar.gz",
+  "download_time": "2026-01-10T08:19:05.055286",
+  "package_url": "https://pypi.org/project/zpace/"
+}

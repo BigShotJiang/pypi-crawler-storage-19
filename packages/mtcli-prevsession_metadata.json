@@ -1,0 +1,11 @@
+{
+  "name": "mtcli-prevsession",
+  "version": "1.0.0.dev0",
+  "summary": "Plugin mtcli para exibicao de preços do pregão anterior",
+  "author": "Valmir França",
+  "license": null,
+  "home_page": null,
+  "download_filename": "mtcli_prevsession-1.0.0.dev0.tar.gz",
+  "download_time": "2026-01-10T08:19:05.569774",
+  "package_url": "https://pypi.org/project/mtcli-prevsession/"
+}

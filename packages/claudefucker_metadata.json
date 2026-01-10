@@ -1,11 +1,11 @@
 {
   "name": "claudefucker",
-  "version": "1.0.1",
+  "version": "3.1.0",
   "summary": "Anthropic格式AI代理服务器 - 将Claude Code请求转换为各厂商格式",
   "author": null,
-  "license": "MIT",
+  "license": null,
   "home_page": null,
-  "download_filename": "claudefucker-1.0.1.tar.gz",
-  "download_time": "2026-01-10T07:49:18.744940",
+  "download_filename": "claudefucker-3.1.0.tar.gz",
+  "download_time": "2026-01-10T08:19:23.558319",
   "package_url": "https://pypi.org/project/claudefucker/"
 }

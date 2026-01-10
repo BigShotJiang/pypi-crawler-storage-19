@@ -1,0 +1,11 @@
+{
+  "name": "vnewsapi",
+  "version": "0.1.0",
+  "summary": "A Python library for crawling Vietnamese financial news from major news websites",
+  "author": "vnewsapi contributors",
+  "license": null,
+  "home_page": "https://github.com/Hoanganhvu123/vnewsapi",
+  "download_filename": "vnewsapi-0.1.0-py3-none-any.whl",
+  "download_time": "2026-01-10T08:19:18.946966",
+  "package_url": "https://pypi.org/project/vnewsapi/"
+}

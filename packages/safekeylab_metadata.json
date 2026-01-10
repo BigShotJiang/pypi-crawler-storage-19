@@ -1,11 +1,11 @@
 {
   "name": "safekeylab",
-  "version": "3.3.0",
+  "version": "3.3.2",
   "summary": "Enterprise PII Detection, LLM Security Guard with Advanced Threat Detection, Explainability, and Formal Guarantees",
   "author": "SafeKey Lab Inc.",
   "license": null,
   "home_page": "https://github.com/safekeylab/python-sdk",
-  "download_filename": "safekeylab-3.3.0.tar.gz",
-  "download_time": "2026-01-10T07:49:21.581149",
+  "download_filename": "safekeylab-3.3.2.tar.gz",
+  "download_time": "2026-01-10T08:19:21.509147",
   "package_url": "https://pypi.org/project/safekeylab/"
 }
