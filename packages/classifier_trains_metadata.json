@@ -1,0 +1,11 @@
+{
+  "name": "classifier_trains",
+  "version": "1.2.3",
+  "summary": "A PyTorch-based deep learning classifier training framework.",
+  "author": "wyhwong",
+  "license": "MIT",
+  "home_page": "https://pypi.org/project/classifier_trains/",
+  "download_filename": "classifier_trains-1.2.3.tar.gz",
+  "download_time": "2026-01-10T09:50:24.587172",
+  "package_url": "https://pypi.org/project/classifier_trains/"
+}

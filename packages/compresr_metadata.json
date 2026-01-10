@@ -1,0 +1,11 @@
+{
+  "name": "compresr",
+  "version": "1.0.0",
+  "summary": "Python SDK for Compresr - Intelligent prompt compression for LLM cost optimization",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "compresr-1.0.0.tar.gz",
+  "download_time": "2026-01-10T09:50:22.394377",
+  "package_url": "https://pypi.org/project/compresr/"
+}

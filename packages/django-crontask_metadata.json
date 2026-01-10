@@ -1,0 +1,11 @@
+{
+  "name": "django-crontask",
+  "version": "1.1.2",
+  "summary": "Cron style scheduler for Django's task framework.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "django_crontask-1.1.2.tar.gz",
+  "download_time": "2026-01-10T09:50:38.172026",
+  "package_url": "https://pypi.org/project/django-crontask/"
+}

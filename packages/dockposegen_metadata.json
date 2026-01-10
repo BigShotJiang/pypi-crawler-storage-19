@@ -1,0 +1,11 @@
+{
+  "name": "dockposegen",
+  "version": "0.1.2",
+  "summary": "A Tool for Ligands pose extraction and Complex Assembly Workflow",
+  "author": "vortex",
+  "license": null,
+  "home_page": "https://github.com/chaperone-z/dockposegen.git",
+  "download_filename": "dockposegen-0.1.2.tar.gz",
+  "download_time": "2026-01-10T09:50:29.779714",
+  "package_url": "https://pypi.org/project/dockposegen/"
+}
