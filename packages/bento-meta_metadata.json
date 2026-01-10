@@ -1,0 +1,11 @@
+{
+  "name": "bento-meta",
+  "version": "0.3.0",
+  "summary": "Python drivers for Bento Metamodel Database",
+  "author": null,
+  "license": "Apache 2.0",
+  "home_page": null,
+  "download_filename": "bento_meta-0.3.0.tar.gz",
+  "download_time": "2026-01-10T16:43:36.835177",
+  "package_url": "https://pypi.org/project/bento-meta/"
+}

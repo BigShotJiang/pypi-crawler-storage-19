@@ -1,0 +1,11 @@
+{
+  "name": "pyaging",
+  "version": "0.1.30",
+  "summary": "A Python-based compendium of GPU-optimized aging clocks.",
+  "author": null,
+  "license": "BSD",
+  "home_page": null,
+  "download_filename": "pyaging-0.1.30.tar.gz",
+  "download_time": "2026-01-10T16:44:03.230084",
+  "package_url": "https://pypi.org/project/pyaging/"
+}

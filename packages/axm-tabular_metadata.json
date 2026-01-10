@@ -1,11 +1,11 @@
 {
   "name": "axm-tabular",
-  "version": "0.0.2",
-  "summary": "Placeholder for AXM Protocols",
+  "version": "0.1.0a1",
+  "summary": "Tabular data plugin for AXM (Polars/DuckDB)",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "axm_tabular-0.0.2-py3-none-any.whl",
-  "download_time": "2026-01-10T09:50:34.532792",
+  "download_filename": "axm_tabular-0.1.0a1.tar.gz",
+  "download_time": "2026-01-10T16:43:54.723004",
   "package_url": "https://pypi.org/project/axm-tabular/"
 }

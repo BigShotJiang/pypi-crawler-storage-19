@@ -1,0 +1,11 @@
+{
+  "name": "feather-framework",
+  "version": "0.8.3",
+  "summary": "An opinionated, batteries-included web framework for building production applications with AI.",
+  "author": "Roland Selmer",
+  "license": null,
+  "home_page": null,
+  "download_filename": "feather_framework-0.8.3.tar.gz",
+  "download_time": "2026-01-10T16:43:46.924625",
+  "package_url": "https://pypi.org/project/feather-framework/"
+}

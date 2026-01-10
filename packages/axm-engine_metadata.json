@@ -1,11 +1,11 @@
 {
   "name": "axm-engine",
-  "version": "0.0.2",
-  "summary": "Placeholder for AXM Protocols",
+  "version": "0.1.0a1",
+  "summary": "Execution engine for the AXM Data Governance framework.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "axm_engine-0.0.2-py3-none-any.whl",
-  "download_time": "2026-01-10T09:50:35.571495",
+  "download_filename": "axm_engine-0.1.0a1.tar.gz",
+  "download_time": "2026-01-10T16:43:53.170445",
   "package_url": "https://pypi.org/project/axm-engine/"
 }

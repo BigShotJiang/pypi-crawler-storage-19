@@ -1,0 +1,11 @@
+{
+  "name": "DockS-STT",
+  "version": "0.1",
+  "summary": "This is a speech to text package created",
+  "author": "Satyam Singh",
+  "license": null,
+  "home_page": null,
+  "download_filename": "docks_stt-0.1.tar.gz",
+  "download_time": "2026-01-10T16:43:37.356466",
+  "package_url": "https://pypi.org/project/DockS-STT/"
+}

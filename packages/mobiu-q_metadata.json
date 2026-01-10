@@ -1,11 +1,11 @@
 {
   "name": "mobiu-q",
-  "version": "3.2.1",
+  "version": "3.2.2",
   "summary": "Soft Algebra Optimizer + O(N) Linear Attention for Long Context LLMs",
   "author": null,
   "license": "Proprietary",
   "home_page": null,
-  "download_filename": "mobiu_q-3.2.1.tar.gz",
-  "download_time": "2026-01-10T15:14:36.635501",
+  "download_filename": "mobiu_q-3.2.2.tar.gz",
+  "download_time": "2026-01-10T16:43:48.488453",
   "package_url": "https://pypi.org/project/mobiu-q/"
 }

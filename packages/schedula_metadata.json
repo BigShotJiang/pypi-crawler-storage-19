@@ -1,0 +1,11 @@
+{
+  "name": "schedula",
+  "version": "1.5.73",
+  "summary": "Produce a plan that dispatches calls based on a graph of functions, satisfying data dependencies.",
+  "author": "Vincenzo Arcidiacono",
+  "license": "EUPL 1.1+",
+  "home_page": "https://github.com/vinci1it2000/schedula",
+  "download_filename": "schedula-1.5.73.tar.gz",
+  "download_time": "2026-01-10T16:43:58.468091",
+  "package_url": "https://pypi.org/project/schedula/"
+}

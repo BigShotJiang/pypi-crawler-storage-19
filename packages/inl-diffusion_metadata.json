@@ -1,11 +1,11 @@
 {
   "name": "inl-diffusion",
-  "version": "0.2.0",
-  "summary": "Image generation with Integrator Neurons - Text-to-image diffusion model",
+  "version": "0.7.0",
+  "summary": "Image generation with Integrator Neurons - MoE + Triton accelerated diffusion model",
   "author": "Pacific Prime",
   "license": "Apache-2.0",
   "home_page": "https://github.com/Web3-League/inl-diffusion",
-  "download_filename": "inl_diffusion-0.2.0.tar.gz",
-  "download_time": "2026-01-09T12:28:58.342948",
+  "download_filename": "inl_diffusion-0.7.0.tar.gz",
+  "download_time": "2026-01-10T16:43:29.846415",
   "package_url": "https://pypi.org/project/inl-diffusion/"
 }

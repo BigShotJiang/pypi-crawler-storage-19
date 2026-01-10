@@ -1,0 +1,11 @@
+{
+  "name": "virt-lightning",
+  "version": "2.5.0",
+  "summary": "Deploy your testing VM in a couple of seconds",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "virt_lightning-2.5.0.tar.gz",
+  "download_time": "2026-01-10T16:44:01.619902",
+  "package_url": "https://pypi.org/project/virt-lightning/"
+}
