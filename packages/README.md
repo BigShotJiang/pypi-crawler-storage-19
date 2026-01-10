@@ -1,23 +1,60 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2026-01-10T05:24:43.262334
-- **Total Packages**: 75
-- **Total Size**: 36.19 MB
+- **Download Time**: 2026-01-10T05:44:49.418301
+- **Total Packages**: 83
+- **Total Size**: 11.17 MB
 
 ## Packages List
+- pulumi-dnsimple
+- tactus
+- agentpool
+- pulumi-dbtcloud
+- pulumi-aws-apigateway
+- openbrowser-ai
+- service-forge
+- HydrogenLib-NEXT
+- ai
+- pgsql-mcp-server
+- tracking-markers
+- k3git
+- oss-savings
+- pulumi-confluentcloud
+- noetlctl
+- pulumi-cloudngfwaws
+- Hydrogenlib-Resource-System
+- pulumi-cloudinit
+- traffic-anomaly
+- pulumi-alicloud
+- pulumi-cloudamqp
+- langvision
+- langtune
+- omnibioai-tool-exec
+- gegd
+- sleap-io
+- codepathfinder
+- rationalize-sqrt
+- binary-extensions
+- kiva-sdk
+- agentic-coder
+- threadracer
+- wtf-ai
+- daisy-sdk
+- FourCIPP
+- fastapi-bootstrap
+- pykrieg
+- cloudmersive-spam-api-client
+- boring-aicoding
+- whoisit
 - pulumi-akamai
 - confee
 - pulumi-archive
-- omnibioai-tool-exec
 - goldeneye
 - pulumi-aiven
 - docksec
 - toondb-client
-- kiva-sdk
 - SURE-tools
 - inl-llm-v3
-- fastapi-bootstrap
 - flask-commands
 - prime
 - teareduce
@@ -26,7 +63,6 @@
 - dvc-yadisk
 - atomic-agents-namurokuro
 - persidict
-- gegd
 - epstein-files
 - htmpl
 - schemez
@@ -44,7 +80,6 @@
 - harbor
 - chiz
 - karaoke-gen
-- wtf-ai
 - mc-shell
 - autorag-optim
 - stravinsky
@@ -53,31 +88,4 @@
 - spark-bestfit
 - llm-tldr
 - hyundai-kia-connect-api
-- rationalize-sqrt
 - mercedtodo
-- pdf-oxide
-- eci-as-sandbox
-- drilling
-- helper-dev-utils
-- fbuild
-- PyLabFlow
-- md2mrkdwn
-- fastlib-py
-- email-management
-- langvision
-- langtune
-- keras-nlp-nightly
-- keras-hub-nightly
-- honeycomb-api
-- python-qlv-helper
-- flight-helper
-- yod
-- pyllm-inference
-- ayga-mcp-client
-- skill-audit
-- llm-dynamics
-- rambot
-- protoc-gen-connect-python
-- connect-python
-- preflights
-- arcadia-microscopy-tools

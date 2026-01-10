@@ -1,0 +1,11 @@
+{
+  "name": "daisy-sdk",
+  "version": "0.1.1",
+  "summary": "Daisy SDK CLI for auth and image fetch",
+  "author": "Daisy",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "daisy_sdk-0.1.1.tar.gz",
+  "download_time": "2026-01-10T05:44:23.145182",
+  "package_url": "https://pypi.org/project/daisy-sdk/"
+}

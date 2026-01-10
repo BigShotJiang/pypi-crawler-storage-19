@@ -1,0 +1,11 @@
+{
+  "name": "whoisit",
+  "version": "4.0.2",
+  "summary": "A Python client to RDAP WHOIS-like services for internet resources.",
+  "author": "https://github.com/meeb",
+  "license": null,
+  "home_page": "https://github.com/meeb/whoisit",
+  "download_filename": "whoisit-4.0.2.tar.gz",
+  "download_time": "2026-01-10T05:44:26.445561",
+  "package_url": "https://pypi.org/project/whoisit/"
+}

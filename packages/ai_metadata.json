@@ -1,0 +1,11 @@
+{
+  "name": "ai",
+  "version": "1.2",
+  "summary": "Ai lib.",
+  "author": "Decalogue",
+  "license": "MIT",
+  "home_page": "https://github.com/Decalogue/ai",
+  "download_filename": "ai-1.2.tar.gz",
+  "download_time": "2026-01-10T05:44:09.502291",
+  "package_url": "https://pypi.org/project/ai/"
+}
