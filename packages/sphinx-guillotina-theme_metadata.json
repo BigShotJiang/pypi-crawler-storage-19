@@ -1,0 +1,11 @@
+{
+  "name": "sphinx-guillotina-theme",
+  "version": "1.0.9",
+  "summary": "sphinx theme for guillotina",
+  "author": "Nathan Van Gheem",
+  "license": "BSD",
+  "home_page": "https://github.com/guillotinaweb/sphinx-guillotina-theme",
+  "download_filename": "sphinx_guillotina_theme-1.0.9.tar.gz",
+  "download_time": "2026-01-10T15:33:25.826623",
+  "package_url": "https://pypi.org/project/sphinx-guillotina-theme/"
+}

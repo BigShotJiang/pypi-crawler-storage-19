@@ -1,0 +1,11 @@
+{
+  "name": "api-governor",
+  "version": "1.0.0",
+  "summary": "API governance and breaking change detection for OpenAPI specs",
+  "author": "API Governance Skill Contributors",
+  "license": null,
+  "home_page": null,
+  "download_filename": "api_governor-1.0.0.tar.gz",
+  "download_time": "2026-01-10T15:33:40.596967",
+  "package_url": "https://pypi.org/project/api-governor/"
+}

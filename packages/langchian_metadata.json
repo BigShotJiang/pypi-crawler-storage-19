@@ -1,11 +1,11 @@
 {
   "name": "langchian",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "summary": "Toy library for AI related stuff",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "langchian-0.2.0.tar.gz",
-  "download_time": "2026-01-08T08:20:47.253765",
+  "download_filename": "langchian-0.2.1.tar.gz",
+  "download_time": "2026-01-10T15:33:35.862023",
   "package_url": "https://pypi.org/project/langchian/"
 }

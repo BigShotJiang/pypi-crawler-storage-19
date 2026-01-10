@@ -1,0 +1,11 @@
+{
+  "name": "linksopen",
+  "version": "0.1.2",
+  "summary": "Handle gracefully openning links that are inside text files. Simple as that.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "linksopen-0.1.2.tar.gz",
+  "download_time": "2026-01-10T15:33:21.995071",
+  "package_url": "https://pypi.org/project/linksopen/"
+}

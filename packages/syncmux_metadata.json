@@ -1,0 +1,11 @@
+{
+  "name": "syncmux",
+  "version": "0.1.0",
+  "summary": "Fast file synchronization for remote development over SSH",
+  "author": "Shantanu Banerjee",
+  "license": "MIT",
+  "home_page": "https://github.com/bradley101/syncmux",
+  "download_filename": "syncmux-0.1.0.tar.gz",
+  "download_time": "2026-01-10T15:33:25.291262",
+  "package_url": "https://pypi.org/project/syncmux/"
+}

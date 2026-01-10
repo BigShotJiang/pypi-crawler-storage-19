@@ -1,11 +1,11 @@
 {
   "name": "fastapi-bootstrap",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "summary": "🚀 Easy FastAPI Setup Kit - Production-ready FastAPI boilerplate with logging, error handling, metrics, security headers, and more",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "fastapi_bootstrap-0.2.2.tar.gz",
-  "download_time": "2026-01-10T05:24:03.647680",
+  "download_filename": "fastapi_bootstrap-0.2.3.tar.gz",
+  "download_time": "2026-01-10T15:33:44.222542",
   "package_url": "https://pypi.org/project/fastapi-bootstrap/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "flatpak-cargo-generator",
+  "version": "0.1.2",
+  "summary": "Unofficial Pypi distribution of the Flatpak's cargo dependency generator",
+  "author": "Flatpak team",
+  "license": null,
+  "home_page": "https://github.com/flatpak/flatpak-builder-tools",
+  "download_filename": "flatpak_cargo_generator-0.1.2.tar.gz",
+  "download_time": "2026-01-10T15:33:41.639682",
+  "package_url": "https://pypi.org/project/flatpak-cargo-generator/"
+}
