@@ -1,0 +1,11 @@
+{
+  "name": "CoREMOF-tools",
+  "version": "0.3.3",
+  "summary": "Python API for CoRE MOF DB",
+  "author": "Guobin Zhao",
+  "license": "CC-BY-4.0",
+  "home_page": null,
+  "download_filename": "coremof_tools-0.3.3.tar.gz",
+  "download_time": "2026-01-10T06:29:34.711369",
+  "package_url": "https://pypi.org/project/CoREMOF-tools/"
+}

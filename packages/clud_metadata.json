@@ -1,11 +1,11 @@
 {
   "name": "clud",
-  "version": "1.0.36",
+  "version": "1.0.38",
   "summary": "Claude Code in YOLO mode",
   "author": null,
   "license": "BSD 3-Clause License",
   "home_page": null,
-  "download_filename": "clud-1.0.36-py3-none-any.whl",
-  "download_time": "2026-01-10T05:00:38.659516",
+  "download_filename": "clud-1.0.38-py3-none-any.whl",
+  "download_time": "2026-01-10T06:29:13.084668",
   "package_url": "https://pypi.org/project/clud/"
 }

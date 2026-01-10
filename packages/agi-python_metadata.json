@@ -1,0 +1,11 @@
+{
+  "name": "agi-python",
+  "version": "0.0.1",
+  "summary": "Official Python SDK for AGI.tech API",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "agi_python-0.0.1.tar.gz",
+  "download_time": "2026-01-10T06:29:32.151760",
+  "package_url": "https://pypi.org/project/agi-python/"
+}

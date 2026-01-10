@@ -1,11 +1,11 @@
 {
   "name": "agentjoy-bridge",
-  "version": "0.2.3",
+  "version": "0.2.4",
   "summary": "AgentJoy Bridge CLI (Codex / Claude Code / Agent tool activity -> AgentJoy Runs)",
   "author": "VNL Works",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "agentjoy_bridge-0.2.3.tar.gz",
-  "download_time": "2026-01-10T05:24:19.164003",
+  "download_filename": "agentjoy_bridge-0.2.4.tar.gz",
+  "download_time": "2026-01-10T06:29:20.858365",
   "package_url": "https://pypi.org/project/agentjoy-bridge/"
 }
