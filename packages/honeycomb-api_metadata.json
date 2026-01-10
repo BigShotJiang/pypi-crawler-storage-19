@@ -1,11 +1,11 @@
 {
   "name": "honeycomb-api",
-  "version": "0.5.10",
+  "version": "0.5.11",
   "summary": "Python client for the Honeycomb.io API",
   "author": "Irving Popovetsky",
   "license": null,
   "home_page": "https://irvingpop.github.io/honeycomb-api-python/",
-  "download_filename": "honeycomb_api-0.5.10.tar.gz",
-  "download_time": "2026-01-10T19:28:23.874562",
+  "download_filename": "honeycomb_api-0.5.11.tar.gz",
+  "download_time": "2026-01-10T21:51:31.475394",
   "package_url": "https://pypi.org/project/honeycomb-api/"
 }

@@ -1,11 +1,33 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2026-01-10T21:44:10.698249
-- **Total Packages**: 83
-- **Total Size**: 14.62 MB
+- **Download Time**: 2026-01-10T21:52:04.798805
+- **Total Packages**: 85
+- **Total Size**: 11.74 MB
 
 ## Packages List
+- insufficient-effort
+- gibberifire
+- rangebar
+- pwasm
+- headson
+- aitraining
+- spatk
+- warn-transformer
+- httpcloak
+- CityOfBinds
+- translatebot-django
+- mcjar
+- byoconfig
+- takopi
+- canvaslms
+- autonomous-business
+- neurop-forge
+- asimpy
+- idc-index
+- bento-meta
+- bilibili-captions
+- honeycomb-api
 - code-prism
 - checkmate5
 - blitzdb5
@@ -21,7 +43,6 @@
 - gcm-asyncdb
 - sonar-mcp
 - writefreely-mcp-server
-- autonomous-business
 - buse
 - fathom-mcp
 - jl-ecms-server
@@ -37,12 +58,10 @@
 - alforria
 - neuralib-atlas
 - neuralib-metric
-- mcjar
 - prodsys
 - clustervis
 - pyridescence
 - pycropwat
-- CityOfBinds
 - megatron-mcp
 - eplatform
 - sashite-cell
@@ -55,7 +74,6 @@
 - telos-tracker
 - pds.deeparchive
 - macpack
-- rangebar
 - aiinbx
 - sebastos
 - eodhd-py
@@ -73,19 +91,3 @@
 - fahrpc
 - ts-smali
 - pit8c
-- microlive
-- linux2mqtt
-- plexus-agent
-- lucidscan
-- souleyez
-- angelq-client
-- PraisonAI
-- django-cartouche
-- claude-mpm
-- python-bsblan
-- tooport
-- peelee
-- sc2-datasets
-- clearml-agent
-- typer-aliases
-- translatebot-django
