@@ -1,0 +1,11 @@
+{
+  "name": "clarity-gate",
+  "version": "1.0.0",
+  "summary": "Pre-ingestion verification for epistemic quality in RAG systems",
+  "author": "Francesco Marinoni Moretto",
+  "license": null,
+  "home_page": null,
+  "download_filename": "clarity_gate-1.0.0.tar.gz",
+  "download_time": "2026-01-10T13:41:28.614590",
+  "package_url": "https://pypi.org/project/clarity-gate/"
+}

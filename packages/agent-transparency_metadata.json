@@ -1,0 +1,11 @@
+{
+  "name": "agent-transparency",
+  "version": "0.0.1",
+  "summary": "A comprehensive library for tracking the input, thought process, and output of AI agents",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "agent_transparency-0.0.1.tar.gz",
+  "download_time": "2026-01-10T13:41:26.521420",
+  "package_url": "https://pypi.org/project/agent-transparency/"
+}

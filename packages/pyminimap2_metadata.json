@@ -1,0 +1,11 @@
+{
+  "name": "pyminimap2",
+  "version": "2.30.3",
+  "summary": "Python wrapper for minimap2 with stdout/stderr capture",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pyminimap2-2.30.3.tar.gz",
+  "download_time": "2026-01-10T13:41:12.058831",
+  "package_url": "https://pypi.org/project/pyminimap2/"
+}

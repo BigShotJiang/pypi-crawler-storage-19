@@ -1,0 +1,11 @@
+{
+  "name": "abn-lookup",
+  "version": "0.1.0",
+  "summary": "A Python wrapper for the Australian Business Register (ABR) ABN Lookup API.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "abn_lookup-0.1.0.tar.gz",
+  "download_time": "2026-01-10T13:41:29.655048",
+  "package_url": "https://pypi.org/project/abn-lookup/"
+}

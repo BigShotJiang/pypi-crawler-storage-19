@@ -1,0 +1,11 @@
+{
+  "name": "dioptas",
+  "version": "0.7.2",
+  "summary": "GUI program for reduction and exploration of 2D X-ray diffraction data",
+  "author": null,
+  "license": "GPL-3.0",
+  "home_page": null,
+  "download_filename": "dioptas-0.7.2.tar.gz",
+  "download_time": "2026-01-10T13:41:26.003475",
+  "package_url": "https://pypi.org/project/dioptas/"
+}

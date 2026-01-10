@@ -1,0 +1,11 @@
+{
+  "name": "pyautogui-mcp",
+  "version": "2026.1.101330",
+  "summary": "Expose PyAutoGUI through MCP.",
+  "author": null,
+  "license": "BSD-3-Clause license",
+  "home_page": null,
+  "download_filename": "pyautogui_mcp-2026.1.101330.tar.gz",
+  "download_time": "2026-01-10T13:40:57.879347",
+  "package_url": "https://pypi.org/project/pyautogui-mcp/"
+}

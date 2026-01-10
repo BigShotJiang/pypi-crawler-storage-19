@@ -1,11 +1,11 @@
 {
   "name": "coreason-veritas",
-  "version": "0.7.0",
+  "version": "0.8.0",
   "summary": "coreason_veritas is the non-negotiable governance layer of the CoReason platform (Prosperity Public License 3.0.0)",
   "author": "Gowtham A Rao",
   "license": "Proprietary",
   "home_page": null,
-  "download_filename": "coreason_veritas-0.7.0.tar.gz",
-  "download_time": "2026-01-08T16:55:40.685415",
+  "download_filename": "coreason_veritas-0.8.0.tar.gz",
+  "download_time": "2026-01-10T13:41:24.920353",
   "package_url": "https://pypi.org/project/coreason-veritas/"
 }

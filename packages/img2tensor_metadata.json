@@ -1,0 +1,11 @@
+{
+  "name": "img2tensor",
+  "version": "0.1.4",
+  "summary": "Unified image to tensor utility with streaming TFRecord support",
+  "author": "Sourabh Yadav",
+  "license": null,
+  "home_page": null,
+  "download_filename": "img2tensor-0.1.4.tar.gz",
+  "download_time": "2026-01-10T13:41:30.692365",
+  "package_url": "https://pypi.org/project/img2tensor/"
+}

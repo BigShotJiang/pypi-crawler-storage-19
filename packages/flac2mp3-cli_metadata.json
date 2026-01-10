@@ -1,0 +1,11 @@
+{
+  "name": "flac2mp3-cli",
+  "version": "1.1.1",
+  "summary": "A Python CLI tool to convert FLAC to MP3",
+  "author": "rimaout",
+  "license": "MIT",
+  "home_page": "https://github.com/rimaout/flac2mp3",
+  "download_filename": "flac2mp3_cli-1.1.1.tar.gz",
+  "download_time": "2026-01-10T13:41:16.824664",
+  "package_url": "https://pypi.org/project/flac2mp3-cli/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "md2mrkdwn",
-  "version": "0.2.0",
+  "version": "0.4.0",
   "summary": "Convert Markdown to Slack mrkdwn format",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "md2mrkdwn-0.2.0.tar.gz",
-  "download_time": "2026-01-10T05:24:32.504813",
+  "download_filename": "md2mrkdwn-0.4.0.tar.gz",
+  "download_time": "2026-01-10T13:41:06.216020",
   "package_url": "https://pypi.org/project/md2mrkdwn/"
 }
