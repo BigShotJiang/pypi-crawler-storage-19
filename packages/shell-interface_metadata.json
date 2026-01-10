@@ -1,0 +1,11 @@
+{
+  "name": "shell-interface",
+  "version": "1.0.2",
+  "summary": "Helpful and convenient utilities to interact with UNIX shells",
+  "author": "Max Görner",
+  "license": null,
+  "home_page": null,
+  "download_filename": "shell_interface-1.0.2.tar.gz",
+  "download_time": "2026-01-10T11:39:50.487568",
+  "package_url": "https://pypi.org/project/shell-interface/"
+}

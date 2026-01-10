@@ -1,0 +1,11 @@
+{
+  "name": "pySigma-backend-sqlite",
+  "version": "1.1.0",
+  "summary": "pySigma sqlite backend",
+  "author": "wagga",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pysigma_backend_sqlite-1.1.0.tar.gz",
+  "download_time": "2026-01-10T11:39:48.237067",
+  "package_url": "https://pypi.org/project/pySigma-backend-sqlite/"
+}
