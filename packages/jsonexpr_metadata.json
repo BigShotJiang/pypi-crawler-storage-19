@@ -1,0 +1,11 @@
+{
+  "name": "jsonexpr",
+  "version": "0.2.5",
+  "summary": "An expression language.",
+  "author": "Mark Kim",
+  "license": "Apache 2.0",
+  "home_page": "https://github.com/markuskimius/jsonexpr",
+  "download_filename": "jsonexpr-0.2.5.tar.gz",
+  "download_time": "2026-01-10T19:28:22.235970",
+  "package_url": "https://pypi.org/project/jsonexpr/"
+}

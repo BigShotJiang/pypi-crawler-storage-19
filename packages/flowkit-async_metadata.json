@@ -1,11 +1,11 @@
 {
   "name": "flowkit-async",
-  "version": "0.1.0",
-  "summary": "Simplify async workflows in Python - reduce code complexity by 70%",
+  "version": "1.0.0",
+  "summary": "Fluent async workflows with lazy execution for Python",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "flowkit_async-0.1.0.tar.gz",
-  "download_time": "2026-01-10T18:50:42.501898",
+  "download_filename": "flowkit_async-1.0.0.tar.gz",
+  "download_time": "2026-01-10T19:28:23.325967",
   "package_url": "https://pypi.org/project/flowkit-async/"
 }

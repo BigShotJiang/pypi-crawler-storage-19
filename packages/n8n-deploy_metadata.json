@@ -1,11 +1,11 @@
 {
   "name": "n8n-deploy",
-  "version": "0.9.0",
+  "version": "0.9.1",
   "summary": "n8n-deploy - a simple N8N Workflow Manager with SQLite metadata store",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "n8n_deploy-0.9.0.tar.gz",
-  "download_time": "2026-01-10T09:35:28.995481",
+  "download_filename": "n8n_deploy-0.9.1.tar.gz",
+  "download_time": "2026-01-10T19:28:10.864779",
   "package_url": "https://pypi.org/project/n8n-deploy/"
 }

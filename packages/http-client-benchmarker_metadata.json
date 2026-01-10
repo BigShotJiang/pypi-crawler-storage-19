@@ -1,11 +1,11 @@
 {
   "name": "http-client-benchmarker",
-  "version": "0.2.0",
+  "version": "5.0.0",
   "summary": "A Python HTTP Client Performance Benchmark Framework",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "http_client_benchmarker-0.2.0.tar.gz",
-  "download_time": "2026-01-10T19:11:50.335864",
+  "download_filename": "http_client_benchmarker-5.0.0.tar.gz",
+  "download_time": "2026-01-10T19:28:19.001283",
   "package_url": "https://pypi.org/project/http-client-benchmarker/"
 }

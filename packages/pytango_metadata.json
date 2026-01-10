@@ -1,0 +1,11 @@
+{
+  "name": "pytango",
+  "version": "10.1.2",
+  "summary": "Python bindings for the cppTango library; part of the Tango Distributed Control System toolkit",
+  "author": "Coutinho",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pytango-10.1.2.tar.gz",
+  "download_time": "2026-01-10T19:28:14.469678",
+  "package_url": "https://pypi.org/project/pytango/"
+}
