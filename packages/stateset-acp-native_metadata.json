@@ -1,0 +1,11 @@
+{
+  "name": "stateset-acp-native",
+  "version": "1.0.0",
+  "summary": "Native Python bindings for StateSet ACP Handler (PyO3)",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "stateset_acp_native-1.0.0.tar.gz",
+  "download_time": "2026-01-10T20:52:55.990606",
+  "package_url": "https://pypi.org/project/stateset-acp-native/"
+}

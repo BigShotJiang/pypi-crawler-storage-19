@@ -1,11 +1,11 @@
 {
   "name": "denobox",
-  "version": "0.1a1",
+  "version": "0.1a2",
   "summary": "Execute JavaScript and WebAssembly in a Deno sandbox from Python",
   "author": "Simon Willison",
   "license": null,
   "home_page": null,
-  "download_filename": "denobox-0.1a1.tar.gz",
-  "download_time": "2026-01-10T16:16:51.322884",
+  "download_filename": "denobox-0.1a2.tar.gz",
+  "download_time": "2026-01-10T20:52:45.476255",
   "package_url": "https://pypi.org/project/denobox/"
 }

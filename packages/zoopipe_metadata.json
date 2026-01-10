@@ -1,0 +1,11 @@
+{
+  "name": "zoopipe",
+  "version": "2026.1.10",
+  "summary": "ZooPipe is a data processing framework that allows you to process data in a declarative way.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "zoopipe-2026.1.10-py3-none-any.whl",
+  "download_time": "2026-01-10T20:52:38.326701",
+  "package_url": "https://pypi.org/project/zoopipe/"
+}
