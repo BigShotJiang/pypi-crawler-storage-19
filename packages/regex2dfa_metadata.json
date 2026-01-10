@@ -1,0 +1,11 @@
+{
+  "name": "regex2dfa",
+  "version": "0.2.1",
+  "summary": "Convert regular expressions to minimized DFAs in AT&T FST format",
+  "author": "Kevin P. Dyer",
+  "license": null,
+  "home_page": null,
+  "download_filename": "regex2dfa-0.2.1.tar.gz",
+  "download_time": "2026-01-10T22:16:58.424339",
+  "package_url": "https://pypi.org/project/regex2dfa/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "CityOfBinds",
-  "version": "0.5.2",
+  "version": "0.5.3",
   "summary": "Library to help create City of Heroes binds as simple or advanced as you'd like.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "cityofbinds-0.5.2.tar.gz",
-  "download_time": "2026-01-10T21:51:25.200296",
+  "download_filename": "cityofbinds-0.5.3.tar.gz",
+  "download_time": "2026-01-10T22:16:50.721875",
   "package_url": "https://pypi.org/project/CityOfBinds/"
 }

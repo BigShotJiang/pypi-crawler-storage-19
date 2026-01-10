@@ -1,0 +1,11 @@
+{
+  "name": "complexity-concept",
+  "version": "0.3.0",
+  "summary": "Llama-based architecture with INL Dynamics Lite stabilization",
+  "author": "Pacific Prime",
+  "license": null,
+  "home_page": "https://github.com/Pacific-Prime/complexity-concept",
+  "download_filename": "complexity_concept-0.3.0.tar.gz",
+  "download_time": "2026-01-10T22:16:33.500442",
+  "package_url": "https://pypi.org/project/complexity-concept/"
+}

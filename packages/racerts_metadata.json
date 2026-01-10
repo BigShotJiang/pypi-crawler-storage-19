@@ -1,0 +1,11 @@
+{
+  "name": "racerts",
+  "version": "0.1.5",
+  "summary": "Rapid Conformer Ensemble with RDKit for Transition States",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "racerts-0.1.5.tar.gz",
+  "download_time": "2026-01-10T22:16:43.376110",
+  "package_url": "https://pypi.org/project/racerts/"
+}

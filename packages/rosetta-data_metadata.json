@@ -1,0 +1,11 @@
+{
+  "name": "rosetta-data",
+  "version": "0.2.0",
+  "summary": "Universal columnar format bridge - read Parquet, Vortex, Lance with one API",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "rosetta_data-0.2.0.tar.gz",
+  "download_time": "2026-01-10T22:16:35.044848",
+  "package_url": "https://pypi.org/project/rosetta-data/"
+}
