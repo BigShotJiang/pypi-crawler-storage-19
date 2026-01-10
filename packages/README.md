@@ -1,13 +1,47 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2026-01-10T08:19:44.327922
-- **Total Packages**: 82
-- **Total Size**: 14.52 MB
+- **Download Time**: 2026-01-10T08:48:21.955172
+- **Total Packages**: 78
+- **Total Size**: 28.82 MB
 
 ## Packages List
-- lollms-client
+- IMDBTraktSyncer
+- kokorog2p
+- telegram-bot-mcp
 - tmdsb
+- InterestPrint
+- claudefucker
+- ScriptCollection
+- dbcan
+- validate-pyproject-schema-store
+- langgraph-api
+- trackvault-shared
+- aiogram-test-framework
+- docsig
+- cmdop-llm
+- pyaedt
+- speterlin-stocks
+- agentrun-mem0ai
+- carbon-txt
+- superagentx
+- WsTranslator
+- ecjtu-wechat-api
+- eric-slides-neeraj
+- flyteplugins-pytorch
+- flyteplugins-spark
+- flyte
+- flyteplugins-openai
+- flyteplugins-dask
+- flyteplugins-connectors
+- flyteplugins-sglang
+- perfect-pixel
+- flyteplugins-vllm
+- flyteplugins-ray
+- AnXinxin-mcp-data-analzyer
+- smartchart
+- indexly
+- lollms-client
 - MapleX
 - voxcity
 - onnxscript
@@ -15,7 +49,6 @@
 - tpu-inference
 - zpace
 - mtcli-prevsession
-- trackvault-shared
 - pyglove
 - oncecall
 - audio-subtitler
@@ -41,50 +74,13 @@
 - python-zstandard
 - vnewsapi
 - exec-across-windows
-- agentrun-mem0ai
 - waveshaping-py
 - risk-engine
 - safekeylab
 - liumi-cli
 - djinn-cli
 - python-qdairlines-helper
-- claudefucker
 - python-qlv-helper
 - sound-scape-explorer
 - affinity-sdk
 - flight-helper
-- carbon-txt
-- sqltidy
-- fid-cli
-- notion-to-json
-- lazyopencode
-- devaci-module
-- py-pve-cloud-backup
-- ai-sub
-- neo-whisper
-- VertexEngine
-- ai-edge-litert-sdk-mediatek-nightly
-- ai-edge-litert-sdk-qualcomm-nightly
-- uni-gzip
-- mp-repl
-- glee
-- CodemaoEDUTools
-- editwheel
-- AnXinxin-mcp-data-analzyer
-- edgar-agent-tool
-- synth-ai
-- zaojun
-- TopDownHockey-Scraper
-- pybun-cli
-- rpyc-pve-cloud
-- pyquery-polars
-- nirvana-ai
-- jleechanorg-pr-automation
-- dfm-python
-- acbox
-- pytest-kedge
-- time-server-mcp-ver-pcc
-- py-pve-cloud
-- tibet-audit
-- mbai
-- agentfs-sdk

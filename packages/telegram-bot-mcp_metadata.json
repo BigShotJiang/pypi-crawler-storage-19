@@ -1,0 +1,11 @@
+{
+  "name": "telegram-bot-mcp",
+  "version": "0.1.2",
+  "summary": "Telegram Bot MCP Server - publish, edit, and search messages in Telegram channels",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "telegram_bot_mcp-0.1.2.tar.gz",
+  "download_time": "2026-01-10T08:47:42.758036",
+  "package_url": "https://pypi.org/project/telegram-bot-mcp/"
+}

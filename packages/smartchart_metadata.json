@@ -1,0 +1,11 @@
+{
+  "name": "smartchart",
+  "version": "7.7.3",
+  "summary": "面向开发的数据应用开发平台",
+  "author": "JohnYan",
+  "license": null,
+  "home_page": "https://www.smartchart.cn/",
+  "download_filename": "smartchart-7.7.3-py3-none-any.whl",
+  "download_time": "2026-01-10T08:47:59.073631",
+  "package_url": "https://pypi.org/project/smartchart/"
+}

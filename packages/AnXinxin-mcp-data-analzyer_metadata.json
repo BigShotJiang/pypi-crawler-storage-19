@@ -1,11 +1,11 @@
 {
   "name": "AnXinxin-mcp-data-analzyer",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "a mcp-data-analzyer mcp server",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "anxinxin_mcp_data_analzyer-0.1.1.tar.gz",
-  "download_time": "2026-01-10T07:49:32.045568",
+  "download_filename": "anxinxin_mcp_data_analzyer-0.1.2.tar.gz",
+  "download_time": "2026-01-10T08:47:58.528495",
   "package_url": "https://pypi.org/project/AnXinxin-mcp-data-analzyer/"
 }
