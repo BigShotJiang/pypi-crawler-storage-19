@@ -1,0 +1,11 @@
+{
+  "name": "costgov",
+  "version": "0.2.0",
+  "summary": "Python SDK for CostGov - Track and govern billable events in your application",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "costgov-0.2.0.tar.gz",
+  "download_time": "2026-01-10T10:37:56.670411",
+  "package_url": "https://pypi.org/project/costgov/"
+}

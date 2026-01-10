@@ -1,11 +1,11 @@
 {
   "name": "videosdk-plugins-azure",
-  "version": "0.0.57",
+  "version": "0.0.58",
   "summary": "VideoSDK Agent Framework plugin for azure",
   "author": "videosdk",
   "license": null,
   "home_page": null,
-  "download_filename": "videosdk_plugins_azure-0.0.57.tar.gz",
-  "download_time": "2026-01-08T13:56:52.961940",
+  "download_filename": "videosdk_plugins_azure-0.0.58.tar.gz",
+  "download_time": "2026-01-10T10:37:44.057158",
   "package_url": "https://pypi.org/project/videosdk-plugins-azure/"
 }

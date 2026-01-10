@@ -1,11 +1,11 @@
 {
   "name": "videosdk-plugins-neuphonic",
-  "version": "0.0.57",
+  "version": "0.0.58",
   "summary": "VideoSDK Agent Framework plugin for Neuphonic AI",
   "author": "videosdk",
   "license": null,
   "home_page": null,
-  "download_filename": "videosdk_plugins_neuphonic-0.0.57.tar.gz",
-  "download_time": "2026-01-08T13:56:42.485400",
+  "download_filename": "videosdk_plugins_neuphonic-0.0.58.tar.gz",
+  "download_time": "2026-01-10T10:37:34.690425",
   "package_url": "https://pypi.org/project/videosdk-plugins-neuphonic/"
 }

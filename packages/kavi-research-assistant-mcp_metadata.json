@@ -1,0 +1,11 @@
+{
+  "name": "kavi-research-assistant-mcp",
+  "version": "2.0.0",
+  "summary": "A Model Context Protocol server for research assistance with ChromaDB vector storage by kavi.ai",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "kavi_research_assistant_mcp-2.0.0.tar.gz",
+  "download_time": "2026-01-10T10:37:47.741629",
+  "package_url": "https://pypi.org/project/kavi-research-assistant-mcp/"
+}

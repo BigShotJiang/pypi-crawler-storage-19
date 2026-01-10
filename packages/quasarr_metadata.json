@@ -1,11 +1,11 @@
 {
   "name": "quasarr",
-  "version": "1.26.7",
+  "version": "1.27.0",
   "summary": "Quasarr connects JDownloader with Radarr, Sonarr and LazyLibrarian. It also decrypts links protected by CAPTCHAs.",
   "author": "rix1337",
   "license": null,
   "home_page": "https://github.com/rix1337/Quasarr",
-  "download_filename": "quasarr-1.26.7.tar.gz",
-  "download_time": "2026-01-08T08:52:49.932241",
+  "download_filename": "quasarr-1.27.0.tar.gz",
+  "download_time": "2026-01-10T10:37:48.269574",
   "package_url": "https://pypi.org/project/quasarr/"
 }

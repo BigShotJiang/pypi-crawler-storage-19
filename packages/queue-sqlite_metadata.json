@@ -1,0 +1,11 @@
+{
+  "name": "queue-sqlite",
+  "version": "0.2.3",
+  "summary": "A high-performance, SQLite-based distributed task queue system with Rust-backed core operations. Supports task mounting, message listening, priority handling, retry mechanisms, and automatic cleanup of expired messages. Ideal for building reliable, scalable background task processing systems.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "queue_sqlite-0.2.3.tar.gz",
+  "download_time": "2026-01-10T10:38:00.815073",
+  "package_url": "https://pypi.org/project/queue-sqlite/"
+}

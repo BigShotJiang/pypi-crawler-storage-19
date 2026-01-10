@@ -1,0 +1,11 @@
+{
+  "name": "docker-detector",
+  "version": "1.0.0",
+  "summary": "Detect if your Python process is running inside a Docker container — inspired by the popular is-docker npm package. Works on Linux, with optional cache refresh for repeated checks.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "docker_detector-1.0.0.tar.gz",
+  "download_time": "2026-01-10T10:38:02.900869",
+  "package_url": "https://pypi.org/project/docker-detector/"
+}

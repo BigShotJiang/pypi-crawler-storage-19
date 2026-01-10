@@ -1,11 +1,11 @@
 {
   "name": "videosdk-plugins-openai",
-  "version": "0.0.57",
+  "version": "0.0.58",
   "summary": "VideoSDK Agent Framework plugin for OpenAI services",
   "author": "videosdk",
   "license": null,
   "home_page": null,
-  "download_filename": "videosdk_plugins_openai-0.0.57.tar.gz",
-  "download_time": "2026-01-08T13:56:41.905468",
+  "download_filename": "videosdk_plugins_openai-0.0.58.tar.gz",
+  "download_time": "2026-01-10T10:37:33.653468",
   "package_url": "https://pypi.org/project/videosdk-plugins-openai/"
 }
