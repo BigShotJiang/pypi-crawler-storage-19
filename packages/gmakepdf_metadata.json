@@ -1,0 +1,11 @@
+{
+  "name": "gmakepdf",
+  "version": "0.1.0",
+  "summary": "Fast HTML to PDF conversion using Playwright",
+  "author": "Ganesh Kandu",
+  "license": null,
+  "home_page": "https://github.com/ganeshkandu/gmakepdf",
+  "download_filename": "gmakepdf-0.1.0.tar.gz",
+  "download_time": "2026-01-10T09:35:25.926721",
+  "package_url": "https://pypi.org/project/gmakepdf/"
+}

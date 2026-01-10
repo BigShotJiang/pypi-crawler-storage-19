@@ -1,0 +1,11 @@
+{
+  "name": "websockets",
+  "version": "16.0",
+  "summary": "An implementation of the WebSocket Protocol (RFC 6455 & 7692)",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "websockets-16.0.tar.gz",
+  "download_time": "2026-01-10T09:35:06.077992",
+  "package_url": "https://pypi.org/project/websockets/"
+}

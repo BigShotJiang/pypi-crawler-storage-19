@@ -1,0 +1,11 @@
+{
+  "name": "langchain-pull-md",
+  "version": "0.1.2",
+  "summary": "langchain-pull-md is a Python package that extends LangChain with a loader to convert URLs into Markdown. It addresses the challenge of extracting content from JavaScript-rendered pages, like those built with React, Angular, or Vue.js, by utilizing the pull.md service. This approach optimizes resource usage and ensures efficient, reliable Markdown conversion directly from URLs.",
+  "author": "E. Evstafev",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "langchain_pull_md-0.1.2.tar.gz",
+  "download_time": "2026-01-10T09:35:12.383038",
+  "package_url": "https://pypi.org/project/langchain-pull-md/"
+}

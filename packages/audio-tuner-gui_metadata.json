@@ -1,0 +1,11 @@
+{
+  "name": "audio-tuner-gui",
+  "version": "0.9.1",
+  "summary": "Graphical interface for Audio Tuner",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "audio_tuner_gui-0.9.1.tar.gz",
+  "download_time": "2026-01-10T09:35:31.604453",
+  "package_url": "https://pypi.org/project/audio-tuner-gui/"
+}

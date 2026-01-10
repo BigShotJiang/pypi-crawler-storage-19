@@ -1,0 +1,11 @@
+{
+  "name": "lassare",
+  "version": "0.0.1",
+  "summary": "Human-in-the-loop API for AI agents. Coming soon.",
+  "author": "Lassare",
+  "license": null,
+  "home_page": null,
+  "download_filename": "lassare-0.0.1.tar.gz",
+  "download_time": "2026-01-10T09:35:30.577530",
+  "package_url": "https://pypi.org/project/lassare/"
+}

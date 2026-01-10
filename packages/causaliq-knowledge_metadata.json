@@ -1,0 +1,11 @@
+{
+  "name": "causaliq-knowledge",
+  "version": "0.2.0",
+  "summary": "Incorporating LLM and human knowledge into causal discovery",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "causaliq_knowledge-0.2.0.tar.gz",
+  "download_time": "2026-01-10T09:35:34.154548",
+  "package_url": "https://pypi.org/project/causaliq-knowledge/"
+}

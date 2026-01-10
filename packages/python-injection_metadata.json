@@ -1,11 +1,11 @@
 {
   "name": "python-injection",
-  "version": "0.25.13",
+  "version": "0.25.14",
   "summary": "Dead-simple dependency injection framework for Python.",
   "author": "remimd",
   "license": null,
   "home_page": null,
-  "download_filename": "python_injection-0.25.13.tar.gz",
-  "download_time": "2026-01-09T20:17:02.466508",
+  "download_filename": "python_injection-0.25.14.tar.gz",
+  "download_time": "2026-01-10T09:35:04.019803",
   "package_url": "https://pypi.org/project/python-injection/"
 }

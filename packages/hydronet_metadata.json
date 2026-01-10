@@ -1,0 +1,11 @@
+{
+  "name": "hydronet",
+  "version": "1.0.0",
+  "summary": "Network-Based Early Warning System for Hydrological Collapse",
+  "author": "Samir Baladi",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "hydronet-1.0.0.tar.gz",
+  "download_time": "2026-01-10T09:35:08.742596",
+  "package_url": "https://pypi.org/project/hydronet/"
+}

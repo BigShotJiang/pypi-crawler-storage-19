@@ -1,0 +1,11 @@
+{
+  "name": "rabbitmq-mcp-task-queue",
+  "version": "0.1.0",
+  "summary": "RabbitMQ-based TaskMessageQueue implementation for MCP (Model Context Protocol)",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "rabbitmq_mcp_task_queue-0.1.0.tar.gz",
+  "download_time": "2026-01-10T09:35:16.495877",
+  "package_url": "https://pypi.org/project/rabbitmq-mcp-task-queue/"
+}

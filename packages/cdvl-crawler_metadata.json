@@ -1,11 +1,11 @@
 {
   "name": "cdvl-crawler",
-  "version": "0.7.1",
+  "version": "0.7.2",
   "summary": "Crawl and download videos from the CDVL (Consumer Digital Video Library) research repository",
   "author": "Werner Robitza",
   "license": null,
   "home_page": null,
-  "download_filename": "cdvl_crawler-0.7.1.tar.gz",
-  "download_time": "2026-01-09T19:16:32.346964",
+  "download_filename": "cdvl_crawler-0.7.2.tar.gz",
+  "download_time": "2026-01-10T09:35:11.873131",
   "package_url": "https://pypi.org/project/cdvl-crawler/"
 }

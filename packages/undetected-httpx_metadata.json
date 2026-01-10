@@ -1,0 +1,11 @@
+{
+  "name": "undetected-httpx",
+  "version": "0.3.2",
+  "summary": "Stop getting 403 Forbidden. A specialized httpx-like toolkit for WAF evasion.",
+  "author": "Michele Fiori",
+  "license": null,
+  "home_page": "https://github.com/michele0303/undetected-httpx",
+  "download_filename": "undetected_httpx-0.3.2.tar.gz",
+  "download_time": "2026-01-10T09:35:18.086775",
+  "package_url": "https://pypi.org/project/undetected-httpx/"
+}

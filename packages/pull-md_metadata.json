@@ -1,0 +1,11 @@
+{
+  "name": "pull-md",
+  "version": "2025.1225.1016",
+  "summary": "A simple Python package to convert URLs to Markdown.",
+  "author": "Eugene Evstafev",
+  "license": "MIT",
+  "home_page": "https://github.com/chigwell/pull_md",
+  "download_filename": "pull_md-2025.1225.1016.tar.gz",
+  "download_time": "2026-01-10T09:35:13.404514",
+  "package_url": "https://pypi.org/project/pull-md/"
+}
