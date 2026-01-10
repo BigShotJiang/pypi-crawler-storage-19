@@ -1,11 +1,11 @@
 {
   "name": "agentic-coder",
-  "version": "0.5.5",
+  "version": "0.6.0",
   "summary": "AI-powered autonomous project creator and iterative developer",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "agentic_coder-0.5.5.tar.gz",
-  "download_time": "2026-01-10T10:37:48.802686",
+  "download_filename": "agentic_coder-0.6.0.tar.gz",
+  "download_time": "2026-01-10T11:29:30.496859",
   "package_url": "https://pypi.org/project/agentic-coder/"
 }

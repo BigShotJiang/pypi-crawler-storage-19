@@ -1,11 +1,11 @@
 {
   "name": "nexusrepo",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "summary": "NexusData - data access, services and DTO abstractions.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "nexusrepo-0.2.0.tar.gz",
-  "download_time": "2026-01-09T18:22:31.810086",
+  "download_filename": "nexusrepo-0.2.1.tar.gz",
+  "download_time": "2026-01-10T11:29:23.450679",
   "package_url": "https://pypi.org/project/nexusrepo/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "django-caps",
+  "version": "0.0.3",
+  "summary": "Capability based object permissions for Django.",
+  "author": "Thomas Baquet",
+  "license": "MPL-2.0",
+  "home_page": null,
+  "download_filename": "django_caps-0.0.3.tar.gz",
+  "download_time": "2026-01-10T11:29:25.236613",
+  "package_url": "https://pypi.org/project/django-caps/"
+}

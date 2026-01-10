@@ -1,11 +1,11 @@
 {
   "name": "epub-translator",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "summary": "Translate the epub book using LLM. The translated book will retain the original text and list the translated text side by side with the original text.",
   "author": "Tao Zeyu",
   "license": "MIT",
   "home_page": "https://hub.oomol.com/package/books-translator",
-  "download_filename": "epub_translator-0.1.3.tar.gz",
-  "download_time": "2026-01-09T09:49:22.237791",
+  "download_filename": "epub_translator-0.1.4.tar.gz",
+  "download_time": "2026-01-10T11:29:37.287573",
   "package_url": "https://pypi.org/project/epub-translator/"
 }
