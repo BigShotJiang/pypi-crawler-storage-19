@@ -1,0 +1,11 @@
+{
+  "name": "llm-dynamics",
+  "version": "1.0.0",
+  "summary": "INL-LLM: Integrator Neuron Language Model with bio-inspired dynamics",
+  "author": "nano3",
+  "license": "CC BY-NC 4.0",
+  "home_page": "https://github.com/anthropics/pacific-prime",
+  "download_filename": "llm_dynamics-1.0.0.tar.gz",
+  "download_time": "2026-01-10T05:00:22.740831",
+  "package_url": "https://pypi.org/project/llm-dynamics/"
+}

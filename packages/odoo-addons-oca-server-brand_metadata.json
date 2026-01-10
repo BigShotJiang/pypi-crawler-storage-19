@@ -1,11 +1,11 @@
 {
   "name": "odoo-addons-oca-server-brand",
-  "version": "19.0.20260108.1",
+  "version": "19.0.20260109.0",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "odoo_addons_oca_server_brand-19.0.20260108.1-py3-none-any.whl",
-  "download_time": "2026-01-09T04:10:01.743937",
+  "download_filename": "odoo_addons_oca_server_brand-19.0.20260109.0-py3-none-any.whl",
+  "download_time": "2026-01-10T05:00:45.532396",
   "package_url": "https://pypi.org/project/odoo-addons-oca-server-brand/"
 }

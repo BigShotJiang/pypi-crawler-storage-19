@@ -1,0 +1,11 @@
+{
+  "name": "simple-utils",
+  "version": "14",
+  "summary": "A collection of simple Python utilities for datetime, string, file, and decorator operations",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "simple_utils-14.tar.gz",
+  "download_time": "2026-01-10T05:00:11.508282",
+  "package_url": "https://pypi.org/project/simple-utils/"
+}

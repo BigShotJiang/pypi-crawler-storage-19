@@ -1,0 +1,11 @@
+{
+  "name": "datasette-transactions",
+  "version": "0.1a0",
+  "summary": "API for executing multiple queries within a transaction",
+  "author": "Datasette",
+  "license": null,
+  "home_page": null,
+  "download_filename": "datasette_transactions-0.1a0.tar.gz",
+  "download_time": "2026-01-10T05:00:43.173275",
+  "package_url": "https://pypi.org/project/datasette-transactions/"
+}

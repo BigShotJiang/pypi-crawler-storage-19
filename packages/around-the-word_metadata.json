@@ -1,0 +1,11 @@
+{
+  "name": "around-the-word",
+  "version": "2.1.0",
+  "summary": "Visualize a book list's author nationalities as a world heatmap",
+  "author": "nbr23",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "around_the_word-2.1.0.tar.gz",
+  "download_time": "2026-01-10T05:00:32.082643",
+  "package_url": "https://pypi.org/project/around-the-word/"
+}

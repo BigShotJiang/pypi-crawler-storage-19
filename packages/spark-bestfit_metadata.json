@@ -1,11 +1,11 @@
 {
   "name": "spark-bestfit",
-  "version": "2.6.0",
+  "version": "2.7.1",
   "summary": "Modern distribution fitting library with Spark, Ray, and local parallel backends",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "spark_bestfit-2.6.0.tar.gz",
-  "download_time": "2026-01-10T04:06:53.434398",
+  "download_filename": "spark_bestfit-2.7.1.tar.gz",
+  "download_time": "2026-01-10T05:00:24.246159",
   "package_url": "https://pypi.org/project/spark-bestfit/"
 }
