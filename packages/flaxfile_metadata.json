@@ -1,0 +1,11 @@
+{
+  "name": "flaxfile",
+  "version": "1.2.0",
+  "summary": "高性能文件传输工具 - 基于ZMQ优化的跨网络文件传输系统",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "flaxfile-1.2.0.tar.gz",
+  "download_time": "2026-01-10T17:13:38.157096",
+  "package_url": "https://pypi.org/project/flaxfile/"
+}

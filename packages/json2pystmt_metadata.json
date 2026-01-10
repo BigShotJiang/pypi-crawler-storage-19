@@ -1,11 +1,11 @@
 {
   "name": "json2pystmt",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "summary": "Convert JSON to Python assignment statements. Useful for grepping JSON, diffing JSON objects, and debugging.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "json2pystmt-0.3.0.tar.gz",
-  "download_time": "2026-01-07T13:14:11.407421",
+  "download_filename": "json2pystmt-0.4.0.tar.gz",
+  "download_time": "2026-01-10T17:14:06.685133",
   "package_url": "https://pypi.org/project/json2pystmt/"
 }

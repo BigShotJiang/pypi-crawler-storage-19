@@ -1,0 +1,11 @@
+{
+  "name": "hkcr",
+  "version": "0.1.0",
+  "summary": "Hong Kong Companies Registry Search SDK",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "hkcr-0.1.0.tar.gz",
+  "download_time": "2026-01-10T17:13:40.328228",
+  "package_url": "https://pypi.org/project/hkcr/"
+}

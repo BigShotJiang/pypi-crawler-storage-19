@@ -1,0 +1,11 @@
+{
+  "name": "wofry",
+  "version": "1.0.34",
+  "summary": "WOFRY (Wave Optics FRamework in pYthon) kernel library",
+  "author": "Manuel Sanchez del Rio, Luca Rebuffi",
+  "license": "GPLv3",
+  "home_page": "https://github.com/oasys-kit/wofry",
+  "download_filename": "wofry-1.0.34.tar.gz",
+  "download_time": "2026-01-10T17:14:06.175132",
+  "package_url": "https://pypi.org/project/wofry/"
+}

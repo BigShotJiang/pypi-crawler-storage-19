@@ -1,0 +1,11 @@
+{
+  "name": "apsw",
+  "version": "3.51.2.0",
+  "summary": "Another Python SQLite Wrapper",
+  "author": "Roger Binns",
+  "license": "any-OSI",
+  "home_page": "https://github.com/rogerbinns/apsw",
+  "download_filename": "apsw-3.51.2.0.tar.gz",
+  "download_time": "2026-01-10T17:14:08.239517",
+  "package_url": "https://pypi.org/project/apsw/"
+}

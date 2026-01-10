@@ -1,0 +1,11 @@
+{
+  "name": "pyclean",
+  "version": "3.5.0",
+  "summary": "Pure Python cross-platform pyclean. Clean up your Python bytecode.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pyclean-3.5.0.tar.gz",
+  "download_time": "2026-01-10T17:13:44.676805",
+  "package_url": "https://pypi.org/project/pyclean/"
+}

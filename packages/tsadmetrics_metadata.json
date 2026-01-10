@@ -1,0 +1,11 @@
+{
+  "name": "tsadmetrics",
+  "version": "1.0.8",
+  "summary": "Librería para evaluación de detección de anomalías en series temporales",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "tsadmetrics-1.0.8.tar.gz",
+  "download_time": "2026-01-10T17:14:03.093266",
+  "package_url": "https://pypi.org/project/tsadmetrics/"
+}

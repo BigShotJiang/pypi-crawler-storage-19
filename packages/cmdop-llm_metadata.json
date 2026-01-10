@@ -1,11 +1,11 @@
 {
   "name": "cmdop-llm",
-  "version": "0.1.3",
+  "version": "0.1.6",
   "summary": "Python SDK for CMDOP LLM Service - OpenAI-compatible API for 200+ AI models",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "cmdop_llm-0.1.3.tar.gz",
-  "download_time": "2026-01-10T16:17:03.426397",
+  "download_filename": "cmdop_llm-0.1.6.tar.gz",
+  "download_time": "2026-01-10T17:13:48.306088",
   "package_url": "https://pypi.org/project/cmdop-llm/"
 }

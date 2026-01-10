@@ -1,0 +1,11 @@
+{
+  "name": "cate",
+  "version": "1.1",
+  "summary": "Tool to draw the templates of chaotic attractors",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "cate-1.1.tar.gz",
+  "download_time": "2026-01-10T17:13:54.594668",
+  "package_url": "https://pypi.org/project/cate/"
+}
