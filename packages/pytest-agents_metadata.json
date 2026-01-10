@@ -1,11 +1,11 @@
 {
   "name": "pytest-agents",
-  "version": "1.0.8",
+  "version": "1.0.11",
   "summary": "Pytest plugin framework with AI agent capabilities for multi-agent testing",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "pytest_agents-1.0.8.tar.gz",
-  "download_time": "2026-01-08T11:34:16.974377",
+  "download_filename": "pytest_agents-1.0.11.tar.gz",
+  "download_time": "2026-01-10T23:14:36.011862",
   "package_url": "https://pypi.org/project/pytest-agents/"
 }

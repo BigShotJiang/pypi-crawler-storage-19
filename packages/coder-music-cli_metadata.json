@@ -1,11 +1,11 @@
 {
   "name": "coder-music-cli",
-  "version": "0.8.10",
+  "version": "0.8.12",
   "summary": "A command-line music application for coders with daemon support, radio streaming, and AI-generated music",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "coder_music_cli-0.8.10.tar.gz",
-  "download_time": "2026-01-07T23:51:43.771301",
+  "download_filename": "coder_music_cli-0.8.12.tar.gz",
+  "download_time": "2026-01-10T23:14:58.111369",
   "package_url": "https://pypi.org/project/coder-music-cli/"
 }

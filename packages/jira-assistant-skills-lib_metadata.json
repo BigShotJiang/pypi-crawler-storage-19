@@ -1,0 +1,11 @@
+{
+  "name": "jira-assistant-skills-lib",
+  "version": "0.2.4",
+  "summary": "Shared library for JIRA Assistant Skills - HTTP client, configuration management, error handling, and utilities for JIRA REST API automation",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "jira_assistant_skills_lib-0.2.4.tar.gz",
+  "download_time": "2026-01-10T23:14:56.520521",
+  "package_url": "https://pypi.org/project/jira-assistant-skills-lib/"
+}
