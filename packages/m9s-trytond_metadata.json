@@ -1,0 +1,11 @@
+{
+  "name": "m9s-trytond",
+  "version": "7.0.43",
+  "summary": "Tryton Server",
+  "author": "MBSolutions",
+  "license": "GPL-3",
+  "home_page": "http://www.m9s.biz/",
+  "download_filename": "m9s_trytond-7.0.43.tar.gz",
+  "download_time": "2026-01-10T11:49:29.566496",
+  "package_url": "https://pypi.org/project/m9s-trytond/"
+}

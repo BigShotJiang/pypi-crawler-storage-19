@@ -1,0 +1,11 @@
+{
+  "name": "mcmsmp",
+  "version": "0.1.4",
+  "summary": "Python client for Minecraft Management Server Protocol",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mcmsmp-0.1.4.tar.gz",
+  "download_time": "2026-01-10T11:49:35.699201",
+  "package_url": "https://pypi.org/project/mcmsmp/"
+}

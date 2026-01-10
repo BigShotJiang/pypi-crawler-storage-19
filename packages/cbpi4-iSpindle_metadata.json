@@ -1,0 +1,11 @@
+{
+  "name": "cbpi4-iSpindle",
+  "version": "1.0.3",
+  "summary": "CraftBeerPi4 iSpindle Sensor Plugin",
+  "author": "Alexander Vollkopf",
+  "license": "GPLv 3.0",
+  "home_page": "https://github.com/avollkopf/cbpi4-iSpindle",
+  "download_filename": "cbpi4_ispindle-1.0.3.tar.gz",
+  "download_time": "2026-01-10T11:49:45.422396",
+  "package_url": "https://pypi.org/project/cbpi4-iSpindle/"
+}
