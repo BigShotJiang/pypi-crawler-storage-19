@@ -1,0 +1,11 @@
+{
+  "name": "anox",
+  "version": "1.0.2",
+  "summary": "ANOX — AI-Powered Development Assistant",
+  "author": "HakunoKun",
+  "license": null,
+  "home_page": "https://github.com/HakunoKun/Ai-Brain",
+  "download_filename": "anox-1.0.2.tar.gz",
+  "download_time": "2026-01-10T04:33:03.496156",
+  "package_url": "https://pypi.org/project/anox/"
+}

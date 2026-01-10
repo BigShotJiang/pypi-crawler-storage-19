@@ -1,0 +1,11 @@
+{
+  "name": "types-zstd",
+  "version": "1.5.7.3.20260110",
+  "summary": "Typing stubs for zstd",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "types_zstd-1.5.7.3.20260110.tar.gz",
+  "download_time": "2026-01-10T04:32:54.170525",
+  "package_url": "https://pypi.org/project/types-zstd/"
+}

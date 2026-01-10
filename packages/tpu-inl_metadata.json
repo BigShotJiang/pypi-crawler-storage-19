@@ -1,11 +1,11 @@
 {
   "name": "tpu-inl",
-  "version": "0.2.0",
+  "version": "0.2.2",
   "summary": "Cross-platform Integrator Neuron Layer acceleration for TPU, CUDA, AMD, Intel, DirectML",
   "author": "Pacific Prime",
   "license": "Apache-2.0",
   "home_page": "https://github.com/Web3-League/tpu-inl",
-  "download_filename": "tpu_inl-0.2.0.tar.gz",
-  "download_time": "2026-01-10T04:07:00.913067",
+  "download_filename": "tpu_inl-0.2.2.tar.gz",
+  "download_time": "2026-01-10T04:32:47.101469",
   "package_url": "https://pypi.org/project/tpu-inl/"
 }
