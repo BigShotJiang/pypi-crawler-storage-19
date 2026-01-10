@@ -1,11 +1,11 @@
 {
   "name": "pyaccess",
-  "version": "0.1.0a3",
-  "summary": "Python library for reading MS Access databases (.accdb/.mdb files) on Linux systems using mdbtools",
+  "version": "0.1.0a4",
+  "summary": "Python library for reading MS Access databases (.accdb/.mdb files) using pyodbc",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pyaccess-0.1.0a3.tar.gz",
-  "download_time": "2026-01-09T13:50:53.098919",
+  "download_filename": "pyaccess-0.1.0a4.tar.gz",
+  "download_time": "2026-01-10T01:04:19.347855",
   "package_url": "https://pypi.org/project/pyaccess/"
 }

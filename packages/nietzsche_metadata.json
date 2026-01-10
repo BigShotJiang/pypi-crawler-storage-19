@@ -1,0 +1,11 @@
+{
+  "name": "nietzsche",
+  "version": "0.1.1",
+  "summary": "A CLI tool for generating PowerPoint presentations",
+  "author": "Yann Debray",
+  "license": null,
+  "home_page": null,
+  "download_filename": "nietzsche-0.1.1.tar.gz",
+  "download_time": "2026-01-10T01:04:21.543427",
+  "package_url": "https://pypi.org/project/nietzsche/"
+}

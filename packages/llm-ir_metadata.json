@@ -1,11 +1,11 @@
 {
   "name": "llm-ir",
-  "version": "0.0.1",
+  "version": "0.0.4",
   "summary": "Core message IR for LLM pipelines",
   "author": "Mathis Siebert",
   "license": null,
   "home_page": null,
-  "download_filename": "llm_ir-0.0.1.tar.gz",
-  "download_time": "2026-01-09T22:55:08.542512",
+  "download_filename": "llm_ir-0.0.4.tar.gz",
+  "download_time": "2026-01-10T01:04:43.762411",
   "package_url": "https://pypi.org/project/llm-ir/"
 }

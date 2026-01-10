@@ -1,0 +1,11 @@
+{
+  "name": "kalibr",
+  "version": "1.2.1",
+  "summary": "Unified LLM Observability & Multi-Model AI Integration Framework - Deploy to GPT, Claude, Gemini, Copilot with full telemetry.",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "kalibr-1.2.1.tar.gz",
+  "download_time": "2026-01-10T01:04:43.251139",
+  "package_url": "https://pypi.org/project/kalibr/"
+}

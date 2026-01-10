@@ -1,0 +1,11 @@
+{
+  "name": "chatterbox-mlx",
+  "version": "1.0.0",
+  "summary": "Chatterbox MLX: Open Source TTS and Voice Conversion for MLX. Based off of Chatterbox by Resemble AI",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "chatterbox_mlx-1.0.0.tar.gz",
+  "download_time": "2026-01-10T01:04:44.785391",
+  "package_url": "https://pypi.org/project/chatterbox-mlx/"
+}

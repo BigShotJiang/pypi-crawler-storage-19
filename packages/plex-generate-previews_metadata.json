@@ -1,0 +1,11 @@
+{
+  "name": "plex-generate-previews",
+  "version": "2.3.0",
+  "summary": "Generate video preview thumbnails for Plex Media Server",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "plex_generate_previews-2.3.0.tar.gz",
+  "download_time": "2026-01-10T01:04:16.772712",
+  "package_url": "https://pypi.org/project/plex-generate-previews/"
+}

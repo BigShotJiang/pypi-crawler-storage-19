@@ -1,11 +1,11 @@
 {
   "name": "instancepedia",
-  "version": "0.9.16",
-  "summary": "EC2 Instance Type Browser - TUI and CLI",
+  "version": "0.9.18",
+  "summary": "Browse, compare, and price EC2 instances - TUI and CLI",
   "author": "Paul Frederiksen",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "instancepedia-0.9.16.tar.gz",
-  "download_time": "2026-01-09T23:33:47.263419",
+  "download_filename": "instancepedia-0.9.18.tar.gz",
+  "download_time": "2026-01-10T01:04:13.147074",
   "package_url": "https://pypi.org/project/instancepedia/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "brs-kb",
+  "version": "4.0.2",
+  "summary": "XSS Knowledge Base — 4900+ Payloads, 169 Contexts, WAF Bypasses, Zero Dependencies",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "brs_kb-4.0.2.tar.gz",
+  "download_time": "2026-01-10T01:04:26.833537",
+  "package_url": "https://pypi.org/project/brs-kb/"
+}
