@@ -1,0 +1,11 @@
+{
+  "name": "unvivtool",
+  "version": "3.12",
+  "summary": "simple BIGF BIGH BIG4 decoder/encoder (commonly known as VIV/BIG)",
+  "author": "Benjamin Futasz",
+  "license": "GPLv3+",
+  "home_page": "https://github.com/bfut/unvivtool",
+  "download_filename": "unvivtool-3.12.tar.gz",
+  "download_time": "2026-01-10T15:50:14.478368",
+  "package_url": "https://pypi.org/project/unvivtool/"
+}

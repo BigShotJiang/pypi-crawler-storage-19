@@ -1,21 +1,46 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2026-01-10T15:34:04.435393
-- **Total Packages**: 81
-- **Total Size**: 18.66 MB
+- **Download Time**: 2026-01-10T15:50:45.982911
+- **Total Packages**: 78
+- **Total Size**: 18.76 MB
 
 ## Packages List
-- petcode
-- linksopen
-- mcpv
+- empathy-framework
 - django-flex
+- Error-Web
+- pysimplejson
+- code-rag-mcp
+- mcp-cuc-syq
+- hfortix
+- django-cartouche
+- hfortix-fortios
+- denobox
+- oepandas
+- python-roborock
+- hfortix-core
+- meteocatpy
+- aiobmsble
+- StreamingCommunity
+- openapi-spec-tools
+- aiogram-toolkit
+- unvivtool
+- linksopen
+- xqdata
+- delete-me-discord
+- llm-tldr
+- atonal
+- ubs-transactions-csv-parser
+- electrokinetic
+- fw-meta
+- azcrawlerpy
+- petcode
+- mcpv
 - freesimplesql
 - ccdcoe
 - PraisonAI
 - syncmux
 - sphinx-guillotina-theme
-- atonal
 - easyfea
 - kleinkram
 - cmdop-llm
@@ -23,14 +48,12 @@
 - sidemantic
 - devtrace
 - flyto-core
-- Error-Web
 - ecoledirecte-py-client
 - SURE-tools
 - PyAutomationIO
 - spx-python
 - inl-llm-v3
 - amrita
-- code-rag-mcp
 - anydi
 - strkeyed
 - langchian
@@ -61,29 +84,3 @@
 - mcp-contract-executor
 - ccfraud-detector
 - mcp-contract-builder
-- meshagent-livekit
-- meshagent-openai
-- meshagent-computers
-- meshagent-markitdown
-- meshagent-api
-- meshagent-tools
-- meshagent
-- meshagent-cli
-- meshagent-mcp
-- meshagent-agents
-- meshagent-otel
-- trilateration-coordfinder
-- nirn.py
-- robotpajamas.pants.pyrefly
-- oikos
-- synalinks
-- tvtui
-- deltalake
-- tahvil-hesaplamalari
-- neoncontract-gen
-- frago-cli
-- pqlattice
-- lilota
-- manim-voiceover-ai
-- tracekit
-- datacontract-cli

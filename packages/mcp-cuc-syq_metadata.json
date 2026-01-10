@@ -1,11 +1,11 @@
 {
   "name": "mcp-cuc-syq",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "A time server implemented using FastMCP",
-  "author": null,
-  "license": null,
+  "author": "Your Name",
+  "license": "MIT",
   "home_page": null,
-  "download_filename": "mcp_cuc_syq-0.1.0.tar.gz",
-  "download_time": "2026-01-10T13:52:34.575683",
+  "download_filename": "mcp_cuc_syq-0.1.1.tar.gz",
+  "download_time": "2026-01-10T15:50:07.647289",
   "package_url": "https://pypi.org/project/mcp-cuc-syq/"
 }
