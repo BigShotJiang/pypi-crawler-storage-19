@@ -1,11 +1,11 @@
 {
   "name": "brocode-lang",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "summary": "Bro Code - The Ultimate Vibe Check Programming Language",
   "author": "Prashith",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "brocode_lang-1.2.0.tar.gz",
-  "download_time": "2026-01-10T12:26:20.541676",
+  "download_filename": "brocode_lang-1.2.1.tar.gz",
+  "download_time": "2026-01-10T14:52:13.530269",
   "package_url": "https://pypi.org/project/brocode-lang/"
 }

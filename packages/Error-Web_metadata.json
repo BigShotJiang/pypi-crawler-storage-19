@@ -1,0 +1,11 @@
+{
+  "name": "Error-Web",
+  "version": "1.0.0",
+  "summary": "Gestionnaire universel d'erreurs Flask — pages HTML, JSON et trace ID",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "error_web-1.0.0.tar.gz",
+  "download_time": "2026-01-10T14:52:09.799014",
+  "package_url": "https://pypi.org/project/Error-Web/"
+}

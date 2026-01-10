@@ -1,14 +1,30 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2026-01-10T14:36:08.137209
-- **Total Packages**: 84
-- **Total Size**: 25.62 MB
+- **Download Time**: 2026-01-10T14:52:52.143700
+- **Total Packages**: 80
+- **Total Size**: 8.59 MB
 
 ## Packages List
+- dzcode
+- cascade-lattice
+- fixitpy
+- pureapi
+- sparecores-data
+- propp-fr
+- Error-Web
+- growatt-pico-reader
+- dycw-github-downloader
+- sidemantic
+- souleyez
+- brocode-lang
+- sumt
+- krira-augment-sdk
+- junshan-kit
+- srt_equalizer
+- python-bsblan
 - dynamixel-python
 - hyper-connections
-- sumt
 - import-analyzer-py
 - pyvm-updater
 - morebuiltins
@@ -24,13 +40,10 @@
 - devqubit-cirq
 - devqubit-braket
 - devqubit
-- krira-augment-sdk
 - PraisonAI
 - empathy-framework
-- propp-fr
 - metadata-scrubber
 - phylotreelib
-- souleyez
 - lilota
 - e-stat-dashboard-mcp
 - projectspec
@@ -39,12 +52,10 @@
 - canvas-chat
 - sqlite-cache-storage
 - pg-cache-storage
-- dycw-github-downloader
 - rulelift
 - unclaude
 - spiraltorch
 - obsws-cli
-- pureapi
 - llm-cost-monitor
 - sift-dqe
 - momcodwiz
@@ -75,18 +86,3 @@
 - hhg
 - notebooklm-py
 - tibet-audit
-- odfdecrypt
-- reqrio
-- pyxecm
-- jadeui
-- SURE-tools
-- medusa-security
-- kdaquila-structure-lint
-- uncoverit
-- lindera-python
-- gds2palace
-- convoviz
-- lindera-python-cc-cedict
-- emcfsys
-- simple-fastapi-scaffold
-- label-sorter
