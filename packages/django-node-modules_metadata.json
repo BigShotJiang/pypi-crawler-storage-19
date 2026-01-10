@@ -1,0 +1,11 @@
+{
+  "name": "django-node-modules",
+  "version": "1.0.6",
+  "summary": "A Django application for easily managing and serving files from local node_modules and remote NPM packages directly from Django templates",
+  "author": "Маг Ильяс DOMA (MagIlyasDOMA)",
+  "license": "MIT",
+  "home_page": "https://github.com/magilyasdoma/django-node-modules",
+  "download_filename": "django_node_modules-1.0.6.tar.gz",
+  "download_time": "2026-01-10T18:50:25.744927",
+  "package_url": "https://pypi.org/project/django-node-modules/"
+}

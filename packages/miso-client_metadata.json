@@ -1,11 +1,11 @@
 {
   "name": "miso-client",
-  "version": "3.8.0",
+  "version": "3.8.1",
   "summary": "Python client SDK for AI Fabrix authentication, authorization, and logging",
   "author": "AI Fabrix Team",
   "license": null,
   "home_page": "https://github.com/aifabrix/miso-client-python",
-  "download_filename": "miso_client-3.8.0.tar.gz",
-  "download_time": "2026-01-10T11:13:08.814494",
+  "download_filename": "miso_client-3.8.1.tar.gz",
+  "download_time": "2026-01-10T18:50:57.610428",
   "package_url": "https://pypi.org/project/miso-client/"
 }

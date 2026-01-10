@@ -1,11 +1,11 @@
 {
   "name": "nirn.py",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "summary": "Highly available, transparent & dynamic HTTP proxy for Discord API rate limiting",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "nirn_py-1.0.2.tar.gz",
-  "download_time": "2026-01-10T17:33:01.186565",
+  "download_filename": "nirn_py-1.0.3.tar.gz",
+  "download_time": "2026-01-10T18:50:34.188313",
   "package_url": "https://pypi.org/project/nirn.py/"
 }

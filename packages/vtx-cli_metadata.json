@@ -1,0 +1,11 @@
+{
+  "name": "vtx-cli",
+  "version": "0.2.5",
+  "summary": "VTX CLI",
+  "author": "Vtxdeo",
+  "license": "MIT",
+  "home_page": "https://github.com/vtxdeo/vtx-cli",
+  "download_filename": "vtx_cli-0.2.5.tar.gz",
+  "download_time": "2026-01-10T18:50:29.467194",
+  "package_url": "https://pypi.org/project/vtx-cli/"
+}

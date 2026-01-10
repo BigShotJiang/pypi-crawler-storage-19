@@ -1,0 +1,11 @@
+{
+  "name": "snowdrop-tangled-agents",
+  "version": "0.0.5",
+  "summary": "Agents for the Tangled game",
+  "author": "Geordie Rose",
+  "license": "MIT",
+  "home_page": "https://github.com/snowdropquantum/snowdrop-tangled-agents",
+  "download_filename": "snowdrop_tangled_agents-0.0.5.tar.gz",
+  "download_time": "2026-01-10T18:50:48.857413",
+  "package_url": "https://pypi.org/project/snowdrop-tangled-agents/"
+}

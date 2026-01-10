@@ -1,11 +1,11 @@
 {
   "name": "slvrov-tools",
-  "version": "0.1.29",
+  "version": "0.1.30",
   "summary": "Tools for math, networking, joysticks, I2C devices, and more for use in SLVROV.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "slvrov_tools-0.1.29.tar.gz",
-  "download_time": "2026-01-10T18:20:53.620271",
+  "download_filename": "slvrov_tools-0.1.30.tar.gz",
+  "download_time": "2026-01-10T18:50:49.369820",
   "package_url": "https://pypi.org/project/slvrov-tools/"
 }

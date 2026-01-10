@@ -1,11 +1,11 @@
 {
   "name": "basic-agent-chat-loop",
-  "version": "1.9.0",
+  "version": "1.10.0",
   "summary": "Feature-rich interactive CLI for AWS Strands agents with token tracking, prompt templates, aliases, and configuration",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "basic_agent_chat_loop-1.9.0.tar.gz",
-  "download_time": "2026-01-07T18:54:42.435147",
+  "download_filename": "basic_agent_chat_loop-1.10.0.tar.gz",
+  "download_time": "2026-01-10T18:50:49.890246",
   "package_url": "https://pypi.org/project/basic-agent-chat-loop/"
 }
