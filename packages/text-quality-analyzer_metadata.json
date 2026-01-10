@@ -1,0 +1,11 @@
+{
+  "name": "text-quality-analyzer",
+  "version": "0.1.2",
+  "summary": "Universal text analysis module for detecting language, meaningfulness, and structure",
+  "author": "Text Quality Analyzer Team",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/yourusername/text-quality-analyzer",
+  "download_filename": "text_quality_analyzer-0.1.2.tar.gz",
+  "download_time": "2026-01-10T18:21:29.904091",
+  "package_url": "https://pypi.org/project/text-quality-analyzer/"
+}

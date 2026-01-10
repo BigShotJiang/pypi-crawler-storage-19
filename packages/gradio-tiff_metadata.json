@@ -1,0 +1,11 @@
+{
+  "name": "gradio-tiff",
+  "version": "0.1.2",
+  "summary": "Custom Gradio component for multi-page TIFF images",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "gradio_tiff-0.1.2.tar.gz",
+  "download_time": "2026-01-10T18:21:25.208274",
+  "package_url": "https://pypi.org/project/gradio-tiff/"
+}

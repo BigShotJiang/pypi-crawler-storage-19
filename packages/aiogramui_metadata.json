@@ -1,0 +1,11 @@
+{
+  "name": "aiogramui",
+  "version": "1.2.0",
+  "summary": "A minimalistic UI framework for aiogram bots.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "aiogramui-1.2.0.tar.gz",
+  "download_time": "2026-01-10T18:21:04.623281",
+  "package_url": "https://pypi.org/project/aiogramui/"
+}

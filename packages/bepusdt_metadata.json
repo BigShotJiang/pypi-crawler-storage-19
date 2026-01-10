@@ -1,0 +1,11 @@
+{
+  "name": "bepusdt",
+  "version": "0.3.1",
+  "summary": "BEpusdt 支付网关 Python SDK - 支持 USDT/TRX/USDC 多链支付",
+  "author": "luoyanglang",
+  "license": "MIT",
+  "home_page": "https://github.com/luoyanglang/bepusdt-python-sdk",
+  "download_filename": "bepusdt-0.3.1.tar.gz",
+  "download_time": "2026-01-10T18:20:56.766603",
+  "package_url": "https://pypi.org/project/bepusdt/"
+}

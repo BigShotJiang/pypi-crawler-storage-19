@@ -1,0 +1,11 @@
+{
+  "name": "rulang",
+  "version": "1.0.0",
+  "summary": "A lightweight DSL for business rules with dependency analysis",
+  "author": "Mohammed Al-Ogaili",
+  "license": null,
+  "home_page": null,
+  "download_filename": "rulang-1.0.0.tar.gz",
+  "download_time": "2026-01-10T18:21:25.718959",
+  "package_url": "https://pypi.org/project/rulang/"
+}

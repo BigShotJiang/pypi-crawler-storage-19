@@ -1,0 +1,11 @@
+{
+  "name": "json-pretty-diff",
+  "version": "1.0.0",
+  "summary": "HTML-only diff generator for top-level JSON objects",
+  "author": "Javier Lianes García",
+  "license": null,
+  "home_page": null,
+  "download_filename": "json_pretty_diff-1.0.0.tar.gz",
+  "download_time": "2026-01-10T18:20:52.080824",
+  "package_url": "https://pypi.org/project/json-pretty-diff/"
+}

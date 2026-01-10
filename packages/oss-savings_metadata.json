@@ -1,11 +1,11 @@
 {
   "name": "oss-savings",
-  "version": "0.1.1",
+  "version": "0.1.4",
   "summary": "Calculate how much money open source saved you",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "oss_savings-0.1.1.tar.gz",
-  "download_time": "2026-01-10T05:44:11.686543",
+  "download_filename": "oss_savings-0.1.4.tar.gz",
+  "download_time": "2026-01-10T18:20:56.256059",
   "package_url": "https://pypi.org/project/oss-savings/"
 }

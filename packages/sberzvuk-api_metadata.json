@@ -1,0 +1,11 @@
+{
+  "name": "sberzvuk-api",
+  "version": "1.0.0",
+  "summary": "Asynchronous wrapper for SberZvuk API",
+  "author": "$10,000 Lincoln Continental",
+  "license": "MIT",
+  "home_page": "https://github.com/Lincoln-Continental/SberZvuk_API",
+  "download_filename": "sberzvuk_api-1.0.0-py3-none-any.whl",
+  "download_time": "2026-01-10T18:20:46.036430",
+  "package_url": "https://pypi.org/project/sberzvuk-api/"
+}
