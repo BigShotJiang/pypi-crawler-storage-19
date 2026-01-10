@@ -1,11 +1,11 @@
 {
   "name": "costly",
-  "version": "2.3.5",
+  "version": "2.3.7",
   "summary": "Estimate costs and running times of complex LLM workflows/experiments/pipelines in advance before spending money, via simulations.",
   "author": "abhimanyu",
   "license": null,
   "home_page": null,
-  "download_filename": "costly-2.3.5.tar.gz",
-  "download_time": "2026-01-08T14:50:48.648952",
+  "download_filename": "costly-2.3.7.tar.gz",
+  "download_time": "2026-01-10T14:14:10.752328",
   "package_url": "https://pypi.org/project/costly/"
 }

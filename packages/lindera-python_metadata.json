@@ -1,0 +1,11 @@
+{
+  "name": "lindera-python",
+  "version": "2.0.0",
+  "summary": "Python binding for Lindera (no embedded dictionaries)",
+  "author": null,
+  "license": "MIT",
+  "home_page": "https://github.com/lindera/lindera-python",
+  "download_filename": "lindera_python-2.0.0.tar.gz",
+  "download_time": "2026-01-10T14:14:26.836775",
+  "package_url": "https://pypi.org/project/lindera-python/"
+}

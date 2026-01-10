@@ -1,11 +1,11 @@
 {
   "name": "jadeui",
-  "version": "0.1.6",
+  "version": "0.1.7",
   "summary": "Python SDK for JadeView - Create desktop applications with WebView",
   "author": "JadeView Team",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "jadeui-0.1.6.tar.gz",
-  "download_time": "2026-01-10T11:29:28.397454",
+  "download_filename": "jadeui-0.1.7.tar.gz",
+  "download_time": "2026-01-10T14:14:23.593761",
   "package_url": "https://pypi.org/project/jadeui/"
 }
