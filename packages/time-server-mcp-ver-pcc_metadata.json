@@ -1,0 +1,11 @@
+{
+  "name": "time-server-mcp-ver-pcc",
+  "version": "0.1.1",
+  "summary": "A time server implementation using MCP (Model Context Protocol)",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "time_server_mcp_ver_pcc-0.1.1.tar.gz",
+  "download_time": "2026-01-10T07:49:40.294417",
+  "package_url": "https://pypi.org/project/time-server-mcp-ver-pcc/"
+}

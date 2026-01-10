@@ -1,11 +1,11 @@
 {
   "name": "orca-gym",
-  "version": "26.1.5",
+  "version": "26.1.7",
   "summary": "OrcaGym Core - Cloud-native robotics simulation platform compatible with Gymnasium API",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "orca_gym-26.1.5-py3-none-any.whl",
-  "download_time": "2026-01-09T06:23:49.052467",
+  "download_filename": "orca_gym-26.1.7-py3-none-any.whl",
+  "download_time": "2026-01-10T07:49:47.794030",
   "package_url": "https://pypi.org/project/orca-gym/"
 }

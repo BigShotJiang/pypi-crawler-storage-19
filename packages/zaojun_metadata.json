@@ -1,0 +1,11 @@
+{
+  "name": "zaojun",
+  "version": "0.9.6",
+  "summary": "Checks project dependencies for newer versions.",
+  "author": "Marvin8",
+  "license": "AGPL-3.0-or-later",
+  "home_page": null,
+  "download_filename": "zaojun-0.9.6.tar.gz",
+  "download_time": "2026-01-10T07:49:34.691591",
+  "package_url": "https://pypi.org/project/zaojun/"
+}

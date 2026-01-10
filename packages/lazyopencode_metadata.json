@@ -1,0 +1,11 @@
+{
+  "name": "lazyopencode",
+  "version": "0.2.1",
+  "summary": "A lazygit-style TUI for visualizing OpenCode customizations",
+  "author": "nikiforovall",
+  "license": null,
+  "home_page": null,
+  "download_filename": "lazyopencode-0.2.1.tar.gz",
+  "download_time": "2026-01-10T07:49:24.399380",
+  "package_url": "https://pypi.org/project/lazyopencode/"
+}

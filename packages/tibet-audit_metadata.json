@@ -1,11 +1,11 @@
 {
   "name": "tibet-audit",
-  "version": "0.5.0",
+  "version": "0.6.0",
   "summary": "Compliance Health Scanner - Like Lynis, but for regulations. The Diaper Protocol for busy parents.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "tibet_audit-0.5.0.tar.gz",
-  "download_time": "2026-01-09T04:10:10.608220",
+  "download_filename": "tibet_audit-0.6.0.tar.gz",
+  "download_time": "2026-01-10T07:49:41.331126",
   "package_url": "https://pypi.org/project/tibet-audit/"
 }

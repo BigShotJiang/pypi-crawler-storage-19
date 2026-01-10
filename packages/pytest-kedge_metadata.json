@@ -1,0 +1,11 @@
+{
+  "name": "pytest-kedge",
+  "version": "0.1.1",
+  "summary": "Agent-friendly structured test data collector for pytest",
+  "author": "Pete Bowman",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pytest_kedge-0.1.1.tar.gz",
+  "download_time": "2026-01-10T07:49:39.767902",
+  "package_url": "https://pypi.org/project/pytest-kedge/"
+}

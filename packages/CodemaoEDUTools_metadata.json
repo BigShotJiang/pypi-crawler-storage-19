@@ -1,0 +1,11 @@
+{
+  "name": "CodemaoEDUTools",
+  "version": "1.8.0",
+  "summary": "为编程猫社区的”老师“们提供更便捷的API调用方案，且用且珍惜",
+  "author": "WangZixu",
+  "license": null,
+  "home_page": "https://github.com/Wangs-official/CodemaoEDUTools",
+  "download_filename": "codemaoedutools-1.8.0.tar.gz",
+  "download_time": "2026-01-10T07:49:31.010315",
+  "package_url": "https://pypi.org/project/CodemaoEDUTools/"
+}

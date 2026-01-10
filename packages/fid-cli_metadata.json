@@ -1,0 +1,11 @@
+{
+  "name": "fid-cli",
+  "version": "0.3.2",
+  "summary": "Simple based ffmpeg CLI for video/audio operations",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "fid_cli-0.3.2.tar.gz",
+  "download_time": "2026-01-10T07:49:23.287310",
+  "package_url": "https://pypi.org/project/fid-cli/"
+}
