@@ -1,0 +1,11 @@
+{
+  "name": "kawin",
+  "version": "0.4.0",
+  "summary": "Tool for simulating precipitation using the KWN model coupled with Calphad.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "kawin-0.4.0.tar.gz",
+  "download_time": "2026-01-10T20:36:47.588090",
+  "package_url": "https://pypi.org/project/kawin/"
+}

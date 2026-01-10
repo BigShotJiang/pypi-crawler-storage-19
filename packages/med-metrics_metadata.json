@@ -1,0 +1,11 @@
+{
+  "name": "med-metrics",
+  "version": "0.0.6",
+  "summary": "Custom ML metrics for medical applications",
+  "author": "Erkin Ötleş",
+  "license": null,
+  "home_page": "https://github.com/eotles/med_metrics",
+  "download_filename": "med_metrics-0.0.6.tar.gz",
+  "download_time": "2026-01-10T20:37:00.130579",
+  "package_url": "https://pypi.org/project/med-metrics/"
+}

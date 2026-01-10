@@ -1,11 +1,11 @@
 {
   "name": "canvasim",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "summary": "A canvas library with GUI elements for creating interactive applications",
   "author": "Simon Lab",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "canvasim-0.1.0.tar.gz",
-  "download_time": "2026-01-10T13:40:53.167868",
+  "download_filename": "canvasim-0.2.0.tar.gz",
+  "download_time": "2026-01-10T20:36:54.919070",
   "package_url": "https://pypi.org/project/canvasim/"
 }

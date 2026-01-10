@@ -1,0 +1,11 @@
+{
+  "name": "rmlib",
+  "version": "0.1.4",
+  "summary": "Shared utility library for Blender addons",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "rmlib-0.1.4.tar.gz",
+  "download_time": "2026-01-10T20:36:48.108444",
+  "package_url": "https://pypi.org/project/rmlib/"
+}

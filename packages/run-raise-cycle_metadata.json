@@ -1,11 +1,11 @@
 {
   "name": "run-raise-cycle",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "summary": "Run, raise, or cycle through application windows",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "run_raise_cycle-1.1.0.tar.gz",
-  "download_time": "2026-01-10T16:43:33.062956",
+  "download_filename": "run_raise_cycle-1.1.1.tar.gz",
+  "download_time": "2026-01-10T20:36:59.075346",
   "package_url": "https://pypi.org/project/run-raise-cycle/"
 }

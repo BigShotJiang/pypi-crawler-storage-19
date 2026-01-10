@@ -1,11 +1,11 @@
 {
   "name": "by-square",
-  "version": "0.2",
+  "version": "0.3",
   "summary": "Encoder and decoder of \"by square\" QR codes (PAY by square, INVOICE by square)",
   "author": "Adam Zahradník",
   "license": null,
   "home_page": null,
-  "download_filename": "by_square-0.2.tar.gz",
-  "download_time": "2026-01-10T19:37:58.393339",
+  "download_filename": "by_square-0.3.tar.gz",
+  "download_time": "2026-01-10T20:37:02.228267",
   "package_url": "https://pypi.org/project/by-square/"
 }
