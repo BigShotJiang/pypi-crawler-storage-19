@@ -1,11 +1,11 @@
 {
   "name": "shunollo",
-  "version": "0.3.9",
+  "version": "0.3.10",
   "summary": "Biomimetic Physics Engine for Cognitive Architectures",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "shunollo-0.3.9.tar.gz",
-  "download_time": "2026-01-10T22:16:50.210783",
+  "download_filename": "shunollo-0.3.10.tar.gz",
+  "download_time": "2026-01-10T22:53:33.474906",
   "package_url": "https://pypi.org/project/shunollo/"
 }

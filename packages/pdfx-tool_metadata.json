@@ -1,11 +1,11 @@
 {
   "name": "pdfx-tool",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "summary": "A local CLI tool for PDF and image manipulation - merge PDFs, split by page/range, convert images to PDF with enhancement",
   "author": "Manoj Adhikari",
   "license": "MIT",
-  "home_page": "https://github.com/yourusername/pdfx",
-  "download_filename": "pdfx_tool-0.2.1.tar.gz",
-  "download_time": "2026-01-10T22:16:37.720786",
+  "home_page": "https://pypi.org/project/pdfx-tool/",
+  "download_filename": "pdfx_tool-0.2.2.tar.gz",
+  "download_time": "2026-01-10T22:53:34.495485",
   "package_url": "https://pypi.org/project/pdfx-tool/"
 }

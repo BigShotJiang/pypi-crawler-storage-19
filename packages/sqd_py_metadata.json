@@ -1,11 +1,11 @@
 {
   "name": "sqd_py",
-  "version": "0.1.6",
+  "version": "0.1.7",
   "summary": "Lightweight Python client for querying blockchain data from SQD Network",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "sqd_py-0.1.6.tar.gz",
-  "download_time": "2026-01-10T18:50:50.402528",
+  "download_filename": "sqd_py-0.1.7.tar.gz",
+  "download_time": "2026-01-10T22:53:20.507629",
   "package_url": "https://pypi.org/project/sqd_py/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "hwc-bgrx-8888-ndarray-to-chw-rgb-0-1-tensor",
+  "version": "0.1.0a0",
+  "summary": "Convert an HWC BGR 888 or BGRX 8888 NumPy ndarray to a CHW RGB PyTorch tensor, with pixel values normalized to `[0, 1]` and the alpha/unused channel discarded.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "hwc_bgrx_8888_ndarray_to_chw_rgb_0_1_tensor-0.1.0a0.tar.gz",
+  "download_time": "2026-01-10T22:53:35.006264",
+  "package_url": "https://pypi.org/project/hwc-bgrx-8888-ndarray-to-chw-rgb-0-1-tensor/"
+}

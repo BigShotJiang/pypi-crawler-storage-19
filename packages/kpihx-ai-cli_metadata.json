@@ -1,0 +1,11 @@
+{
+  "name": "kpihx-ai-cli",
+  "version": "0.3.3",
+  "summary": "Un client CLI intelligent pour Ollama avec gestion d'historique et mémoire persistante",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "kpihx_ai_cli-0.3.3.tar.gz",
+  "download_time": "2026-01-10T22:53:18.310643",
+  "package_url": "https://pypi.org/project/kpihx-ai-cli/"
+}

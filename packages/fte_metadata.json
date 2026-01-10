@@ -1,0 +1,11 @@
+{
+  "name": "fte",
+  "version": "0.2.1",
+  "summary": "Format-Transforming Encryption",
+  "author": "Kevin P. Dyer",
+  "license": "MIT",
+  "home_page": "https://github.com/kpdyer/libfte",
+  "download_filename": "fte-0.2.1.tar.gz",
+  "download_time": "2026-01-10T22:53:27.271422",
+  "package_url": "https://pypi.org/project/fte/"
+}

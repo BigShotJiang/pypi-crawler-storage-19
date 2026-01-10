@@ -1,0 +1,11 @@
+{
+  "name": "copra-theorem-prover",
+  "version": "1.5.0",
+  "summary": "Python library for running proof search using CoPra",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "copra_theorem_prover-1.5.0.tar.gz",
+  "download_time": "2026-01-10T22:53:22.079493",
+  "package_url": "https://pypi.org/project/copra-theorem-prover/"
+}

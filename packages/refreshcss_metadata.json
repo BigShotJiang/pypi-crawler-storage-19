@@ -1,0 +1,11 @@
+{
+  "name": "refreshcss",
+  "version": "0.6.0",
+  "summary": "Removes unused classes, ids, and element selectors from CSS.",
+  "author": "adamghill",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "refreshcss-0.6.0.tar.gz",
+  "download_time": "2026-01-10T22:53:27.787787",
+  "package_url": "https://pypi.org/project/refreshcss/"
+}

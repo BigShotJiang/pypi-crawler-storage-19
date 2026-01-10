@@ -1,0 +1,11 @@
+{
+  "name": "4DCANAS",
+  "version": "0.2.0",
+  "summary": "Advanced 4D Visualization and Simulation Suite",
+  "author": "MERO",
+  "license": "MIT",
+  "home_page": "https://github.com/6x-u/4DCANAS",
+  "download_filename": "4dcanas-0.2.0.tar.gz",
+  "download_time": "2026-01-10T22:53:25.737810",
+  "package_url": "https://pypi.org/project/4DCANAS/"
+}
