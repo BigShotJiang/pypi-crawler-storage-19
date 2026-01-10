@@ -1,0 +1,11 @@
+{
+  "name": "sbcourse",
+  "version": "0.1.3",
+  "summary": "Steel Bank Course - A comprehensive toolkit for managing Jupyter notebook-based courses with interactive widgets, leaderboards, and gamification",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "sbcourse-0.1.3.tar.gz",
+  "download_time": "2026-01-10T20:16:12.160828",
+  "package_url": "https://pypi.org/project/sbcourse/"
+}

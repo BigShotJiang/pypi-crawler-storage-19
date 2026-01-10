@@ -1,11 +1,11 @@
 {
   "name": "x-webetl",
-  "version": "0.1.9",
+  "version": "0.1.10",
   "summary": "A flexible web content extraction, transformation, and loading (ETL) pipeline",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "x_webetl-0.1.9.tar.gz",
-  "download_time": "2026-01-10T19:50:18.819610",
+  "download_filename": "x_webetl-0.1.10.tar.gz",
+  "download_time": "2026-01-10T20:16:35.857647",
   "package_url": "https://pypi.org/project/x-webetl/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "petthermotools",
-  "version": "0.3.8",
+  "version": "0.3.10",
   "summary": "petthermotools",
   "author": "Matthew Gleeson",
   "license": null,
   "home_page": "https://github.com/gleesonm1/PetThermoTools",
-  "download_filename": "petthermotools-0.3.8.tar.gz",
-  "download_time": "2026-01-08T23:14:13.140178",
+  "download_filename": "petthermotools-0.3.10.tar.gz",
+  "download_time": "2026-01-10T20:16:13.216209",
   "package_url": "https://pypi.org/project/petthermotools/"
 }

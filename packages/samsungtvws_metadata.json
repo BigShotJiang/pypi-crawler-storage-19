@@ -1,0 +1,11 @@
+{
+  "name": "samsungtvws",
+  "version": "3.0.3",
+  "summary": "Samsung Smart TV WS API wrapper",
+  "author": "Xchwarze",
+  "license": null,
+  "home_page": null,
+  "download_filename": "samsungtvws-3.0.3.tar.gz",
+  "download_time": "2026-01-10T20:16:10.961711",
+  "package_url": "https://pypi.org/project/samsungtvws/"
+}

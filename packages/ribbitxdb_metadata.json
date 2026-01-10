@@ -1,0 +1,11 @@
+{
+  "name": "ribbitxdb",
+  "version": "1.1.8",
+  "summary": "Drop-in SQLite alternative with async API, migrations, schema introspection, and 100% SQL compatibility",
+  "author": "RibbitX Team",
+  "license": null,
+  "home_page": "https://ribbitx.com",
+  "download_filename": "ribbitxdb-1.1.8.tar.gz",
+  "download_time": "2026-01-10T20:16:20.526203",
+  "package_url": "https://pypi.org/project/ribbitxdb/"
+}
