@@ -1,0 +1,11 @@
+{
+  "name": "wn-editor-extended",
+  "version": "0.6.1",
+  "summary": "An extended editor for wordnets, building on the popular 'wn' package with additional features for synset creation and relation management.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "wn_editor_extended-0.6.1.tar.gz",
+  "download_time": "2026-01-10T10:54:39.038850",
+  "package_url": "https://pypi.org/project/wn-editor-extended/"
+}

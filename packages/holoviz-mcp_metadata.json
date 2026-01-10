@@ -1,11 +1,11 @@
 {
   "name": "holoviz-mcp",
-  "version": "0.8.0",
+  "version": "0.8.1",
   "summary": "A Model Context Protocol (MCP) server for the HoloViz ecosystem",
   "author": null,
   "license": "BSD",
   "home_page": null,
-  "download_filename": "holoviz_mcp-0.8.0.tar.gz",
-  "download_time": "2026-01-10T09:50:32.960199",
+  "download_filename": "holoviz_mcp-0.8.1.tar.gz",
+  "download_time": "2026-01-10T10:55:03.788752",
   "package_url": "https://pypi.org/project/holoviz-mcp/"
 }

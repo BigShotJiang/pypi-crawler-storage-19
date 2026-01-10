@@ -1,0 +1,11 @@
+{
+  "name": "vrchatapi",
+  "version": "1.20.7",
+  "summary": "VRChat API Library for Python",
+  "author": "Unofficial VRChat API Documentation Project",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "vrchatapi-1.20.7.tar.gz",
+  "download_time": "2026-01-10T10:55:01.218355",
+  "package_url": "https://pypi.org/project/vrchatapi/"
+}
