@@ -1,0 +1,11 @@
+{
+  "name": "s3empty",
+  "version": "2.0.0",
+  "summary": "Python CLI for convenient emptying of S3 bucket",
+  "author": "Cliffano Subagio",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/cliffano/s3empty",
+  "download_filename": "s3empty-2.0.0.tar.gz",
+  "download_time": "2026-01-10T07:32:40.719234",
+  "package_url": "https://pypi.org/project/s3empty/"
+}

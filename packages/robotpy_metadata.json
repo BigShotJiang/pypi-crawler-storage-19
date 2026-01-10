@@ -1,0 +1,11 @@
+{
+  "name": "robotpy",
+  "version": "2026.1.1",
+  "summary": "Meta package to make installing robotpy easier",
+  "author": "RobotPy Development Team",
+  "license": "BSD-3-Clause",
+  "home_page": "https://github.com/robotpy/robotpy-meta",
+  "download_filename": "robotpy-2026.1.1.tar.gz",
+  "download_time": "2026-01-10T07:32:30.907663",
+  "package_url": "https://pypi.org/project/robotpy/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "RiskQuantLib",
+  "version": "0.4.3",
+  "summary": "RiskQuantLib is a QuantLib derivative to evaluate risk.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "riskquantlib-0.4.3.tar.gz",
+  "download_time": "2026-01-10T07:32:43.820544",
+  "package_url": "https://pypi.org/project/RiskQuantLib/"
+}

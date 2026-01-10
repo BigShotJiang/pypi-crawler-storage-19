@@ -1,0 +1,11 @@
+{
+  "name": "mcp-lambda",
+  "version": "10.0.2",
+  "summary": "Experimental Python package for research and educational purposes.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mcp_lambda-10.0.2.tar.gz",
+  "download_time": "2026-01-10T07:32:27.049978",
+  "package_url": "https://pypi.org/project/mcp-lambda/"
+}

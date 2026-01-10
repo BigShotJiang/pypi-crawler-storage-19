@@ -1,0 +1,11 @@
+{
+  "name": "SHICTHRSTimer",
+  "version": "1.2.0",
+  "summary": "SHICTHRS Timer time process system",
+  "author": "SHICTHRS",
+  "license": "GPL-3.0",
+  "home_page": "https://github.com/JNTMTMTM/SHICTHRS_Timer",
+  "download_filename": "shicthrstimer-1.2.0.tar.gz",
+  "download_time": "2026-01-10T07:32:26.407769",
+  "package_url": "https://pypi.org/project/SHICTHRSTimer/"
+}
