@@ -1,11 +1,11 @@
 {
   "name": "md-server",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "summary": "HTTP API server for converting documents, web pages, and media to markdown",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "md_server-0.1.4.tar.gz",
-  "download_time": "2026-01-10T10:55:04.807375",
+  "download_filename": "md_server-0.1.5.tar.gz",
+  "download_time": "2026-01-10T11:13:19.233705",
   "package_url": "https://pypi.org/project/md-server/"
 }

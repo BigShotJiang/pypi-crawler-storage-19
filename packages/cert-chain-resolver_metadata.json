@@ -1,0 +1,11 @@
+{
+  "name": "cert-chain-resolver",
+  "version": "1.4.1",
+  "summary": "Resolve / obtain the certificate intermediates of a x509 cert",
+  "author": "Remco Koopmans",
+  "license": "MIT",
+  "home_page": "https://github.com/rkoopmans/python-certificate-chain-resolver",
+  "download_filename": "cert_chain_resolver-1.4.1.tar.gz",
+  "download_time": "2026-01-10T11:13:09.834252",
+  "package_url": "https://pypi.org/project/cert-chain-resolver/"
+}

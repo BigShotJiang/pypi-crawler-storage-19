@@ -1,11 +1,11 @@
 {
   "name": "sapnmeterdata",
-  "version": "0.1.2",
+  "version": "0.2.0",
   "summary": "retrive meterdata from SA Power Networks",
   "author": "bfulham",
   "license": null,
   "home_page": null,
-  "download_filename": "sapnmeterdata-0.1.2-py3-none-any.whl",
-  "download_time": "2026-01-09T08:52:40.656693",
+  "download_filename": "sapnmeterdata-0.2.0.tar.gz",
+  "download_time": "2026-01-10T11:13:23.368741",
   "package_url": "https://pypi.org/project/sapnmeterdata/"
 }

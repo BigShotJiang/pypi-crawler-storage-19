@@ -1,0 +1,11 @@
+{
+  "name": "dynamixel-python",
+  "version": "0.0.1",
+  "summary": "A simple library for communicating with Dynamixel motors",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "dynamixel_python-0.0.1.tar.gz",
+  "download_time": "2026-01-10T11:13:08.303437",
+  "package_url": "https://pypi.org/project/dynamixel-python/"
+}

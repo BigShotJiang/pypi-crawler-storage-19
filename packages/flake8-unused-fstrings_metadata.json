@@ -1,0 +1,11 @@
+{
+  "name": "flake8-unused-fstrings",
+  "version": "2.0.0",
+  "summary": "Flake8 plugin to catch f-strings with no fields.",
+  "author": null,
+  "license": "ISCL",
+  "home_page": "https://github.com/python-formate/flake8-unused-fstrings",
+  "download_filename": "flake8_unused_fstrings-2.0.0.tar.gz",
+  "download_time": "2026-01-10T11:13:24.909304",
+  "package_url": "https://pypi.org/project/flake8-unused-fstrings/"
+}

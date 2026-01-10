@@ -1,0 +1,11 @@
+{
+  "name": "openrt",
+  "version": "0.0.2",
+  "summary": "An Open-Source Red Teaming Framework for Large Language Models (LLMs) and Vision-Language Models (VLMs)",
+  "author": "OpenRT Team",
+  "license": "AGPLv3",
+  "home_page": "https://github.com/AI45Lab/OpenRT",
+  "download_filename": "openrt-0.0.2.tar.gz",
+  "download_time": "2026-01-10T11:13:13.410615",
+  "package_url": "https://pypi.org/project/openrt/"
+}

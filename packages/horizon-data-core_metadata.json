@@ -1,11 +1,11 @@
 {
   "name": "horizon-data-core",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "summary": "Horizon’s core data SDK.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "horizon_data_core-0.0.1.tar.gz",
-  "download_time": "2026-01-10T10:54:42.104403",
+  "download_filename": "horizon_data_core-0.0.2.tar.gz",
+  "download_time": "2026-01-10T11:13:26.455131",
   "package_url": "https://pypi.org/project/horizon-data-core/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "u2-adapter",
-  "version": "0.1.0",
+  "version": "0.0.1",
   "summary": "A universal automation adapter providing a uiautomator2-compatible interface for iOS (WDA) and potentially PC platforms.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "u2_adapter-0.1.0.tar.gz",
-  "download_time": "2026-01-10T09:35:35.679748",
+  "download_filename": "u2_adapter-0.0.1.tar.gz",
+  "download_time": "2026-01-10T11:13:11.366866",
   "package_url": "https://pypi.org/project/u2-adapter/"
 }
