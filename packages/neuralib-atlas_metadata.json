@@ -1,0 +1,11 @@
+{
+  "name": "neuralib-atlas",
+  "version": "0.7.0",
+  "summary": "Tools for hierarchical representations of the mouse brain anatomy",
+  "author": null,
+  "license": "BSD-3-Clause",
+  "home_page": null,
+  "download_filename": "neuralib_atlas-0.7.0.tar.gz",
+  "download_time": "2026-01-10T21:43:41.694258",
+  "package_url": "https://pypi.org/project/neuralib-atlas/"
+}

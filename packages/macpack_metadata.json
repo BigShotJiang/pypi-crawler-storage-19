@@ -1,0 +1,11 @@
+{
+  "name": "macpack",
+  "version": "1.0.4",
+  "summary": "Makes a macOS binary redistributable by searching the dependency tree and copying/patching non-system libraries.",
+  "author": "Caleb Hearon",
+  "license": null,
+  "home_page": "https://github.com/chearon/macpack",
+  "download_filename": "macpack-1.0.4.tar.gz",
+  "download_time": "2026-01-10T21:43:52.165283",
+  "package_url": "https://pypi.org/project/macpack/"
+}

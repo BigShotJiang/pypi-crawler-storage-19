@@ -1,0 +1,11 @@
+{
+  "name": "pyOutlook",
+  "version": "5.0.0",
+  "summary": "A Python module for connecting to the Outlook REST API, without the hassle of dealing with the JSON formatting for requests/responses and the REST endpoints and their varying requirements",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pyoutlook-5.0.0.tar.gz",
+  "download_time": "2026-01-10T21:43:29.612698",
+  "package_url": "https://pypi.org/project/pyOutlook/"
+}

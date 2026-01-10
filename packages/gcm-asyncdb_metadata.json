@@ -1,0 +1,11 @@
+{
+  "name": "gcm-asyncdb",
+  "version": "2.3.1",
+  "summary": "Alternative approach to database API with full native async support and connection pool.",
+  "author": "Michal Kuchta",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "gcm_asyncdb-2.3.1.tar.gz",
+  "download_time": "2026-01-10T21:43:32.797502",
+  "package_url": "https://pypi.org/project/gcm-asyncdb/"
+}
