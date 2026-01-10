@@ -1,11 +1,11 @@
 {
   "name": "devqubit-cirq",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "summary": "devqubit adapter for Cirq",
   "author": "devqubit",
   "license": null,
   "home_page": null,
-  "download_filename": "devqubit_cirq-0.1.2.tar.gz",
-  "download_time": "2026-01-10T12:25:54.836872",
+  "download_filename": "devqubit_cirq-0.1.3.tar.gz",
+  "download_time": "2026-01-10T14:35:30.295634",
   "package_url": "https://pypi.org/project/devqubit-cirq/"
 }

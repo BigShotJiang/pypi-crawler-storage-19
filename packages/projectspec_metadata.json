@@ -1,0 +1,11 @@
+{
+  "name": "projectspec",
+  "version": "0.1.1",
+  "summary": "Machine-readable specs that link intent to code, with tooling to surface drift",
+  "author": "codewithcheese",
+  "license": null,
+  "home_page": null,
+  "download_filename": "projectspec-0.1.1.tar.gz",
+  "download_time": "2026-01-10T14:35:36.668667",
+  "package_url": "https://pypi.org/project/projectspec/"
+}

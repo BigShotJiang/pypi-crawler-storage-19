@@ -1,0 +1,11 @@
+{
+  "name": "sqlite-cache-storage",
+  "version": "1.0.2",
+  "summary": "SQLite cache storage for botasaurus.",
+  "author": "Chetan Jain",
+  "license": "MIT",
+  "home_page": "https://github.com/omkarcloud/botasaurus",
+  "download_filename": "sqlite_cache_storage-1.0.2.tar.gz",
+  "download_time": "2026-01-10T14:35:38.786047",
+  "package_url": "https://pypi.org/project/sqlite-cache-storage/"
+}

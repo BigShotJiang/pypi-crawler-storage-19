@@ -1,0 +1,11 @@
+{
+  "name": "pureapi",
+  "version": "0.1.0",
+  "summary": "A lightweight and elegant Python web framework",
+  "author": "MarkHoo",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pureapi-0.1.0.tar.gz",
+  "download_time": "2026-01-10T14:35:42.436308",
+  "package_url": "https://pypi.org/project/pureapi/"
+}

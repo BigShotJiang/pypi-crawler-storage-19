@@ -1,11 +1,11 @@
 {
   "name": "devqubit-braket",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "summary": "devqubit adapter for Braket",
   "author": "devqubit",
   "license": null,
   "home_page": null,
-  "download_filename": "devqubit_braket-0.1.2-py3-none-any.whl",
-  "download_time": "2026-01-10T12:25:55.367943",
+  "download_filename": "devqubit_braket-0.1.3.tar.gz",
+  "download_time": "2026-01-10T14:35:30.815625",
   "package_url": "https://pypi.org/project/devqubit-braket/"
 }

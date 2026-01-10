@@ -1,0 +1,11 @@
+{
+  "name": "krira-augment-sdk",
+  "version": "1.0.0",
+  "summary": "Official Python SDK for building integrations with Krira Augment RAG pipelines",
+  "author": "Krira Labs",
+  "license": "MIT",
+  "home_page": "https://kriralabs.com",
+  "download_filename": "krira_augment_sdk-1.0.0.tar.gz",
+  "download_time": "2026-01-10T14:35:31.858760",
+  "package_url": "https://pypi.org/project/krira-augment-sdk/"
+}

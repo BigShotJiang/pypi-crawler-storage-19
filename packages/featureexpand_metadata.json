@@ -1,11 +1,11 @@
 {
   "name": "featureexpand",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "summary": "A powerful Python library for automatic feature engineering using logical formula simplification",
   "author": "Juan Carlos Lopez Gonzalez",
   "license": "MIT",
-  "home_page": "https://github.com/jlopezCell/featureexpand",
-  "download_filename": "featureexpand-0.1.0.tar.gz",
-  "download_time": "2026-01-10T14:14:35.888669",
+  "home_page": "https://gitlab.com/exactor/featureexpand.git",
+  "download_filename": "featureexpand-0.2.0.tar.gz",
+  "download_time": "2026-01-10T14:35:47.141684",
   "package_url": "https://pypi.org/project/featureexpand/"
 }
