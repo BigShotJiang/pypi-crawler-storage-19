@@ -1,0 +1,11 @@
+{
+  "name": "onshnap",
+  "version": "0.2.0",
+  "summary": "Frozen-snapshot URDF/MJCF exporter for Onshape assemblies",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "onshnap-0.2.0.tar.gz",
+  "download_time": "2026-01-10T22:37:28.269261",
+  "package_url": "https://pypi.org/project/onshnap/"
+}

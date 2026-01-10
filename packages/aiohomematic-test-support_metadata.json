@@ -1,11 +1,11 @@
 {
   "name": "aiohomematic-test-support",
-  "version": "2026.1.27",
+  "version": "2026.1.28",
   "summary": "Support-only package for AioHomematic (tests/dev). Not part of production builds.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "aiohomematic_test_support-2026.1.27.tar.gz",
-  "download_time": "2026-01-09T22:15:38.760530",
+  "download_filename": "aiohomematic_test_support-2026.1.28.tar.gz",
+  "download_time": "2026-01-10T22:37:40.434633",
   "package_url": "https://pypi.org/project/aiohomematic-test-support/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "rclonecli",
+  "version": "1.2.0",
+  "summary": "A CLI Interface for rclone",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "rclonecli-1.2.0.tar.gz",
+  "download_time": "2026-01-10T22:37:24.946038",
+  "package_url": "https://pypi.org/project/rclonecli/"
+}
