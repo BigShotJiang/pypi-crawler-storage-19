@@ -1,0 +1,11 @@
+{
+  "name": "sqlite-export-for-ynab",
+  "version": "1.6.0",
+  "summary": "SQLite Export for YNAB - Export YNAB Budget Data to SQLite",
+  "author": "Max R",
+  "license": "MIT",
+  "home_page": "https://github.com/mxr/sqlite-export-for-ynab",
+  "download_filename": "sqlite_export_for_ynab-1.6.0.tar.gz",
+  "download_time": "2026-01-10T03:00:22.441497",
+  "package_url": "https://pypi.org/project/sqlite-export-for-ynab/"
+}

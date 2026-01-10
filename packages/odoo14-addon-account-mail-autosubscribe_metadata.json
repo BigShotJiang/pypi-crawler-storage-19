@@ -1,0 +1,11 @@
+{
+  "name": "odoo14-addon-account-mail-autosubscribe",
+  "version": "14.0.1.0.1.dev6",
+  "summary": "Automatically subscribe partners to their company's invoices",
+  "author": "Camptocamp SA, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/account-invoicing",
+  "download_filename": "odoo14_addon_account_mail_autosubscribe-14.0.1.0.1.dev6-py3-none-any.whl",
+  "download_time": "2026-01-10T03:00:49.551987",
+  "package_url": "https://pypi.org/project/odoo14-addon-account-mail-autosubscribe/"
+}

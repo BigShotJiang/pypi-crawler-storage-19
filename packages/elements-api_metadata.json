@@ -1,11 +1,11 @@
 {
   "name": "elements-api",
-  "version": "2026.1.81250",
+  "version": "2026.1.91800",
   "summary": "Elements API Client",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "elements_api-2026.1.81250.tar.gz",
-  "download_time": "2026-01-08T23:30:11.356018",
+  "download_filename": "elements_api-2026.1.91800.tar.gz",
+  "download_time": "2026-01-10T03:00:25.085803",
   "package_url": "https://pypi.org/project/elements-api/"
 }

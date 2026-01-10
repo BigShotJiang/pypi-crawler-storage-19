@@ -1,0 +1,11 @@
+{
+  "name": "ZenAuth-server",
+  "version": "0.1.1",
+  "summary": "A user authentication and management library.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "zenauth_server-0.1.1.tar.gz",
+  "download_time": "2026-01-10T03:00:42.853954",
+  "package_url": "https://pypi.org/project/ZenAuth-server/"
+}

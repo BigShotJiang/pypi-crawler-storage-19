@@ -1,0 +1,11 @@
+{
+  "name": "tmdsb",
+  "version": "3.34",
+  "summary": "他妈的 - 一个能修正你之前控制台命令的牛逼应用",
+  "author": "Vladimir Iakovlev",
+  "license": "MIT",
+  "home_page": "https://github.com/violettoolssite/tmd",
+  "download_filename": "tmdsb-3.34.tar.gz",
+  "download_time": "2026-01-10T03:00:34.403518",
+  "package_url": "https://pypi.org/project/tmdsb/"
+}

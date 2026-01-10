@@ -1,11 +1,11 @@
 {
   "name": "ins-pricing",
-  "version": "0.1.11",
+  "version": "0.2.0",
   "summary": "Reusable modelling, pricing, governance, and reporting utilities.",
   "author": "meishi125478",
   "license": "Proprietary",
   "home_page": null,
-  "download_filename": "ins_pricing-0.1.11.tar.gz",
-  "download_time": "2026-01-08T11:15:20.464620",
+  "download_filename": "ins_pricing-0.2.0.tar.gz",
+  "download_time": "2026-01-10T03:00:27.194647",
   "package_url": "https://pypi.org/project/ins-pricing/"
 }
