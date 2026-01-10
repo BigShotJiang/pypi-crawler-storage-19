@@ -1,0 +1,11 @@
+{
+  "name": "voxscriber",
+  "version": "0.1.15",
+  "summary": "Local speaker diarization for Apple Silicon using MLX Whisper and Pyannote",
+  "author": "Daniel Paredes",
+  "license": null,
+  "home_page": null,
+  "download_filename": "voxscriber-0.1.15.tar.gz",
+  "download_time": "2026-01-10T19:11:50.898660",
+  "package_url": "https://pypi.org/project/voxscriber/"
+}

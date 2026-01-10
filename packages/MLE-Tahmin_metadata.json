@@ -1,11 +1,11 @@
 {
   "name": "MLE-Tahmin",
-  "version": "0.1.0",
-  "summary": "Aktüerya MLE parametre tahmin sistemi (Gamma, Pareto, Lomax)",
+  "version": "0.1.2",
+  "summary": "Aktüerya için MLE parametre tahmin aracı (Gamma, Pareto, Lomax)",
   "author": "Melih Karagülmez",
   "license": null,
-  "home_page": "https://github.com/melih2861/MLE-Tahmin",
-  "download_filename": "mle_tahmin-0.1.0.tar.gz",
-  "download_time": "2026-01-09T21:16:09.909555",
+  "home_page": null,
+  "download_filename": "mle_tahmin-0.1.2.tar.gz",
+  "download_time": "2026-01-10T19:11:51.942220",
   "package_url": "https://pypi.org/project/MLE-Tahmin/"
 }

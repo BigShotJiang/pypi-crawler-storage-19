@@ -1,0 +1,11 @@
+{
+  "name": "m9s-nereid-checkout",
+  "version": "7.0.4",
+  "summary": "Tryton Nereid Checkout Module",
+  "author": "MBSolutions",
+  "license": "GPL-3",
+  "home_page": "https://www.m9s.biz/",
+  "download_filename": "m9s_nereid_checkout-7.0.4.tar.gz",
+  "download_time": "2026-01-10T19:12:03.111597",
+  "package_url": "https://pypi.org/project/m9s-nereid-checkout/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "pysilero-vad",
+  "version": "3.2.0",
+  "summary": "Pre-packaged voice activity detector using silero-vad",
+  "author": "Michael Hansen",
+  "license": "MIT",
+  "home_page": "http://github.com/rhasspy/pysilero-vad",
+  "download_filename": "pysilero_vad-3.2.0.tar.gz",
+  "download_time": "2026-01-10T19:11:48.189894",
+  "package_url": "https://pypi.org/project/pysilero-vad/"
+}

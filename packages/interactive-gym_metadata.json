@@ -1,0 +1,11 @@
+{
+  "name": "interactive-gym",
+  "version": "0.1.0",
+  "summary": "A platform for running interactive experiments in the browser with standard simulation environments.",
+  "author": "Chase McDonald",
+  "license": null,
+  "home_page": null,
+  "download_filename": "interactive_gym-0.1.0.tar.gz",
+  "download_time": "2026-01-10T19:11:42.332390",
+  "package_url": "https://pypi.org/project/interactive-gym/"
+}

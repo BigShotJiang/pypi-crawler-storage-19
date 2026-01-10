@@ -1,0 +1,11 @@
+{
+  "name": "copairs",
+  "version": "0.5.3",
+  "summary": "Find pairs and compute metrics between them",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "copairs-0.5.3.tar.gz",
+  "download_time": "2026-01-10T19:11:47.066332",
+  "package_url": "https://pypi.org/project/copairs/"
+}
