@@ -1,11 +1,11 @@
 {
   "name": "translatebot-django",
-  "version": "0.3.2",
+  "version": "0.3.3",
   "summary": "Stop copy-pasting to and from Google Translate. Translate your Django .po files automatically with AI.",
   "author": "Bjorn the Builder",
   "license": "MPL-2.0",
   "home_page": null,
-  "download_filename": "translatebot_django-0.3.2.tar.gz",
-  "download_time": "2026-01-10T20:52:55.458300",
+  "download_filename": "translatebot_django-0.3.3.tar.gz",
+  "download_time": "2026-01-10T21:13:30.768817",
   "package_url": "https://pypi.org/project/translatebot-django/"
 }

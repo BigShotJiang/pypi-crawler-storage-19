@@ -1,0 +1,11 @@
+{
+  "name": "openap-top",
+  "version": "1.9",
+  "summary": "Trajectory OPtimizer based on OpenAP model",
+  "author": null,
+  "license": "GNU LGPL v3",
+  "home_page": null,
+  "download_filename": "openap_top-1.9.tar.gz",
+  "download_time": "2026-01-10T21:13:34.951202",
+  "package_url": "https://pypi.org/project/openap-top/"
+}

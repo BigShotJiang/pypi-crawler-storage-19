@@ -1,11 +1,11 @@
 {
   "name": "xccy",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "summary": "Python SDK for XCCY Protocol - Interest Rate Swap AMM on Polygon",
   "author": "XCCY Team",
   "license": null,
   "home_page": null,
-  "download_filename": "xccy-0.1.4.tar.gz",
-  "download_time": "2026-01-10T17:14:09.770872",
+  "download_filename": "xccy-0.1.5.tar.gz",
+  "download_time": "2026-01-10T21:13:16.543018",
   "package_url": "https://pypi.org/project/xccy/"
 }
