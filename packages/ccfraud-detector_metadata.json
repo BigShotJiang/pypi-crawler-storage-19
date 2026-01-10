@@ -1,11 +1,11 @@
 {
   "name": "ccfraud-detector",
-  "version": "1.1.0",
+  "version": "2.0.1",
   "summary": "AI-powered credit card fraud detection using Anthropic Claude",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "ccfraud_detector-1.1.0.tar.gz",
-  "download_time": "2026-01-10T14:14:16.363676",
+  "download_filename": "ccfraud_detector-2.0.1.tar.gz",
+  "download_time": "2026-01-10T15:14:17.702464",
   "package_url": "https://pypi.org/project/ccfraud-detector/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "py-abu",
+  "version": "1.3.5",
+  "summary": "abu API",
+  "author": "Chris",
+  "license": "MIT",
+  "home_page": "https://github.com/ChrisYP/abu",
+  "download_filename": "py_abu-1.3.5.tar.gz",
+  "download_time": "2026-01-10T15:14:48.596932",
+  "package_url": "https://pypi.org/project/py-abu/"
+}

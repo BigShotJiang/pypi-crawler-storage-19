@@ -1,0 +1,11 @@
+{
+  "name": "tvtui",
+  "version": "1.0.0",
+  "summary": "Terminal UI for IPTV with EPG browsing",
+  "author": "tvTUI Contributors",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "tvtui-1.0.0.tar.gz",
+  "download_time": "2026-01-10T15:14:27.645815",
+  "package_url": "https://pypi.org/project/tvtui/"
+}

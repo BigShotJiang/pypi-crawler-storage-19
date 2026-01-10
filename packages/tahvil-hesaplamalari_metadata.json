@@ -1,0 +1,11 @@
+{
+  "name": "tahvil-hesaplamalari",
+  "version": "1.0.0",
+  "summary": "Tahvil değerleme ve risk analizi için Python kütüphanesi",
+  "author": "Aktüeryal Hesaplamalar Öğrencisi",
+  "license": null,
+  "home_page": "https://github.com/ASLI06121/tahvil-hesaplamalari",
+  "download_filename": "tahvil_hesaplamalari-1.0.0.tar.gz",
+  "download_time": "2026-01-10T15:14:28.734460",
+  "package_url": "https://pypi.org/project/tahvil-hesaplamalari/"
+}

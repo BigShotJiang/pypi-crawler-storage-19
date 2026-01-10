@@ -1,0 +1,11 @@
+{
+  "name": "sap-bdc-mcp-server",
+  "version": "0.2.0",
+  "summary": "MCP server for SAP Business Data Cloud integration with 7 tools including validation and provisioning",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "sap_bdc_mcp_server-0.2.0.tar.gz",
+  "download_time": "2026-01-10T15:14:49.116819",
+  "package_url": "https://pypi.org/project/sap-bdc-mcp-server/"
+}

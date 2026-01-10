@@ -1,0 +1,11 @@
+{
+  "name": "nervatura",
+  "version": "6.0.0",
+  "summary": "Nervatura Framework Python gRPC packages",
+  "author": "Csaba Kappel",
+  "license": null,
+  "home_page": "https://github.com/nervatura/nervatura",
+  "download_filename": "nervatura-6.0.0.tar.gz",
+  "download_time": "2026-01-10T15:14:45.503164",
+  "package_url": "https://pypi.org/project/nervatura/"
+}

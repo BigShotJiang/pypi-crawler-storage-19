@@ -1,0 +1,11 @@
+{
+  "name": "neoncontract-gen",
+  "version": "1.4.8",
+  "summary": "NeonContract Protocol Buffer definitions for Python - Generated SDK",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "neoncontract_gen-1.4.8.tar.gz",
+  "download_time": "2026-01-10T15:14:29.258392",
+  "package_url": "https://pypi.org/project/neoncontract-gen/"
+}
