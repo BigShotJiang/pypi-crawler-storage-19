@@ -1,0 +1,11 @@
+{
+  "name": "usgs-quakemon",
+  "version": "1.0.5",
+  "summary": "Monitor USGS earthquake feeds with Python 3 from a CLI terminal.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "usgs_quakemon-1.0.5.tar.gz",
+  "download_time": "2026-01-10T19:37:49.338482",
+  "package_url": "https://pypi.org/project/usgs-quakemon/"
+}

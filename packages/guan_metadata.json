@@ -1,11 +1,11 @@
 {
   "name": "guan",
-  "version": "0.1.199",
+  "version": "0.1.200",
   "summary": "An open source python package",
   "author": "guanjihuan",
   "license": null,
   "home_page": "https://py.guanjihuan.com",
-  "download_filename": "guan-0.1.199.tar.gz",
-  "download_time": "2026-01-08T06:22:56.693745",
+  "download_filename": "guan-0.1.200.tar.gz",
+  "download_time": "2026-01-10T19:37:48.818746",
   "package_url": "https://pypi.org/project/guan/"
 }

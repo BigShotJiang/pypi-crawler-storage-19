@@ -1,0 +1,11 @@
+{
+  "name": "parallel-doctest",
+  "version": "0.0.2",
+  "summary": "A replacement/wrapper around doctest to allow tests to be run in parallel",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "parallel_doctest-0.0.2.tar.gz",
+  "download_time": "2026-01-10T19:37:59.431269",
+  "package_url": "https://pypi.org/project/parallel-doctest/"
+}

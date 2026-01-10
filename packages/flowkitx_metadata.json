@@ -1,11 +1,11 @@
 {
   "name": "flowkitx",
-  "version": "0.1.1",
-  "summary": "Structured async workflows for Python with fluent API patterns",
+  "version": "1.0.1",
+  "summary": "Fluent async workflows with lazy execution for Python",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "flowkitx-0.1.1.tar.gz",
-  "download_time": "2026-01-10T19:28:22.781106",
+  "download_filename": "flowkitx-1.0.1.tar.gz",
+  "download_time": "2026-01-10T19:37:52.039412",
   "package_url": "https://pypi.org/project/flowkitx/"
 }

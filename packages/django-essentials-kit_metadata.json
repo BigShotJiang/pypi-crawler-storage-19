@@ -1,11 +1,11 @@
 {
   "name": "django-essentials-kit",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "summary": "Essential utilities for Django",
   "author": "Alex Deus",
   "license": "MIT",
   "home_page": "https://github.com/alex-deus/django-essentials-kit",
-  "download_filename": "django_essentials_kit-0.1.5.tar.gz",
-  "download_time": "2026-01-10T19:28:10.314770",
+  "download_filename": "django_essentials_kit-0.1.6.tar.gz",
+  "download_time": "2026-01-10T19:37:48.271717",
   "package_url": "https://pypi.org/project/django-essentials-kit/"
 }

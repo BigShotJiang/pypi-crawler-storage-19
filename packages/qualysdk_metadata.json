@@ -1,0 +1,11 @@
+{
+  "name": "qualysdk",
+  "version": "0.3.17",
+  "summary": "SDK for interacting with Qualys APIs, across most modules the platform offers.",
+  "author": "0x41424142",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "qualysdk-0.3.17.tar.gz",
+  "download_time": "2026-01-10T19:37:54.149776",
+  "package_url": "https://pypi.org/project/qualysdk/"
+}

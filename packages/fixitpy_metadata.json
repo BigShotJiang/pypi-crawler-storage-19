@@ -1,11 +1,11 @@
 {
   "name": "fixitpy",
-  "version": "0.2.13",
+  "version": "0.2.14",
   "summary": "iFixit REST API Interface",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "fixitpy-0.2.13.tar.gz",
-  "download_time": "2026-01-10T15:14:33.993066",
+  "download_filename": "fixitpy-0.2.14.tar.gz",
+  "download_time": "2026-01-10T19:37:58.911368",
   "package_url": "https://pypi.org/project/fixitpy/"
 }
