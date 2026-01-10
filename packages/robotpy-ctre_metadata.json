@@ -1,0 +1,11 @@
+{
+  "name": "robotpy-ctre",
+  "version": "2026.1.0",
+  "summary": "Binary wrappers for the CTRE Phoenix library",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "robotpy_ctre-2026.1.0-cp310-cp310-macosx_13_0_arm64.whl",
+  "download_time": "2026-01-10T10:14:46.597874",
+  "package_url": "https://pypi.org/project/robotpy-ctre/"
+}

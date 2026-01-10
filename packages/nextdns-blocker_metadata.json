@@ -1,0 +1,11 @@
+{
+  "name": "nextdns-blocker",
+  "version": "7.0.0",
+  "summary": "Automated domain blocking controller for NextDNS with per-domain scheduling",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "nextdns_blocker-7.0.0.tar.gz",
+  "download_time": "2026-01-10T10:14:49.401826",
+  "package_url": "https://pypi.org/project/nextdns-blocker/"
+}
