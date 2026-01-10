@@ -1,0 +1,11 @@
+{
+  "name": "pyflysight",
+  "version": "0.9.2",
+  "summary": "Helper library for processing FlySight GPS flight logs.",
+  "author": "sco1",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pyflysight-0.9.2.tar.gz",
+  "download_time": "2026-01-10T04:06:27.355376",
+  "package_url": "https://pypi.org/project/pyflysight/"
+}

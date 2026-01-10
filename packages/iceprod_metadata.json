@@ -1,11 +1,11 @@
 {
   "name": "iceprod",
-  "version": "3.2.0",
+  "version": "3.2.1",
   "summary": "IceCube dataset management system",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "iceprod-3.2.0.tar.gz",
-  "download_time": "2026-01-09T23:16:00.616237",
+  "download_filename": "iceprod-3.2.1.tar.gz",
+  "download_time": "2026-01-10T04:07:02.173492",
   "package_url": "https://pypi.org/project/iceprod/"
 }

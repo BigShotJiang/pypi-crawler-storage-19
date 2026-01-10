@@ -1,0 +1,11 @@
+{
+  "name": "pyodbc-extras",
+  "version": "0.0.0",
+  "summary": "Extra Methods for Working with ODBC Connections in Python",
+  "author": "Daniel J. Dufour",
+  "license": null,
+  "home_page": "https://github.com/DanielJDufour/pyodbc-extras",
+  "download_filename": "pyodbc_extras-0.0.0.tar.gz",
+  "download_time": "2026-01-10T04:06:42.252859",
+  "package_url": "https://pypi.org/project/pyodbc-extras/"
+}

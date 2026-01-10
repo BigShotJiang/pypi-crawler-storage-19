@@ -1,0 +1,11 @@
+{
+  "name": "noetl-cli",
+  "version": "2.5.3",
+  "summary": "NoETL CLI (Rust) - Command-line interface for NoETL workflow automation",
+  "author": "NoETL Contributors",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "noetl_cli-2.5.3.tar.gz",
+  "download_time": "2026-01-10T04:06:29.737584",
+  "package_url": "https://pypi.org/project/noetl-cli/"
+}

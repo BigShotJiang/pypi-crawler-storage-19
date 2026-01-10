@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-mail-autosubscribe",
+  "version": "18.0.1.1.0.4",
+  "summary": "Automatically subscribe partners to its company's business documents",
+  "author": "Camptocamp, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/mail",
+  "download_filename": "odoo_addon_mail_autosubscribe-18.0.1.1.0.4-py3-none-any.whl",
+  "download_time": "2026-01-10T04:06:59.753880",
+  "package_url": "https://pypi.org/project/odoo-addon-mail-autosubscribe/"
+}

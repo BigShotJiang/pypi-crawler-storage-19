@@ -1,11 +1,11 @@
 {
   "name": "pybun-cli",
-  "version": "0.1.9",
+  "version": "0.1.10",
   "summary": "PyBun shim bootstrapper for signed releases",
   "author": "PyBun Authors",
   "license": null,
   "home_page": null,
-  "download_filename": "pybun_cli-0.1.9.tar.gz",
-  "download_time": "2026-01-10T03:00:31.316062",
+  "download_filename": "pybun_cli-0.1.10.tar.gz",
+  "download_time": "2026-01-10T04:07:06.421082",
   "package_url": "https://pypi.org/project/pybun-cli/"
 }

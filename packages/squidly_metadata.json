@@ -1,0 +1,11 @@
+{
+  "name": "squidly",
+  "version": "0.1.0",
+  "summary": null,
+  "author": "William Reiger",
+  "license": "GPL3",
+  "home_page": "https://github.com/WRiegs/Squidly",
+  "download_filename": "squidly-0.1.0.tar.gz",
+  "download_time": "2026-01-10T04:06:33.376624",
+  "package_url": "https://pypi.org/project/squidly/"
+}

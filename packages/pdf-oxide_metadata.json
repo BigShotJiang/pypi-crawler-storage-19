@@ -1,0 +1,11 @@
+{
+  "name": "pdf-oxide",
+  "version": "0.2.4",
+  "summary": "Production-grade PDF parsing: spec-compliant text extraction, intelligent reading order, OCR support. Ultra-fast Rust performance.",
+  "author": null,
+  "license": "MIT OR Apache-2.0",
+  "home_page": "https://github.com/yfedoseev/pdf_oxide",
+  "download_filename": "pdf_oxide-0.2.4.tar.gz",
+  "download_time": "2026-01-10T04:06:26.780080",
+  "package_url": "https://pypi.org/project/pdf-oxide/"
+}
