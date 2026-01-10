@@ -1,11 +1,11 @@
 {
   "name": "omnibioai-tool-exec",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "summary": "OmniBioAI Tool Execution Service (TES): secure, validated execution of bioinformatics tools on local/HPC/remote backends",
   "author": "Manish Kumar",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "omnibioai_tool_exec-0.1.4.tar.gz",
-  "download_time": "2026-01-10T03:00:21.362133",
+  "download_filename": "omnibioai_tool_exec-0.1.5.tar.gz",
+  "download_time": "2026-01-10T05:23:57.749457",
   "package_url": "https://pypi.org/project/omnibioai-tool-exec/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "debugwand",
+  "version": "0.4.2",
+  "summary": "A zero-preparation remote debugger for Python applications running in Kubernetes clusters or Docker containers.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "debugwand-0.4.2.tar.gz",
+  "download_time": "2026-01-10T05:24:14.559959",
+  "package_url": "https://pypi.org/project/debugwand/"
+}

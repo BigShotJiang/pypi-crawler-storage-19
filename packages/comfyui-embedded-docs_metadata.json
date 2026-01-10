@@ -1,0 +1,11 @@
+{
+  "name": "comfyui-embedded-docs",
+  "version": "0.4.0",
+  "summary": "Embedded documentation for ComfyUI nodes",
+  "author": "Comfy-Org",
+  "license": null,
+  "home_page": null,
+  "download_filename": "comfyui_embedded_docs-0.4.0.tar.gz",
+  "download_time": "2026-01-10T05:24:13.887324",
+  "package_url": "https://pypi.org/project/comfyui-embedded-docs/"
+}

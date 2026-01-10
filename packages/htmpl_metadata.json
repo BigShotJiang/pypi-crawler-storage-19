@@ -1,11 +1,11 @@
 {
   "name": "htmpl",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "summary": "Type-safe HTML templating with Python 3.14 t-strings",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "htmpl-0.2.0.tar.gz",
-  "download_time": "2026-01-10T04:06:45.860173",
+  "download_filename": "htmpl-0.2.1.tar.gz",
+  "download_time": "2026-01-10T05:24:11.308705",
   "package_url": "https://pypi.org/project/htmpl/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "autorag-optim",
+  "version": "0.1.0",
+  "summary": "A CLI tool that automates RAG hyperparameter optimization using Bayesian search and synthetic data generation",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "autorag_optim-0.1.0.tar.gz",
+  "download_time": "2026-01-10T05:24:23.685696",
+  "package_url": "https://pypi.org/project/autorag-optim/"
+}

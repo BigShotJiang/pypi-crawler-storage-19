@@ -1,0 +1,11 @@
+{
+  "name": "finlab-sentinel",
+  "version": "0.1.7",
+  "summary": "Defensive monitoring layer for finlab data.get API - detect unexpected data changes",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "finlab_sentinel-0.1.7.tar.gz",
+  "download_time": "2026-01-10T05:24:24.853153",
+  "package_url": "https://pypi.org/project/finlab-sentinel/"
+}

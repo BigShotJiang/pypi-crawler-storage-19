@@ -1,0 +1,11 @@
+{
+  "name": "mc-shell",
+  "version": "0.6.4",
+  "summary": "An interactive shell and editor for controlling Minecraft servers and creating powers.",
+  "author": "jeff@thinkae.org",
+  "license": null,
+  "home_page": null,
+  "download_filename": "mc_shell-0.6.4.tar.gz",
+  "download_time": "2026-01-10T05:24:23.029066",
+  "package_url": "https://pypi.org/project/mc-shell/"
+}

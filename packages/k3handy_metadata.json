@@ -1,11 +1,11 @@
 {
   "name": "k3handy",
-  "version": "0.1.11",
+  "version": "0.1.12",
   "summary": "Handy alias of mostly used functions",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "k3handy-0.1.11.tar.gz",
-  "download_time": "2026-01-09T09:21:52.082732",
+  "download_filename": "k3handy-0.1.12.tar.gz",
+  "download_time": "2026-01-10T05:24:18.499157",
   "package_url": "https://pypi.org/project/k3handy/"
 }

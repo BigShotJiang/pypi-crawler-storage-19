@@ -1,11 +1,11 @@
 {
   "name": "semistaticsim",
-  "version": "0.5.1",
+  "version": "0.5.3",
   "summary": "Add your description here",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "semistaticsim-0.5.1.tar.gz",
-  "download_time": "2026-01-07T21:19:17.729920",
+  "download_filename": "semistaticsim-0.5.3.tar.gz",
+  "download_time": "2026-01-10T05:24:25.501872",
   "package_url": "https://pypi.org/project/semistaticsim/"
 }
