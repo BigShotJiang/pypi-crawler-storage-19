@@ -1,0 +1,11 @@
+{
+  "name": "data401-nlp",
+  "version": "0.0.3",
+  "summary": "Interactive NLP course labs for Jupyter, Colab, and Deepnote",
+  "author": "Lisa D Harper",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/su-dataAI/data401-nlp",
+  "download_filename": "data401_nlp-0.0.3.tar.gz",
+  "download_time": "2026-01-10T13:52:34.045803",
+  "package_url": "https://pypi.org/project/data401-nlp/"
+}
