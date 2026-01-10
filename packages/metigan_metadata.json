@@ -1,11 +1,11 @@
 {
   "name": "metigan",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "summary": "Official Metigan SDK for Python - Email, Forms, Contacts, and Audiences management",
   "author": "Metigan",
   "license": "MIT",
   "home_page": "https://github.com/metigan/python",
-  "download_filename": "metigan-1.0.0.tar.gz",
-  "download_time": "2026-01-10T23:14:54.939712",
+  "download_filename": "metigan-1.0.2.tar.gz",
+  "download_time": "2026-01-10T23:32:40.681650",
   "package_url": "https://pypi.org/project/metigan/"
 }

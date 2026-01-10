@@ -1,0 +1,11 @@
+{
+  "name": "appdirs-stubs",
+  "version": "0.2.0",
+  "summary": "Type stubs for appdirs",
+  "author": null,
+  "license": "MIT",
+  "home_page": "https://github.com/repo-helper/appdirs-stubs",
+  "download_filename": "appdirs_stubs-0.2.0.tar.gz",
+  "download_time": "2026-01-10T23:32:32.455560",
+  "package_url": "https://pypi.org/project/appdirs-stubs/"
+}

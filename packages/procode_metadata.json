@@ -1,0 +1,11 @@
+{
+  "name": "procode",
+  "version": "0.1.0",
+  "summary": "ProcCode Builder Assistant",
+  "author": "Asterio Gonzalez",
+  "license": null,
+  "home_page": "https://github.com/asteriogonzalez/procode",
+  "download_filename": "procode-0.1.0-py2.py3-none-any.whl",
+  "download_time": "2026-01-10T23:32:36.055988",
+  "package_url": "https://pypi.org/project/procode/"
+}
