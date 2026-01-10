@@ -1,11 +1,11 @@
 {
   "name": "telegram-mcp",
-  "version": "0.2.1",
+  "version": "0.3.0",
   "summary": "MCP server for Telegram - lets AI agents communicate with users via Telegram",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "telegram_mcp-0.2.1.tar.gz",
-  "download_time": "2026-01-10T23:32:35.543681",
+  "download_filename": "telegram_mcp-0.3.0.tar.gz",
+  "download_time": "2026-01-10T23:50:38.014122",
   "package_url": "https://pypi.org/project/telegram-mcp/"
 }

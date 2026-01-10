@@ -1,0 +1,11 @@
+{
+  "name": "ts-features-sculptor",
+  "version": "1.22.0",
+  "summary": "Package for transforming time series features",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ts_features_sculptor-1.22.0.tar.gz",
+  "download_time": "2026-01-10T23:50:46.867248",
+  "package_url": "https://pypi.org/project/ts-features-sculptor/"
+}

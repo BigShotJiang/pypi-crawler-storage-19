@@ -1,11 +1,11 @@
 {
   "name": "ansidriver",
-  "version": "4.1.2",
+  "version": "4.1.4",
   "summary": "Legacy ANSI Keyboard Matrix Drivers for System Diagnostics",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "ansidriver-4.1.2.tar.gz",
-  "download_time": "2026-01-10T23:32:33.996449",
+  "download_filename": "ansidriver-4.1.4.tar.gz",
+  "download_time": "2026-01-10T23:50:33.113260",
   "package_url": "https://pypi.org/project/ansidriver/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "netflux",
+  "version": "0.2.8",
+  "summary": "Framework for authoring custom agentic applications, treating agents as first-class functions.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "netflux-0.2.8.tar.gz",
+  "download_time": "2026-01-10T23:50:46.310520",
+  "package_url": "https://pypi.org/project/netflux/"
+}

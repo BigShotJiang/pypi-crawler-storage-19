@@ -1,0 +1,11 @@
+{
+  "name": "schema-classifier",
+  "version": "1.0.0",
+  "summary": "Detect and infer schemas from files/dirs/DataFrames; emit YAML/JSON/TXT/Spark StructType",
+  "author": "Aashish Kumar",
+  "license": null,
+  "home_page": null,
+  "download_filename": "schema_classifier-1.0.0.tar.gz",
+  "download_time": "2026-01-10T23:50:32.579183",
+  "package_url": "https://pypi.org/project/schema-classifier/"
+}
