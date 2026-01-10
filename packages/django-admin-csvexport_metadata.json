@@ -1,0 +1,11 @@
+{
+  "name": "django-admin-csvexport",
+  "version": "2.4.0",
+  "summary": "Django-admin-action to export items as csv-formatted data.",
+  "author": "Thomas Leichtfuß",
+  "license": "BSD-2-Clause",
+  "home_page": "https://github.com/thomst/django-admin-csvexport",
+  "download_filename": "django_admin_csvexport-2.4.0.tar.gz",
+  "download_time": "2026-01-10T06:55:13.440727",
+  "package_url": "https://pypi.org/project/django-admin-csvexport/"
+}

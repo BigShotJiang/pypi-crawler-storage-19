@@ -1,11 +1,11 @@
 {
   "name": "stash-graphql-client",
-  "version": "0.10.3",
+  "version": "0.10.5",
   "summary": "Async Python client for Stash GraphQL API",
   "author": "Jakan",
   "license": "AGPL-3.0-or-later",
   "home_page": null,
-  "download_filename": "stash_graphql_client-0.10.3.tar.gz",
-  "download_time": "2026-01-07T08:20:04.613836",
+  "download_filename": "stash_graphql_client-0.10.5.tar.gz",
+  "download_time": "2026-01-10T06:55:28.841087",
   "package_url": "https://pypi.org/project/stash-graphql-client/"
 }
