@@ -1,11 +1,11 @@
 {
   "name": "fixitpy",
-  "version": "0.2.19",
-  "summary": "iFixit REST API Interface",
+  "version": "0.2.21",
+  "summary": "FixitPy is an uncomplicated Python library for interfacing with iFixit's API. Allowing repair guides to be programmatically retrieved.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "fixitpy-0.2.19.tar.gz",
-  "download_time": "2026-01-11T21:43:41.989712",
+  "download_filename": "fixitpy-0.2.21.tar.gz",
+  "download_time": "2026-01-11T23:15:19.294062",
   "package_url": "https://pypi.org/project/fixitpy/"
 }
