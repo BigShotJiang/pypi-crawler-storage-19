@@ -1,11 +1,11 @@
 {
   "name": "lumera",
-  "version": "0.4.22",
+  "version": "0.5.0",
   "summary": "SDK for building on Lumera platform",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "lumera-0.4.22.tar.gz",
-  "download_time": "2026-01-09T05:19:46.023713",
+  "download_filename": "lumera-0.5.0.tar.gz",
+  "download_time": "2026-01-11T09:51:47.356509",
   "package_url": "https://pypi.org/project/lumera/"
 }

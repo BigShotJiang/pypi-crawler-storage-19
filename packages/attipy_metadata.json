@@ -1,0 +1,11 @@
+{
+  "name": "attipy",
+  "version": "0.0.6",
+  "summary": "A Python library for attitude estimation using inertial measurement units (IMUs)",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "attipy-0.0.6.tar.gz",
+  "download_time": "2026-01-11T09:52:16.337983",
+  "package_url": "https://pypi.org/project/attipy/"
+}

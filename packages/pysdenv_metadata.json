@@ -1,0 +1,11 @@
+{
+  "name": "pysdenv",
+  "version": "1.0.0",
+  "summary": "Python wrapper for sdenv - 瑞数VMP补环境框架",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pysdenv-1.0.0.tar.gz",
+  "download_time": "2026-01-11T09:51:48.953022",
+  "package_url": "https://pypi.org/project/pysdenv/"
+}

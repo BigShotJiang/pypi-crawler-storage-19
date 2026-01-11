@@ -1,11 +1,11 @@
 {
   "name": "ndastro-engine",
-  "version": "0.5.0",
+  "version": "0.5.1",
   "summary": "A modern vedic astrology calculation engine",
   "author": "Jaganathan, B",
   "license": "MIT",
   "home_page": "https://github.com/jaganathanb/ndastro-core",
-  "download_filename": "ndastro_engine-0.5.0.tar.gz",
-  "download_time": "2026-01-11T07:17:16.300332",
+  "download_filename": "ndastro_engine-0.5.1.tar.gz",
+  "download_time": "2026-01-11T09:52:23.528795",
   "package_url": "https://pypi.org/project/ndastro-engine/"
 }

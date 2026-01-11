@@ -1,0 +1,11 @@
+{
+  "name": "usbx",
+  "version": "0.8.2",
+  "summary": "Modern and user-friendly library for working with USB devices",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "usbx-0.8.2.tar.gz",
+  "download_time": "2026-01-11T09:51:49.480740",
+  "package_url": "https://pypi.org/project/usbx/"
+}

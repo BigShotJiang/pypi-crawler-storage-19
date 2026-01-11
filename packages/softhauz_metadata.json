@@ -1,0 +1,11 @@
+{
+  "name": "softhauz",
+  "version": "0.0.6",
+  "summary": "[FOR EXTERNAL PROJECTS] This python package, primarily created for the stabilization and support of the current Softhauz system, offers various visualization and web interface tools for calculus, chemistry, and data science, with optional localization for the currently available language codes: ENG, FRA, SPA, KOR, and JPN. ",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "softhauz-0.0.6.tar.gz",
+  "download_time": "2026-01-11T09:52:09.387528",
+  "package_url": "https://pypi.org/project/softhauz/"
+}

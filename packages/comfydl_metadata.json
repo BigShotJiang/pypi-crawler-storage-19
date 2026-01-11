@@ -1,11 +1,11 @@
 {
   "name": "comfydl",
-  "version": "0.1.7",
+  "version": "0.1.8",
   "summary": "A robust CLI tool for downloading models for ComfyUI",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "comfydl-0.1.7.tar.gz",
-  "download_time": "2026-01-11T07:17:13.206980",
+  "download_filename": "comfydl-0.1.8.tar.gz",
+  "download_time": "2026-01-11T09:52:12.229597",
   "package_url": "https://pypi.org/project/comfydl/"
 }
