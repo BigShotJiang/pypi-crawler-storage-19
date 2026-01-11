@@ -1,0 +1,11 @@
+{
+  "name": "bdew-datetimes",
+  "version": "0.11.0",
+  "summary": "Generate and work with holidays of the BDEW-Calendar for power and gas in Germany",
+  "author": "Konstantin Klein",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "bdew_datetimes-0.11.0.tar.gz",
+  "download_time": "2026-01-11T18:51:27.899781",
+  "package_url": "https://pypi.org/project/bdew-datetimes/"
+}

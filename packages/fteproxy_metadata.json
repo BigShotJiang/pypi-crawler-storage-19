@@ -1,0 +1,11 @@
+{
+  "name": "fteproxy",
+  "version": "0.3.0",
+  "summary": "Format-Transforming Encryption proxy for censorship circumvention",
+  "author": "Kevin P. Dyer",
+  "license": "MIT",
+  "home_page": "https://github.com/kpdyer/fteproxy",
+  "download_filename": "fteproxy-0.3.0.tar.gz",
+  "download_time": "2026-01-11T18:51:06.538783",
+  "package_url": "https://pypi.org/project/fteproxy/"
+}

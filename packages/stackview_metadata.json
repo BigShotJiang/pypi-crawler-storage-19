@@ -1,0 +1,11 @@
+{
+  "name": "stackview",
+  "version": "0.19.1",
+  "summary": "Interactive image stack viewing in jupyter notebooks",
+  "author": "Robert Haase",
+  "license": "BSD-3-Clause",
+  "home_page": "https://github.com/haesleinhuepf/stackview/",
+  "download_filename": "stackview-0.19.1.tar.gz",
+  "download_time": "2026-01-11T18:51:17.630924",
+  "package_url": "https://pypi.org/project/stackview/"
+}

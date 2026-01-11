@@ -1,11 +1,11 @@
 {
   "name": "modelautopsy",
-  "version": "1.0.3",
+  "version": "1.0.5",
   "summary": "ModelAutopsy: High-Performance ML Failure Detection",
   "author": "Yuvraj Jha",
   "license": null,
   "home_page": "https://github.com/YuvrajJha13/MLGuardian",
-  "download_filename": "modelautopsy-1.0.3.tar.gz",
-  "download_time": "2026-01-11T17:13:23.650536",
+  "download_filename": "modelautopsy-1.0.5.tar.gz",
+  "download_time": "2026-01-11T18:51:15.578250",
   "package_url": "https://pypi.org/project/modelautopsy/"
 }

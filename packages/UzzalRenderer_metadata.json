@@ -1,0 +1,11 @@
+{
+  "name": "UzzalRenderer",
+  "version": "0.0.1",
+  "summary": "A small python package",
+  "author": "Uzzal",
+  "license": "MIT",
+  "home_page": "https://github.com/Uzzal/UzzalRenderer-PyPi-Package",
+  "download_filename": "uzzalrenderer-0.0.1.tar.gz",
+  "download_time": "2026-01-11T18:50:53.555016",
+  "package_url": "https://pypi.org/project/UzzalRenderer/"
+}
