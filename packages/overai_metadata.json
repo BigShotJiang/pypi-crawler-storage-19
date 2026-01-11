@@ -1,11 +1,11 @@
 {
   "name": "overai",
-  "version": "0.6.4",
+  "version": "0.6.5",
   "summary": "OverAI agents for completing complex tasks with Self Reflection Agents",
   "author": "JMK",
   "license": null,
   "home_page": null,
-  "download_filename": "overai-0.6.4.tar.gz",
-  "download_time": "2026-01-11T19:12:54.765390",
+  "download_filename": "overai-0.6.5.tar.gz",
+  "download_time": "2026-01-11T19:29:25.784453",
   "package_url": "https://pypi.org/project/overai/"
 }

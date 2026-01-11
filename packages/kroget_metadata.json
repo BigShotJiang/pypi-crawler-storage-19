@@ -1,11 +1,11 @@
 {
   "name": "kroget",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "Kroger shopping CLI",
   "author": "Kroget Contributors",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "kroget-0.1.0.tar.gz",
-  "download_time": "2026-01-11T05:06:51.188406",
+  "download_filename": "kroget-0.1.1.tar.gz",
+  "download_time": "2026-01-11T19:29:23.111593",
   "package_url": "https://pypi.org/project/kroget/"
 }

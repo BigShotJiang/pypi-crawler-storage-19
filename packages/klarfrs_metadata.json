@@ -1,0 +1,11 @@
+{
+  "name": "klarfrs",
+  "version": "0.2.1",
+  "summary": "Klarfrs is a parser written in Rust to read klarf files as a python dictionary. Currently it only supports version 1.2.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "klarfrs-0.2.1.tar.gz",
+  "download_time": "2026-01-11T19:29:33.080567",
+  "package_url": "https://pypi.org/project/klarfrs/"
+}

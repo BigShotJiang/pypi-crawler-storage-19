@@ -1,0 +1,11 @@
+{
+  "name": "penelope-shell-handler",
+  "version": "0.18.0",
+  "summary": "Post-exploitation shell handler for authorized security testing",
+  "author": null,
+  "license": "GPL-3.0-or-later",
+  "home_page": null,
+  "download_filename": "penelope_shell_handler-0.18.0.tar.gz",
+  "download_time": "2026-01-11T19:29:21.514340",
+  "package_url": "https://pypi.org/project/penelope-shell-handler/"
+}

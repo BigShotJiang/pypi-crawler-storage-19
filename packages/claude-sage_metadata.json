@@ -1,0 +1,11 @@
+{
+  "name": "claude-sage",
+  "version": "0.1.0",
+  "summary": "Semantic checkpointing for Claude Code",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "claude_sage-0.1.0.tar.gz",
+  "download_time": "2026-01-11T19:29:39.610698",
+  "package_url": "https://pypi.org/project/claude-sage/"
+}

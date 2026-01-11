@@ -1,11 +1,11 @@
 {
   "name": "overai-cli",
-  "version": "3.1.4",
+  "version": "3.1.5",
   "summary": "OverAI is an AI Agents Framework with Self Reflection. OverAI application combines PraisonAI Agents, AutoGen, and CrewAI into a low-code solution for building and managing multi-agent LLM systems, focusing on simplicity, customisation, and efficient human-agent collaboration.",
   "author": "JMK",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "overai_cli-3.1.4.tar.gz",
-  "download_time": "2026-01-11T19:12:54.204655",
+  "download_filename": "overai_cli-3.1.5.tar.gz",
+  "download_time": "2026-01-11T19:29:24.141634",
   "package_url": "https://pypi.org/project/overai-cli/"
 }
