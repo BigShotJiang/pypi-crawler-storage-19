@@ -1,0 +1,11 @@
+{
+  "name": "stock-exchange-tracker",
+  "version": "0.2.0",
+  "summary": "A comprehensive stock market tracking tool with AI-powered insights and projection capabilities",
+  "author": "Olawal",
+  "license": "MIT",
+  "home_page": "https://github.com/lawaloy/stock-exchange-tracker",
+  "download_filename": "stock_exchange_tracker-0.2.0.tar.gz",
+  "download_time": "2026-01-11T19:38:15.644079",
+  "package_url": "https://pypi.org/project/stock-exchange-tracker/"
+}
