@@ -1,0 +1,11 @@
+{
+  "name": "rupdf",
+  "version": "0.1.7",
+  "summary": "A fast, minimal PDF page renderer",
+  "author": null,
+  "license": null,
+  "home_page": "https://github.com/stringking/rupdf",
+  "download_filename": "rupdf-0.1.7.tar.gz",
+  "download_time": "2026-01-11T08:23:04.964866",
+  "package_url": "https://pypi.org/project/rupdf/"
+}

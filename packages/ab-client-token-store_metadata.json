@@ -1,0 +1,11 @@
+{
+  "name": "ab-client-token-store",
+  "version": "0.1.0",
+  "summary": "A client library for accessing FastAPI",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ab_client_token_store-0.1.0.tar.gz",
+  "download_time": "2026-01-11T08:22:55.896633",
+  "package_url": "https://pypi.org/project/ab-client-token-store/"
+}

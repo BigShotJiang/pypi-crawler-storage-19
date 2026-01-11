@@ -1,0 +1,11 @@
+{
+  "name": "dbt-core-interface",
+  "version": "1.1.7",
+  "summary": "Dbt Core Interface",
+  "author": "Alex Butler",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "dbt_core_interface-1.1.7.tar.gz",
+  "download_time": "2026-01-11T08:22:52.917080",
+  "package_url": "https://pypi.org/project/dbt-core-interface/"
+}

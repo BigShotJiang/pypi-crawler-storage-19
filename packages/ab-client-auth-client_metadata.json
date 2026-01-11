@@ -1,0 +1,11 @@
+{
+  "name": "ab-client-auth-client",
+  "version": "0.1.1",
+  "summary": "A client library for accessing FastAPI",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ab_client_auth_client-0.1.1.tar.gz",
+  "download_time": "2026-01-11T08:22:55.320540",
+  "package_url": "https://pypi.org/project/ab-client-auth-client/"
+}

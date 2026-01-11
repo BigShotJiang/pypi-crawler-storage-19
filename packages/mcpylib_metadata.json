@@ -1,0 +1,11 @@
+{
+  "name": "mcpylib",
+  "version": "1.0.0",
+  "summary": "Python library for controlling Minecraft servers remotely",
+  "author": "treeleaves30760",
+  "license": null,
+  "home_page": null,
+  "download_filename": "mcpylib-1.0.0.tar.gz",
+  "download_time": "2026-01-11T08:23:15.328306",
+  "package_url": "https://pypi.org/project/mcpylib/"
+}

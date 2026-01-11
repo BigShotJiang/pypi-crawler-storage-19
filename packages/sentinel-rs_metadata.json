@@ -1,0 +1,11 @@
+{
+  "name": "sentinel-rs",
+  "version": "0.1.1",
+  "summary": "High-performance pattern matching engine for Python, powered by Rust",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "sentinel_rs-0.1.1.tar.gz",
+  "download_time": "2026-01-11T08:22:59.640412",
+  "package_url": "https://pypi.org/project/sentinel-rs/"
+}

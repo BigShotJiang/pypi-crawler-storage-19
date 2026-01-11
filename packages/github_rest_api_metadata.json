@@ -1,0 +1,11 @@
+{
+  "name": "github_rest_api",
+  "version": "0.27.0",
+  "summary": "Simple wrapper of GitHub REST APIs.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "github_rest_api-0.27.0.tar.gz",
+  "download_time": "2026-01-11T08:23:11.857026",
+  "package_url": "https://pypi.org/project/github_rest_api/"
+}

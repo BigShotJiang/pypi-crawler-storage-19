@@ -1,11 +1,11 @@
 {
   "name": "openbrowser-ai",
-  "version": "0.1.9",
+  "version": "0.1.10",
   "summary": "Agentic browser automation using LangGraph and raw CDP",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "openbrowser_ai-0.1.9.tar.gz",
-  "download_time": "2026-01-10T05:44:07.829136",
+  "download_filename": "openbrowser_ai-0.1.10.tar.gz",
+  "download_time": "2026-01-11T08:23:06.700956",
   "package_url": "https://pypi.org/project/openbrowser-ai/"
 }
