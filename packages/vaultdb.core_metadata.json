@@ -1,0 +1,11 @@
+{
+  "name": "vaultdb.core",
+  "version": "3.18.5",
+  "summary": "Vaultdb Core platform.",
+  "author": "Dev M Chechi",
+  "license": "Proprietary - Free use for one year, no replication or sale permitted",
+  "home_page": "https://github.com/vaultdbai/vaultdb",
+  "download_filename": "vaultdb_core-3.18.5.tar.gz",
+  "download_time": "2026-01-11T17:50:57.926626",
+  "package_url": "https://pypi.org/project/vaultdb.core/"
+}
