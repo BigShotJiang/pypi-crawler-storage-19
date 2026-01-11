@@ -1,0 +1,11 @@
+{
+  "name": "kln-ai",
+  "version": "1.0.0b7",
+  "summary": "Multi-model code review and knowledge capture system for Claude Code",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "kln_ai-1.0.0b7.tar.gz",
+  "download_time": "2026-01-11T15:51:03.885469",
+  "package_url": "https://pypi.org/project/kln-ai/"
+}

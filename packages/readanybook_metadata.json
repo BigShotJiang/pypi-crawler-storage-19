@@ -1,11 +1,11 @@
 {
   "name": "readanybook",
-  "version": "0.1.13",
+  "version": "0.1.14",
   "summary": "A RAG-based cheat sheet generator for books and papers",
   "author": "ReadAnyBook Team",
   "license": "MIT",
   "home_page": "https://github.com/readanybook/readanybook",
-  "download_filename": "readanybook-0.1.13.tar.gz",
-  "download_time": "2026-01-11T15:34:55.469581",
+  "download_filename": "readanybook-0.1.14.tar.gz",
+  "download_time": "2026-01-11T15:51:22.181202",
   "package_url": "https://pypi.org/project/readanybook/"
 }

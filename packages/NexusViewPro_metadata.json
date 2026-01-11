@@ -1,11 +1,11 @@
 {
   "name": "NexusViewPro",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "summary": "A small python package",
   "author": "entbappy",
   "license": "Apache",
   "home_page": "https://github.com/entbappy/NexusViewPro",
-  "download_filename": "nexusviewpro-0.0.1.tar.gz",
-  "download_time": "2026-01-11T15:34:46.615769",
+  "download_filename": "nexusviewpro-0.0.2.tar.gz",
+  "download_time": "2026-01-11T15:51:08.635015",
   "package_url": "https://pypi.org/project/NexusViewPro/"
 }

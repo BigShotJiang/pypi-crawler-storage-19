@@ -1,0 +1,11 @@
+{
+  "name": "isdn",
+  "version": "2.0.0",
+  "summary": "Library for ISDN (International Standard Dojin Numbering)",
+  "author": "Babibubebon",
+  "license": "MIT",
+  "home_page": "https://github.com/Babibubebon/isdn-python",
+  "download_filename": "isdn-2.0.0.tar.gz",
+  "download_time": "2026-01-11T15:51:07.057360",
+  "package_url": "https://pypi.org/project/isdn/"
+}

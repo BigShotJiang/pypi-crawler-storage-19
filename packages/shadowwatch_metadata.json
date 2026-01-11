@@ -1,11 +1,11 @@
 {
   "name": "shadowwatch",
-  "version": "0.1.0",
+  "version": "0.3.0",
   "summary": "Behavioral intelligence for your application",
   "author": "Tanishq Dasari",
   "license": "MIT",
   "home_page": "https://github.com/Tanishq1030/Shadow_Watch",
-  "download_filename": "shadowwatch-0.1.0.tar.gz",
-  "download_time": "2026-01-11T06:54:31.621640",
+  "download_filename": "shadowwatch-0.3.0.tar.gz",
+  "download_time": "2026-01-11T15:51:25.325535",
   "package_url": "https://pypi.org/project/shadowwatch/"
 }
