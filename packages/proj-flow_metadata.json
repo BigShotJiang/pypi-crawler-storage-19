@@ -1,11 +1,11 @@
 {
   "name": "proj-flow",
-  "version": "0.17.2",
+  "version": "0.18.0",
   "summary": "C++ project maintenance, automated",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "proj_flow-0.17.2.tar.gz",
-  "download_time": "2026-01-11T11:13:56.345435",
+  "download_filename": "proj_flow-0.18.0.tar.gz",
+  "download_time": "2026-01-11T13:08:07.286294",
   "package_url": "https://pypi.org/project/proj-flow/"
 }

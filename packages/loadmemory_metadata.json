@@ -1,0 +1,11 @@
+{
+  "name": "loadmemory",
+  "version": "0.2.0",
+  "summary": "Utilities for loadmemory",
+  "author": "zhouwe1",
+  "license": "MIT",
+  "home_page": "https://github.com/zhouwe1/loadmemory_util",
+  "download_filename": "loadmemory-0.2.0.tar.gz",
+  "download_time": "2026-01-11T13:08:35.625766",
+  "package_url": "https://pypi.org/project/loadmemory/"
+}

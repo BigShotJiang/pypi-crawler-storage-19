@@ -1,0 +1,11 @@
+{
+  "name": "ddf-utils",
+  "version": "1.0.19",
+  "summary": "Commonly used functions/utilities for DDF file model.",
+  "author": "Semio Zheng",
+  "license": "MIT",
+  "home_page": "https://github.com/semio/ddf_utils",
+  "download_filename": "ddf_utils-1.0.19.tar.gz",
+  "download_time": "2026-01-11T13:08:16.630451",
+  "package_url": "https://pypi.org/project/ddf-utils/"
+}

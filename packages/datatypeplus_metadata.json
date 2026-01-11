@@ -1,0 +1,11 @@
+{
+  "name": "datatypeplus",
+  "version": "1.1.1",
+  "summary": "A lightweight Python library for flexible data structures and reactive lists.",
+  "author": "Prayaan Sharma",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "datatypeplus-1.1.1.tar.gz",
+  "download_time": "2026-01-11T13:08:43.372790",
+  "package_url": "https://pypi.org/project/datatypeplus/"
+}

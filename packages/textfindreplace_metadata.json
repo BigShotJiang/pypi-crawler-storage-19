@@ -1,0 +1,11 @@
+{
+  "name": "textfindreplace",
+  "version": "0.1.0",
+  "summary": "Engine reutilizável de find/replace em texto puro",
+  "author": "Dado Beltrão",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "textfindreplace-0.1.0.tar.gz",
+  "download_time": "2026-01-11T13:08:20.730341",
+  "package_url": "https://pypi.org/project/textfindreplace/"
+}

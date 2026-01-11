@@ -1,0 +1,11 @@
+{
+  "name": "nfselib-paulistana",
+  "version": "0.3.0",
+  "summary": "Python Library to genereate paulistana NFS-E",
+  "author": "Luis Felipe Mileo",
+  "license": "MIT",
+  "home_page": "https://github.com/erpbrasil/nfselib.paulistana",
+  "download_filename": "nfselib_paulistana-0.3.0.tar.gz",
+  "download_time": "2026-01-11T13:08:32.552577",
+  "package_url": "https://pypi.org/project/nfselib-paulistana/"
+}

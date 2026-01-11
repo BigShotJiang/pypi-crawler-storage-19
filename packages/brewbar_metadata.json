@@ -1,0 +1,11 @@
+{
+  "name": "brewbar",
+  "version": "1.2.2",
+  "summary": "A progress bar for Python that brews beer while your code runs",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "brewbar-1.2.2.tar.gz",
+  "download_time": "2026-01-11T13:08:26.392218",
+  "package_url": "https://pypi.org/project/brewbar/"
+}

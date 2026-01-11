@@ -1,11 +1,11 @@
 {
   "name": "pyxel-physics-engine",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "GameObject and Physics framework for Pyxel",
   "author": null,
   "license": "MIT License",
   "home_page": null,
-  "download_filename": "pyxel_physics_engine-0.1.1.tar.gz",
-  "download_time": "2026-01-11T12:27:26.596632",
+  "download_filename": "pyxel_physics_engine-0.1.2.tar.gz",
+  "download_time": "2026-01-11T13:08:40.310953",
   "package_url": "https://pypi.org/project/pyxel-physics-engine/"
 }

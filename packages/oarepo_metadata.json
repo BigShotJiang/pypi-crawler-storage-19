@@ -1,11 +1,11 @@
 {
   "name": "oarepo",
-  "version": "14.0.23",
+  "version": "14.0.24",
   "summary": "CESNET, UCT Prague and NTK wrapper around Invenio v3.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "oarepo-14.0.23.tar.gz",
-  "download_time": "2026-01-10T13:41:17.923994",
+  "download_filename": "oarepo-14.0.24.tar.gz",
+  "download_time": "2026-01-11T13:08:24.843257",
   "package_url": "https://pypi.org/project/oarepo/"
 }

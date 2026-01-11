@@ -1,0 +1,11 @@
+{
+  "name": "ptcgpmacro",
+  "version": "0.1.0",
+  "summary": "PTCGP zip builder library - builds exe files and packages images/JSONs into ptcgp.zip",
+  "author": "Areta",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ptcgpmacro-0.1.0.tar.gz",
+  "download_time": "2026-01-11T13:08:02.152543",
+  "package_url": "https://pypi.org/project/ptcgpmacro/"
+}
