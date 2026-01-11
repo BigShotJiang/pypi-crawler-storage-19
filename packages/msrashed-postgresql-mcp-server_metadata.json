@@ -1,0 +1,11 @@
+{
+  "name": "msrashed-postgresql-mcp-server",
+  "version": "0.1.0",
+  "summary": "Read-only PostgreSQL MCP server for database inspection, querying, and performance analysis",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "msrashed_postgresql_mcp_server-0.1.0.tar.gz",
+  "download_time": "2026-01-11T03:21:04.037079",
+  "package_url": "https://pypi.org/project/msrashed-postgresql-mcp-server/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-attachment-preview",
+  "version": "18.0.1.0.0.3",
+  "summary": "Preview attachments supported by Viewer.js",
+  "author": "Therp BV,Onestein,Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/knowledge",
+  "download_filename": "odoo_addon_attachment_preview-18.0.1.0.0.3-py3-none-any.whl",
+  "download_time": "2026-01-11T03:20:41.310385",
+  "package_url": "https://pypi.org/project/odoo-addon-attachment-preview/"
+}

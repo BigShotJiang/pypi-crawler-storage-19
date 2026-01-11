@@ -1,0 +1,11 @@
+{
+  "name": "QuantileFlow",
+  "version": "0.0.6",
+  "summary": "This package provides API and functionality to efficiently compute quantiles for anomaly detection in service/system logs. Developed under LogFlow-AI initiative.",
+  "author": "Dhyey Mavani",
+  "license": "Apache",
+  "home_page": "https://github.com/LogFlow-AI/QuantileFlow",
+  "download_filename": "quantileflow-0.0.6.tar.gz",
+  "download_time": "2026-01-11T03:20:32.048251",
+  "package_url": "https://pypi.org/project/QuantileFlow/"
+}

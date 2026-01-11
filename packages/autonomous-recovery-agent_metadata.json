@@ -1,11 +1,11 @@
 {
   "name": "autonomous-recovery-agent",
-  "version": "3.1.3",
+  "version": "3.1.6",
   "summary": "Autonomous monitoring and recovery agent for Flask + MongoDB applications",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "autonomous_recovery_agent-3.1.3.tar.gz",
-  "download_time": "2026-01-11T01:12:40.274616",
+  "download_filename": "autonomous_recovery_agent-3.1.6.tar.gz",
+  "download_time": "2026-01-11T03:20:45.256797",
   "package_url": "https://pypi.org/project/autonomous-recovery-agent/"
 }

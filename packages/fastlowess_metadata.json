@@ -1,11 +1,11 @@
 {
   "name": "fastlowess",
-  "version": "0.99.7",
-  "summary": "High-performance LOWESS smoothing for Rust, Python, and R.",
+  "version": "0.99.8",
+  "summary": "High-performance LOWESS smoothing for Python.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "fastlowess-0.99.7.tar.gz",
-  "download_time": "2026-01-09T05:48:32.959972",
+  "download_filename": "fastlowess-0.99.8.tar.gz",
+  "download_time": "2026-01-11T03:21:05.854555",
   "package_url": "https://pypi.org/project/fastlowess/"
 }
