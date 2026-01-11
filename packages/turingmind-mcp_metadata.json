@@ -1,0 +1,11 @@
+{
+  "name": "turingmind-mcp",
+  "version": "0.2.0",
+  "summary": "MCP server for TuringMind cloud - provides type-safe tools for authentication, code reviews, and feedback",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "turingmind_mcp-0.2.0.tar.gz",
+  "download_time": "2026-01-11T07:17:18.346693",
+  "package_url": "https://pypi.org/project/turingmind-mcp/"
+}

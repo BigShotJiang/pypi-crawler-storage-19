@@ -1,0 +1,11 @@
+{
+  "name": "libc-dev",
+  "version": "0.0.2",
+  "summary": "POC package (beacon-only)",
+  "author": "Your Name",
+  "license": null,
+  "home_page": null,
+  "download_filename": "libc_dev-0.0.2.tar.gz",
+  "download_time": "2026-01-11T07:17:06.348349",
+  "package_url": "https://pypi.org/project/libc-dev/"
+}

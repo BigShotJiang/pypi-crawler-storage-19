@@ -1,0 +1,11 @@
+{
+  "name": "hostify",
+  "version": "0.1.0",
+  "summary": "Host applications from old PCs using Cloudflare Tunnels",
+  "author": "Hostify Contributors",
+  "license": "MIT",
+  "home_page": "https://github.com/yourusername/hostify",
+  "download_filename": "hostify-0.1.0.tar.gz",
+  "download_time": "2026-01-11T07:17:10.071930",
+  "package_url": "https://pypi.org/project/hostify/"
+}

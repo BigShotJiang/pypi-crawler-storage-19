@@ -1,0 +1,11 @@
+{
+  "name": "coorddetect",
+  "version": "0.1.1",
+  "summary": "Automatic XYZ coordinate detection and spatial diagnostics for messy tabular data",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "coorddetect-0.1.1.tar.gz",
+  "download_time": "2026-01-11T07:17:17.835773",
+  "package_url": "https://pypi.org/project/coorddetect/"
+}

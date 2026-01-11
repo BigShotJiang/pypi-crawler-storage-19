@@ -1,11 +1,11 @@
 {
   "name": "pixoo-spotify",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "summary": "Show the currently playing Spotify artwork and track info on a Divoom Pixoo64 pixel display.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "pixoo_spotify-0.0.1.tar.gz",
-  "download_time": "2026-01-11T04:33:35.896429",
+  "download_filename": "pixoo_spotify-0.0.3.tar.gz",
+  "download_time": "2026-01-11T07:17:08.519414",
   "package_url": "https://pypi.org/project/pixoo-spotify/"
 }

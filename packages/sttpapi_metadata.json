@@ -1,0 +1,11 @@
+{
+  "name": "sttpapi",
+  "version": "0.7.1",
+  "summary": "Streaming Telemetry Transport Protocol API",
+  "author": "J. Ritchie Carroll",
+  "license": null,
+  "home_page": "https://github.com/sttp/pyapi",
+  "download_filename": "sttpapi-0.7.1.tar.gz",
+  "download_time": "2026-01-11T07:17:20.417842",
+  "package_url": "https://pypi.org/project/sttpapi/"
+}

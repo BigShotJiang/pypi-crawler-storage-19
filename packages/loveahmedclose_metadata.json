@@ -1,11 +1,11 @@
 {
   "name": "loveahmedclose",
-  "version": "0.0.2",
+  "version": "0.0.4",
   "summary": "A simple library for Android UI automation using UIAutomator and ADB",
   "author": "CodeMaster",
   "license": null,
   "home_page": "https://pypi.org/project/loveahmedclose/",
-  "download_filename": "loveahmedclose-0.0.2.tar.gz",
-  "download_time": "2026-01-10T07:32:29.025173",
+  "download_filename": "loveahmedclose-0.0.4.tar.gz",
+  "download_time": "2026-01-11T07:17:11.669635",
   "package_url": "https://pypi.org/project/loveahmedclose/"
 }
