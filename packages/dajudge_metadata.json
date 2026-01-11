@@ -1,0 +1,11 @@
+{
+  "name": "dajudge",
+  "version": "1.0.0",
+  "summary": "Japanese Pun (Dajare) detector",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "dajudge-1.0.0.tar.gz",
+  "download_time": "2026-01-11T15:34:36.920119",
+  "package_url": "https://pypi.org/project/dajudge/"
+}

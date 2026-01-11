@@ -1,11 +1,11 @@
 {
   "name": "srt_equalizer",
-  "version": "0.1.11",
+  "version": "0.1.12",
   "summary": "Transform subtitle line lengths, splitting into multiple subtitle fragments if necessary. ",
   "author": "Peter Krantz",
   "license": "MIT",
   "home_page": "https://github.com/peterk/srt_equalizer",
-  "download_filename": "srt_equalizer-0.1.11.tar.gz",
-  "download_time": "2026-01-10T14:52:15.908782",
+  "download_filename": "srt_equalizer-0.1.12.tar.gz",
+  "download_time": "2026-01-11T15:34:59.643571",
   "package_url": "https://pypi.org/project/srt_equalizer/"
 }

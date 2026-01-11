@@ -1,11 +1,58 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2026-01-11T15:15:26.410722
-- **Total Packages**: 80
-- **Total Size**: 22.74 MB
+- **Download Time**: 2026-01-11T15:35:20.842842
+- **Total Packages**: 81
+- **Total Size**: 15.02 MB
 
 ## Packages List
+- dajudge
+- cli-music-player-cthulhu
+- obra
+- paperpipe
+- sae-lens
+- mush-wikis-scraper
+- parfold
+- odoo-addon-l10n-br-nfse-focus
+- odoo-addon-l10n-br-nfse
+- odoo-addon-l10n-br-fiscal
+- ggxs
+- telegram-async
+- varframe
+- mkdocs-substitute-plugin
+- vim-eof-comment
+- unihan-etl
+- carconnectivity
+- hitloop
+- NexusViewPro
+- sansible
+- django-synced-seeders
+- atlas-incident
+- py-cdcstream
+- todo-list-mcp
+- graphistry
+- one_claude
+- intenzclient
+- aiograpi-fixed
+- gegd
+- graphing-calculator-3d
+- entari-plugin-hyw
+- peelee
+- rclaude
+- magical-athlete-simulator
+- flowmyna
+- readanybook
+- doccano
+- sqlclz
+- pytest-approval
+- betastr
+- orange3-db-connections
+- platypush
+- srt_equalizer
+- fimage-python
+- diff-diff
+- academic-mcp
+- slop-mcp
 - freesimplesql
 - orange3-data-helpers
 - hvpdb-tools
@@ -16,73 +63,27 @@
 - pycsp3-solvers-extra
 - HermesCache
 - vieneu
-- rclaude
 - omnicoreagent
 - hvpdb-query
-- sansible
-- slop-mcp
 - hvpdb-perms
 - hvpdb-observe
 - py-landlock
 - hvpdb-migrate
 - pysoem
 - hvpdb-http
-- aiograpi-fixed
 - hvpdb-backup
 - pypecdp
 - whenever
 - hvpdb-admin
 - nex-agent
 - complexity-deep
-- panda-python-packages
-- betastr
 - knwl
-- magical-athlete-simulator
 - gmalg
 - cribl-control-plane
 - llama-cpp-py
 - gennaker-tools
 - virsh-sandbox
 - pys7
-- readanybook
 - mcpstore-cli
 - dl4cv-oda
 - xlin
-- cdktn-provider-http
-- pyxantech
-- WsTranslator
-- tensortrap
-- ytscriber
-- webtoolkit
-- z-image-studio
-- icon-gen-ai
-- ultralytics-sam3-batch
-- helix.fhir.client.sdk
-- jinjacraft
-- countries-dictionary
-- brawny
-- mush-wikis-scraper
-- pubmed-search-mcp
-- theus
-- feffery-infographic
-- pycodei
-- compass_api_sdk
-- browser-service
-- silars
-- stochvolmodels
-- buse
-- mcp-base
-- pyrig
-- opteryx-core
-- easycoder
-- antch
-- pyfaust-torch
-- pyfaust
-- py-cdcstream
-- dlt-iceberg
-- endra
-- pixelbyte-figma-mcp
-- koopa
-- hikari-core
-- netpulse-sdk
-- medusa-security
