@@ -1,0 +1,11 @@
+{
+  "name": "renamebyreplace",
+  "version": "1.0.0",
+  "summary": "Rename files searching substrings in filenames",
+  "author": "turulomio",
+  "license": "GPL-3",
+  "home_page": "https://github.com/turulomio/renamebyreplace/",
+  "download_filename": "renamebyreplace-1.0.0.tar.gz",
+  "download_time": "2026-01-11T06:54:38.363944",
+  "package_url": "https://pypi.org/project/renamebyreplace/"
+}

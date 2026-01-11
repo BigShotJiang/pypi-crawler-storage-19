@@ -1,0 +1,11 @@
+{
+  "name": "spotiflac",
+  "version": "0.1.0",
+  "summary": "SpotiFLAC module for Python",
+  "author": "Shu",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "spotiflac-0.1.0.tar.gz",
+  "download_time": "2026-01-11T06:54:32.661832",
+  "package_url": "https://pypi.org/project/spotiflac/"
+}

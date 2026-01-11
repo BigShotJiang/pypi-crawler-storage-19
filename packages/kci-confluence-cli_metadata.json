@@ -1,0 +1,11 @@
+{
+  "name": "kci-confluence-cli",
+  "version": "0.4.0",
+  "summary": "来栖川電算が利用しているConfluence v6.15.7を操作するためのCLIです。",
+  "author": "Kurusugawa Computer Inc.",
+  "license": "MIT",
+  "home_page": "https://github.com/kurusugawa-computer/confluence-cli",
+  "download_filename": "kci_confluence_cli-0.4.0.tar.gz",
+  "download_time": "2026-01-11T06:54:49.708285",
+  "package_url": "https://pypi.org/project/kci-confluence-cli/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "ab-auth-client-service",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "ab_auth_client_service-0.2.0.tar.gz",
-  "download_time": "2026-01-11T05:06:43.458536",
+  "download_filename": "ab_auth_client_service-0.2.1.tar.gz",
+  "download_time": "2026-01-11T06:54:42.457208",
   "package_url": "https://pypi.org/project/ab-auth-client-service/"
 }

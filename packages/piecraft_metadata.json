@@ -1,11 +1,11 @@
 {
   "name": "piecraft",
-  "version": "0.3.0",
-  "summary": "Minecraft-style pixelated pie chart generator",
+  "version": "0.4.0",
+  "summary": "Minecraft-style pie chart generator",
   "author": null,
-  "license": "MIT",
+  "license": null,
   "home_page": null,
-  "download_filename": "piecraft-0.3.0.tar.gz",
-  "download_time": "2026-01-11T06:22:09.226064",
+  "download_filename": "piecraft-0.4.0.tar.gz",
+  "download_time": "2026-01-11T06:54:43.995087",
   "package_url": "https://pypi.org/project/piecraft/"
 }
