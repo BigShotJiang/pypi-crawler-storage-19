@@ -1,0 +1,11 @@
+{
+  "name": "pyrpd",
+  "version": "1.0.6",
+  "summary": "Invoke remote functions by python.",
+  "author": null,
+  "license": null,
+  "home_page": "https://github.com/ljc545w/pyrpd",
+  "download_filename": "pyrpd-1.0.6.tar.gz",
+  "download_time": "2026-01-11T08:53:29.624788",
+  "package_url": "https://pypi.org/project/pyrpd/"
+}

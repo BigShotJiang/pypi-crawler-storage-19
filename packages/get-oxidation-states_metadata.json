@@ -1,0 +1,11 @@
+{
+  "name": "get-oxidation-states",
+  "version": "0.1.0",
+  "summary": "MCP server for querying common oxidation states and stability of chemical elements",
+  "author": "WangGroup, XMU.",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "get_oxidation_states-0.1.0.tar.gz",
+  "download_time": "2026-01-11T08:53:24.164810",
+  "package_url": "https://pypi.org/project/get-oxidation-states/"
+}

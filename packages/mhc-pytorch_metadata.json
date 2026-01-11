@@ -1,11 +1,11 @@
 {
   "name": "mhc-pytorch",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "summary": "A PyTorch implementation of Manifold-Constrained Hyper-Connections (mHC), a multi-stream residual connection mechanism for deep learning models with mathematical constraints.",
   "author": "Kenny Stryker",
   "license": "MIT",
   "home_page": "https://github.com/KennyStryker/manifold-constrained-hyper-connections.git",
-  "download_filename": "mhc_pytorch-0.2.2.tar.gz",
-  "download_time": "2026-01-10T19:50:13.052746",
+  "download_filename": "mhc_pytorch-0.2.3.tar.gz",
+  "download_time": "2026-01-11T08:53:21.790917",
   "package_url": "https://pypi.org/project/mhc-pytorch/"
 }

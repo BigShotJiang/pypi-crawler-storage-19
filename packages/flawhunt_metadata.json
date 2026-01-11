@@ -1,11 +1,11 @@
 {
   "name": "flawhunt",
-  "version": "1.0.3",
+  "version": "1.0.6",
   "summary": "Natural language to shell with explanations & confirmations",
   "author": "GAMKERS",
   "license": null,
   "home_page": "https://github.com/gamkers/GAMKERS_CLI.git",
-  "download_filename": "flawhunt-1.0.3.tar.gz",
-  "download_time": "2026-01-11T06:22:26.753670",
+  "download_filename": "flawhunt-1.0.6.tar.gz",
+  "download_time": "2026-01-11T08:53:28.083085",
   "package_url": "https://pypi.org/project/flawhunt/"
 }

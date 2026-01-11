@@ -1,11 +1,11 @@
 {
   "name": "matita",
-  "version": "1.0.1",
+  "version": "1.0.1.post2",
   "summary": "Python wrapper for the VBA Object library",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "matita-1.0.1.tar.gz",
-  "download_time": "2026-01-10T16:17:01.868994",
+  "download_filename": "matita-1.0.1.post2.tar.gz",
+  "download_time": "2026-01-11T08:53:26.493303",
   "package_url": "https://pypi.org/project/matita/"
 }
