@@ -1,11 +1,14 @@
 {
-  "download_time": "2026-01-11T05:41:55.839565",
-  "total_packages_downloaded": 85,
-  "total_size_mb": 23.52,
+  "download_time": "2026-01-11T05:56:29.788364",
+  "total_packages_downloaded": 83,
+  "total_size_mb": 3.95,
   "packages": [
+    "workforce",
+    "Jarvis-Brain",
+    "ac-websocket-server",
+    "abstract-utilities",
     "luminescent",
     "castella",
-    "ac-websocket-server",
     "dflow-sdk",
     "llcat",
     "abstract-react",
@@ -26,7 +29,6 @@
     "atlas-meshtastic-bridge",
     "atlas-asset-client",
     "ab-auth-flow",
-    "abstract-utilities",
     "promptdefend-mcp",
     "ast-tool-py",
     "scimead",
@@ -83,10 +85,6 @@
     "dominus-sdk-python-dev",
     "ab-token-validator-service",
     "ab-token-issuer-service",
-    "ab-auth-client-service",
-    "ab-user-service",
-    "omni-cortex",
-    "convoviz",
-    "ab-token-issuer-store-service"
+    "ab-auth-client-service"
   ]
 }
