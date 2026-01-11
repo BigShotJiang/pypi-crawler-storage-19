@@ -1,0 +1,11 @@
+{
+  "name": "ets-vibes",
+  "version": "1.0.1",
+  "summary": "Save Editor for Euro Truck Simulator 2 and American Truck Simulator",
+  "author": "Carlos",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ets_vibes-1.0.1.tar.gz",
+  "download_time": "2026-01-11T23:46:27.540257",
+  "package_url": "https://pypi.org/project/ets-vibes/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "progressor-lib",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "summary": "Enhanced progress bars with themes, colors, and custom templates",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "progressor_lib-1.0.0.tar.gz",
-  "download_time": "2026-01-11T22:37:13.961718",
+  "download_filename": "progressor_lib-1.0.1.tar.gz",
+  "download_time": "2026-01-11T23:46:46.420980",
   "package_url": "https://pypi.org/project/progressor-lib/"
 }

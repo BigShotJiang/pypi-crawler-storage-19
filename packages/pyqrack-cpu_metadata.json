@@ -1,11 +1,11 @@
 {
   "name": "pyqrack-cpu",
-  "version": "1.80.5",
+  "version": "1.80.6",
   "summary": "pyqrack - Pure Python vm6502q/qrack Wrapper",
   "author": "Daniel Strano",
   "license": "MIT",
   "home_page": "https://github.com/vm6502q/pyqrack",
-  "download_filename": "pyqrack_cpu-1.80.5.tar.gz",
-  "download_time": "2026-01-11T21:25:11.578528",
+  "download_filename": "pyqrack_cpu-1.80.6.tar.gz",
+  "download_time": "2026-01-11T23:46:43.812565",
   "package_url": "https://pypi.org/project/pyqrack-cpu/"
 }

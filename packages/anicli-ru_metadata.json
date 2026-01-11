@@ -1,11 +1,11 @@
 {
   "name": "anicli-ru",
-  "version": "6.0.0",
+  "version": "6.0.2",
   "summary": "cli tool for watching anime",
   "author": "vypivshiy",
   "license": null,
   "home_page": null,
-  "download_filename": "anicli_ru-6.0.0.tar.gz",
-  "download_time": "2026-01-10T18:50:45.227865",
+  "download_filename": "anicli_ru-6.0.2.tar.gz",
+  "download_time": "2026-01-11T23:46:18.053315",
   "package_url": "https://pypi.org/project/anicli-ru/"
 }

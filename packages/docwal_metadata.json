@@ -1,0 +1,11 @@
+{
+  "name": "docwal",
+  "version": "1.0.0",
+  "summary": "Official Python SDK for DocWal API - Issue and manage verifiable digital credentials",
+  "author": "DocWal",
+  "license": null,
+  "home_page": "https://github.com/docwal/docwal-python",
+  "download_filename": "docwal-1.0.0.tar.gz",
+  "download_time": "2026-01-11T23:46:32.847348",
+  "package_url": "https://pypi.org/project/docwal/"
+}

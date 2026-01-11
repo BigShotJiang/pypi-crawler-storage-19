@@ -1,11 +1,11 @@
 {
   "name": "meta-threads-sdk",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "summary": "Unofficial Python client for Meta's Threads API. Publish posts, reply to conversations, and track insights with Threads automation.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "meta_threads_sdk-0.2.0.tar.gz",
-  "download_time": "2026-01-11T10:19:54.641614",
+  "download_filename": "meta_threads_sdk-0.2.1.tar.gz",
+  "download_time": "2026-01-11T23:46:35.409869",
   "package_url": "https://pypi.org/project/meta-threads-sdk/"
 }

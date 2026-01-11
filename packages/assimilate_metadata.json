@@ -1,0 +1,11 @@
+{
+  "name": "assimilate",
+  "version": "0.1",
+  "summary": "Front end for BorgBackup version 2.",
+  "author": "Ken Kundert",
+  "license": null,
+  "home_page": null,
+  "download_filename": "assimilate-0.1.tar.gz",
+  "download_time": "2026-01-11T23:46:37.550825",
+  "package_url": "https://pypi.org/project/assimilate/"
+}
