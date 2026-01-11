@@ -1,11 +1,11 @@
 {
   "name": "troncloud",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "summary": "troncloud library for Python",
   "author": "alimserg",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "troncloud-0.0.1.tar.gz",
-  "download_time": "2026-01-11T14:35:53.359128",
+  "download_filename": "troncloud-0.0.2.tar.gz",
+  "download_time": "2026-01-11T14:52:28.656025",
   "package_url": "https://pypi.org/project/troncloud/"
 }

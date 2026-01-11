@@ -1,11 +1,11 @@
 {
   "name": "llm-council-mcp",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "LLM-based council/consensus tool for multi-persona AI deliberation",
   "author": "mahei",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "llm_council_mcp-0.1.0.tar.gz",
-  "download_time": "2026-01-11T11:32:02.346594",
+  "download_filename": "llm_council_mcp-0.1.1.tar.gz",
+  "download_time": "2026-01-11T14:52:20.978663",
   "package_url": "https://pypi.org/project/llm-council-mcp/"
 }

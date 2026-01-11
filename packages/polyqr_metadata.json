@@ -1,0 +1,11 @@
+{
+  "name": "polyqr",
+  "version": "1.1.3",
+  "summary": "QR Codes as Polygons (TikZ/SVG)",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "polyqr-1.1.3.tar.gz",
+  "download_time": "2026-01-11T14:52:19.348403",
+  "package_url": "https://pypi.org/project/polyqr/"
+}
