@@ -1,11 +1,11 @@
 {
   "name": "PDFSentinel",
-  "version": "1.2.0",
+  "version": "2.0.0",
   "summary": "PDF Sentinel is a lightweight safety inspection library for PDF documents. It detects oversized, vector-heavy, or otherwise resource-intensive pages (like blueprints) that could slow down or crash OCR and pipelines.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pdfsentinel-1.2.0.tar.gz",
-  "download_time": "2026-01-07T14:18:06.246951",
+  "download_filename": "pdfsentinel-2.0.0.tar.gz",
+  "download_time": "2026-01-11T19:50:31.498718",
   "package_url": "https://pypi.org/project/PDFSentinel/"
 }

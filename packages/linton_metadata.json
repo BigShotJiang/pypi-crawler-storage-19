@@ -1,0 +1,11 @@
+{
+  "name": "linton",
+  "version": "1.8.0",
+  "summary": "Simple standalone static web site builder using Markdown",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "linton-1.8.0.tar.gz",
+  "download_time": "2026-01-11T19:50:27.415949",
+  "package_url": "https://pypi.org/project/linton/"
+}

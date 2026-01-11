@@ -1,0 +1,11 @@
+{
+  "name": "vallox-websocket-api",
+  "version": "6.0.0",
+  "summary": "Vallox WebSocket API",
+  "author": "Jevgeni Kiski",
+  "license": "LGPL 3",
+  "home_page": "https://github.com/yozik04/vallox_websocket_api",
+  "download_filename": "vallox_websocket_api-6.0.0.tar.gz",
+  "download_time": "2026-01-11T19:50:18.093002",
+  "package_url": "https://pypi.org/project/vallox-websocket-api/"
+}

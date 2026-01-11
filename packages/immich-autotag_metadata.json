@@ -1,11 +1,11 @@
 {
   "name": "immich-autotag",
-  "version": "0.60.0",
+  "version": "0.70.1",
   "summary": "Immich autotagging and album management system",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "immich_autotag-0.60.0.tar.gz",
-  "download_time": "2026-01-11T13:08:27.928885",
+  "download_filename": "immich_autotag-0.70.1.tar.gz",
+  "download_time": "2026-01-11T19:50:16.263935",
   "package_url": "https://pypi.org/project/immich-autotag/"
 }
