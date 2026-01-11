@@ -1,11 +1,11 @@
 {
   "name": "retracesoftware-proxy",
-  "version": "0.2.7",
+  "version": "0.2.11",
   "summary": null,
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "retracesoftware_proxy-0.2.7-py3-none-any.whl",
-  "download_time": "2026-01-09T22:40:31.760874",
+  "download_filename": "retracesoftware_proxy-0.2.11-py3-none-any.whl",
+  "download_time": "2026-01-11T21:24:58.125426",
   "package_url": "https://pypi.org/project/retracesoftware-proxy/"
 }

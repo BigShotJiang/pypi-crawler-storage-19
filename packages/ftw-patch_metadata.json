@@ -1,0 +1,11 @@
+{
+  "name": "ftw-patch",
+  "version": "0.3.0",
+  "summary": "Ein Unicode resistenter Ersatz für patch.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ftw_patch-0.3.0.tar.gz",
+  "download_time": "2026-01-11T21:24:43.517098",
+  "package_url": "https://pypi.org/project/ftw-patch/"
+}

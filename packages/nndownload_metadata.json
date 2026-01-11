@@ -1,0 +1,11 @@
+{
+  "name": "nndownload",
+  "version": "1.19.2",
+  "summary": "nndownload allows you to process videos and other links from Niconico.",
+  "author": "AlexAplin",
+  "license": null,
+  "home_page": "https://github.com/AlexAplin/nndownload",
+  "download_filename": "nndownload-1.19.2.tar.gz",
+  "download_time": "2026-01-11T21:24:56.035303",
+  "package_url": "https://pypi.org/project/nndownload/"
+}

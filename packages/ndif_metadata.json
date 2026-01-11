@@ -1,0 +1,11 @@
+{
+  "name": "ndif",
+  "version": "0.0.1",
+  "summary": "The NDIF server, which performs deep inference and serves nnsight requests remotely",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ndif-0.0.1.tar.gz",
+  "download_time": "2026-01-11T21:24:41.977709",
+  "package_url": "https://pypi.org/project/ndif/"
+}

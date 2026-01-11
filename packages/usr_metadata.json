@@ -1,0 +1,11 @@
+{
+  "name": "usr",
+  "version": "0.0.0b1",
+  "summary": "Exclusive development toolkit for projects and services by Ankit Chaubey (aka usr).",
+  "author": "Ankit Chaubey",
+  "license": null,
+  "home_page": "https://github.com/ankit-chaubey/usr",
+  "download_filename": "usr-0.0.0b1.tar.gz",
+  "download_time": "2026-01-11T21:24:36.630241",
+  "package_url": "https://pypi.org/project/usr/"
+}

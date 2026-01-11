@@ -1,0 +1,11 @@
+{
+  "name": "ai-intent-tracker",
+  "version": "1.0.0",
+  "summary": "AI-powered validation tool that ensures code changes match Jira story requirements",
+  "author": "Santhosh Kumar Bethi",
+  "license": null,
+  "home_page": "https://github.com/santhoshbethi/intent_aware_git",
+  "download_filename": "ai_intent_tracker-1.0.0.tar.gz",
+  "download_time": "2026-01-11T21:25:01.193296",
+  "package_url": "https://pypi.org/project/ai-intent-tracker/"
+}

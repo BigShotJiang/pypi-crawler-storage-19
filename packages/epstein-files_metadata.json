@@ -1,11 +1,11 @@
 {
   "name": "epstein-files",
-  "version": "1.1.5",
+  "version": "1.2.0",
   "summary": "Tools for working with the Jeffrey Epstein documents released in November 2025.",
   "author": "Michel de Cryptadamus",
   "license": "GPL-3.0-or-later",
   "home_page": "https://michelcrypt4d4mus.github.io/epstein_text_messages/",
-  "download_filename": "epstein_files-1.1.5.tar.gz",
-  "download_time": "2026-01-10T05:24:10.661254",
+  "download_filename": "epstein_files-1.2.0.tar.gz",
+  "download_time": "2026-01-11T21:24:29.381594",
   "package_url": "https://pypi.org/project/epstein-files/"
 }
