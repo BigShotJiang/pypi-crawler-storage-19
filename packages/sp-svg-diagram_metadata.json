@@ -1,0 +1,11 @@
+{
+  "name": "sp-svg-diagram",
+  "version": "1.4.0",
+  "summary": "A library for rendering diagrams to SVG.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "sp_svg_diagram-1.4.0.tar.gz",
+  "download_time": "2026-01-11T04:33:47.976720",
+  "package_url": "https://pypi.org/project/sp-svg-diagram/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "odoo-addon-web-font-size-report-layout",
-  "version": "16.0.1.1.0.3",
+  "version": "16.0.1.1.0.4",
   "summary": "Adds a font size selector (pt) to the Document Layout wizard",
   "author": "Binhex,Odoo Community Association (OCA)",
   "license": "LGPL-3",
   "home_page": "https://github.com/OCA/web",
-  "download_filename": "odoo_addon_web_font_size_report_layout-16.0.1.1.0.3-py3-none-any.whl",
-  "download_time": "2026-01-09T04:52:50.306080",
+  "download_filename": "odoo_addon_web_font_size_report_layout-16.0.1.1.0.4-py3-none-any.whl",
+  "download_time": "2026-01-11T04:33:15.262604",
   "package_url": "https://pypi.org/project/odoo-addon-web-font-size-report-layout/"
 }

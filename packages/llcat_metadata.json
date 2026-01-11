@@ -1,11 +1,11 @@
 {
   "name": "llcat",
-  "version": "0.7",
+  "version": "0.8.2",
   "summary": "/usr/bin/cat for LLMs",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "llcat-0.7.tar.gz",
-  "download_time": "2026-01-10T11:39:44.985938",
+  "download_filename": "llcat-0.8.2.tar.gz",
+  "download_time": "2026-01-11T04:33:32.239531",
   "package_url": "https://pypi.org/project/llcat/"
 }

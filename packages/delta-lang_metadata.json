@@ -1,11 +1,11 @@
 {
   "name": "delta-lang",
-  "version": "0.1.6.2.2",
+  "version": "0.1.6.2.4",
   "summary": "A differentiable, constraint-oriented programming language that compiles to PyTorch",
   "author": "Delta Team",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "delta_lang-0.1.6.2.2.tar.gz",
-  "download_time": "2026-01-11T03:20:52.379649",
+  "download_filename": "delta_lang-0.1.6.2.4.tar.gz",
+  "download_time": "2026-01-11T04:33:22.730979",
   "package_url": "https://pypi.org/project/delta-lang/"
 }

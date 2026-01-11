@@ -1,11 +1,11 @@
 {
   "name": "bm3dornl-gui",
-  "version": "0.4.2",
+  "version": "0.6.0",
   "summary": "GUI application for BM3D ring artifact removal in neutron imaging",
   "author": null,
-  "license": "MIT",
+  "license": null,
   "home_page": null,
-  "download_filename": "bm3dornl_gui-0.4.2-py3-none-macosx_11_0_arm64.whl",
-  "download_time": "2026-01-09T22:40:13.253113",
+  "download_filename": "bm3dornl_gui-0.6.0-py3-none-macosx_11_0_arm64.whl",
+  "download_time": "2026-01-11T04:33:53.229731",
   "package_url": "https://pypi.org/project/bm3dornl-gui/"
 }

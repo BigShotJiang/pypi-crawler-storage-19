@@ -1,11 +1,11 @@
 {
   "name": "odoo-addon-purchase-request",
-  "version": "18.0.2.5.0.6",
+  "version": "18.0.2.5.0.7",
   "summary": "Use this module to have notification of requirements of materials and/or external services and keep track of such requirements.",
   "author": "ForgeFlow, Odoo Community Association (OCA)",
   "license": "LGPL-3",
   "home_page": "https://github.com/OCA/purchase-workflow",
-  "download_filename": "odoo_addon_purchase_request-18.0.2.5.0.6-py3-none-any.whl",
-  "download_time": "2026-01-08T04:09:32.953359",
+  "download_filename": "odoo_addon_purchase_request-18.0.2.5.0.7-py3-none-any.whl",
+  "download_time": "2026-01-11T04:33:51.114220",
   "package_url": "https://pypi.org/project/odoo-addon-purchase-request/"
 }

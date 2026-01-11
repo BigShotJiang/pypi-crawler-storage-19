@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-purchase-stock-packaging",
+  "version": "18.0.1.0.0.5",
+  "summary": "Allows to transmit the product packaging from the procurement values to the generated purchase order line",
+  "author": "ACSONE SA/NV,ForgeFlow,Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/purchase-workflow",
+  "download_filename": "odoo_addon_purchase_stock_packaging-18.0.1.0.0.5-py3-none-any.whl",
+  "download_time": "2026-01-11T04:33:53.750527",
+  "package_url": "https://pypi.org/project/odoo-addon-purchase-stock-packaging/"
+}
