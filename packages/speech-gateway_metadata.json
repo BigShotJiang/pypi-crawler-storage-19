@@ -1,11 +1,11 @@
 {
   "name": "speech-gateway",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "summary": "A reverse proxy server that enhances speech synthesis with essential, extensible features. 🦉💬",
   "author": "uezo",
   "license": "Apache v2",
   "home_page": "https://github.com/uezo/speech-gateway",
-  "download_filename": "speech_gateway-0.2.1-py3-none-any.whl",
-  "download_time": "2026-01-11T08:23:10.130353",
+  "download_filename": "speech_gateway-0.2.2-py3-none-any.whl",
+  "download_time": "2026-01-11T17:13:58.709317",
   "package_url": "https://pypi.org/project/speech-gateway/"
 }

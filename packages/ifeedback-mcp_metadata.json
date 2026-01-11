@@ -1,11 +1,11 @@
 {
   "name": "ifeedback-mcp",
-  "version": "2.6.1",
+  "version": "2.6.4",
   "summary": "Enhanced MCP server for interactive user feedback and command execution in AI-assisted development, featuring dual interface support (Web UI and Desktop Application) with intelligent environment detection and cross-platform compatibility.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "ifeedback_mcp-2.6.1-py3-none-any.whl",
-  "download_time": "2026-01-11T16:18:08.445227",
+  "download_filename": "ifeedback_mcp-2.6.4-py3-none-any.whl",
+  "download_time": "2026-01-11T17:13:31.525486",
   "package_url": "https://pypi.org/project/ifeedback-mcp/"
 }

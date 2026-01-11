@@ -1,11 +1,11 @@
 {
   "name": "zotero-keeper",
-  "version": "1.10.2",
+  "version": "1.10.4",
   "summary": "MCP Server for managing local Zotero libraries - enables AI assistants to read and write bibliographic references",
   "author": "Zotero Keeper Contributors",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "zotero_keeper-1.10.2.tar.gz",
-  "download_time": "2026-01-11T13:08:18.173493",
+  "download_filename": "zotero_keeper-1.10.4.tar.gz",
+  "download_time": "2026-01-11T17:13:40.979750",
   "package_url": "https://pypi.org/project/zotero-keeper/"
 }

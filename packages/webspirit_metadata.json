@@ -1,0 +1,11 @@
+{
+  "name": "webspirit",
+  "version": "0.0.4",
+  "summary": "A Python package for downloading resources from the web and organizing your bookmarks",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "webspirit-0.0.4.tar.gz",
+  "download_time": "2026-01-11T17:13:13.853808",
+  "package_url": "https://pypi.org/project/webspirit/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "snowdrop-special-adjudicators",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "summary": "Geordie's special adjudicators for the Tangled game",
   "author": "Geordie Rose",
   "license": "MIT",
   "home_page": "https://github.com/snowdropquantum/snowdrop-special-adjudicators",
-  "download_filename": "snowdrop_special_adjudicators-0.0.6.tar.gz",
-  "download_time": "2026-01-11T10:40:17.416043",
+  "download_filename": "snowdrop_special_adjudicators-0.0.7.tar.gz",
+  "download_time": "2026-01-11T17:13:16.131566",
   "package_url": "https://pypi.org/project/snowdrop-special-adjudicators/"
 }

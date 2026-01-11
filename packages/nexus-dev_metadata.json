@@ -1,11 +1,11 @@
 {
   "name": "nexus-dev",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "summary": "MCP server for persistent AI coding assistant memory with local RAG",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "nexus_dev-1.0.0.tar.gz",
-  "download_time": "2026-01-11T11:13:46.543740",
+  "download_filename": "nexus_dev-2.0.0.tar.gz",
+  "download_time": "2026-01-11T17:13:33.772993",
   "package_url": "https://pypi.org/project/nexus-dev/"
 }
