@@ -1,11 +1,11 @@
 {
   "name": "empire-core",
-  "version": "0.16.0",
+  "version": "0.17.0",
   "summary": "Fully typed Python API for Goodgame Empire",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "empire_core-0.16.0.tar.gz",
-  "download_time": "2026-01-11T19:50:19.247526",
+  "download_filename": "empire_core-0.17.0.tar.gz",
+  "download_time": "2026-01-11T20:16:48.989773",
   "package_url": "https://pypi.org/project/empire-core/"
 }

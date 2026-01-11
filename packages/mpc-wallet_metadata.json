@@ -1,0 +1,11 @@
+{
+  "name": "mpc-wallet",
+  "version": "0.1.0",
+  "summary": "Python SDK for MPC-secured AI agent wallets",
+  "author": "Cătălin Dinu",
+  "license": null,
+  "home_page": null,
+  "download_filename": "mpc_wallet-0.1.0.tar.gz",
+  "download_time": "2026-01-11T20:16:40.568412",
+  "package_url": "https://pypi.org/project/mpc-wallet/"
+}

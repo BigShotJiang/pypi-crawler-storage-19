@@ -1,11 +1,11 @@
 {
   "name": "snowdrop-tangled-alphazero",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "summary": "Train AlphaZero agents for the Tangled game",
   "author": "Geordie Rose",
   "license": "MIT",
   "home_page": "https://github.com/snowdropquantum/snowdrop-tangled-alphazero",
-  "download_filename": "snowdrop_tangled_alphazero-0.0.7.tar.gz",
-  "download_time": "2026-01-11T17:33:28.680598",
+  "download_filename": "snowdrop_tangled_alphazero-0.0.8.tar.gz",
+  "download_time": "2026-01-11T20:16:42.670924",
   "package_url": "https://pypi.org/project/snowdrop-tangled-alphazero/"
 }

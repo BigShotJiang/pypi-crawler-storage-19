@@ -1,11 +1,11 @@
 {
   "name": "empowernow-common",
-  "version": "2.9.0",
+  "version": "3.0.0",
   "summary": "Common utilities and FIPS-compliant cryptography for EmpowerNow packages",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "empowernow_common-2.9.0.tar.gz",
-  "download_time": "2026-01-11T16:18:14.667822",
+  "download_filename": "empowernow_common-3.0.0.tar.gz",
+  "download_time": "2026-01-11T20:17:07.053975",
   "package_url": "https://pypi.org/project/empowernow-common/"
 }

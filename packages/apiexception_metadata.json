@@ -1,0 +1,11 @@
+{
+  "name": "apiexception",
+  "version": "0.2.2",
+  "summary": "Consistent JSON response formatting and exception & error handling for FastAPI applications",
+  "author": "Ahmet Kutay URAL",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "apiexception-0.2.2.tar.gz",
+  "download_time": "2026-01-11T20:16:45.338537",
+  "package_url": "https://pypi.org/project/apiexception/"
+}
