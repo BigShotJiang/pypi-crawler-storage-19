@@ -1,0 +1,11 @@
+{
+  "name": "az-secure-env",
+  "version": "0.1.0",
+  "summary": "Secure App Service & Function App settings scanner",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "az_secure_env-0.1.0.tar.gz",
+  "download_time": "2026-01-11T10:53:56.407381",
+  "package_url": "https://pypi.org/project/az-secure-env/"
+}

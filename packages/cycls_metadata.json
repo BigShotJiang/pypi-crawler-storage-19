@@ -1,11 +1,11 @@
 {
   "name": "cycls",
-  "version": "0.0.2.68",
+  "version": "0.0.2.69",
   "summary": "Distribute Intelligence",
   "author": "Mohammed J. AlRujayi",
   "license": null,
   "home_page": null,
-  "download_filename": "cycls-0.0.2.68.tar.gz",
-  "download_time": "2026-01-10T22:37:44.031008",
+  "download_filename": "cycls-0.0.2.69.tar.gz",
+  "download_time": "2026-01-11T10:54:15.303573",
   "package_url": "https://pypi.org/project/cycls/"
 }
