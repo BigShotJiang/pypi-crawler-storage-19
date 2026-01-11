@@ -1,0 +1,11 @@
+{
+  "name": "carconnectivity-plugin-abrp",
+  "version": "0.8.1",
+  "summary": "CarConnectivity plugin for publishing data to ABRP (https://abetterrouteplanner.com)",
+  "author": "Till Steinbach",
+  "license": null,
+  "home_page": null,
+  "download_filename": "carconnectivity_plugin_abrp-0.8.1.tar.gz",
+  "download_time": "2026-01-11T21:43:40.443290",
+  "package_url": "https://pypi.org/project/carconnectivity-plugin-abrp/"
+}

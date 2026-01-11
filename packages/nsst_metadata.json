@@ -1,0 +1,11 @@
+{
+  "name": "nsst",
+  "version": "0.4.0",
+  "summary": "Python library for a Not So Simple Table dynamodb table design.",
+  "author": null,
+  "license": "MIT License",
+  "home_page": null,
+  "download_filename": "nsst-0.4.0.tar.gz",
+  "download_time": "2026-01-11T21:43:33.717039",
+  "package_url": "https://pypi.org/project/nsst/"
+}

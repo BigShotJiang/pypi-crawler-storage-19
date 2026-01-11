@@ -1,11 +1,11 @@
 {
   "name": "Rhapso",
-  "version": "0.1.94",
+  "version": "0.1.95",
   "summary": "A python package for aligning and stitching light sheet fluorescence microscopy images together",
   "author": "ND",
   "license": null,
-  "home_page": "https://github.com/AllenNeuralDynamics/Rhapso",
-  "download_filename": "rhapso-0.1.94.tar.gz",
-  "download_time": "2026-01-11T21:32:26.780608",
+  "home_page": null,
+  "download_filename": "rhapso-0.1.95.tar.gz",
+  "download_time": "2026-01-11T21:43:43.089241",
   "package_url": "https://pypi.org/project/Rhapso/"
 }
