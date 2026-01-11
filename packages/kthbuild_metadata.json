@@ -1,0 +1,11 @@
+{
+  "name": "kthbuild",
+  "version": "4.1.1",
+  "summary": "Knuth node build tools",
+  "author": "Fernando Pelliccioni",
+  "license": "MIT",
+  "home_page": "https://github.com/k-nuth/kthbuild",
+  "download_filename": "kthbuild-4.1.1.tar.gz",
+  "download_time": "2026-01-11T23:52:09.439192",
+  "package_url": "https://pypi.org/project/kthbuild/"
+}

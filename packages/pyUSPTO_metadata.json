@@ -1,11 +1,11 @@
 {
   "name": "pyUSPTO",
-  "version": "0.3.3",
+  "version": "0.3.4",
   "summary": "A Modern Python client for accessing United Stated Patent and Trademark Office (USPTO) Open Data Portal (ODP) APIs.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pyuspto-0.3.3.tar.gz",
-  "download_time": "2026-01-08T17:21:51.567945",
+  "download_filename": "pyuspto-0.3.4.tar.gz",
+  "download_time": "2026-01-11T23:52:16.027106",
   "package_url": "https://pypi.org/project/pyUSPTO/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "hyundai-kia-connect-api",
-  "version": "4.0.2",
+  "version": "4.1.0",
   "summary": "Python Boilerplate contains all the boilerplate you need to create a Python package.",
   "author": "Fuat Akgun",
   "license": "MIT license",
   "home_page": "https://github.com/Hyundai-Kia-Connect/hyundai_kia_connect_api",
-  "download_filename": "hyundai_kia_connect_api-4.0.2.tar.gz",
-  "download_time": "2026-01-11T21:32:28.916200",
+  "download_filename": "hyundai_kia_connect_api-4.1.0.tar.gz",
+  "download_time": "2026-01-11T23:52:11.209840",
   "package_url": "https://pypi.org/project/hyundai-kia-connect-api/"
 }

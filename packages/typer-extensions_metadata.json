@@ -1,0 +1,11 @@
+{
+  "name": "typer-extensions",
+  "version": "0.2.1",
+  "summary": "Command aliases for Typer CLI applications",
+  "author": "Rob Webb",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "typer_extensions-0.2.1.tar.gz",
+  "download_time": "2026-01-11T23:51:59.066704",
+  "package_url": "https://pypi.org/project/typer-extensions/"
+}

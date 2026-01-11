@@ -1,0 +1,11 @@
+{
+  "name": "dj-stripe",
+  "version": "2.10.3",
+  "summary": "Django + Stripe made easy",
+  "author": "Alexander Kavanaugh",
+  "license": "MIT",
+  "home_page": "https://dj-stripe.dev",
+  "download_filename": "dj_stripe-2.10.3.tar.gz",
+  "download_time": "2026-01-11T23:52:15.241507",
+  "package_url": "https://pypi.org/project/dj-stripe/"
+}

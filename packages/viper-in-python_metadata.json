@@ -1,0 +1,11 @@
+{
+  "name": "viper-in-python",
+  "version": "2.0.0",
+  "summary": "A package for VIPER-based Protein Activity analysis of transcriptomic data in Python",
+  "author": "Alexander L.E. Wang & Luca Zanella & Zizhao Lin",
+  "license": "Columbia University Non-Commercial Academic Evaluation License",
+  "home_page": "https://github.com/alevax/pyviper",
+  "download_filename": "viper_in_python-2.0.0.tar.gz",
+  "download_time": "2026-01-11T23:52:04.104839",
+  "package_url": "https://pypi.org/project/viper-in-python/"
+}

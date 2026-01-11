@@ -1,0 +1,11 @@
+{
+  "name": "agentic-threat-hunting-framework",
+  "version": "0.2.4",
+  "summary": "Agentic Threat Hunting Framework - Memory and AI for threat hunters",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "agentic_threat_hunting_framework-0.2.4-py3-none-any.whl",
+  "download_time": "2026-01-11T23:52:20.064688",
+  "package_url": "https://pypi.org/project/agentic-threat-hunting-framework/"
+}
