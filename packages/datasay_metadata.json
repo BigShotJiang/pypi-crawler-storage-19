@@ -1,0 +1,11 @@
+{
+  "name": "datasay",
+  "version": "0.2.1",
+  "summary": "Human-readable explanations for numeric data",
+  "author": "Ajmal S",
+  "license": null,
+  "home_page": null,
+  "download_filename": "datasay-0.2.1.tar.gz",
+  "download_time": "2026-01-11T09:16:05.723891",
+  "package_url": "https://pypi.org/project/datasay/"
+}

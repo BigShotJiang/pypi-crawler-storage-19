@@ -1,11 +1,11 @@
 {
   "name": "pricehub",
-  "version": "0.0.5",
+  "version": "0.0.7",
   "summary": "Pricehub: Unified Python Package for Collecting OHLC Prices from Binance, Bybit, and Coinbase APIs into a DataFrame",
   "author": "Evgenii Lazarev",
   "license": null,
   "home_page": "https://github.com/eslazarev/pricehub",
-  "download_filename": "pricehub-0.0.5.tar.gz",
-  "download_time": "2026-01-09T19:16:30.598979",
+  "download_filename": "pricehub-0.0.7.tar.gz",
+  "download_time": "2026-01-11T09:16:00.449504",
   "package_url": "https://pypi.org/project/pricehub/"
 }

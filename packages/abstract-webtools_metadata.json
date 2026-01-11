@@ -1,11 +1,11 @@
 {
   "name": "abstract-webtools",
-  "version": "0.1.6.380",
+  "version": "0.1.6.381",
   "summary": "Utilities for fetching/parsing web content with requests/urllib3/BS4 and helpers.",
   "author": "putkoff",
   "license": null,
   "home_page": "https://github.com/AbstractEndeavors/abstract_webtools",
-  "download_filename": "abstract_webtools-0.1.6.380.tar.gz",
-  "download_time": "2026-01-10T12:26:09.661296",
+  "download_filename": "abstract_webtools-0.1.6.381.tar.gz",
+  "download_time": "2026-01-11T09:16:10.934712",
   "package_url": "https://pypi.org/project/abstract-webtools/"
 }

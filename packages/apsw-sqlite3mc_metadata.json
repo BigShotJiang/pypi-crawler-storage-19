@@ -1,0 +1,11 @@
+{
+  "name": "apsw-sqlite3mc",
+  "version": "3.51.2.0",
+  "summary": "SQLite3 Multiple Ciphers combined with Another Python SQLite Wrapper",
+  "author": "Ulrich Telle",
+  "license": "OSI Approved",
+  "home_page": "https://github.com/utelle/apsw-sqlite3mc",
+  "download_filename": "apsw_sqlite3mc-3.51.2.0.tar.gz",
+  "download_time": "2026-01-11T09:16:06.270772",
+  "package_url": "https://pypi.org/project/apsw-sqlite3mc/"
+}

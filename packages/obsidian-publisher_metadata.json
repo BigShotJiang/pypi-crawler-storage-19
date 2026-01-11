@@ -1,0 +1,11 @@
+{
+  "name": "obsidian-publisher",
+  "version": "0.1.0",
+  "summary": "Publish Obsidian notes to static site generators with configurable transforms",
+  "author": "Kishore Kumar",
+  "license": null,
+  "home_page": null,
+  "download_filename": "obsidian_publisher-0.1.0.tar.gz",
+  "download_time": "2026-01-11T09:15:51.483590",
+  "package_url": "https://pypi.org/project/obsidian-publisher/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "isoautomate",
+  "version": "0.1.4",
+  "summary": "Official Python SDK for the isoAutomate Sovereign Browser Infrastructure, providing connectivity to the isoFleet engine.",
+  "author": "isoAutomate",
+  "license": "MIT",
+  "home_page": "https://github.com/isoautomate/isoautomate-python",
+  "download_filename": "isoautomate-0.1.4.tar.gz",
+  "download_time": "2026-01-11T09:16:07.308116",
+  "package_url": "https://pypi.org/project/isoautomate/"
+}

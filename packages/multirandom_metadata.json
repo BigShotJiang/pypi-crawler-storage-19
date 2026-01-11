@@ -1,11 +1,11 @@
 {
   "name": "multirandom",
-  "version": "0.0.2",
+  "version": "0.0.4",
   "summary": "🎲 The truth external PyPI random package, have true_rand, virt_rand, hash_rand, ...",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "multirandom-0.0.2.tar.gz",
-  "download_time": "2026-01-11T08:53:32.758322",
+  "download_filename": "multirandom-0.0.4.tar.gz",
+  "download_time": "2026-01-11T09:15:50.962462",
   "package_url": "https://pypi.org/project/multirandom/"
 }

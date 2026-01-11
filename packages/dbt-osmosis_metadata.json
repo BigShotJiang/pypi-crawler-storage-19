@@ -1,0 +1,11 @@
+{
+  "name": "dbt-osmosis",
+  "version": "1.2.2",
+  "summary": "A dbt utility for managing YAML to make developing with dbt more delightful.",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "dbt_osmosis-1.2.2.tar.gz",
+  "download_time": "2026-01-11T09:16:02.100039",
+  "package_url": "https://pypi.org/project/dbt-osmosis/"
+}
