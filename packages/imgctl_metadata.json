@@ -1,0 +1,11 @@
+{
+  "name": "imgctl",
+  "version": "3.0.19",
+  "summary": "Консольная утилита для управления контейнерной платформой Imagenarium",
+  "author": "@koden8",
+  "license": "MIT License (non-commercial) / Commercial License",
+  "home_page": null,
+  "download_filename": "imgctl-3.0.19.tar.gz",
+  "download_time": "2026-01-11T19:12:33.258177",
+  "package_url": "https://pypi.org/project/imgctl/"
+}

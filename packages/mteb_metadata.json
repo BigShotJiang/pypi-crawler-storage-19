@@ -1,11 +1,11 @@
 {
   "name": "mteb",
-  "version": "2.6.7",
+  "version": "2.6.8",
   "summary": "Massive Text Embedding Benchmark",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "mteb-2.6.7.tar.gz",
-  "download_time": "2026-01-08T19:49:58.354296",
+  "download_filename": "mteb-2.6.8.tar.gz",
+  "download_time": "2026-01-11T19:12:36.013582",
   "package_url": "https://pypi.org/project/mteb/"
 }

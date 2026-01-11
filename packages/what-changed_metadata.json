@@ -1,0 +1,11 @@
+{
+  "name": "what-changed",
+  "version": "0.2.1",
+  "summary": "A universal CLI tool that compares anything and explains what changed and what might break",
+  "author": "what-changed contributors",
+  "license": null,
+  "home_page": null,
+  "download_filename": "what_changed-0.2.1.tar.gz",
+  "download_time": "2026-01-11T19:12:42.689991",
+  "package_url": "https://pypi.org/project/what-changed/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "databricks-agent-toolkit",
+  "version": "0.3.0",
+  "summary": "Unified toolkit for building production agents on Databricks - zero-frontend with official UI templates (Streamlit, Gradio, Dash)",
+  "author": "Databricks Agent Toolkit Team",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "databricks_agent_toolkit-0.3.0.tar.gz",
+  "download_time": "2026-01-11T19:12:51.995193",
+  "package_url": "https://pypi.org/project/databricks-agent-toolkit/"
+}

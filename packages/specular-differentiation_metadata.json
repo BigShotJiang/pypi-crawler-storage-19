@@ -1,11 +1,11 @@
 {
   "name": "specular-differentiation",
-  "version": "0.12.1",
+  "version": "0.13.0",
   "summary": "Specular differentiation in normed vector spaces and its applications",
   "author": null,
   "license": "MIT License",
   "home_page": null,
-  "download_filename": "specular_differentiation-0.12.1.tar.gz",
-  "download_time": "2026-01-11T16:47:42.602683",
+  "download_filename": "specular_differentiation-0.13.0.tar.gz",
+  "download_time": "2026-01-11T19:12:28.349167",
   "package_url": "https://pypi.org/project/specular-differentiation/"
 }
