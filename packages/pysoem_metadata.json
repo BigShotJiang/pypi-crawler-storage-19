@@ -1,0 +1,11 @@
+{
+  "name": "pysoem",
+  "version": "1.1.13",
+  "summary": "Cython wrapper for the SOEM Library",
+  "author": "Benjamin Partzsch",
+  "license": "MIT",
+  "home_page": "https://github.com/bnjmnp/pysoem",
+  "download_filename": "pysoem-1.1.13.tar.gz",
+  "download_time": "2026-01-11T15:14:53.038180",
+  "package_url": "https://pypi.org/project/pysoem/"
+}

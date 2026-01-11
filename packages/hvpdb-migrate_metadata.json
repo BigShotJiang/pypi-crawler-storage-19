@@ -1,0 +1,11 @@
+{
+  "name": "hvpdb-migrate",
+  "version": "0.1.0",
+  "summary": "Schema Migration Plugin for HVPDB",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "hvpdb_migrate-0.1.0.tar.gz",
+  "download_time": "2026-01-11T15:14:52.496972",
+  "package_url": "https://pypi.org/project/hvpdb-migrate/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "hvpdb-tools",
+  "version": "0.1.0",
+  "summary": "Developer Tools & Debugging Plugin for HVPDB",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "hvpdb_tools-0.1.0.tar.gz",
+  "download_time": "2026-01-11T15:14:43.408674",
+  "package_url": "https://pypi.org/project/hvpdb-tools/"
+}

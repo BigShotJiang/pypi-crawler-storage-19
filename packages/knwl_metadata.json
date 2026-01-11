@@ -1,0 +1,11 @@
+{
+  "name": "knwl",
+  "version": "1.8.0",
+  "summary": "A flexible Graph RAG package with advanced ingestion and augmentation strategies.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "knwl-1.8.0.tar.gz",
+  "download_time": "2026-01-11T15:14:58.873827",
+  "package_url": "https://pypi.org/project/knwl/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "hvpdb-query",
+  "version": "0.1.0",
+  "summary": "Polyglot Query Plugin for HVPDB (SQL, Mongo, Redis)",
+  "author": "HVPDB Team",
+  "license": null,
+  "home_page": null,
+  "download_filename": "hvpdb_query-0.1.0.tar.gz",
+  "download_time": "2026-01-11T15:14:49.374439",
+  "package_url": "https://pypi.org/project/hvpdb-query/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "HermesCache",
+  "version": "1.2.0",
+  "summary": "Python caching library with tag-based invalidation and dogpile effect prevention",
+  "author": "saaj",
+  "license": "LGPL-2.1+",
+  "home_page": "https://heptapod.host/saajns/hermes",
+  "download_filename": "hermescache-1.2.0.tar.gz",
+  "download_time": "2026-01-11T15:14:47.133544",
+  "package_url": "https://pypi.org/project/HermesCache/"
+}
