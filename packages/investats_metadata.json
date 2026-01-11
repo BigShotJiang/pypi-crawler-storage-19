@@ -1,0 +1,11 @@
+{
+  "name": "investats",
+  "version": "2.0.0",
+  "summary": "Investment statistics calculator",
+  "author": "dmotte",
+  "license": "MIT",
+  "home_page": "https://github.com/dmotte/investats",
+  "download_filename": "investats-2.0.0.tar.gz",
+  "download_time": "2026-01-11T13:54:23.707144",
+  "package_url": "https://pypi.org/project/investats/"
+}

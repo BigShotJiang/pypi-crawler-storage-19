@@ -1,11 +1,46 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2026-01-11T13:43:30.295027
-- **Total Packages**: 91
-- **Total Size**: 38.87 MB
+- **Download Time**: 2026-01-11T13:54:56.533561
+- **Total Packages**: 90
+- **Total Size**: 9.58 MB
 
 ## Packages List
+- ptcgpmacro
+- iactsim
+- langlens
+- numlockw
+- grepshift
+- chname
+- torchvista
+- dv-pipecat-flows
+- pabardb
+- assumeless
+- pylizlib
+- pycropwat
+- weeb-cli
+- rctclient
+- ndastro-engine
+- py2max
+- anime-sama-api
+- scrall
+- airweave-sdk
+- silars
+- finter
+- pywa
+- vastdb
+- abcard
+- the-keyspy
+- isa-dsl
+- varwg
+- ctgforge
+- investats
+- pytrendx
+- arsa_ml
+- mcp-rag
+- iohinspector
+- z4d-certified-devices
+- guardianhub
 - jgtutils
 - remembering-machine
 - create-agentverse-agent
@@ -22,10 +57,8 @@
 - readable-reprs
 - usearch
 - mcp-cuc-nc
-- pabardb
 - microservice-chassis-grupo2
 - figrecipe
-- z4d-certified-devices
 - justhtml
 - fbgemm-gpu-nightly-cpu
 - subnoto-api-client
@@ -34,8 +67,6 @@
 - sayou-connector
 - antsibull-changelog
 - synapse-a2a
-- pylizlib
-- abcard
 - forgetting-machine
 - countries-dictionary
 - tai-jaix
@@ -53,8 +84,6 @@
 - mac2win-zip-mcp
 - clifs
 - abstracting-machine
-- arsa_ml
-- weeb-cli
 - hyperion-node
 - texjam
 - tyme4py
@@ -67,33 +96,3 @@
 - z-image-studio
 - genal-python
 - synapse-sdk
-- flexllm
-- learnlock
-- pyhandbrake
-- znvault
-- lumera
-- langchian
-- dbt-loom
-- lar-engine
-- nbdev-apl
-- nbdev-django
-- nbdev-sphinx
-- nbdev-scipy
-- nbdev-pytorch
-- nbdev-pandas
-- nbdev-numpy
-- aimodelshare
-- nbdev-stdlib
-- langlens
-- eci-as-sandbox
-- WsTranslator
-- libcalab
-- firevm-sdk
-- dbt-core-mcp
-- brawny
-- dycw-restic
-- social-interaction-cloud
-- poutils
-- commitlint
-- cross-docs
-- py-cdcstream

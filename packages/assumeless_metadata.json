@@ -1,0 +1,11 @@
+{
+  "name": "assumeless",
+  "version": "1.0.0",
+  "summary": "An assumptions-first diagnostic tool that aims to surface dangerous hidden assumptions in code.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "assumeless-1.0.0.tar.gz",
+  "download_time": "2026-01-11T13:54:12.896275",
+  "package_url": "https://pypi.org/project/assumeless/"
+}

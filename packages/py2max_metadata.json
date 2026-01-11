@@ -1,0 +1,11 @@
+{
+  "name": "py2max",
+  "version": "0.2.1",
+  "summary": "A library for offline generation of Max/MSP patcher (.maxpat) files.",
+  "author": "Shakeeb Alireza",
+  "license": null,
+  "home_page": null,
+  "download_filename": "py2max-0.2.1.tar.gz",
+  "download_time": "2026-01-11T13:54:16.132701",
+  "package_url": "https://pypi.org/project/py2max/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "grepshift",
+  "version": "1.5.1",
+  "summary": "Find and replace all instances of a string with a new string in a directory and all its sub-directories.",
+  "author": "Steve Scholnick",
+  "license": null,
+  "home_page": "https://pypi.org/project/grepshift/",
+  "download_filename": "grepshift-1.5.1.tar.gz",
+  "download_time": "2026-01-11T13:54:09.595810",
+  "package_url": "https://pypi.org/project/grepshift/"
+}

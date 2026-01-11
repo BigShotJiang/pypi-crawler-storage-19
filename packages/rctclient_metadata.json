@@ -1,0 +1,11 @@
+{
+  "name": "rctclient",
+  "version": "0.0.4",
+  "summary": "Implementation of the RCT Power communication protocol",
+  "author": "Stefan Valouch",
+  "license": null,
+  "home_page": "https://github.com/svalouch/python-rctclient/",
+  "download_filename": "rctclient-0.0.4-py3-none-any.whl",
+  "download_time": "2026-01-11T13:54:15.028147",
+  "package_url": "https://pypi.org/project/rctclient/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "ctgforge",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "summary": "Turn ClinicalTrials.gov v2 studies into analytics-ready DataFrames and knowledge graphs.",
   "author": "littledumb",
   "license": null,
   "home_page": null,
-  "download_filename": "ctgforge-0.2.2.tar.gz",
-  "download_time": "2026-01-11T08:53:34.858491",
+  "download_filename": "ctgforge-0.2.3.tar.gz",
+  "download_time": "2026-01-11T13:54:23.171255",
   "package_url": "https://pypi.org/project/ctgforge/"
 }
