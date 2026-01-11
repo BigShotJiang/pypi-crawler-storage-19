@@ -1,0 +1,11 @@
+{
+  "name": "ez-automl-lite",
+  "version": "0.1.0b4",
+  "summary": "A lightweight AutoML library optimized for simple APIs and ONNX export.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ez_automl_lite-0.1.0b4.tar.gz",
+  "download_time": "2026-01-11T20:53:46.780474",
+  "package_url": "https://pypi.org/project/ez-automl-lite/"
+}

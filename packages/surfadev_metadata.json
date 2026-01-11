@@ -1,0 +1,11 @@
+{
+  "name": "surfadev",
+  "version": "0.2.0",
+  "summary": "Analytics SDK for tracking user events and sending them to Supabase. Built for MCP (Model Context Protocol) servers.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "surfadev-0.2.0.tar.gz",
+  "download_time": "2026-01-11T20:53:40.546439",
+  "package_url": "https://pypi.org/project/surfadev/"
+}

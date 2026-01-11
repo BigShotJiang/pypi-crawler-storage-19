@@ -1,0 +1,11 @@
+{
+  "name": "analytics-sdk",
+  "version": "0.1.0",
+  "summary": "Analytics SDK for tracking user events and sending them to Supabase",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "analytics_sdk-0.1.0-py3-none-any.whl",
+  "download_time": "2026-01-11T20:53:41.084658",
+  "package_url": "https://pypi.org/project/analytics-sdk/"
+}

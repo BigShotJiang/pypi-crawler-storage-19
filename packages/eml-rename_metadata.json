@@ -1,0 +1,11 @@
+{
+  "name": "eml-rename",
+  "version": "1.0.0",
+  "summary": "Script renames all eml files in a directory using mail metadata",
+  "author": "turulomio",
+  "license": "GPL-3.0 license",
+  "home_page": "https://github.com/turulomio/eml_rename/",
+  "download_filename": "eml_rename-1.0.0.tar.gz",
+  "download_time": "2026-01-11T20:53:36.547456",
+  "package_url": "https://pypi.org/project/eml-rename/"
+}

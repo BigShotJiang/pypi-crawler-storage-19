@@ -1,11 +1,11 @@
 {
   "name": "maleo-identity-client",
-  "version": "0.3.100",
+  "version": "0.4.1",
   "summary": "MaleoIdentity client package",
   "author": null,
   "license": "Proprietary",
   "home_page": null,
-  "download_filename": "maleo_identity_client-0.3.100.tar.gz",
-  "download_time": "2026-01-11T14:14:58.851679",
+  "download_filename": "maleo_identity_client-0.4.1.tar.gz",
+  "download_time": "2026-01-11T20:53:52.051080",
   "package_url": "https://pypi.org/project/maleo-identity-client/"
 }

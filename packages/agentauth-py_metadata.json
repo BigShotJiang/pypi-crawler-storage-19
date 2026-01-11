@@ -1,11 +1,11 @@
 {
   "name": "agentauth-py",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "summary": "AI Agent session management SDK",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "agentauth_py-0.2.0.tar.gz",
-  "download_time": "2026-01-11T20:17:11.249172",
+  "download_filename": "agentauth_py-0.2.1.tar.gz",
+  "download_time": "2026-01-11T20:53:49.784593",
   "package_url": "https://pypi.org/project/agentauth-py/"
 }

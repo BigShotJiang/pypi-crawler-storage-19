@@ -1,11 +1,58 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2026-01-11T20:38:56.141697
+- **Download Time**: 2026-01-11T20:54:24.120732
 - **Total Packages**: 90
-- **Total Size**: 21.24 MB
+- **Total Size**: 22.48 MB
 
 ## Packages List
+- pyqrack-complex128
+- pyqrack
+- asyncapi3
+- eml-rename
+- pain001
+- videopython
+- rclaude
+- sude-yasam-sigortasi
+- maleo-access
+- modern-urwid
+- surfadev
+- analytics-sdk
+- agentfield
+- carconnectivity-plugin-webui
+- es-query-gen
+- pulka
+- ascii-guard
+- bolthole
+- logtide-sdk
+- NLOrg-Utils
+- pianosdk
+- ez-automl-lite
+- jinja2-async
+- autorubric
+- z-image-studio
+- multiai-tts
+- agentauth-py
+- web-hacker
+- aiel-sdk
+- ddd-cli
+- maleo-identity-client
+- dbos
+- winiutils
+- tccli-intl-en
+- axiomtradeapi
+- arms-hat
+- samplerslib
+- carconnectivity-connector-tronity
+- alpha-python
+- loq
+- carconnectivity-connector-seatcupra
+- rvbbit
+- pinviz
+- tactus
+- carconnectivity-connector-skoda
+- crunch64
+- petthermotools
 - HCDSIM
 - immich-autotag
 - EquationConnectSDK
@@ -13,18 +60,14 @@
 - visa-instrument-drivers
 - optimalportfolios
 - carconnectivity-connector-volkswagen
-- dockopt
 - neopkpd
-- rclaude
 - supacrawl
 - carconnectivity
 - github_rest_api
 - cremalink
 - mhc-mlx
 - platypush
-- loq
 - verirouteintel
-- pain001
 - electroacoustics-auth
 - winspot
 - pylxpweb
@@ -36,7 +79,6 @@
 - sykora
 - flukebase
 - osmsatlab
-- tactus
 - lumigo-opentelemetry
 - speech-detect
 - textual-plot
@@ -46,7 +88,6 @@
 - maleo-metadata-client
 - cle-engine
 - llm-tldr
-- aiel-sdk
 - biokb-taxtree
 - ffmpeg-audio
 - onesecondtrader
@@ -55,44 +96,3 @@
 - simple-item-plugin
 - bedrock-server-manager
 - pie-server
-- creditcard-identifier
-- snowdrop-tangled-special-agents
-- mpc-wallet
-- biokb-coconut
-- snowdrop-tangled-alphazero
-- es-query-gen
-- biokb-chebi
-- tonie_sync
-- mlalib
-- apiexception
-- ibm-udi
-- buckaroo
-- rnow
-- rockslope
-- threaded-order
-- flowgym
-- empire-core
-- nexo-soma
-- sleap
-- claude-sage
-- dominus-sdk-python
-- obra
-- nexo-middlewares
-- omnibioai-toolserver
-- ai-microcore
-- nexo-google
-- pyphemeris
-- strands-ucp
-- nexo-client
-- parquet-stream-writer
-- nifti2bids
-- nexo-infra
-- fittrackee
-- nexo-database
-- nexo-schemas
-- snaffler-ng
-- biokb-ipni
-- robotframework-schemathesislibrary
-- phaeton
-- synkro
-- fdl-python
