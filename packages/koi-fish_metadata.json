@@ -1,0 +1,11 @@
+{
+  "name": "koi-fish",
+  "version": "2.0.1",
+  "summary": "CLI task runner & automation tool",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "koi_fish-2.0.1.tar.gz",
+  "download_time": "2026-01-11T05:41:32.573020",
+  "package_url": "https://pypi.org/project/koi-fish/"
+}

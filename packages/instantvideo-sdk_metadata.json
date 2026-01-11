@@ -1,0 +1,11 @@
+{
+  "name": "instantvideo-sdk",
+  "version": "0.1.2",
+  "summary": "Shared utilities extracted from InstantVideo Headless for both API and SDK needs.",
+  "author": "InstantVideoHeadless Contributors",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "instantvideo_sdk-0.1.2.tar.gz",
+  "download_time": "2026-01-11T05:41:20.543428",
+  "package_url": "https://pypi.org/project/instantvideo-sdk/"
+}

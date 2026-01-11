@@ -1,0 +1,11 @@
+{
+  "name": "scicomb",
+  "version": "0.0.0",
+  "summary": "The Upstream Data ETL Engine of the V.I.N.E. Initiative",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "scicomb-0.0.0.tar.gz",
+  "download_time": "2026-01-11T05:41:29.441787",
+  "package_url": "https://pypi.org/project/scicomb/"
+}

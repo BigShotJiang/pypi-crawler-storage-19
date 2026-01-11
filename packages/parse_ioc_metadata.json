@@ -1,0 +1,11 @@
+{
+  "name": "parse_ioc",
+  "version": "0.2.0",
+  "summary": "Parse a list of indicators into a dictionary or JSON structure for programmatic use.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "parse_ioc-0.2.0.tar.gz",
+  "download_time": "2026-01-11T05:41:39.914991",
+  "package_url": "https://pypi.org/project/parse_ioc/"
+}

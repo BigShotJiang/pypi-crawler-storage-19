@@ -1,0 +1,11 @@
+{
+  "name": "promptdefend",
+  "version": "1.0.0",
+  "summary": "Python SDK for the Prompt Defend AI Security API - 16-Layer Guardrail Protection",
+  "author": "Prompt Defend",
+  "license": null,
+  "home_page": "https://promptdefend.dev",
+  "download_filename": "promptdefend-1.0.0.tar.gz",
+  "download_time": "2026-01-11T05:41:32.045688",
+  "package_url": "https://pypi.org/project/promptdefend/"
+}
