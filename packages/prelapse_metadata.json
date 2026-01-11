@@ -1,0 +1,11 @@
+{
+  "name": "prelapse",
+  "version": "0.2.4",
+  "summary": "prelapse is a text based Python toolbox designed to help creating image sequence videos in sync with audio (e.g. slide shows, CG renders, stop motion animation, timelapses and hyperlapses), using ffmpeg/ffplay, Audacity and optionally ImageMagick.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "prelapse-0.2.4.tar.gz",
+  "download_time": "2026-01-11T22:53:15.086730",
+  "package_url": "https://pypi.org/project/prelapse/"
+}

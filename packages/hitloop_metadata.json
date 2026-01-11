@@ -1,11 +1,11 @@
 {
   "name": "hitloop",
-  "version": "0.4.2",
+  "version": "0.5.1",
   "summary": "Keep humans in the loop. HITL control library for AI agent workflows with LangGraph.",
   "author": "hitloop contributors",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "hitloop-0.4.2.tar.gz",
-  "download_time": "2026-01-11T15:34:46.083302",
+  "download_filename": "hitloop-0.5.1.tar.gz",
+  "download_time": "2026-01-11T22:53:15.609926",
   "package_url": "https://pypi.org/project/hitloop/"
 }
