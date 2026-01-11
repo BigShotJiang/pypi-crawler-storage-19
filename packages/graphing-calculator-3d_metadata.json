@@ -1,0 +1,11 @@
+{
+  "name": "graphing-calculator-3d",
+  "version": "0.1.0",
+  "summary": "A 3D/4D graphing library using VisPy and SymPy",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "graphing_calculator_3d-0.1.0.tar.gz",
+  "download_time": "2026-01-11T10:20:02.911139",
+  "package_url": "https://pypi.org/project/graphing-calculator-3d/"
+}

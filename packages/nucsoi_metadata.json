@@ -1,0 +1,11 @@
+{
+  "name": "nucsoi",
+  "version": "1.0.0",
+  "summary": "Nuclease Cleavage Site and Overhang Identification",
+  "author": "Matthew Penner",
+  "license": "MIT",
+  "home_page": "https://github.com/Matt115A/NuCSOI",
+  "download_filename": "nucsoi-1.0.0.tar.gz",
+  "download_time": "2026-01-11T10:19:38.438247",
+  "package_url": "https://pypi.org/project/nucsoi/"
+}

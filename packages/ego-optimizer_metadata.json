@@ -1,0 +1,11 @@
+{
+  "name": "ego-optimizer",
+  "version": "1.0.0",
+  "summary": "Entropy-Guided Optimization (EGO): An Adaptive Evolutionary Algorithm",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ego_optimizer-1.0.0.tar.gz",
+  "download_time": "2026-01-11T10:19:41.949035",
+  "package_url": "https://pypi.org/project/ego-optimizer/"
+}

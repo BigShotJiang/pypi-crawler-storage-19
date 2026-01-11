@@ -1,0 +1,11 @@
+{
+  "name": "djicot",
+  "version": "1.1.2",
+  "summary": "Geolocate, detect, track & identify DJI Drone sUAS data with TAK.",
+  "author": null,
+  "license": "Apache 2.0",
+  "home_page": "https://github.com/snstac/djicot",
+  "download_filename": "djicot-1.1.2.tar.gz",
+  "download_time": "2026-01-11T10:19:57.186830",
+  "package_url": "https://pypi.org/project/djicot/"
+}
