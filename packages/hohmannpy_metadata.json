@@ -1,0 +1,11 @@
+{
+  "name": "hohmannpy",
+  "version": "0.0.3",
+  "summary": "An open-source library designed for rapid spacecraft design and iteration.",
+  "author": "Nicholas Hirsch",
+  "license": "GPL-3.0",
+  "home_page": null,
+  "download_filename": "hohmannpy-0.0.3.tar.gz",
+  "download_time": "2026-01-11T06:22:11.930340",
+  "package_url": "https://pypi.org/project/hohmannpy/"
+}

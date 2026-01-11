@@ -1,0 +1,11 @@
+{
+  "name": "binary-convolution-theory",
+  "version": "1.0.0",
+  "summary": "Binary Convolution Theory: A Structural Approach to Perfect Numbers",
+  "author": "Masamichi Iizumi, Tamaki Iizumi",
+  "license": "MIT",
+  "home_page": "https://github.com/miosync-masa/BinaryConvolutionTheory",
+  "download_filename": "binary_convolution_theory-1.0.0.tar.gz",
+  "download_time": "2026-01-11T06:22:13.590130",
+  "package_url": "https://pypi.org/project/binary-convolution-theory/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "sleipnirgroup-choreolib",
+  "version": "2026.0.0",
+  "summary": "Robot-side library for parsing and following Choreo paths",
+  "author": "Choreo Development Team",
+  "license": null,
+  "home_page": null,
+  "download_filename": "sleipnirgroup_choreolib-2026.0.0.tar.gz",
+  "download_time": "2026-01-11T06:22:29.553845",
+  "package_url": "https://pypi.org/project/sleipnirgroup-choreolib/"
+}
