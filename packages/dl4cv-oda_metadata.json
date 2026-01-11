@@ -1,11 +1,11 @@
 {
   "name": "dl4cv-oda",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "Coconut tree detection from drone imagery",
   "author": "krschap",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "dl4cv_oda-0.1.0.tar.gz",
-  "download_time": "2026-01-10T19:37:57.358617",
+  "download_filename": "dl4cv_oda-0.1.1.tar.gz",
+  "download_time": "2026-01-11T01:13:11.805262",
   "package_url": "https://pypi.org/project/dl4cv-oda/"
 }

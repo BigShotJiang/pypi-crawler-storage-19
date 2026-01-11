@@ -1,11 +1,11 @@
 {
   "name": "tatuagem",
-  "version": "0.1.1",
+  "version": "0.1.4",
   "summary": "A tool to generate ASCII art signatures (tattoos) and apply them to your code files recursively.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "tatuagem-0.1.1-py3-none-any.whl",
-  "download_time": "2026-01-09T03:06:32.825432",
+  "download_filename": "tatuagem-0.1.4-py3-none-any.whl",
+  "download_time": "2026-01-11T01:12:46.288478",
   "package_url": "https://pypi.org/project/tatuagem/"
 }

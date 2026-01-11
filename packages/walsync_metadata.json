@@ -1,0 +1,11 @@
+{
+  "name": "walsync",
+  "version": "0.1.1",
+  "summary": "Lightweight SQLite WAL sync to S3/Tigris",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "walsync-0.1.1.tar.gz",
+  "download_time": "2026-01-11T01:12:49.529380",
+  "package_url": "https://pypi.org/project/walsync/"
+}

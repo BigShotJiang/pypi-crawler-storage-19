@@ -1,11 +1,11 @@
 {
   "name": "trovesuite",
-  "version": "1.0.30",
+  "version": "1.0.32",
   "summary": "TroveSuite services package providing authentication, authorization, notifications, Azure Storage, and other enterprise services for TroveSuite applications",
   "author": "Bright Debrah Owusu",
   "license": "MIT",
   "home_page": "https://dev.azure.com/brightgclt/trovesuite/_git/packages",
-  "download_filename": "trovesuite-1.0.30.tar.gz",
-  "download_time": "2026-01-10T11:49:34.681819",
+  "download_filename": "trovesuite-1.0.32.tar.gz",
+  "download_time": "2026-01-11T01:12:47.927410",
   "package_url": "https://pypi.org/project/trovesuite/"
 }

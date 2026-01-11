@@ -1,11 +1,11 @@
 {
   "name": "virsh-sandbox",
-  "version": "0.0.17b0",
+  "version": "0.0.18b0",
   "summary": "virsh-sandbox API",
   "author": "Collin Pfeifer",
   "license": null,
   "home_page": "https://github.com/aspectrr/fluid.sh",
-  "download_filename": "virsh_sandbox-0.0.17b0.tar.gz",
-  "download_time": "2026-01-10T22:16:57.910341",
+  "download_filename": "virsh_sandbox-0.0.18b0.tar.gz",
+  "download_time": "2026-01-11T01:13:06.310988",
   "package_url": "https://pypi.org/project/virsh-sandbox/"
 }

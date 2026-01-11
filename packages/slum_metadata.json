@@ -1,0 +1,11 @@
+{
+  "name": "slum",
+  "version": "0.1.1",
+  "summary": "Fleet orchestrator for tenement servers",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": "https://slum.dev",
+  "download_filename": "slum-0.1.1.tar.gz",
+  "download_time": "2026-01-11T01:12:51.721655",
+  "package_url": "https://pypi.org/project/slum/"
+}

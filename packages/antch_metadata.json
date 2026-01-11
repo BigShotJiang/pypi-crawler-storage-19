@@ -1,11 +1,11 @@
 {
   "name": "antch",
-  "version": "0.0.1.dev0",
+  "version": "0.0.2.dev0",
   "summary": "End-to-end encrypted messaging client",
-  "author": "Antchs",
+  "author": null,
   "license": "GPL-3.0-or-later",
   "home_page": null,
-  "download_filename": "antch-0.0.1.dev0.tar.gz",
-  "download_time": "2026-01-10T22:53:14.668365",
+  "download_filename": "antch-0.0.2.dev0.tar.gz",
+  "download_time": "2026-01-11T01:13:05.173330",
   "package_url": "https://pypi.org/project/antch/"
 }

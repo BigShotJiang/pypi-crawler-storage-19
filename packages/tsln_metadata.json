@@ -1,0 +1,11 @@
+{
+  "name": "tsln",
+  "version": "1.0.0",
+  "summary": "Time-Series Lean Notation - 74% token reduction for LLMs",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "tsln-1.0.0.tar.gz",
+  "download_time": "2026-01-11T01:13:16.136376",
+  "package_url": "https://pypi.org/project/tsln/"
+}

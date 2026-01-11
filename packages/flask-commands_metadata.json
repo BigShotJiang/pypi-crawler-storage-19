@@ -1,11 +1,11 @@
 {
   "name": "flask-commands",
-  "version": "0.1.16",
+  "version": "0.1.19",
   "summary": "A set of command line tools that help you scaffold out your flask application quickly.",
   "author": "Drew Butcher",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "flask_commands-0.1.16.tar.gz",
-  "download_time": "2026-01-10T05:24:04.306460",
+  "download_filename": "flask_commands-0.1.19.tar.gz",
+  "download_time": "2026-01-11T01:13:06.879919",
   "package_url": "https://pypi.org/project/flask-commands/"
 }

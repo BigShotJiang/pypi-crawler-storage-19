@@ -1,11 +1,11 @@
 {
   "name": "typer-aliases",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "summary": "Command aliases for Typer CLI applications",
   "author": "Rob Webb",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "typer_aliases-0.2.0.tar.gz",
-  "download_time": "2026-01-10T21:13:30.247821",
+  "download_filename": "typer_aliases-0.2.1.tar.gz",
+  "download_time": "2026-01-11T01:13:05.719785",
   "package_url": "https://pypi.org/project/typer-aliases/"
 }
