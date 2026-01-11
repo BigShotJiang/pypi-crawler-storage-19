@@ -1,11 +1,11 @@
 {
   "name": "z-image-studio",
-  "version": "0.1.0.dev22",
+  "version": "0.1.0.dev24",
   "summary": "Z-Image Studio: local image toolkit (CLI + Web UI)",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "z_image_studio-0.1.0.dev22.tar.gz",
-  "download_time": "2026-01-11T13:43:12.623361",
+  "download_filename": "z_image_studio-0.1.0.dev24.tar.gz",
+  "download_time": "2026-01-11T14:15:10.498099",
   "package_url": "https://pypi.org/project/z-image-studio/"
 }

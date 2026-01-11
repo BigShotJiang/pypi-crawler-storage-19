@@ -1,11 +1,11 @@
 {
   "name": "firevm-sdk",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "Python SDK for FireVM SaaS - Execute code in isolated Firecracker VMs",
   "author": "FireVM SaaS Team",
   "license": null,
   "home_page": "https://firevm-frontend-345160625255.asia-northeast1.run.app",
-  "download_filename": "firevm_sdk-0.1.0.tar.gz",
-  "download_time": "2026-01-11T13:43:25.582481",
+  "download_filename": "firevm_sdk-0.1.1.tar.gz",
+  "download_time": "2026-01-11T14:15:05.901670",
   "package_url": "https://pypi.org/project/firevm-sdk/"
 }

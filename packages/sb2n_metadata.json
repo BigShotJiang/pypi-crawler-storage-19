@@ -1,11 +1,11 @@
 {
   "name": "sb2n",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "summary": "Helpfeel Cosense (Scrapbox) to Notion Migration Tool",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "sb2n-0.0.3.tar.gz",
-  "download_time": "2026-01-11T12:27:33.697593",
+  "download_filename": "sb2n-0.0.4.tar.gz",
+  "download_time": "2026-01-11T14:15:22.624583",
   "package_url": "https://pypi.org/project/sb2n/"
 }
