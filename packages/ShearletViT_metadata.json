@@ -1,0 +1,11 @@
+{
+  "name": "ShearletViT",
+  "version": "0.0.0",
+  "summary": "Digital Shearlet Bank Vision (3D) Transformer",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "shearletvit-0.0.0.tar.gz",
+  "download_time": "2026-01-11T05:06:50.675598",
+  "package_url": "https://pypi.org/project/ShearletViT/"
+}

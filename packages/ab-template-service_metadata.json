@@ -1,11 +1,11 @@
 {
   "name": "ab-template-service",
-  "version": "0.2.2",
+  "version": "0.3.0",
   "summary": "A template package template.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "ab_template_service-0.2.2.tar.gz",
-  "download_time": "2026-01-11T04:33:47.456278",
+  "download_filename": "ab_template_service-0.3.0.tar.gz",
+  "download_time": "2026-01-11T05:06:39.840360",
   "package_url": "https://pypi.org/project/ab-template-service/"
 }

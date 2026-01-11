@@ -1,0 +1,11 @@
+{
+  "name": "WaveletViT",
+  "version": "0.0.0",
+  "summary": "Discrete Wavelet Bank D-dimensional I/O Vision Transformer",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "waveletvit-0.0.0.tar.gz",
+  "download_time": "2026-01-11T05:06:47.578552",
+  "package_url": "https://pypi.org/project/WaveletViT/"
+}

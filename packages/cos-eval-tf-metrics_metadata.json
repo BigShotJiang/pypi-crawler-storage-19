@@ -1,0 +1,11 @@
+{
+  "name": "cos-eval-tf-metrics",
+  "version": "0.0.1",
+  "summary": "Custom TensorFlow metrics for Camouflage Image Segmentation",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "cos_eval_tf_metrics-0.0.1.tar.gz",
+  "download_time": "2026-01-11T05:07:03.090361",
+  "package_url": "https://pypi.org/project/cos-eval-tf-metrics/"
+}

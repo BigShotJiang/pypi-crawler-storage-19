@@ -1,11 +1,11 @@
 {
   "name": "firevm",
-  "version": "0.3.0",
+  "version": "0.4.1",
   "summary": "Official Python SDK for FireVM - MicroVM Management Platform",
   "author": "FireVM Team",
   "license": "MIT",
   "home_page": "https://github.com/firevm/firevm-python",
-  "download_filename": "firevm-0.3.0.tar.gz",
-  "download_time": "2026-01-11T03:20:46.304682",
+  "download_filename": "firevm-0.4.1.tar.gz",
+  "download_time": "2026-01-11T05:06:46.551493",
   "package_url": "https://pypi.org/project/firevm/"
 }

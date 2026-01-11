@@ -1,11 +1,11 @@
 {
   "name": "mixinforge",
-  "version": "0.210.2",
+  "version": "0.210.4",
   "summary": "A collection of Python mixins, metaclasses, utility functions, and CLI tools for building robust, configurable classes.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "mixinforge-0.210.2.tar.gz",
-  "download_time": "2026-01-10T05:53:26.178436",
+  "download_filename": "mixinforge-0.210.4.tar.gz",
+  "download_time": "2026-01-11T05:06:34.139505",
   "package_url": "https://pypi.org/project/mixinforge/"
 }

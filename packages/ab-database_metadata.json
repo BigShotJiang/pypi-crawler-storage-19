@@ -1,11 +1,11 @@
 {
   "name": "ab-database",
-  "version": "0.2.3",
+  "version": "0.2.4",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "ab_database-0.2.3.tar.gz",
-  "download_time": "2026-01-11T04:33:20.085526",
+  "download_filename": "ab_database-0.2.4.tar.gz",
+  "download_time": "2026-01-11T05:06:54.285388",
   "package_url": "https://pypi.org/project/ab-database/"
 }
