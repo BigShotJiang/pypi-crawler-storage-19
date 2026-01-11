@@ -1,11 +1,11 @@
 {
   "name": "sandlercubics",
-  "version": "0.8.0",
+  "version": "0.9.1",
   "summary": "Cubic equations of state from Chemical, Biochemical, and Engineering Thermodynamics (5th edition) by Stan Sandler",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "sandlercubics-0.8.0.tar.gz",
-  "download_time": "2026-01-10T23:32:34.517399",
+  "download_filename": "sandlercubics-0.9.1.tar.gz",
+  "download_time": "2026-01-11T18:21:02.103563",
   "package_url": "https://pypi.org/project/sandlercubics/"
 }

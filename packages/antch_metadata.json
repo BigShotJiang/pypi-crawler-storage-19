@@ -1,11 +1,11 @@
 {
   "name": "antch",
-  "version": "0.0.6.dev0",
+  "version": "0.0.8.dev0",
   "summary": "End-to-end encrypted messaging TUI client",
   "author": null,
   "license": "GPL-3.0-or-later",
   "home_page": null,
-  "download_filename": "antch-0.0.6.dev0.tar.gz",
-  "download_time": "2026-01-11T15:51:11.255592",
+  "download_filename": "antch-0.0.8.dev0.tar.gz",
+  "download_time": "2026-01-11T18:21:10.898427",
   "package_url": "https://pypi.org/project/antch/"
 }

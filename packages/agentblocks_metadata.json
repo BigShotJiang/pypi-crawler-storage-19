@@ -1,0 +1,11 @@
+{
+  "name": "agentblocks",
+  "version": "0.0.1",
+  "summary": "Reusable primitives, patterns, and templates for AI-assisted development",
+  "author": "Caleb Amsden",
+  "license": null,
+  "home_page": null,
+  "download_filename": "agentblocks-0.0.1.tar.gz",
+  "download_time": "2026-01-11T18:21:07.285507",
+  "package_url": "https://pypi.org/project/agentblocks/"
+}

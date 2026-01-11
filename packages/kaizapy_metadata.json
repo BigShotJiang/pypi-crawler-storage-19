@@ -1,0 +1,11 @@
+{
+  "name": "kaizapy",
+  "version": "0.0.1",
+  "summary": "A KaizaPay package for accepting payments in your Python application",
+  "author": "Peter Ndukwe",
+  "license": "MIT",
+  "home_page": "https://github.com/patrickishaf/kaizapy",
+  "download_filename": "kaizapy-0.0.1.tar.gz",
+  "download_time": "2026-01-11T18:21:07.931143",
+  "package_url": "https://pypi.org/project/kaizapy/"
+}

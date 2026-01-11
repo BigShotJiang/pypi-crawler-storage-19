@@ -1,0 +1,11 @@
+{
+  "name": "xeppelin",
+  "version": "0.4.0",
+  "summary": "Xeppelin Contest Watcher",
+  "author": "Konstantin Amelichev",
+  "license": null,
+  "home_page": "https://github.com/kik0s/xeppelin",
+  "download_filename": "xeppelin-0.4.0.tar.gz",
+  "download_time": "2026-01-11T18:20:58.204076",
+  "package_url": "https://pypi.org/project/xeppelin/"
+}
