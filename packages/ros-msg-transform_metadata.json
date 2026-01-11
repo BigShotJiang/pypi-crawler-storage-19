@@ -1,0 +1,11 @@
+{
+  "name": "ros-msg-transform",
+  "version": "0.3.1",
+  "summary": "Library to transform ROS messages to Python structures",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ros_msg_transform-0.3.1.tar.gz",
+  "download_time": "2026-01-11T16:18:01.490475",
+  "package_url": "https://pypi.org/project/ros-msg-transform/"
+}

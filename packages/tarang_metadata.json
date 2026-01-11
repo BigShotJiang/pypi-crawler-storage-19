@@ -1,11 +1,11 @@
 {
   "name": "tarang",
-  "version": "3.1.0",
-  "summary": "Tarang - AI Coding Agent (Thin Client with Local Execution)",
+  "version": "3.3.0",
+  "summary": "Tarang - AI Coding Agent (Hybrid WebSocket Architecture)",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "tarang-3.1.0.tar.gz",
-  "download_time": "2026-01-10T15:33:43.194863",
+  "download_filename": "tarang-3.3.0.tar.gz",
+  "download_time": "2026-01-11T16:17:58.936998",
   "package_url": "https://pypi.org/project/tarang/"
 }

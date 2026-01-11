@@ -1,0 +1,11 @@
+{
+  "name": "cq-tdm",
+  "version": "0.1.0",
+  "summary": "CT Scanner Quality Control Software (Contrôle Qualité Tomodensitométrie)",
+  "author": "Luis",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "cq_tdm-0.1.0.tar.gz",
+  "download_time": "2026-01-11T16:18:14.155403",
+  "package_url": "https://pypi.org/project/cq-tdm/"
+}

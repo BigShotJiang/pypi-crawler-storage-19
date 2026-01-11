@@ -1,0 +1,11 @@
+{
+  "name": "iocparser-tool",
+  "version": "4.0.0",
+  "summary": "A tool for extracting Indicators of Compromise from security reports",
+  "author": "Marc Rivero",
+  "license": "MIT",
+  "home_page": "https://github.com/seifreed/iocparser",
+  "download_filename": "iocparser_tool-4.0.0.tar.gz",
+  "download_time": "2026-01-11T16:18:10.011830",
+  "package_url": "https://pypi.org/project/iocparser-tool/"
+}

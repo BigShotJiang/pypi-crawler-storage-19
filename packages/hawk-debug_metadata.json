@@ -1,0 +1,11 @@
+{
+  "name": "hawk-debug",
+  "version": "0.0.3",
+  "summary": "A debugging & profiling toolkit for production Python microservices",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "hawk_debug-0.0.3.tar.gz",
+  "download_time": "2026-01-11T16:18:20.015605",
+  "package_url": "https://pypi.org/project/hawk-debug/"
+}

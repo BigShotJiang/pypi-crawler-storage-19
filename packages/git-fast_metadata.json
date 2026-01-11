@@ -1,0 +1,11 @@
+{
+  "name": "git-fast",
+  "version": "0.1.0",
+  "summary": "Quick git add, commit, push in one command",
+  "author": "OliverIida",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "git_fast-0.1.0.tar.gz",
+  "download_time": "2026-01-11T16:18:27.784453",
+  "package_url": "https://pypi.org/project/git-fast/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "cdktn-provider-local",
+  "version": "11.2.0",
+  "summary": "Prebuilt local Provider for Terraform CDK (cdktf)",
+  "author": "CDK Terrain Maintainers",
+  "license": "MPL-2.0",
+  "home_page": "https://github.com/cdktn-io/cdktn-provider-local.git",
+  "download_filename": "cdktn_provider_local-11.2.0.tar.gz",
+  "download_time": "2026-01-11T16:18:06.524637",
+  "package_url": "https://pypi.org/project/cdktn-provider-local/"
+}

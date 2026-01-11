@@ -1,0 +1,11 @@
+{
+  "name": "deckflow",
+  "version": "0.1.2",
+  "summary": "Programmatic PowerPoint manager",
+  "author": "Nicolas Pogeant",
+  "license": null,
+  "home_page": null,
+  "download_filename": "deckflow-0.1.2.tar.gz",
+  "download_time": "2026-01-11T16:18:22.074289",
+  "package_url": "https://pypi.org/project/deckflow/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "xkcdpass",
-  "version": "1.21.0",
+  "version": "1.30.0",
   "summary": "Generate secure multiword passwords/passphrases, inspired by XKCD",
-  "author": "Steven Tobin",
-  "license": "BSD",
-  "home_page": "https://github.com/redacted/XKCD-password-generator",
-  "download_filename": "xkcdpass-1.21.0.tar.gz",
-  "download_time": "2026-01-11T15:51:05.465479",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "xkcdpass-1.30.0.tar.gz",
+  "download_time": "2026-01-11T16:18:07.052022",
   "package_url": "https://pypi.org/project/xkcdpass/"
 }
