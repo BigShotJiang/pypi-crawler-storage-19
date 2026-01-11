@@ -1,0 +1,11 @@
+{
+  "name": "nmk-proto",
+  "version": "1.2.0",
+  "summary": "Code generation plugin from proto files for nmk build system",
+  "author": "The dynod project",
+  "license": "MIT License",
+  "home_page": null,
+  "download_filename": "nmk_proto-1.2.0-py3-none-any.whl",
+  "download_time": "2026-01-11T14:35:53.871585",
+  "package_url": "https://pypi.org/project/nmk-proto/"
+}

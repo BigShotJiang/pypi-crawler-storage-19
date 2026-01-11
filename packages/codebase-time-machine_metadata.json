@@ -1,0 +1,11 @@
+{
+  "name": "codebase-time-machine",
+  "version": "0.1.2",
+  "summary": "Understand why code exists, not just what it does - an LLM-agnostic tool server for code history analysis",
+  "author": "Burak Kucuktopal",
+  "license": "AGPL-3.0",
+  "home_page": null,
+  "download_filename": "codebase_time_machine-0.1.2.tar.gz",
+  "download_time": "2026-01-11T14:35:36.739711",
+  "package_url": "https://pypi.org/project/codebase-time-machine/"
+}

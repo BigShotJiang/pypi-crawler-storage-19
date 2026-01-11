@@ -1,11 +1,11 @@
 {
   "name": "pycropwat",
-  "version": "1.1.0",
+  "version": "1.1.1.post1",
   "summary": "A Python Package for Computing Effective Precipitation Using Google Earth Engine Climate Data",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "pycropwat-1.1.0.tar.gz",
-  "download_time": "2026-01-11T13:54:13.981867",
+  "download_filename": "pycropwat-1.1.1.post1.tar.gz",
+  "download_time": "2026-01-11T14:35:46.091759",
   "package_url": "https://pypi.org/project/pycropwat/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "eansearch",
+  "version": "1.10.0",
+  "summary": "A Python class for EAN and ISBN name lookup and validation using the API on ean-search.org",
+  "author": "Jan Willamowius",
+  "license": null,
+  "home_page": "https://github.com/eansearch/python-ean-search",
+  "download_filename": "eansearch-1.10.0.tar.gz",
+  "download_time": "2026-01-11T14:35:54.914248",
+  "package_url": "https://pypi.org/project/eansearch/"
+}

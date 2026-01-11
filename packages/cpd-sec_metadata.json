@@ -1,11 +1,11 @@
 {
   "name": "cpd-sec",
-  "version": "0.3.1",
+  "version": "0.3.2",
   "summary": "A high-concurrency CLI tool for detecting web cache poisoning vulnerabilities.",
   "author": "kankburhan",
   "license": null,
   "home_page": "https://github.com/kankburhan/cpd",
-  "download_filename": "cpd_sec-0.3.1.tar.gz",
-  "download_time": "2026-01-11T12:27:42.440985",
+  "download_filename": "cpd_sec-0.3.2.tar.gz",
+  "download_time": "2026-01-11T14:36:04.936369",
   "package_url": "https://pypi.org/project/cpd-sec/"
 }

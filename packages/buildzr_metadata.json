@@ -1,11 +1,11 @@
 {
   "name": "buildzr",
-  "version": "0.0.29",
+  "version": "0.0.30",
   "summary": "Structurizr for the `buildzr`s 🧱⚒️",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "buildzr-0.0.29.tar.gz",
-  "download_time": "2026-01-09T13:14:26.199282",
+  "download_filename": "buildzr-0.0.30.tar.gz",
+  "download_time": "2026-01-11T14:35:47.621671",
   "package_url": "https://pypi.org/project/buildzr/"
 }

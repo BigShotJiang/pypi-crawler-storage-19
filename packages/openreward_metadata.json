@@ -1,11 +1,11 @@
 {
   "name": "openreward",
-  "version": "0.1.10",
+  "version": "0.1.11",
   "summary": "Python SDK for OpenrReward tracing and logging",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "openreward-0.1.10.tar.gz",
-  "download_time": "2026-01-10T19:37:52.564541",
+  "download_filename": "openreward-0.1.11.tar.gz",
+  "download_time": "2026-01-11T14:35:48.136686",
   "package_url": "https://pypi.org/project/openreward/"
 }

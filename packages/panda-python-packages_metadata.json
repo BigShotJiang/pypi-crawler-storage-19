@@ -1,11 +1,11 @@
 {
   "name": "panda-python-packages",
-  "version": "0.1.0.dev20260110185033",
+  "version": "0.1.0.dev20260111143007",
   "summary": "A collection of Python utilities for Panda projects",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "panda_python_packages-0.1.0.dev20260110185033.tar.gz",
-  "download_time": "2026-01-10T19:12:04.675542",
+  "download_filename": "panda_python_packages-0.1.0.dev20260111143007.tar.gz",
+  "download_time": "2026-01-11T14:35:41.438589",
   "package_url": "https://pypi.org/project/panda-python-packages/"
 }

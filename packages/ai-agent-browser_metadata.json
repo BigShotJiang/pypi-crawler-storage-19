@@ -1,11 +1,11 @@
 {
   "name": "ai-agent-browser",
-  "version": "0.2.6",
+  "version": "0.2.7",
   "summary": "A robust browser automation tool for AI agents - control browsers via CLI or IPC",
   "author": "Agent Browser Contributors",
   "license": "GPL-3.0-only",
   "home_page": null,
-  "download_filename": "ai_agent_browser-0.2.6.tar.gz",
-  "download_time": "2026-01-11T03:20:52.934620",
+  "download_filename": "ai_agent_browser-0.2.7.tar.gz",
+  "download_time": "2026-01-11T14:35:49.722661",
   "package_url": "https://pypi.org/project/ai-agent-browser/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-l10n-ro-account-bank-statement-import-mt940-base",
+  "version": "19.0.0.4.0",
+  "summary": "Romania - MT940 Bank Statements Import",
+  "author": "NextERP Romania,Odoo Community Association (OCA),Therp BV",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/l10n-romania",
+  "download_filename": "odoo_addon_l10n_ro_account_bank_statement_import_mt940_base-19.0.0.4.0-py3-none-any.whl",
+  "download_time": "2026-01-11T14:36:00.745527",
+  "package_url": "https://pypi.org/project/odoo-addon-l10n-ro-account-bank-statement-import-mt940-base/"
+}
