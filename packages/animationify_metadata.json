@@ -1,0 +1,11 @@
+{
+  "name": "animationify",
+  "version": "0.1.0",
+  "summary": "Python library for creating 2D cartoon animations",
+  "author": "Eymen",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "animationify-0.1.0.tar.gz",
+  "download_time": "2026-01-11T11:13:47.563286",
+  "package_url": "https://pypi.org/project/animationify/"
+}

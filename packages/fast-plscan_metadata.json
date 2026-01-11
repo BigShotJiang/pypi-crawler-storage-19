@@ -1,0 +1,11 @@
+{
+  "name": "fast-plscan",
+  "version": "0.1.0.post2",
+  "summary": "A fast multi-core implementation of the PLSCAN clustering algorithm.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "fast_plscan-0.1.0.post2.tar.gz",
+  "download_time": "2026-01-11T11:13:48.594333",
+  "package_url": "https://pypi.org/project/fast-plscan/"
+}

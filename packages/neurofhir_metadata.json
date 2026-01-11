@@ -1,11 +1,11 @@
 {
   "name": "neurofhir",
-  "version": "0.1.1",
+  "version": "0.1.4",
   "summary": "Geometric Deep Learning for FHIR: Temporal, Hyperbolic, and Causal Graph Tensors",
   "author": null,
-  "license": "AGPL-3.0",
+  "license": "AGPL-3.0-or-later",
   "home_page": null,
-  "download_filename": "neurofhir-0.1.1.tar.gz",
-  "download_time": "2026-01-11T10:40:35.202916",
+  "download_filename": "neurofhir-0.1.4.tar.gz",
+  "download_time": "2026-01-11T11:13:43.977920",
   "package_url": "https://pypi.org/project/neurofhir/"
 }
