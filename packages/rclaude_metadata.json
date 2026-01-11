@@ -1,11 +1,11 @@
 {
   "name": "rclaude",
-  "version": "0.2.4",
+  "version": "0.2.5",
   "summary": "Remote control for Claude Code via Telegram",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "rclaude-0.2.4.tar.gz",
-  "download_time": "2026-01-11T16:18:03.533177",
+  "download_filename": "rclaude-0.2.5.tar.gz",
+  "download_time": "2026-01-11T20:38:13.240264",
   "package_url": "https://pypi.org/project/rclaude/"
 }

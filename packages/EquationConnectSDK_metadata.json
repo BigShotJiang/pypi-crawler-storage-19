@@ -1,0 +1,11 @@
+{
+  "name": "EquationConnectSDK",
+  "version": "0.3.1",
+  "summary": "A Python SDK for interacting with Equation Connect devices.",
+  "author": "Carles Ibáñez",
+  "license": null,
+  "home_page": "https://github.com/carlesibanez/Equation-Connect-SDK",
+  "download_filename": "equationconnectsdk-0.3.1.tar.gz",
+  "download_time": "2026-01-11T20:38:09.501244",
+  "package_url": "https://pypi.org/project/EquationConnectSDK/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "osmsatlab",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "summary": "A library for calculating accessibility and equity metrics using OpenStreetMap data.",
   "author": "David Reyes",
   "license": null,
   "home_page": null,
-  "download_filename": "osmsatlab-1.0.0.tar.gz",
-  "download_time": "2026-01-11T19:29:34.618298",
+  "download_filename": "osmsatlab-1.0.1.tar.gz",
+  "download_time": "2026-01-11T20:38:24.106212",
   "package_url": "https://pypi.org/project/osmsatlab/"
 }

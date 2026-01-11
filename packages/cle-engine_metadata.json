@@ -1,0 +1,11 @@
+{
+  "name": "cle-engine",
+  "version": "0.1.0",
+  "summary": "Python SDK for the CLE Engine API - Continuing Legal Education deadline computation",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "cle_engine-0.1.0.tar.gz",
+  "download_time": "2026-01-11T20:38:28.859211",
+  "package_url": "https://pypi.org/project/cle-engine/"
+}

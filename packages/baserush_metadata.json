@@ -1,0 +1,11 @@
+{
+  "name": "baserush",
+  "version": "0.0.2",
+  "summary": "An easy-to-use regression pipeline to preprocess, analyze, and optimize models.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "baserush-0.0.2.tar.gz",
+  "download_time": "2026-01-11T20:38:21.863709",
+  "package_url": "https://pypi.org/project/baserush/"
+}

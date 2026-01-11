@@ -1,0 +1,11 @@
+{
+  "name": "supacrawl",
+  "version": "2026.1.0",
+  "summary": "Zero-infrastructure CLI web scraper with LLM extraction.",
+  "author": "poodle64",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "supacrawl-2026.1.0.tar.gz",
+  "download_time": "2026-01-11T20:38:13.764383",
+  "package_url": "https://pypi.org/project/supacrawl/"
+}
