@@ -1,0 +1,11 @@
+{
+  "name": "fluxtokens",
+  "version": "1.0.0",
+  "summary": "Official FluxTokens API SDK - Access GPT-4.1, Gemini 2.5 and more at 30% lower cost",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "fluxtokens-1.0.0.tar.gz",
+  "download_time": "2026-01-11T22:37:04.274656",
+  "package_url": "https://pypi.org/project/fluxtokens/"
+}

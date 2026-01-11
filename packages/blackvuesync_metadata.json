@@ -1,0 +1,11 @@
+{
+  "name": "blackvuesync",
+  "version": "2.1.1",
+  "summary": "Synchronize recordings from BlackVue dashcams to a local directory",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "blackvuesync-2.1.1.tar.gz",
+  "download_time": "2026-01-11T22:37:21.591370",
+  "package_url": "https://pypi.org/project/blackvuesync/"
+}

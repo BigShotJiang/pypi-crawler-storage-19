@@ -1,11 +1,11 @@
 {
   "name": "dominus-sdk-python",
-  "version": "2.5.3",
+  "version": "2.5.4",
   "summary": "Python SDK for the Dominus Orchestrator Platform",
   "author": null,
   "license": "Proprietary",
   "home_page": null,
-  "download_filename": "dominus_sdk_python-2.5.3.tar.gz",
-  "download_time": "2026-01-11T20:16:51.098227",
+  "download_filename": "dominus_sdk_python-2.5.4.tar.gz",
+  "download_time": "2026-01-11T22:37:03.206250",
   "package_url": "https://pypi.org/project/dominus-sdk-python/"
 }

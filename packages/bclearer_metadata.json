@@ -1,0 +1,11 @@
+{
+  "name": "bclearer",
+  "version": "0.1.7",
+  "summary": "A collection of interop, core, and orchestration services for the bclearer framework",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "bclearer-0.1.7.tar.gz",
+  "download_time": "2026-01-11T22:37:02.686421",
+  "package_url": "https://pypi.org/project/bclearer/"
+}

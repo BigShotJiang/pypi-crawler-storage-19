@@ -1,0 +1,11 @@
+{
+  "name": "repoguard-cli",
+  "version": "1.0.0",
+  "summary": "Automated Code Security Scanner - Find security vulnerabilities before they find you",
+  "author": "RepoGuard Team",
+  "license": "MIT",
+  "home_page": "https://github.com/repoguard/repoguard",
+  "download_filename": "repoguard_cli-1.0.0.tar.gz",
+  "download_time": "2026-01-11T22:37:05.324187",
+  "package_url": "https://pypi.org/project/repoguard-cli/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "cmdorc",
-  "version": "0.10.0",
+  "version": "0.11.0",
   "summary": "Async-first, trigger-driven shell command orchestrator for TUIs and agents",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "cmdorc-0.10.0.tar.gz",
-  "download_time": "2026-01-11T03:21:06.434118",
+  "download_filename": "cmdorc-0.11.0.tar.gz",
+  "download_time": "2026-01-11T22:37:31.036208",
   "package_url": "https://pypi.org/project/cmdorc/"
 }

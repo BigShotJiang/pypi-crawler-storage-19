@@ -1,0 +1,11 @@
+{
+  "name": "tjex",
+  "version": "0.3.0",
+  "summary": "A Tabular Json Explorer",
+  "author": "Justin Knapheide",
+  "license": null,
+  "home_page": null,
+  "download_filename": "tjex-0.3.0.tar.gz",
+  "download_time": "2026-01-11T22:37:12.883079",
+  "package_url": "https://pypi.org/project/tjex/"
+}
