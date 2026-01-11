@@ -1,0 +1,11 @@
+{
+  "name": "moocore",
+  "version": "0.2.0",
+  "summary": "Core Algorithms for Multi-Objective Optimization",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "moocore-0.2.0.tar.gz",
+  "download_time": "2026-01-11T11:49:55.096235",
+  "package_url": "https://pypi.org/project/moocore/"
+}

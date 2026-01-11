@@ -1,11 +1,11 @@
 {
   "name": "sound-scape-explorer",
-  "version": "14.0.9",
+  "version": "14.0.10",
   "summary": "SoundScapeExplorer",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "sound_scape_explorer-14.0.9.tar.gz",
-  "download_time": "2026-01-10T07:49:19.852960",
+  "download_filename": "sound_scape_explorer-14.0.10.tar.gz",
+  "download_time": "2026-01-11T11:49:50.474122",
   "package_url": "https://pypi.org/project/sound-scape-explorer/"
 }

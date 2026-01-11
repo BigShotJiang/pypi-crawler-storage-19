@@ -1,0 +1,11 @@
+{
+  "name": "at-cascade",
+  "version": "2026.0.0",
+  "summary": "Cascading dismod_at from parent to child regions",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "at_cascade-2026.0.0.tar.gz",
+  "download_time": "2026-01-11T11:50:00.268299",
+  "package_url": "https://pypi.org/project/at-cascade/"
+}
