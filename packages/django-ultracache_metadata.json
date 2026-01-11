@@ -1,0 +1,11 @@
+{
+  "name": "django-ultracache",
+  "version": "2.3",
+  "summary": "Cache views, template fragments and arbitrary Python code. Monitor Django object changes to perform automatic fine-grained cache invalidation from Django level, through proxies, to the browser. Make Django really fast.",
+  "author": "Hedley Roos",
+  "license": "BSD",
+  "home_page": "http://github.com/hedleyroos/django-ultracache",
+  "download_filename": "django_ultracache-2.3.tar.gz",
+  "download_time": "2026-01-11T10:40:04.437304",
+  "package_url": "https://pypi.org/project/django-ultracache/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "pypmxvmd",
-  "version": "2.0.1",
+  "version": "2.6.0",
   "summary": "Wrapper for reading and modifying VMD and PMX files",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pypmxvmd-2.0.1.tar.gz",
-  "download_time": "2026-01-07T10:47:56.416412",
+  "download_filename": "pypmxvmd-2.6.0.tar.gz",
+  "download_time": "2026-01-11T10:40:20.745269",
   "package_url": "https://pypi.org/project/pypmxvmd/"
 }

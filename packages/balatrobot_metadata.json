@@ -1,0 +1,11 @@
+{
+  "name": "balatrobot",
+  "version": "1.3.0",
+  "summary": "API for developing Balatro bots",
+  "author": "stirby, giewev, besteon, phughesion",
+  "license": null,
+  "home_page": null,
+  "download_filename": "balatrobot-1.3.0.tar.gz",
+  "download_time": "2026-01-11T10:40:17.987377",
+  "package_url": "https://pypi.org/project/balatrobot/"
+}

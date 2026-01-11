@@ -1,0 +1,11 @@
+{
+  "name": "pytak",
+  "version": "7.2.1",
+  "summary": "PyTAK is a Python package for rapid TAK integration.",
+  "author": null,
+  "license": "Apache 2.0",
+  "home_page": "https://github.com/snstac/pytak",
+  "download_filename": "pytak-7.2.1.tar.gz",
+  "download_time": "2026-01-11T10:40:22.900557",
+  "package_url": "https://pypi.org/project/pytak/"
+}
