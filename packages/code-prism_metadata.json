@@ -1,11 +1,11 @@
 {
   "name": "code-prism",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "summary": "Code Prism - MCP server for intelligent codebase exploration with multi-LLM support and dependency analysis",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "code_prism-0.2.0-py3-none-any.whl",
-  "download_time": "2026-01-11T10:20:02.402898",
+  "download_filename": "code_prism-0.2.1-py3-none-any.whl",
+  "download_time": "2026-01-11T11:32:25.335571",
   "package_url": "https://pypi.org/project/code-prism/"
 }
