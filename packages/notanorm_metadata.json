@@ -1,11 +1,11 @@
 {
   "name": "notanorm",
-  "version": "3.10.1",
+  "version": "3.10.2",
   "summary": "DB wrapper library",
   "author": null,
   "license": null,
   "home_page": "https://github.com/AtakamaLLC/notanorm",
-  "download_filename": "notanorm-3.10.1-py3-none-any.whl",
-  "download_time": "2026-01-11T15:51:14.439905",
+  "download_filename": "notanorm-3.10.2-py3-none-any.whl",
+  "download_time": "2026-01-11T16:48:04.203910",
   "package_url": "https://pypi.org/project/notanorm/"
 }

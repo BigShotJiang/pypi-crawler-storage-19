@@ -1,11 +1,11 @@
 {
   "name": "brainlessdb",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "Schema-first async persistence for NATS JetStream KV",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "brainlessdb-0.1.0.tar.gz",
-  "download_time": "2026-01-11T15:51:12.314280",
+  "download_filename": "brainlessdb-0.1.1.tar.gz",
+  "download_time": "2026-01-11T16:48:02.079035",
   "package_url": "https://pypi.org/project/brainlessdb/"
 }
