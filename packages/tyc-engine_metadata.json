@@ -1,11 +1,11 @@
 {
   "name": "tyc-engine",
-  "version": "0.5.83",
+  "version": "0.5.90",
   "summary": "Lоl",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "tyc_engine-0.5.83.tar.gz",
-  "download_time": "2026-01-11T09:15:48.888460",
+  "download_filename": "tyc_engine-0.5.90.tar.gz",
+  "download_time": "2026-01-11T09:39:48.968030",
   "package_url": "https://pypi.org/project/tyc-engine/"
 }
