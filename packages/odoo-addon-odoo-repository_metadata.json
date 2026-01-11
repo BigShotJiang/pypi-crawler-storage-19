@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-odoo-repository",
+  "version": "16.0.1.4.3",
+  "summary": "Base module to host data collected from Odoo repositories.",
+  "author": "Camptocamp, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/camptocamp/odoo-repository",
+  "download_filename": "odoo_addon_odoo_repository-16.0.1.4.3-py3-none-any.whl",
+  "download_time": "2026-01-11T12:27:48.377750",
+  "package_url": "https://pypi.org/project/odoo-addon-odoo-repository/"
+}

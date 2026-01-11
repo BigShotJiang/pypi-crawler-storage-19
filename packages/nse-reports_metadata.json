@@ -1,11 +1,11 @@
 {
   "name": "nse-reports",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "summary": "A library to download NSE FO Bhavcopy reports",
   "author": "Alok Kumar Yadav",
   "license": null,
   "home_page": null,
-  "download_filename": "nse_reports-1.0.3.tar.gz",
-  "download_time": "2026-01-11T11:32:06.605194",
+  "download_filename": "nse_reports-1.0.4.tar.gz",
+  "download_time": "2026-01-11T12:27:58.484383",
   "package_url": "https://pypi.org/project/nse-reports/"
 }

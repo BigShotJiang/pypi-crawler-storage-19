@@ -1,0 +1,11 @@
+{
+  "name": "quantrs2",
+  "version": "0.1.0rc1",
+  "summary": "High-performance quantum computing framework with ML, error mitigation, and annealing capabilities",
+  "author": "QuantRS2 Contributors",
+  "license": "MIT/Apache-2.0",
+  "home_page": null,
+  "download_filename": "quantrs2-0.1.0rc1.tar.gz",
+  "download_time": "2026-01-11T12:28:00.149718",
+  "package_url": "https://pypi.org/project/quantrs2/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "strawberry-django-extras",
+  "version": "0.2.6",
+  "summary": "Strawberry GraphQL Django Extras",
+  "author": "Giorgos Gernas",
+  "license": "MIT",
+  "home_page": "https://github.com/m4riok/strawberry-django-extras",
+  "download_filename": "strawberry_django_extras-0.2.6.tar.gz",
+  "download_time": "2026-01-11T12:27:49.672153",
+  "package_url": "https://pypi.org/project/strawberry-django-extras/"
+}

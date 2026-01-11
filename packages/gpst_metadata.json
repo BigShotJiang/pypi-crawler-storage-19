@@ -1,0 +1,11 @@
+{
+  "name": "gpst",
+  "version": "0.6.1",
+  "summary": "GPS Tools - A collection of tools to work with GPS track files.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "gpst-0.6.1.tar.gz",
+  "download_time": "2026-01-11T12:27:21.067995",
+  "package_url": "https://pypi.org/project/gpst/"
+}
