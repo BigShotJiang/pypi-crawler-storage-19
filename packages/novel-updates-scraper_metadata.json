@@ -1,11 +1,11 @@
 {
   "name": "novel-updates-scraper",
-  "version": "0.0.1",
+  "version": "0.1.4",
   "summary": "An API to query the novel updates website ",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "novel_updates_scraper-0.0.1.tar.gz",
-  "download_time": "2026-01-11T07:17:21.507234",
+  "download_filename": "novel_updates_scraper-0.1.4.tar.gz",
+  "download_time": "2026-01-11T07:41:19.475704",
   "package_url": "https://pypi.org/project/novel-updates-scraper/"
 }

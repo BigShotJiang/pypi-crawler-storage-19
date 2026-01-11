@@ -1,11 +1,11 @@
 {
   "name": "strands-vllm",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "summary": "Community vLLM provider utilities for Strands Agents (OpenAI-compatible).",
   "author": "Strands Community",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "strands_vllm-0.0.3.tar.gz",
-  "download_time": "2026-01-09T05:48:23.639692",
+  "download_filename": "strands_vllm-0.0.4.tar.gz",
+  "download_time": "2026-01-11T07:41:11.286721",
   "package_url": "https://pypi.org/project/strands-vllm/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "pyninaapiio",
-  "version": "0.2.2.13.1",
+  "version": "0.2.2.13.2",
   "summary": "Python Wrapper for N.I.N.A. Advanced API",
   "author": "Markus Winkler",
   "license": "MIT",
   "home_page": "https://github.com/mawinkler/pyninaapiio",
-  "download_filename": "pyninaapiio-0.2.2.13.1.tar.gz",
-  "download_time": "2026-01-10T07:32:45.118958",
+  "download_filename": "pyninaapiio-0.2.2.13.2.tar.gz",
+  "download_time": "2026-01-11T07:41:23.294923",
   "package_url": "https://pypi.org/project/pyninaapiio/"
 }

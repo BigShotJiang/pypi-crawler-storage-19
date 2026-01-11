@@ -1,11 +1,11 @@
 {
   "name": "unreal-llm-sandbox",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "summary": "LLM Sandbox For Unreal Engine",
   "author": "NeuralVFX",
   "license": "MIT License",
   "home_page": "https://github.com/NeuralVFX/unreal-llm-sandbox",
-  "download_filename": "unreal_llm_sandbox-0.0.2.tar.gz",
-  "download_time": "2026-01-08T18:19:26.655564",
+  "download_filename": "unreal_llm_sandbox-0.0.3.tar.gz",
+  "download_time": "2026-01-11T07:41:05.657994",
   "package_url": "https://pypi.org/project/unreal-llm-sandbox/"
 }
