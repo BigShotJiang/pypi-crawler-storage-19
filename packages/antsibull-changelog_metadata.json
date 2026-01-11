@@ -1,0 +1,11 @@
+{
+  "name": "antsibull-changelog",
+  "version": "0.35.0",
+  "summary": "Changelog tool for Ansible-core and Ansible collections",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "antsibull_changelog-0.35.0.tar.gz",
+  "download_time": "2026-01-11T13:42:55.022072",
+  "package_url": "https://pypi.org/project/antsibull-changelog/"
+}

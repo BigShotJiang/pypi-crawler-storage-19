@@ -1,11 +1,11 @@
 {
   "name": "texjam",
-  "version": "0.5.2",
+  "version": "0.5.4",
   "summary": "A tool for managing LaTeX project templates.",
   "author": "Quaerent",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "texjam-0.5.2.tar.gz",
-  "download_time": "2026-01-11T13:08:03.174869",
+  "download_filename": "texjam-0.5.4.tar.gz",
+  "download_time": "2026-01-11T13:43:07.930913",
   "package_url": "https://pypi.org/project/texjam/"
 }

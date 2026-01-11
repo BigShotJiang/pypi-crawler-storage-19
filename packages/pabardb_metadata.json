@@ -1,0 +1,11 @@
+{
+  "name": "pabardb",
+  "version": "0.1.2",
+  "summary": "PABAR DB Python SDK (embedded, local-first database engine)",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pabardb-0.1.2.tar.gz",
+  "download_time": "2026-01-11T13:42:49.388336",
+  "package_url": "https://pypi.org/project/pabardb/"
+}

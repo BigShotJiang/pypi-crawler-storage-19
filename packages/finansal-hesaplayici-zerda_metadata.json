@@ -1,0 +1,11 @@
+{
+  "name": "finansal-hesaplayici-zerda",
+  "version": "0.1.0",
+  "summary": "Finansal matematik hesaplamaları: peşin değer, gelecek değer ve anüiteler",
+  "author": "Zerda Taşir",
+  "license": null,
+  "home_page": null,
+  "download_filename": "finansal_hesaplayici_zerda-0.1.0.tar.gz",
+  "download_time": "2026-01-11T13:42:45.439266",
+  "package_url": "https://pypi.org/project/finansal-hesaplayici-zerda/"
+}

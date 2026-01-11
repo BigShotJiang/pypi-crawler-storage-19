@@ -1,0 +1,11 @@
+{
+  "name": "pyhandbrake",
+  "version": "2.0.1",
+  "summary": "Python library to interface with HandBrakeCLI",
+  "author": "Dominic Price",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pyhandbrake-2.0.1.tar.gz",
+  "download_time": "2026-01-11T13:43:15.310963",
+  "package_url": "https://pypi.org/project/pyhandbrake/"
+}

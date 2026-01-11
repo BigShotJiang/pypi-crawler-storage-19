@@ -1,0 +1,11 @@
+{
+  "name": "dbt-loom",
+  "version": "0.9.3",
+  "summary": "A dbt-core plugin to import public nodes in multi-project deployments.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "dbt_loom-0.9.3.tar.gz",
+  "download_time": "2026-01-11T13:43:17.411927",
+  "package_url": "https://pypi.org/project/dbt-loom/"
+}

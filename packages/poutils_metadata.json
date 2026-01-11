@@ -1,0 +1,11 @@
+{
+  "name": "poutils",
+  "version": "0.24",
+  "summary": "Gettext related tools: spellcheck, line wrapping etc...",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "poutils-0.24.tar.gz",
+  "download_time": "2026-01-11T13:43:28.219605",
+  "package_url": "https://pypi.org/project/poutils/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "commitlint",
+  "version": "1.13.3",
+  "summary": "commitlint is a pre-commit hook designed to lint your commit messages according to the Conventional Commits standard.",
+  "author": "Ajesh Sen Thapa",
+  "license": "GPL-3.0",
+  "home_page": null,
+  "download_filename": "commitlint-1.13.3.tar.gz",
+  "download_time": "2026-01-11T13:43:28.743072",
+  "package_url": "https://pypi.org/project/commitlint/"
+}

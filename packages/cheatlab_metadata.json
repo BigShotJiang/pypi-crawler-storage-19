@@ -1,0 +1,11 @@
+{
+  "name": "cheatlab",
+  "version": "1.0.0",
+  "summary": "Python client for CheatLab API - Quick command reference storage",
+  "author": "CheatLab",
+  "license": "MIT",
+  "home_page": "https://github.com/yourusername/cheatlab-python",
+  "download_filename": "cheatlab-1.0.0.tar.gz",
+  "download_time": "2026-01-11T13:42:59.379091",
+  "package_url": "https://pypi.org/project/cheatlab/"
+}
