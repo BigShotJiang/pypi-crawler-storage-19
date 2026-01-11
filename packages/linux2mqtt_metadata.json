@@ -1,11 +1,11 @@
 {
   "name": "linux2mqtt",
-  "version": "1.8.1",
+  "version": "1.8.2",
   "summary": "Send your linux stats and and events to mqtt and discovery them in home assistant.",
   "author": null,
   "license": "MIT License",
   "home_page": null,
-  "download_filename": "linux2mqtt-1.8.1.tar.gz",
-  "download_time": "2026-01-11T17:13:47.257423",
+  "download_filename": "linux2mqtt-1.8.2.tar.gz",
+  "download_time": "2026-01-11T17:33:27.631360",
   "package_url": "https://pypi.org/project/linux2mqtt/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "donusum-dagilimlari-bulma",
+  "version": "0.1.0",
+  "summary": "Olasılık dağılımlarında dönüşüm teknikleri (df, oyf, mcf)",
+  "author": "Sadiye Agirman",
+  "license": null,
+  "home_page": null,
+  "download_filename": "donusum_dagilimlari_bulma-0.1.0.tar.gz",
+  "download_time": "2026-01-11T17:33:23.916420",
+  "package_url": "https://pypi.org/project/donusum-dagilimlari-bulma/"
+}

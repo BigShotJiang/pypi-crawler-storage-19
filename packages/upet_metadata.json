@@ -1,0 +1,11 @@
+{
+  "name": "upet",
+  "version": "0.1.0",
+  "summary": "A universal interatomic potential for advanced materials modeling",
+  "author": "Filippo Bigi, Matthias Kellner, Paolo Pegolo, Davide Tisi, Guillaume Fraux, Sergey Pozdnyakov, Philip Loche",
+  "license": "BSD-3-Clause",
+  "home_page": null,
+  "download_filename": "upet-0.1.0.tar.gz",
+  "download_time": "2026-01-11T17:33:16.568386",
+  "package_url": "https://pypi.org/project/upet/"
+}

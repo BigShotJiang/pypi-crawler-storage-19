@@ -1,0 +1,11 @@
+{
+  "name": "dibisoplot",
+  "version": "0.9",
+  "summary": "A Python library for plotting bibliometric research data, developed at the DiBISO.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "dibisoplot-0.9.tar.gz",
+  "download_time": "2026-01-11T17:33:33.397245",
+  "package_url": "https://pypi.org/project/dibisoplot/"
+}
