@@ -1,0 +1,11 @@
+{
+  "name": "pytorch-retrieve",
+  "version": "0.1.6",
+  "summary": "A framework for building remote sensing retrievals based on PyTorch and",
+  "author": null,
+  "license": "BSD-3-Clause",
+  "home_page": null,
+  "download_filename": "pytorch_retrieve-0.1.6.tar.gz",
+  "download_time": "2026-01-12T06:27:37.806830",
+  "package_url": "https://pypi.org/project/pytorch-retrieve/"
+}

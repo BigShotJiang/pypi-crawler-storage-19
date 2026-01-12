@@ -1,11 +1,11 @@
 {
   "name": "liteai-sdk",
-  "version": "0.5.1",
+  "version": "0.5.4",
   "summary": "A wrapper of LiteLLM",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "liteai_sdk-0.5.1.tar.gz",
-  "download_time": "2026-01-10T15:14:32.936479",
+  "download_filename": "liteai_sdk-0.5.4.tar.gz",
+  "download_time": "2026-01-12T06:27:32.665445",
   "package_url": "https://pypi.org/project/liteai-sdk/"
 }

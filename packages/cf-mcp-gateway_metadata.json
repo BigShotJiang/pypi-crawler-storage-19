@@ -1,0 +1,11 @@
+{
+  "name": "cf-mcp-gateway",
+  "version": "1.0.0",
+  "summary": "Centralized MCP Gateway for Cloudflare services",
+  "author": "Cloudflare MCP Gateway Contributors",
+  "license": null,
+  "home_page": null,
+  "download_filename": "cf_mcp_gateway-1.0.0.tar.gz",
+  "download_time": "2026-01-12T06:27:41.217790",
+  "package_url": "https://pypi.org/project/cf-mcp-gateway/"
+}

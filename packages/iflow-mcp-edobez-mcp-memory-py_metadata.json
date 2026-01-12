@@ -1,0 +1,11 @@
+{
+  "name": "iflow-mcp-edobez-mcp-memory-py",
+  "version": "0.2.1",
+  "summary": "MCP server for enabling memory for Claude through a knowledge graph",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "iflow_mcp_edobez_mcp_memory_py-0.2.1.tar.gz",
+  "download_time": "2026-01-12T06:27:42.935313",
+  "package_url": "https://pypi.org/project/iflow-mcp-edobez-mcp-memory-py/"
+}

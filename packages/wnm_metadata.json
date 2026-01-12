@@ -1,11 +1,11 @@
 {
   "name": "wnm",
-  "version": "0.5.4",
+  "version": "0.5.5",
   "summary": "Manager for Autonomi nodes",
   "author": null,
   "license": "GPL-3.0",
   "home_page": null,
-  "download_filename": "wnm-0.5.4.tar.gz",
-  "download_time": "2026-01-12T05:09:56.644346",
+  "download_filename": "wnm-0.5.5.tar.gz",
+  "download_time": "2026-01-12T06:27:33.252000",
   "package_url": "https://pypi.org/project/wnm/"
 }
