@@ -1,0 +1,11 @@
+{
+  "name": "yfinance-mcp",
+  "version": "0.1.0",
+  "summary": "MCP Server for Yahoo Finance API - AI-friendly financial data tools",
+  "author": "YFinance MCP Contributors",
+  "license": null,
+  "home_page": null,
+  "download_filename": "yfinance_mcp-0.1.0.tar.gz",
+  "download_time": "2026-01-12T07:32:28.578196",
+  "package_url": "https://pypi.org/project/yfinance-mcp/"
+}

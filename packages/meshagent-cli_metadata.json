@@ -1,11 +1,11 @@
 {
   "name": "meshagent-cli",
-  "version": "0.20.2",
+  "version": "0.20.4",
   "summary": "CLI for Meshagent",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "meshagent_cli-0.20.2.tar.gz",
-  "download_time": "2026-01-11T03:20:27.012929",
+  "download_filename": "meshagent_cli-0.20.4.tar.gz",
+  "download_time": "2026-01-12T07:33:04.160054",
   "package_url": "https://pypi.org/project/meshagent-cli/"
 }

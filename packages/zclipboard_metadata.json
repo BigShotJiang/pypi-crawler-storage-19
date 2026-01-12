@@ -1,11 +1,11 @@
 {
   "name": "zclipboard",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "summary": "Cross-platform clipboard manipulation module for Python",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "zclipboard-1.0.0.tar.gz",
-  "download_time": "2026-01-12T07:02:10.826089",
+  "download_filename": "zclipboard-1.0.1.tar.gz",
+  "download_time": "2026-01-12T07:32:35.773150",
   "package_url": "https://pypi.org/project/zclipboard/"
 }

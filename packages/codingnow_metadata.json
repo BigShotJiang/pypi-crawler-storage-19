@@ -1,11 +1,11 @@
 {
   "name": "codingnow",
-  "version": "0.1.44",
+  "version": "0.1.45",
   "summary": "A simple example Python package",
   "author": "codingnow",
   "license": null,
   "home_page": "https://github.com/cflab2017/codingnow_py",
-  "download_filename": "codingnow-0.1.44.tar.gz",
-  "download_time": "2026-01-12T06:27:58.343710",
+  "download_filename": "codingnow-0.1.45.tar.gz",
+  "download_time": "2026-01-12T07:32:58.995650",
   "package_url": "https://pypi.org/project/codingnow/"
 }

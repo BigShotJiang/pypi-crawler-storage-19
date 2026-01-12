@@ -1,11 +1,11 @@
 {
   "name": "meshagent-markitdown",
-  "version": "0.20.3",
+  "version": "0.20.4",
   "summary": "Markitdown support for Meshagent",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "meshagent_markitdown-0.20.3.tar.gz",
-  "download_time": "2026-01-11T03:20:25.344369",
+  "download_filename": "meshagent_markitdown-0.20.4.tar.gz",
+  "download_time": "2026-01-12T07:33:07.227344",
   "package_url": "https://pypi.org/project/meshagent-markitdown/"
 }

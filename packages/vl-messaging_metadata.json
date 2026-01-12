@@ -1,11 +1,11 @@
 {
   "name": "vl-messaging",
-  "version": "2026.1.10",
+  "version": "2026.1.11",
   "summary": "Light-weight peer-to-peer messaging",
   "author": "David Briant",
   "license": "OSI Approved :: Apache Software License",
   "home_page": "https://github.com/DangerMouseB/VLMessaging",
-  "download_filename": "vl_messaging-2026.1.10.tar.gz",
-  "download_time": "2026-01-12T07:01:46.898241",
+  "download_filename": "vl_messaging-2026.1.11.tar.gz",
+  "download_time": "2026-01-12T07:32:56.950962",
   "package_url": "https://pypi.org/project/vl-messaging/"
 }

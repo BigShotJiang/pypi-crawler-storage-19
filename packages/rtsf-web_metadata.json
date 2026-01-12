@@ -1,0 +1,11 @@
+{
+  "name": "rtsf-web",
+  "version": "1.4.2",
+  "summary": "only for web ui test, base on rtsf",
+  "author": "RockFeng0",
+  "license": "MIT",
+  "home_page": "https://github.com/RockFeng0/rtsf-web",
+  "download_filename": "rtsf_web-1.4.2-py2.py3-none-any.whl",
+  "download_time": "2026-01-12T07:32:52.809875",
+  "package_url": "https://pypi.org/project/rtsf-web/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "authfn",
+  "version": "0.1.0",
+  "summary": "API key authentication library using Superfunctions abstractions for Python",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "authfn-0.1.0.tar.gz",
+  "download_time": "2026-01-12T07:32:50.213623",
+  "package_url": "https://pypi.org/project/authfn/"
+}

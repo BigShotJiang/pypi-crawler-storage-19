@@ -1,0 +1,11 @@
+{
+  "name": "openplantbook-sdk",
+  "version": "0.6.0",
+  "summary": "Open Plantbook SDK for Python",
+  "author": "Slava Pisarevskiy",
+  "license": "\"MIT\"",
+  "home_page": "https://github.com/slaxor505/openplantbook-sdk-py",
+  "download_filename": "openplantbook_sdk-0.6.0.tar.gz",
+  "download_time": "2026-01-12T07:32:58.485388",
+  "package_url": "https://pypi.org/project/openplantbook-sdk/"
+}

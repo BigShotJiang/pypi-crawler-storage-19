@@ -1,0 +1,11 @@
+{
+  "name": "wrchart",
+  "version": "0.1.4",
+  "summary": "Interactive financial charting library with Polars support and TradingView-style aesthetics",
+  "author": "Wayy Research",
+  "license": null,
+  "home_page": "https://github.com/wayy-research/wrchart",
+  "download_filename": "wrchart-0.1.4.tar.gz",
+  "download_time": "2026-01-12T07:32:54.341798",
+  "package_url": "https://pypi.org/project/wrchart/"
+}
