@@ -1,11 +1,11 @@
 {
   "name": "datafold-sdk",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "summary": "The datafold SDK",
   "author": "Datafold",
   "license": "MIT",
   "home_page": "https://pypi.org/project/datafold-sdk",
-  "download_filename": "datafold_sdk-0.2.0.tar.gz",
-  "download_time": "2026-01-08T08:52:52.499485",
+  "download_filename": "datafold_sdk-0.2.1.tar.gz",
+  "download_time": "2026-01-12T11:54:24.843206",
   "package_url": "https://pypi.org/project/datafold-sdk/"
 }

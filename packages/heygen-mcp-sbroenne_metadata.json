@@ -1,11 +1,11 @@
 {
   "name": "heygen-mcp-sbroenne",
-  "version": "0.1.0",
+  "version": "0.2.1",
   "summary": "HeyGen MCP Server for AI Video Creation (Community Fork)",
   "author": "Stefan Brenner",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "heygen_mcp_sbroenne-0.1.0.tar.gz",
-  "download_time": "2026-01-12T10:51:57.396377",
+  "download_filename": "heygen_mcp_sbroenne-0.2.1.tar.gz",
+  "download_time": "2026-01-12T11:54:11.847509",
   "package_url": "https://pypi.org/project/heygen-mcp-sbroenne/"
 }

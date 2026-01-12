@@ -1,11 +1,11 @@
 {
   "name": "kiarina-lib-google-cloud-storage",
-  "version": "1.26.0",
+  "version": "1.27.0",
   "summary": "Google Cloud Storage client library for kiarina namespace",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "kiarina_lib_google_cloud_storage-1.26.0.tar.gz",
-  "download_time": "2026-01-09T06:56:30.934253",
+  "download_filename": "kiarina_lib_google_cloud_storage-1.27.0.tar.gz",
+  "download_time": "2026-01-12T11:54:47.121821",
   "package_url": "https://pypi.org/project/kiarina-lib-google-cloud-storage/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "colbert-export",
+  "version": "0.1.0",
+  "summary": "Export HuggingFace ColBERT models to ONNX format for Rust inference",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "colbert_export-0.1.0.tar.gz",
+  "download_time": "2026-01-12T11:54:54.963120",
+  "package_url": "https://pypi.org/project/colbert-export/"
+}

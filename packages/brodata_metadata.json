@@ -1,0 +1,11 @@
+{
+  "name": "brodata",
+  "version": "0.1.5",
+  "summary": "A Python-package to download and process subsurface data from DINO and BRO",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "brodata-0.1.5.tar.gz",
+  "download_time": "2026-01-12T11:54:31.018469",
+  "package_url": "https://pypi.org/project/brodata/"
+}
