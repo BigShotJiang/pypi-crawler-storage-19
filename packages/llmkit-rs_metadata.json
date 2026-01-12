@@ -1,0 +1,11 @@
+{
+  "name": "llmkit-rs",
+  "version": "0.0.1",
+  "summary": "Unified LLM API client (placeholder)",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "llmkit_rs-0.0.1.tar.gz",
+  "download_time": "2026-01-12T03:18:49.017071",
+  "package_url": "https://pypi.org/project/llmkit-rs/"
+}

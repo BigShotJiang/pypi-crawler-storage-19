@@ -1,0 +1,11 @@
+{
+  "name": "gitex",
+  "version": "0.2.10",
+  "summary": "Terminal tool to prep codebases for LLMs",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "gitex-0.2.10.tar.gz",
+  "download_time": "2026-01-12T03:18:45.894612",
+  "package_url": "https://pypi.org/project/gitex/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "attack-query",
+  "version": "0.6.0",
+  "summary": "Programmatic queries on MITRE ATT&CK threat actor techniques with natural language support",
+  "author": "Stephen Wood",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "attack_query-0.6.0.tar.gz",
+  "download_time": "2026-01-12T03:18:32.908665",
+  "package_url": "https://pypi.org/project/attack-query/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "tinyprove",
+  "version": "0.1.0",
+  "summary": "Tiny CoC-based theorem prover with inductive types",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "tinyprove-0.1.0.tar.gz",
+  "download_time": "2026-01-12T03:18:47.459794",
+  "package_url": "https://pypi.org/project/tinyprove/"
+}

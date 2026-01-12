@@ -1,0 +1,11 @@
+{
+  "name": "claude-harness",
+  "version": "3.3.4",
+  "summary": "Production-ready autonomous coding harness using Claude Code SDK",
+  "author": "Nirmalarya",
+  "license": null,
+  "home_page": "https://github.com/nirmalarya/claude-harness",
+  "download_filename": "claude_harness-3.3.4.tar.gz",
+  "download_time": "2026-01-12T03:18:31.871371",
+  "package_url": "https://pypi.org/project/claude-harness/"
+}
