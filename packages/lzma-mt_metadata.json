@@ -1,0 +1,11 @@
+{
+  "name": "lzma-mt",
+  "version": "0.1.4",
+  "summary": "Multi-threaded LZMA/XZ compression via Cython wrapper around liblzma",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "lzma_mt-0.1.4.tar.gz",
+  "download_time": "2026-01-12T05:48:05.084427",
+  "package_url": "https://pypi.org/project/lzma-mt/"
+}

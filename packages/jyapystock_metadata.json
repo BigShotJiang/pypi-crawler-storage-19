@@ -1,0 +1,11 @@
+{
+  "name": "jyapystock",
+  "version": "0.3.0",
+  "summary": "Fetch live and historical stock prices for Indian and American exchanges.",
+  "author": "krishna",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "jyapystock-0.3.0.tar.gz",
+  "download_time": "2026-01-12T05:48:01.445283",
+  "package_url": "https://pypi.org/project/jyapystock/"
+}

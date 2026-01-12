@@ -1,0 +1,11 @@
+{
+  "name": "intentra",
+  "version": "0.1.10",
+  "summary": "Intentra - Cross-platform automation agent with intent-driven execution",
+  "author": "Intentra Contributors",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "intentra-0.1.10.tar.gz",
+  "download_time": "2026-01-12T05:48:02.003569",
+  "package_url": "https://pypi.org/project/intentra/"
+}

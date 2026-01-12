@@ -1,11 +1,11 @@
 {
   "name": "bea-tools",
-  "version": "0.0.3",
-  "summary": null,
+  "version": "0.0.5",
+  "summary": "Tools made by, and for, Bea - a Python toolkit for data sampling and analysis workflows",
   "author": null,
-  "license": null,
+  "license": "MIT",
   "home_page": null,
-  "download_filename": "bea_tools-0.0.3.tar.gz",
-  "download_time": "2026-01-11T23:46:20.835150",
+  "download_filename": "bea_tools-0.0.5.tar.gz",
+  "download_time": "2026-01-12T05:48:24.715651",
   "package_url": "https://pypi.org/project/bea-tools/"
 }

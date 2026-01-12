@@ -1,0 +1,11 @@
+{
+  "name": "payu",
+  "version": "1.2.1",
+  "summary": "A climate model workflow manager for supercomputing environments",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "payu-1.2.1.tar.gz",
+  "download_time": "2026-01-12T05:47:52.733006",
+  "package_url": "https://pypi.org/project/payu/"
+}
