@@ -1,0 +1,11 @@
+{
+  "name": "oubli",
+  "version": "0.1.1",
+  "summary": "Fractal memory system for Claude Code",
+  "author": "Max Leander",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "oubli-0.1.1.tar.gz",
+  "download_time": "2026-01-12T09:27:17.816010",
+  "package_url": "https://pypi.org/project/oubli/"
+}

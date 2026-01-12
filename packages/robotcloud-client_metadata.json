@@ -1,0 +1,11 @@
+{
+  "name": "robotcloud-client",
+  "version": "0.1.1",
+  "summary": "Client to interact with robotcloud API from a python project.",
+  "author": "Bernat Galmés Rubert",
+  "license": null,
+  "home_page": "https://github.com/robotmallorca/sw.module.python.robotcloud.client",
+  "download_filename": "robotcloud_client-0.1.1.tar.gz",
+  "download_time": "2026-01-12T09:27:49.407631",
+  "package_url": "https://pypi.org/project/robotcloud-client/"
+}

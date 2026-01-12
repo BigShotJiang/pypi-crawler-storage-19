@@ -1,0 +1,11 @@
+{
+  "name": "pretix-partial-cancellation",
+  "version": "0.0.2",
+  "summary": "Allow customers to partially cancel free orders in pretix",
+  "author": "Alexander Willner",
+  "license": "AGPL-3.0-or-later",
+  "home_page": null,
+  "download_filename": "pretix_partial_cancellation-0.0.2.tar.gz",
+  "download_time": "2026-01-12T09:27:26.256827",
+  "package_url": "https://pypi.org/project/pretix-partial-cancellation/"
+}

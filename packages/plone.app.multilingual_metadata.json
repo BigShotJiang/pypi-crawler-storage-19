@@ -1,0 +1,11 @@
+{
+  "name": "plone.app.multilingual",
+  "version": "8.4.0",
+  "summary": "Multilingual Plone Content package",
+  "author": "Ramon Navarro, Victor Fernandez de Alba, awello et al",
+  "license": "GPL",
+  "home_page": "https://github.com/plone/plone.app.multilingual",
+  "download_filename": "plone_app_multilingual-8.4.0.tar.gz",
+  "download_time": "2026-01-12T09:27:18.343641",
+  "package_url": "https://pypi.org/project/plone.app.multilingual/"
+}

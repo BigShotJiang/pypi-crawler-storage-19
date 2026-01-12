@@ -1,11 +1,11 @@
 {
   "name": "todo-list-mcp",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "Add your description here",
   "author": "l0kifs",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "todo_list_mcp-0.1.1.tar.gz",
-  "download_time": "2026-01-12T07:32:55.373625",
+  "download_filename": "todo_list_mcp-0.1.2.tar.gz",
+  "download_time": "2026-01-12T09:27:31.020440",
   "package_url": "https://pypi.org/project/todo-list-mcp/"
 }

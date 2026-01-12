@@ -1,11 +1,11 @@
 {
   "name": "nonebot-plugin-monitor-study",
-  "version": "0.1.1",
+  "version": "0.2.1",
   "summary": "监控指定群友发言并调用大模型进行劝阻的 NoneBot2 插件（开关状态 JSON 持久化）",
   "author": "TonyLiang",
   "license": "MIT License\n\nCopyright (c) 2026 Tony Liang\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in all\ncopies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE\nSOFTWARE.\n",
   "home_page": "https://github.com/<你的GitHub用户名>/<你的仓库名>",
-  "download_filename": "nonebot_plugin_monitor_study-0.1.1.tar.gz",
-  "download_time": "2026-01-09T08:52:57.942017",
+  "download_filename": "nonebot_plugin_monitor_study-0.2.1.tar.gz",
+  "download_time": "2026-01-12T09:27:28.413683",
   "package_url": "https://pypi.org/project/nonebot-plugin-monitor-study/"
 }

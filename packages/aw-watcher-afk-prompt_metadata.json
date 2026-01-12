@@ -1,0 +1,11 @@
+{
+  "name": "aw-watcher-afk-prompt",
+  "version": "0.1.4",
+  "summary": "Prompt for what you were doing when returning from AFK and log it in ActivityWatch",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "aw_watcher_afk_prompt-0.1.4.tar.gz",
+  "download_time": "2026-01-12T09:27:53.046707",
+  "package_url": "https://pypi.org/project/aw-watcher-afk-prompt/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "capraisis",
+  "version": "0.1.1",
+  "summary": "Modern CDS/ISIS implementation using SQLite FTS5",
+  "author": "Caprazli",
+  "license": null,
+  "home_page": "https://github.com/capraCoder/capraisis",
+  "download_filename": "capraisis-0.1.1.tar.gz",
+  "download_time": "2026-01-12T09:27:50.453146",
+  "package_url": "https://pypi.org/project/capraisis/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "borg.localrole",
+  "version": "4.0.2",
+  "summary": "A PAS plugin which can manage local roles via an adapter lookup on the current context",
+  "author": "Borg Collective",
+  "license": "LGPL",
+  "home_page": "https://pypi.org/project/borg.localrole",
+  "download_filename": "borg_localrole-4.0.2.tar.gz",
+  "download_time": "2026-01-12T09:27:16.779307",
+  "package_url": "https://pypi.org/project/borg.localrole/"
+}

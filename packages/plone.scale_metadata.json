@@ -1,0 +1,11 @@
+{
+  "name": "plone.scale",
+  "version": "4.3.0",
+  "summary": "Image scaling",
+  "author": "Plone Foundation",
+  "license": "BSD",
+  "home_page": "https://pypi.org/project/plone.scale",
+  "download_filename": "plone_scale-4.3.0.tar.gz",
+  "download_time": "2026-01-12T09:27:25.738281",
+  "package_url": "https://pypi.org/project/plone.scale/"
+}
