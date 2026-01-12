@@ -1,11 +1,11 @@
 {
   "name": "longport-mcp",
-  "version": "0.2.7",
+  "version": "0.3.0",
   "summary": "Longport Trading MCP Server - REST API + SDK hybrid",
   "author": "Hakureirm",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "longport_mcp-0.2.7.tar.gz",
-  "download_time": "2026-01-12T14:24:03.450958",
+  "download_filename": "longport_mcp-0.3.0.tar.gz",
+  "download_time": "2026-01-12T15:20:29.679154",
   "package_url": "https://pypi.org/project/longport-mcp/"
 }
