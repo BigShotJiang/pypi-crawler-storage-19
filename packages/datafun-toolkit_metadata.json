@@ -1,11 +1,11 @@
 {
   "name": "datafun-toolkit",
-  "version": "0.9.4",
+  "version": "0.9.5",
   "summary": "Privacy-safe diagnostics, paths, and logging helpers for analytics projects.",
-  "author": "Denise M. Case",
+  "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "datafun_toolkit-0.9.4.tar.gz",
-  "download_time": "2026-01-08T06:23:04.387499",
+  "download_filename": "datafun_toolkit-0.9.5.tar.gz",
+  "download_time": "2026-01-12T05:10:14.947650",
   "package_url": "https://pypi.org/project/datafun-toolkit/"
 }

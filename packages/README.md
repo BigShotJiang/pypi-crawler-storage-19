@@ -1,20 +1,62 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2026-01-12T04:36:27.927397
-- **Total Packages**: 78
-- **Total Size**: 37.82 MB
+- **Download Time**: 2026-01-12T05:10:38.642354
+- **Total Packages**: 89
+- **Total Size**: 31.21 MB
 
 ## Packages List
+- pmdsky-debug-py
+- academic-refchecker
+- guardianhub
+- ovos-skill-config-tool
+- mistode
+- aimodelshare
+- barangay
+- ras-commander
+- rwkv-x
+- cameravision
+- accml
+- agsekit
+- kiva-sdk
+- digital-valerii
+- grain-nightly
+- appinfra
+- repository-manager
+- agilicus
+- wnm
+- codecompass-ai
+- uma-api
+- abram-printer-tools
+- mltf-gateway
+- hanzo-mcp
+- booster-sdk
+- hanzo-tools-computer
+- ctgforge
+- langchain-agent-protocol
+- llcat
+- owui-client
+- mixtrain
+- fahrpc
+- keras-nlp-nightly
+- keras-hub-nightly
+- aioesphomeapi
+- summary-stack-obsidian-mcp-server
+- wappa
+- trackerhelper
+- wetwire-azure
+- cdes-m
+- wetwire-k8s
+- parsefy
+- orchard
+- pixie-sdk
+- datafun-toolkit
 - odoo-addon-rental-base
 - attack-query-mcp
-- parsefy
 - pie-server
 - glee
-- trackerhelper
 - deltacamera
 - tiebameow
-- langchain-agent-protocol
 - devlogs
 - pylipsync
 - bloggy
@@ -24,7 +66,6 @@
 - buckerio
 - viiv
 - chakpy
-- summary-stack-obsidian-mcp-server
 - QuPRS
 - contentful-webhook-receiver
 - sny-copyright-checker
@@ -38,7 +79,6 @@
 - vieneu
 - pie-client
 - ynab-tui
-- fahrpc
 - tsgettoolbox
 - envstack
 - exceeddata-sdk-vdata
@@ -55,32 +95,3 @@
 - llmops-observability
 - oagi
 - oagi-core
-- proxynt
-- hanzo-tools-computer
-- pymcm-makoto
-- classifier-pipeline
-- RLEMaskLib
-- philh_myftp_biz
-- zengin-code
-- rnow
-- chromedriver-binary
-- codec-cub
-- brs-xss
-- convdog
-- odoo-addon-sale-order-blanket-order
-- canlab
-- abram-math-tools
-- pymatio
-- sp-svg-diagram
-- PythonSimpleFunctions
-- hte-cli
-- contextlayer-mcp
-- contextlayer
-- ctxl-mcp
-- ato
-- focomy
-- wetwire-azure
-- aquiles-image
-- SpotiFLAC
-- speedy-utils
-- py-agent-tools

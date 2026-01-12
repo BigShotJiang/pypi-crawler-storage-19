@@ -1,11 +1,11 @@
 {
   "name": "langchain-agent-protocol",
-  "version": "0.1.6",
+  "version": "0.1.7",
   "summary": "A universal, framework-agnostic LangChain Agent protocol for cross-project portability",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "langchain_agent_protocol-0.1.6.tar.gz",
-  "download_time": "2026-01-12T04:35:50.170253",
+  "download_filename": "langchain_agent_protocol-0.1.7.tar.gz",
+  "download_time": "2026-01-12T05:10:02.505870",
   "package_url": "https://pypi.org/project/langchain-agent-protocol/"
 }

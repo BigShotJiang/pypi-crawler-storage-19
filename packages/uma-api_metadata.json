@@ -1,11 +1,11 @@
 {
   "name": "uma-api",
-  "version": "1.0.0",
+  "version": "1.2.0",
   "summary": "Python client library for the Unraid Management Agent API",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "uma_api-1.0.0.tar.gz",
-  "download_time": "2026-01-08T11:51:36.723082",
+  "download_filename": "uma_api-1.2.0.tar.gz",
+  "download_time": "2026-01-12T05:09:57.949477",
   "package_url": "https://pypi.org/project/uma-api/"
 }

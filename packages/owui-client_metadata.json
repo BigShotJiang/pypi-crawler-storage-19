@@ -1,0 +1,11 @@
+{
+  "name": "owui-client",
+  "version": "1.4.0",
+  "summary": "Unofficial async Python client for the complete Open WebUI API.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "owui_client-1.4.0.tar.gz",
+  "download_time": "2026-01-12T05:10:04.389595",
+  "package_url": "https://pypi.org/project/owui-client/"
+}

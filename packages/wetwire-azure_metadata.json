@@ -1,11 +1,11 @@
 {
   "name": "wetwire-azure",
-  "version": "0.2.0",
+  "version": "1.0.0",
   "summary": "Azure ARM/Bicep template synthesis for wetwire",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "wetwire_azure-0.2.0.tar.gz",
-  "download_time": "2026-01-12T04:36:25.340507",
+  "download_filename": "wetwire_azure-1.0.0.tar.gz",
+  "download_time": "2026-01-12T05:10:11.031320",
   "package_url": "https://pypi.org/project/wetwire-azure/"
 }

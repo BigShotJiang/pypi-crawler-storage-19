@@ -1,0 +1,11 @@
+{
+  "name": "cdes-m",
+  "version": "1.0.0",
+  "summary": "Cannabis Data Exchange Standard - Medical (CDES-M) Python SDK for healthcare interoperability",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "cdes_m-1.0.0.tar.gz",
+  "download_time": "2026-01-12T05:10:11.683288",
+  "package_url": "https://pypi.org/project/cdes-m/"
+}

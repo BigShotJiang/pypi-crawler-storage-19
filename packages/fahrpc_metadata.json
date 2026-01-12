@@ -1,11 +1,11 @@
 {
   "name": "fahrpc",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "summary": "Folding@Home Discord Rich Presence - Monitor GPU folding progress in Discord",
   "author": "Bandokii",
   "license": null,
   "home_page": null,
-  "download_filename": "fahrpc-1.0.3.tar.gz",
-  "download_time": "2026-01-12T04:36:02.878172",
+  "download_filename": "fahrpc-1.0.4.tar.gz",
+  "download_time": "2026-01-12T05:10:05.695126",
   "package_url": "https://pypi.org/project/fahrpc/"
 }
