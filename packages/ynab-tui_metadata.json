@@ -1,0 +1,11 @@
+{
+  "name": "ynab-tui",
+  "version": "0.3.0",
+  "summary": "YNAB transaction categorizer with Amazon order matching",
+  "author": "Stephan Esterhuizen",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ynab_tui-0.3.0.tar.gz",
+  "download_time": "2026-01-12T04:36:02.359126",
+  "package_url": "https://pypi.org/project/ynab-tui/"
+}

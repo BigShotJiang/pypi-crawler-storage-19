@@ -1,0 +1,11 @@
+{
+  "name": "pymatio",
+  "version": "0.2.1",
+  "summary": "Fast, compact MAT file reader supporting MAT5/MAT7.3 formats within a 2MiB footprint. Eliminates dependency on bulky scipy and h5py. Based on Python binding for matio.",
+  "author": null,
+  "license": "BSD-2-Clause",
+  "home_page": null,
+  "download_filename": "pymatio-0.2.1-cp312-abi3-manylinux_2_28_x86_64.whl",
+  "download_time": "2026-01-12T04:36:20.667178",
+  "package_url": "https://pypi.org/project/pymatio/"
+}

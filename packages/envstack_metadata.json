@@ -1,0 +1,11 @@
+{
+  "name": "envstack",
+  "version": "0.9.6",
+  "summary": "Environment variable composition layer for tools and processes.",
+  "author": null,
+  "license": "BSD 3-Clause License",
+  "home_page": null,
+  "download_filename": "envstack-0.9.6.tar.gz",
+  "download_time": "2026-01-12T04:36:03.925202",
+  "package_url": "https://pypi.org/project/envstack/"
+}

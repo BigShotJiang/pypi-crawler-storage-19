@@ -1,11 +1,11 @@
 {
   "name": "summary-stack-obsidian-mcp-server",
-  "version": "0.1.0",
+  "version": "0.3.0",
   "summary": "MCP Server for creating Summary Stack notes in local Obsidian vaults",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "summary_stack_obsidian_mcp_server-0.1.0.tar.gz",
-  "download_time": "2026-01-10T17:13:46.717399",
+  "download_filename": "summary_stack_obsidian_mcp_server-0.3.0.tar.gz",
+  "download_time": "2026-01-12T04:35:55.381161",
   "package_url": "https://pypi.org/project/summary-stack-obsidian-mcp-server/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "speedy-utils",
+  "version": "1.1.35",
+  "summary": "Fast and easy-to-use package for data science",
+  "author": "AnhVTH",
+  "license": "MIT",
+  "home_page": "https://github.com/anhvth/speedy",
+  "download_filename": "speedy_utils-1.1.35.tar.gz",
+  "download_time": "2026-01-12T04:36:26.905888",
+  "package_url": "https://pypi.org/project/speedy-utils/"
+}

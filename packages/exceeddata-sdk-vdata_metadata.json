@@ -1,0 +1,11 @@
+{
+  "name": "exceeddata-sdk-vdata",
+  "version": "2.10.4",
+  "summary": "ExceedData vData SDK for Python",
+  "author": "Nick Xie",
+  "license": "MIT",
+  "home_page": "http://www.smartsct.com",
+  "download_filename": "exceeddata_sdk_vdata-2.10.4.tar.gz",
+  "download_time": "2026-01-12T04:36:04.444275",
+  "package_url": "https://pypi.org/project/exceeddata-sdk-vdata/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "brs-xss",
+  "version": "4.0.0",
+  "summary": "Context-aware async XSS scanner powered by BRS-KB",
+  "author": "Brabus",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "brs_xss-4.0.0.tar.gz",
+  "download_time": "2026-01-12T04:36:18.048963",
+  "package_url": "https://pypi.org/project/brs-xss/"
+}

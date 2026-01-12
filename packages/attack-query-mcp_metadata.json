@@ -1,11 +1,11 @@
 {
   "name": "attack-query-mcp",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "summary": "MCP server for ATT&CK queries via AI assistants",
   "author": "Stephen Wood",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "attack_query_mcp-0.2.0.tar.gz",
-  "download_time": "2026-01-12T03:18:32.389854",
+  "download_filename": "attack_query_mcp-0.2.1.tar.gz",
+  "download_time": "2026-01-12T04:35:46.287880",
   "package_url": "https://pypi.org/project/attack-query-mcp/"
 }

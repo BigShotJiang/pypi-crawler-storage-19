@@ -1,11 +1,11 @@
 {
   "name": "PythonSimpleFunctions",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "summary": "PyPI package designed to make development in Python easier.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pythonsimplefunctions-1.0.6.tar.gz",
-  "download_time": "2026-01-11T09:15:52.519971",
+  "download_filename": "pythonsimplefunctions-1.0.7.tar.gz",
+  "download_time": "2026-01-12T04:36:21.705248",
   "package_url": "https://pypi.org/project/PythonSimpleFunctions/"
 }
