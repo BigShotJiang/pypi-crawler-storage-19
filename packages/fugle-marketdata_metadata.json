@@ -1,0 +1,11 @@
+{
+  "name": "fugle-marketdata",
+  "version": "2.4.1",
+  "summary": "Fugle Realtime API 1.0 client library for Python",
+  "author": "Fortuna Intelligence Co., Ltd.",
+  "license": "MIT",
+  "home_page": "https://github.com/fugle-dev/fugle-realtime-py#readme",
+  "download_filename": "fugle_marketdata-2.4.1.tar.gz",
+  "download_time": "2026-01-12T10:21:36.835248",
+  "package_url": "https://pypi.org/project/fugle-marketdata/"
+}

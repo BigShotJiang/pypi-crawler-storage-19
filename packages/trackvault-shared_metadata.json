@@ -1,11 +1,11 @@
 {
   "name": "trackvault-shared",
-  "version": "1.5.4",
+  "version": "1.5.5",
   "summary": "Shared utilities, services, and RBAC system for TrackVault microservices",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "trackvault_shared-1.5.4.tar.gz",
-  "download_time": "2026-01-12T09:27:30.496553",
+  "download_filename": "trackvault_shared-1.5.5.tar.gz",
+  "download_time": "2026-01-12T10:21:02.428522",
   "package_url": "https://pypi.org/project/trackvault-shared/"
 }

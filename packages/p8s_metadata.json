@@ -1,11 +1,11 @@
 {
   "name": "p8s",
-  "version": "1.0.3",
+  "version": "1.1.0",
   "summary": "🔥 Forge AI-native, full-stack applications with the fire of the gods",
   "author": "Giuseppe La Pietra",
   "license": null,
   "home_page": null,
-  "download_filename": "p8s-1.0.3.tar.gz",
-  "download_time": "2026-01-11T19:50:23.302077",
+  "download_filename": "p8s-1.1.0.tar.gz",
+  "download_time": "2026-01-12T10:21:29.622354",
   "package_url": "https://pypi.org/project/p8s/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "testgres-pg-probackup2",
+  "version": "0.4.0",
+  "summary": "Plugin for testgres that manages pg_probackup2",
+  "author": "Postgres Professional",
+  "license": "PostgreSQL",
+  "home_page": "https://github.com/postgrespro/testgres",
+  "download_filename": "testgres_pg_probackup2-0.4.0.tar.gz",
+  "download_time": "2026-01-12T10:21:14.757819",
+  "package_url": "https://pypi.org/project/testgres-pg-probackup2/"
+}

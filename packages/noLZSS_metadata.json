@@ -1,0 +1,11 @@
+{
+  "name": "noLZSS",
+  "version": "1.1.2",
+  "summary": "Non-overlapping Lempel-Ziv-Storer-Szymanski factorization (high-performance C++ core with Python bindings)",
+  "author": "Omer Kerner",
+  "license": "BSD-3-Clause",
+  "home_page": null,
+  "download_filename": "nolzss-1.1.2.tar.gz",
+  "download_time": "2026-01-12T10:20:55.417289",
+  "package_url": "https://pypi.org/project/noLZSS/"
+}

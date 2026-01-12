@@ -1,0 +1,11 @@
+{
+  "name": "pywebviewgui",
+  "version": "1.0.0",
+  "summary": "A Python library for creating desktop applications with web technologies",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pywebviewgui-1.0.0-cp314-cp314t-win_amd64.whl",
+  "download_time": "2026-01-12T10:21:06.010472",
+  "package_url": "https://pypi.org/project/pywebviewgui/"
+}

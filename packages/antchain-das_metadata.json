@@ -1,0 +1,11 @@
+{
+  "name": "antchain-das",
+  "version": "1.1.123",
+  "summary": "Ant Chain DAS SDK Library for Python",
+  "author": "Ant Chain SDK",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/alipay/antchain-openapi-prod-sdk",
+  "download_filename": "antchain_das-1.1.123.tar.gz",
+  "download_time": "2026-01-12T10:20:59.805066",
+  "package_url": "https://pypi.org/project/antchain-das/"
+}

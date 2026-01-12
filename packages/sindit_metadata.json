@@ -1,0 +1,11 @@
+{
+  "name": "sindit",
+  "version": "2.0.13",
+  "summary": "SINTEF Digital Twin Framework",
+  "author": "An Lam",
+  "license": "MIT",
+  "home_page": "https://github.com/SINTEF-9012/SINDIT20",
+  "download_filename": "sindit-2.0.13.tar.gz",
+  "download_time": "2026-01-12T10:20:56.159751",
+  "package_url": "https://pypi.org/project/sindit/"
+}
