@@ -1,0 +1,11 @@
+{
+  "name": "cdes-gdpr",
+  "version": "1.0.0",
+  "summary": "Cannabis Data Exchange Standard - GDPR Compliance Library for data privacy, consent management, and subject rights",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "cdes_gdpr-1.0.0.tar.gz",
+  "download_time": "2026-01-12T11:17:45.878692",
+  "package_url": "https://pypi.org/project/cdes-gdpr/"
+}

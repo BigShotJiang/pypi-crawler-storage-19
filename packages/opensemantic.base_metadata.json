@@ -1,0 +1,11 @@
+{
+  "name": "opensemantic.base",
+  "version": "0.40.3.post2000",
+  "summary": "Library with Python models derived from the page package world.opensemantic.base",
+  "author": "OpenSemanticWorld",
+  "license": "Apache 2.0",
+  "home_page": "https://github.com/OpenSemanticWorld-Packages/opensemantic.base-python",
+  "download_filename": "opensemantic_base-0.40.3.post2000.tar.gz",
+  "download_time": "2026-01-12T11:17:22.650558",
+  "package_url": "https://pypi.org/project/opensemantic.base/"
+}

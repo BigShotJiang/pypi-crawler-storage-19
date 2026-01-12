@@ -1,0 +1,11 @@
+{
+  "name": "collective.easyform",
+  "version": "4.5.0",
+  "summary": "Forms for Plone",
+  "author": "Roman Kozlovskyi",
+  "license": "GPLv2",
+  "home_page": "https://github.com/collective/collective.easyform",
+  "download_filename": "collective_easyform-4.5.0.tar.gz",
+  "download_time": "2026-01-12T11:17:20.098364",
+  "package_url": "https://pypi.org/project/collective.easyform/"
+}

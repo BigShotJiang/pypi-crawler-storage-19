@@ -1,0 +1,11 @@
+{
+  "name": "turboseo",
+  "version": "0.3.0",
+  "summary": "SEO content toolkit that writes human, not AI",
+  "author": "Thijs",
+  "license": null,
+  "home_page": null,
+  "download_filename": "turboseo-0.3.0.tar.gz",
+  "download_time": "2026-01-12T11:17:34.262213",
+  "package_url": "https://pypi.org/project/turboseo/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "llm-chunker",
+  "version": "0.1.2",
+  "summary": "A semantic and legal text chunker based on LLM analysis",
+  "author": "LLM Chunker Developer",
+  "license": null,
+  "home_page": "https://github.com/your-repo/llm-chunker",
+  "download_filename": "llm_chunker-0.1.2.tar.gz",
+  "download_time": "2026-01-12T11:17:38.381701",
+  "package_url": "https://pypi.org/project/llm-chunker/"
+}

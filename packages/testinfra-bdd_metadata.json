@@ -1,0 +1,11 @@
+{
+  "name": "testinfra-bdd",
+  "version": "3.1.2",
+  "summary": "An interface between pytest-bdd and pytest-testinfra.",
+  "author": "Cloud Based DQ Ltd.",
+  "license": null,
+  "home_page": "https://github.com/cbdq-io/testinfra-bdd",
+  "download_filename": "testinfra_bdd-3.1.2.tar.gz",
+  "download_time": "2026-01-12T11:17:49.206806",
+  "package_url": "https://pypi.org/project/testinfra-bdd/"
+}
