@@ -1,0 +1,11 @@
+{
+  "name": "confhelp",
+  "version": "0.7.0",
+  "summary": "Config-driven parser for keybindings with fzf interface",
+  "author": "Piotr Zaniewski",
+  "license": null,
+  "home_page": null,
+  "download_filename": "confhelp-0.7.0.tar.gz",
+  "download_time": "2026-01-12T08:56:40.841909",
+  "package_url": "https://pypi.org/project/confhelp/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "cosyvoice-minicpmo",
+  "version": "0.1.0",
+  "summary": "CosyVoice: Text-to-Speech with Large Language Model",
+  "author": "Alibaba Inc",
+  "license": null,
+  "home_page": "https://github.com/FunAudioLLM/CosyVoice",
+  "download_filename": "cosyvoice_minicpmo-0.1.0-py3-none-any.whl",
+  "download_time": "2026-01-12T08:57:27.186899",
+  "package_url": "https://pypi.org/project/cosyvoice-minicpmo/"
+}

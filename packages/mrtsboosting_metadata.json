@@ -1,0 +1,11 @@
+{
+  "name": "mrtsboosting",
+  "version": "0.1.1",
+  "summary": "MRTSBoosting: Multivariate Robust Time Series Boosting",
+  "author": "Bayu Suseno",
+  "license": "MIT",
+  "home_page": "https://github.com/byususen/mrtsboosting",
+  "download_filename": "mrtsboosting-0.1.1.tar.gz",
+  "download_time": "2026-01-12T08:56:46.703227",
+  "package_url": "https://pypi.org/project/mrtsboosting/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "stepaudio2-minicpmo",
+  "version": "0.1.0",
+  "summary": "StepAudio2: Audio tokenizer and TTS model",
+  "author": "StepFun AI",
+  "license": null,
+  "home_page": "https://github.com/stepfun-ai/Step-Audio2",
+  "download_filename": "stepaudio2_minicpmo-0.1.0-py3-none-any.whl",
+  "download_time": "2026-01-12T08:57:20.090120",
+  "package_url": "https://pypi.org/project/stepaudio2-minicpmo/"
+}

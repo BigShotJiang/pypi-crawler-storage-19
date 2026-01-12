@@ -1,11 +1,11 @@
 {
   "name": "surface-construct",
-  "version": "0.10.2",
+  "version": "0.10.3",
   "summary": "Surface termination construction especially for complex model, such as oxides or carbides.",
   "author": "ren",
   "license": "GPL",
   "home_page": "https://gitee.com/pjren/surface_construct/",
-  "download_filename": "surface_construct-0.10.2.tar.gz",
-  "download_time": "2026-01-12T03:18:19.322241",
+  "download_filename": "surface_construct-0.10.3.tar.gz",
+  "download_time": "2026-01-12T08:57:07.787971",
   "package_url": "https://pypi.org/project/surface-construct/"
 }

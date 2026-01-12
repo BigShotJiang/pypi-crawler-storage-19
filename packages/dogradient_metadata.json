@@ -1,0 +1,11 @@
+{
+  "name": "dogradient",
+  "version": "1.0.0",
+  "summary": "Complete Python SDK for DigitalOcean's Gradient AI Platform - serverless inference, knowledge bases, agents, and more",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "dogradient-1.0.0.tar.gz",
+  "download_time": "2026-01-12T08:57:24.449211",
+  "package_url": "https://pypi.org/project/dogradient/"
+}

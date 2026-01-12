@@ -1,11 +1,11 @@
 {
   "name": "midjourney-proxy-mcp",
-  "version": "0.1.0",
+  "version": "0.2.1",
   "summary": "MCP server for Midjourney image generation via ImagineAPI",
   "author": "yeong",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "midjourney_proxy_mcp-0.1.0.tar.gz",
-  "download_time": "2026-01-12T05:48:26.251096",
+  "download_filename": "midjourney_proxy_mcp-0.2.1.tar.gz",
+  "download_time": "2026-01-12T08:56:52.675145",
   "package_url": "https://pypi.org/project/midjourney-proxy-mcp/"
 }

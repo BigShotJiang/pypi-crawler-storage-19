@@ -1,0 +1,11 @@
+{
+  "name": "citewright",
+  "version": "0.1.0",
+  "summary": "Intelligent academic paper and media renaming tool with multi-source metadata extraction",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "citewright-0.1.0.tar.gz",
+  "download_time": "2026-01-12T08:57:27.717717",
+  "package_url": "https://pypi.org/project/citewright/"
+}

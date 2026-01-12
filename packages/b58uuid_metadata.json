@@ -1,0 +1,11 @@
+{
+  "name": "b58uuid",
+  "version": "1.0.0",
+  "summary": "High-performance Base58-encoded UUID library for Python",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "b58uuid-1.0.0.tar.gz",
+  "download_time": "2026-01-12T08:57:23.918235",
+  "package_url": "https://pypi.org/project/b58uuid/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "ptsandbox",
+  "version": "5.0.8",
+  "summary": "Async API connector for PT Sandbox instances",
+  "author": "Alexey Kolesnikov, Dmitry Zotov, PT ESC Malware Detection",
+  "license": null,
+  "home_page": null,
+  "download_filename": "ptsandbox-5.0.8.tar.gz",
+  "download_time": "2026-01-12T08:57:10.919379",
+  "package_url": "https://pypi.org/project/ptsandbox/"
+}
