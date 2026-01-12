@@ -1,11 +1,11 @@
 {
   "name": "dimtensor",
-  "version": "4.4.0",
+  "version": "5.0.0",
   "summary": "Unit-aware tensors for physics and scientific machine learning",
   "author": "Marc Sperzel",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "dimtensor-4.4.0.tar.gz",
-  "download_time": "2026-01-12T14:00:48.096098",
+  "download_filename": "dimtensor-5.0.0.tar.gz",
+  "download_time": "2026-01-12T14:54:45.382465",
   "package_url": "https://pypi.org/project/dimtensor/"
 }

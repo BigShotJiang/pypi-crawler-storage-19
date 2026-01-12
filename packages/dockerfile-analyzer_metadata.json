@@ -1,0 +1,11 @@
+{
+  "name": "dockerfile-analyzer",
+  "version": "0.3.10",
+  "summary": "Analyzes Dockerfiles and provides comprehensive insights including stage information, base images, multistage build analysis, instruction statistics, environment variables, labels, arguments, and exposed ports.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "dockerfile_analyzer-0.3.10.tar.gz",
+  "download_time": "2026-01-12T14:54:34.827137",
+  "package_url": "https://pypi.org/project/dockerfile-analyzer/"
+}

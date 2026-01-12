@@ -1,0 +1,11 @@
+{
+  "name": "geneea-nlp-client",
+  "version": "1.5.2",
+  "summary": "The SDK library and command-line interface to Geneea Interpretor, an NLP REST API.",
+  "author": "Geneea Analytics s.r.o",
+  "license": null,
+  "home_page": "https://geneea.com",
+  "download_filename": "geneea_nlp_client-1.5.2-py3-none-any.whl",
+  "download_time": "2026-01-12T14:54:47.978822",
+  "package_url": "https://pypi.org/project/geneea-nlp-client/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "kintomo",
+  "version": "0.2.0",
+  "summary": "Python library to create optically thick kinematic toy models and explore their kinematics, given a user-defined structure and velocity, projected on a grid.",
+  "author": "gwf",
+  "license": null,
+  "home_page": null,
+  "download_filename": "kintomo-0.2.0.tar.gz",
+  "download_time": "2026-01-12T14:54:32.927939",
+  "package_url": "https://pypi.org/project/kintomo/"
+}

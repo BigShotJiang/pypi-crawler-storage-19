@@ -1,0 +1,11 @@
+{
+  "name": "httpx-tenacity",
+  "version": "0.1.0",
+  "summary": "A lightweight package that provides tenacious (retrying) httpx transports.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "httpx_tenacity-0.1.0.tar.gz",
+  "download_time": "2026-01-12T14:54:41.939731",
+  "package_url": "https://pypi.org/project/httpx-tenacity/"
+}

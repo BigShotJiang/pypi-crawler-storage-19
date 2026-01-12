@@ -1,0 +1,11 @@
+{
+  "name": "swim-p2p",
+  "version": "1.2.6",
+  "summary": "SWIM Protocol implementation for P2P membership and failure detection with ZeroMQ integration",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "swim_p2p-1.2.6.tar.gz",
+  "download_time": "2026-01-12T14:54:44.145891",
+  "package_url": "https://pypi.org/project/swim-p2p/"
+}
