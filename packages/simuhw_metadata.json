@@ -1,11 +1,11 @@
 {
   "name": "simuhw",
-  "version": "0.4.1",
+  "version": "0.7.1",
   "summary": "A behavioral hardware simulator",
   "author": "Arihiro Yoshida",
   "license": "MIT License",
   "home_page": "https://github.com/arithy/simuhw",
-  "download_filename": "simuhw-0.4.1.tar.gz",
-  "download_time": "2026-01-07T09:48:03.554505",
+  "download_filename": "simuhw-0.7.1.tar.gz",
+  "download_time": "2026-01-12T14:24:38.558291",
   "package_url": "https://pypi.org/project/simuhw/"
 }

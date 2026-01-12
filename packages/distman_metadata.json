@@ -1,0 +1,11 @@
+{
+  "name": "distman",
+  "version": "0.8.2",
+  "summary": "Simple software distribution for complex pipelines",
+  "author": "Ryan Galloway",
+  "license": "BSD 3-Clause License",
+  "home_page": "http://github.com/rsgalloway/distman",
+  "download_filename": "distman-0.8.2.tar.gz",
+  "download_time": "2026-01-12T14:23:58.977905",
+  "package_url": "https://pypi.org/project/distman/"
+}

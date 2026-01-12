@@ -1,0 +1,11 @@
+{
+  "name": "speak-tts",
+  "version": "0.1.0",
+  "summary": "Voice cloning CLI for Mac using F5-TTS",
+  "author": "Daniel Sinai",
+  "license": null,
+  "home_page": null,
+  "download_filename": "speak_tts-0.1.0.tar.gz",
+  "download_time": "2026-01-12T14:24:49.074907",
+  "package_url": "https://pypi.org/project/speak-tts/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "ucp-client",
-  "version": "0.0.6",
+  "version": "0.0.9",
   "summary": "Python client library for Universal Checkout Protocol (UCP) - Type-safe async client and LLM agent tools",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "ucp_client-0.0.6.tar.gz",
-  "download_time": "2026-01-12T14:00:04.189861",
+  "download_filename": "ucp_client-0.0.9.tar.gz",
+  "download_time": "2026-01-12T14:24:42.509038",
   "package_url": "https://pypi.org/project/ucp-client/"
 }

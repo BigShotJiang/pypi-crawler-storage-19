@@ -1,0 +1,11 @@
+{
+  "name": "entrance",
+  "version": "1.1.21",
+  "summary": "Server framework for web apps",
+  "author": "Ensoft Ltd",
+  "license": null,
+  "home_page": "https://github.com/ensoft/entrance",
+  "download_filename": "entrance-1.1.21.tar.gz",
+  "download_time": "2026-01-12T14:24:46.877970",
+  "package_url": "https://pypi.org/project/entrance/"
+}

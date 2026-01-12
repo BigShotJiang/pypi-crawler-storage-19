@@ -1,0 +1,11 @@
+{
+  "name": "minimal-hubert",
+  "version": "0.0.1",
+  "summary": "Minimal implementation of HuBERT pretraining",
+  "author": "Maxime Poli",
+  "license": null,
+  "home_page": null,
+  "download_filename": "minimal_hubert-0.0.1.tar.gz",
+  "download_time": "2026-01-12T14:24:44.150142",
+  "package_url": "https://pypi.org/project/minimal-hubert/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "pyrfm",
-  "version": "0.3.3",
+  "version": "0.3.5",
   "summary": "Random Feature Method (RFM) tools in Python",
   "author": "Yifei Sun",
   "license": null,
   "home_page": "https://ifaay.github.io",
-  "download_filename": "pyrfm-0.3.3.tar.gz",
-  "download_time": "2026-01-10T17:33:20.159169",
+  "download_filename": "pyrfm-0.3.5.tar.gz",
+  "download_time": "2026-01-12T14:24:07.258819",
   "package_url": "https://pypi.org/project/pyrfm/"
 }

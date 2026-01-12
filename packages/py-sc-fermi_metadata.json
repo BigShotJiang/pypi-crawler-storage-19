@@ -1,0 +1,11 @@
+{
+  "name": "py-sc-fermi",
+  "version": "2.1.0",
+  "summary": "Self-consistent Fermi Analysis",
+  "author": "Alex G. Squires",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "py_sc_fermi-2.1.0.tar.gz",
+  "download_time": "2026-01-12T14:24:49.663515",
+  "package_url": "https://pypi.org/project/py-sc-fermi/"
+}

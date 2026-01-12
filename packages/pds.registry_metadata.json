@@ -1,0 +1,11 @@
+{
+  "name": "pds.registry",
+  "version": "1.6.0",
+  "summary": "PDS Registry is a service and application for tracking, searching, auditing, locating, and managing artifacts within the system—data and label files, schemas, dictionaries, services, and more.",
+  "author": "PDS",
+  "license": "apache-2.0",
+  "home_page": "https://github.com/NASA-PDS/registry",
+  "download_filename": "pds_registry-1.6.0-py3-none-any.whl",
+  "download_time": "2026-01-12T14:24:13.364015",
+  "package_url": "https://pypi.org/project/pds.registry/"
+}

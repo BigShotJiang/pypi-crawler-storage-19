@@ -1,11 +1,11 @@
 {
   "name": "spnl",
-  "version": "0.12.1",
+  "version": "0.12.2",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "spnl-0.12.1.tar.gz",
-  "download_time": "2026-01-10T16:16:56.584094",
+  "download_filename": "spnl-0.12.2-cp310-cp310-manylinux_2_28_aarch64.whl",
+  "download_time": "2026-01-12T14:24:10.131541",
   "package_url": "https://pypi.org/project/spnl/"
 }
