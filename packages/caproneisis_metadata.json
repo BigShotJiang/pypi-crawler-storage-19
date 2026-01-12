@@ -1,0 +1,11 @@
+{
+  "name": "caproneisis",
+  "version": "0.1.1",
+  "summary": "Industrial-scale CDS/ISIS implementation using Elasticsearch",
+  "author": "Caprazli",
+  "license": null,
+  "home_page": "https://github.com/capraCoder/caproneisis",
+  "download_filename": "caproneisis-0.1.1.tar.gz",
+  "download_time": "2026-01-12T09:55:56.569127",
+  "package_url": "https://pypi.org/project/caproneisis/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "chroma-haystack",
-  "version": "3.5.0",
+  "version": "4.0.0",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "chroma_haystack-3.5.0.tar.gz",
-  "download_time": "2026-01-07T10:16:48.551202",
+  "download_filename": "chroma_haystack-4.0.0.tar.gz",
+  "download_time": "2026-01-12T09:56:15.221255",
   "package_url": "https://pypi.org/project/chroma-haystack/"
 }

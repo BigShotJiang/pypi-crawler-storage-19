@@ -1,0 +1,11 @@
+{
+  "name": "twirl",
+  "version": "0.5.1",
+  "summary": "Astrometric plate solving in Python",
+  "author": "Lionel J. Garcia",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "twirl-0.5.1.tar.gz",
+  "download_time": "2026-01-12T09:55:54.370441",
+  "package_url": "https://pypi.org/project/twirl/"
+}

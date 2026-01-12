@@ -1,0 +1,11 @@
+{
+  "name": "agentflow-ai",
+  "version": "1.0.10",
+  "summary": "Minimalist Python framework for building AI agents",
+  "author": "Hamadi Chaabani",
+  "license": "MIT",
+  "home_page": "https://github.com/ia-nova-labs/agentflow",
+  "download_filename": "agentflow_ai-1.0.10.tar.gz",
+  "download_time": "2026-01-12T09:56:11.118362",
+  "package_url": "https://pypi.org/project/agentflow-ai/"
+}

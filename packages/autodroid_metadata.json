@@ -1,11 +1,11 @@
 {
   "name": "autodroid",
-  "version": "1.11",
-  "summary": null,
-  "author": null,
+  "version": "2.0",
+  "summary": "A python module to automate android",
+  "author": "turkishcoder",
   "license": null,
   "home_page": null,
-  "download_filename": "autodroid-1.11.tar.gz",
-  "download_time": "2026-01-11T17:50:55.661144",
+  "download_filename": "autodroid-2.0.tar.gz",
+  "download_time": "2026-01-12T09:55:56.058559",
   "package_url": "https://pypi.org/project/autodroid/"
 }

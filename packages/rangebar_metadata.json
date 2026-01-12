@@ -1,11 +1,11 @@
 {
   "name": "rangebar",
-  "version": "7.1.2",
+  "version": "7.1.3",
   "summary": "Python bindings for rangebar: Non-lookahead range bar construction for cryptocurrency trading",
   "author": "Terry Li",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "rangebar-7.1.2-cp39-abi3-macosx_11_0_arm64.whl",
-  "download_time": "2026-01-12T06:27:34.432306",
+  "download_filename": "rangebar-7.1.3-cp39-abi3-macosx_11_0_arm64.whl",
+  "download_time": "2026-01-12T09:56:25.707933",
   "package_url": "https://pypi.org/project/rangebar/"
 }

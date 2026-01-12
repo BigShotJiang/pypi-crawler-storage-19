@@ -1,0 +1,11 @@
+{
+  "name": "etlstat",
+  "version": "0.9.4",
+  "summary": "ETL utils for statistical offices data processing",
+  "author": "Instituto Cántabro de Estadística",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/icane/etlstat.git",
+  "download_filename": "etlstat-0.9.4.tar.gz",
+  "download_time": "2026-01-12T09:56:17.276833",
+  "package_url": "https://pypi.org/project/etlstat/"
+}

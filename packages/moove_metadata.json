@@ -1,0 +1,11 @@
+{
+  "name": "moove",
+  "version": "1.0.1",
+  "summary": "A tool for real-time syllable segmentation and classification of birdsong, designed to enable closed-loop experiments in vocal learning research.",
+  "author": "Nils Riekers",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "moove-1.0.1.tar.gz",
+  "download_time": "2026-01-12T09:56:29.311512",
+  "package_url": "https://pypi.org/project/moove/"
+}

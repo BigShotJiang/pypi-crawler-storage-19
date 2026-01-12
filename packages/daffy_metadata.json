@@ -1,11 +1,11 @@
 {
   "name": "daffy",
-  "version": "2.5.0",
+  "version": "2.5.1",
   "summary": "Function decorators for DataFrame validation - columns, data types, and row-level validation with Pydantic. Supports Pandas, Polars, Modin, and PyArrow.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "daffy-2.5.0.tar.gz",
-  "download_time": "2026-01-11T08:53:30.709188",
+  "download_filename": "daffy-2.5.1.tar.gz",
+  "download_time": "2026-01-12T09:56:09.017871",
   "package_url": "https://pypi.org/project/daffy/"
 }
