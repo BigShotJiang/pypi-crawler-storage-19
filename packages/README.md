@@ -1,11 +1,63 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2026-01-12T07:33:11.276831
-- **Total Packages**: 93
-- **Total Size**: 45.05 MB
+- **Download Time**: 2026-01-12T07:51:03.321148
+- **Total Packages**: 90
+- **Total Size**: 16.01 MB
 
 ## Packages List
+- actorio-ng
+- wedata-pre-code
+- nercone-fastget
+- iflow-mcp_shaojiejiang_mcp-is-dangerous
+- rtdi-kafkaavro
+- sayou-connector
+- image-annotations
+- reviewcerberus
+- tarxemo-django-clickpesa
+- adeptiv-ai-evaluator-sdk
+- odoo-addon-developer-menu
+- odoo-addon-mail-tracking
+- podkit
+- torchfea
+- mgmt
+- lumera
+- omni-cortex
+- focomy
+- odoo-addon-partner-country-lang
+- canonicalwebteam.form-generator
+- nurtelecom-gras-library
+- entelligence-cli
+- openai-sdk-helpers
+- WsTranslator
+- isa-dsl
+- mtopencv
+- gitstar
+- vllm-sr
+- rp
+- PraisonAI
+- ert
+- exstruct
+- nano-eval
+- pyzlbus2
+- olivos-cli
+- yfinance-mcp
+- pyehm
+- jleechanorg-pr-automation
+- gllm-pipeline-binary
+- amochka
+- pdfjs-viewer-pyqt6
+- odoo-addon-contract
+- SURE-tools
+- ai-edge-litert-sdk-mediatek-nightly
+- ai-edge-litert-sdk-qualcomm-nightly
+- agentjoy-bridge
+- sbsv
+- auto-diffusers
+- odoo-addon-document-url
+- tmutils
+- pyDOE3
+- pyfmto
 - AutoCython-zhang
 - praisonaiagents
 - zlbusapi
@@ -17,7 +69,6 @@
 - compresr
 - django-cfg
 - runnable
-- yfinance-mcp
 - hh-applicant-tool
 - open-skills-mcp
 - htmltestrunner-lit
@@ -26,7 +77,6 @@
 - unphishable
 - iflow_mcp_misanthropic_ai_ddg_mcp
 - pykrieg
-- odoo-addon-contract
 - eci-as-sandbox
 - ctd-processing
 - gllm-core-binary
@@ -34,13 +84,10 @@
 - zclipboard
 - swarmkit
 - agentrun-inner-test
-- WsTranslator
 - mdsa-framework
 - cg
 - orq-ai-sdk
-- entelligence-cli
 - ai-edge-litert-nightly
-- focomy
 - tarxemo-django-authz
 - xdem
 - bgate-unix
@@ -49,53 +96,3 @@
 - mcp-proxy-adapter
 - agent-contracts
 - cogent3
-- sp-svg-diagram
-- llms-py
-- leanclient
-- olivos-cli
-- panelbeater
-- auto-round-nightly
-- python-redis-helper
-- model-auditor
-- magika-core
-- authfn
-- wrdata
-- alicia-d-sdk
-- ubox-py-sdk
-- jleechanorg-pr-automation
-- rtsf-web
-- ac-websocket-server
-- agent-skill
-- wrchart
-- stream-translator-gpt
-- todo-list-mcp
-- shiftaiagenticinfra-sdk-python
-- streamlit-nightly
-- vl-messaging
-- wrtrade
-- open-flash
-- openplantbook-sdk
-- codingnow
-- pulumi-aws-native
-- pygpmf-oz
-- onceonly-sdk
-- skyline-prism
-- talentsavvy-improveteam
-- hk-cdp
-- meshagent-mcp
-- meshagent-tools
-- meshagent
-- meshagent-cli
-- meshagent-agents
-- meshagent-openai
-- meshagent-computers
-- meshagent-otel
-- meshagent-livekit
-- meshagent-markitdown
-- meshagent-api
-- better-mem0-mcp
-- pantoqa-bridge
-- claude-swap
-- simt-emlite
-- codec-cub
-- agent-dev-cli

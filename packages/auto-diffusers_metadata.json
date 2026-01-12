@@ -1,0 +1,11 @@
+{
+  "name": "auto-diffusers",
+  "version": "2.0.33",
+  "summary": "diffusers with search engine",
+  "author": "suzukimain",
+  "license": "Apache 2.0 License",
+  "home_page": "https://github.com/suzukimain/auto_diffusers",
+  "download_filename": "auto_diffusers-2.0.33.tar.gz",
+  "download_time": "2026-01-12T07:50:40.986077",
+  "package_url": "https://pypi.org/project/auto-diffusers/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "gitstar",
+  "version": "0.1.0",
+  "summary": "Find out the total star earned by a github user",
+  "author": "Pollmix",
+  "license": null,
+  "home_page": "https://github.com/imranpollob/github-total-star-counter",
+  "download_filename": "gitstar-0.1.0.tar.gz",
+  "download_time": "2026-01-12T07:50:28.746810",
+  "package_url": "https://pypi.org/project/gitstar/"
+}

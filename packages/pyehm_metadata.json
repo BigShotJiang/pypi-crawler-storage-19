@@ -1,0 +1,11 @@
+{
+  "name": "pyehm",
+  "version": "2.1",
+  "summary": "Python Efficient Hypothesis Management (PyEHM)",
+  "author": "Lyudmil Vladimirov",
+  "license": null,
+  "home_page": "https://github.com/sglvladi/pyehm",
+  "download_filename": "pyehm-2.1.tar.gz",
+  "download_time": "2026-01-12T07:50:34.262704",
+  "package_url": "https://pypi.org/project/pyehm/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "actorio-ng",
+  "version": "0.1.5",
+  "summary": "A simple actor framework for asyncio",
+  "author": "Mark Grandi",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "actorio_ng-0.1.5.tar.gz",
+  "download_time": "2026-01-12T07:50:14.809500",
+  "package_url": "https://pypi.org/project/actorio-ng/"
+}
