@@ -1,11 +1,11 @@
 {
   "name": "tarxemo-django-clickpesa",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "summary": "A Django library for integrating ClickPesa mobile money and payout services",
   "author": "TarXemo",
   "license": null,
   "home_page": "https://github.com/tarxemo/tarxemo-django-clickpesa",
-  "download_filename": "tarxemo_django_clickpesa-0.1.1.tar.gz",
-  "download_time": "2026-01-12T08:24:25.266977",
+  "download_filename": "tarxemo_django_clickpesa-0.2.0.tar.gz",
+  "download_time": "2026-01-12T13:27:32.294578",
   "package_url": "https://pypi.org/project/tarxemo-django-clickpesa/"
 }

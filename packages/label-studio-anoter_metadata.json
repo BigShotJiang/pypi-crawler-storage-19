@@ -1,0 +1,11 @@
+{
+  "name": "label-studio-anoter",
+  "version": "1.0",
+  "summary": "Python SharePoint API for folder or file operations (download, upload, delete)",
+  "author": "Naseem AP",
+  "license": null,
+  "home_page": "https://github.com/naseemap-er/label_studio_anoter",
+  "download_filename": "label_studio_anoter-1.0.tar.gz",
+  "download_time": "2026-01-12T13:27:18.918932",
+  "package_url": "https://pypi.org/project/label-studio-anoter/"
+}

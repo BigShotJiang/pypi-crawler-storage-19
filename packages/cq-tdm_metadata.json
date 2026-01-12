@@ -1,11 +1,11 @@
 {
   "name": "cq-tdm",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "summary": "CT Scanner Internal Quality Control Software",
   "author": "Luis",
   "license": "CeCILL-2.1",
   "home_page": null,
-  "download_filename": "cq_tdm-0.2.2.tar.gz",
-  "download_time": "2026-01-12T10:21:03.446472",
+  "download_filename": "cq_tdm-0.2.3.tar.gz",
+  "download_time": "2026-01-12T13:27:20.977056",
   "package_url": "https://pypi.org/project/cq-tdm/"
 }

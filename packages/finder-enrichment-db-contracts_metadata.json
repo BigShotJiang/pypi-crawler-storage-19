@@ -1,0 +1,11 @@
+{
+  "name": "finder-enrichment-db-contracts",
+  "version": "0.1.8",
+  "summary": "Pydantic schemas for the Finder Enrichment DB",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "finder_enrichment_db_contracts-0.1.8.tar.gz",
+  "download_time": "2026-01-12T13:26:59.849040",
+  "package_url": "https://pypi.org/project/finder-enrichment-db-contracts/"
+}

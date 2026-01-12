@@ -1,11 +1,11 @@
 {
   "name": "llm-tldr",
-  "version": "1.1.4",
+  "version": "1.2.0",
   "summary": "Token-efficient code analysis for LLMs. 5-layer stack: AST, Call Graph, CFG, DFG, PDG. 95% token savings. 15 languages.",
   "author": "parcadei",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "llm_tldr-1.1.4.tar.gz",
-  "download_time": "2026-01-12T10:21:21.978086",
+  "download_filename": "llm_tldr-1.2.0.tar.gz",
+  "download_time": "2026-01-12T13:27:33.320487",
   "package_url": "https://pypi.org/project/llm-tldr/"
 }

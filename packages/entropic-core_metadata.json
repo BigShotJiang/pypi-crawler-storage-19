@@ -1,0 +1,11 @@
+{
+  "name": "entropic-core",
+  "version": "1.0.0",
+  "summary": "100% FREE entropy monitoring and regulation for multi-agent systems",
+  "author": "Entropic Core Team",
+  "license": null,
+  "home_page": "https://github.com/entropic-core/entropic-core",
+  "download_filename": "entropic_core-1.0.0.tar.gz",
+  "download_time": "2026-01-12T13:27:22.010638",
+  "package_url": "https://pypi.org/project/entropic-core/"
+}

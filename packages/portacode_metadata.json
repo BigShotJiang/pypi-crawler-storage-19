@@ -1,11 +1,11 @@
 {
   "name": "portacode",
-  "version": "1.4.3",
+  "version": "1.4.5",
   "summary": "Portacode CLI client and SDK",
   "author": "Meena Erian",
   "license": null,
   "home_page": "https://github.com/portacode/portacode",
-  "download_filename": "portacode-1.4.3.tar.gz",
-  "download_time": "2026-01-12T11:54:36.174212",
+  "download_filename": "portacode-1.4.5.tar.gz",
+  "download_time": "2026-01-12T13:27:21.496664",
   "package_url": "https://pypi.org/project/portacode/"
 }
