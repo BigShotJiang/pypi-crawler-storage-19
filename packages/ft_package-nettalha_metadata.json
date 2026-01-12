@@ -1,0 +1,11 @@
+{
+  "name": "ft_package-nettalha",
+  "version": "0.1.0",
+  "summary": "A simple Python package with function to count occurrences of a word in a list.",
+  "author": "Noureddine Ettalhaouy",
+  "license": null,
+  "home_page": null,
+  "download_filename": "ft_package_nettalha-0.1.0.tar.gz",
+  "download_time": "2026-01-12T10:51:25.244132",
+  "package_url": "https://pypi.org/project/ft_package-nettalha/"
+}

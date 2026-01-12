@@ -1,0 +1,11 @@
+{
+  "name": "wipo-gbd-transformation",
+  "version": "1.1.104",
+  "summary": "GBD XML ETL package",
+  "author": "WIPO GDB team",
+  "license": null,
+  "home_page": "https://github.com/GBD-Wipo/xmlE",
+  "download_filename": "wipo_gbd_transformation-1.1.104-py3-none-any.whl",
+  "download_time": "2026-01-12T10:51:31.021997",
+  "package_url": "https://pypi.org/project/wipo-gbd-transformation/"
+}

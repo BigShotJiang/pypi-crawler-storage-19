@@ -1,0 +1,11 @@
+{
+  "name": "neo4j-driver",
+  "version": "5.28.3",
+  "summary": "Neo4j Bolt driver for Python",
+  "author": null,
+  "license": "Apache License, Version 2.0",
+  "home_page": null,
+  "download_filename": "neo4j_driver-5.28.3.tar.gz",
+  "download_time": "2026-01-12T10:51:47.517273",
+  "package_url": "https://pypi.org/project/neo4j-driver/"
+}

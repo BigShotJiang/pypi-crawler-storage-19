@@ -1,11 +1,11 @@
 {
   "name": "pygpmf-oz",
-  "version": "0.2.0",
-  "summary": "A module to read GPMF data embedded in GoPro video files. Modernized fork with Python 3.9+ and Windows support.",
-  "author": "Alexis Mignon",
+  "version": "0.3.2",
+  "summary": "Python library for extracting GPS and sensor telemetry from GoPro videos (Hero 5-13). Supports GPS5/GPS9 (10Hz), gyroscope, accelerometer. Python 3.9-3.13.",
+  "author": "ozand",
   "license": "MIT",
-  "home_page": "https://github.com/ozand/pygpmf_oz",
-  "download_filename": "pygpmf_oz-0.2.0.tar.gz",
-  "download_time": "2026-01-12T07:33:00.056050",
+  "home_page": "https://github.com/ozand/pygpmf-oz",
+  "download_filename": "pygpmf_oz-0.3.2.tar.gz",
+  "download_time": "2026-01-12T10:51:42.765418",
   "package_url": "https://pypi.org/project/pygpmf-oz/"
 }

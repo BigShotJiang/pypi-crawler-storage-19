@@ -1,11 +1,11 @@
 {
   "name": "metabase-mcp-navi",
-  "version": "0.1.4",
+  "version": "0.1.6",
   "summary": "A Model Context Protocol (MCP) server for Metabase - gives AI assistants direct access to dashboards, cards, and query execution",
   "author": "Manish Balot",
   "license": null,
   "home_page": null,
-  "download_filename": "metabase_mcp_navi-0.1.4.tar.gz",
-  "download_time": "2026-01-12T10:21:41.495458",
+  "download_filename": "metabase_mcp_navi-0.1.6.tar.gz",
+  "download_time": "2026-01-12T10:51:41.228021",
   "package_url": "https://pypi.org/project/metabase-mcp-navi/"
 }

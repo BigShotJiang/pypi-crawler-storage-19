@@ -1,0 +1,11 @@
+{
+  "name": "django-markymark",
+  "version": "4.0.0",
+  "summary": "django-markymark provides helpers and tools to integrate markdown.",
+  "author": "Stephan Jaekel",
+  "license": "MIT",
+  "home_page": "https://github.com/stephrdev/django-markymark",
+  "download_filename": "django_markymark-4.0.0.tar.gz",
+  "download_time": "2026-01-12T10:52:01.656607",
+  "package_url": "https://pypi.org/project/django-markymark/"
+}

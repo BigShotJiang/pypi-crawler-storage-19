@@ -1,11 +1,11 @@
 {
   "name": "minicrit",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "Adversarial AI validation for autonomous systems - catch reasoning flaws before they become failures",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "minicrit-0.1.0.tar.gz",
-  "download_time": "2026-01-12T09:56:02.765522",
+  "download_filename": "minicrit-0.1.1.tar.gz",
+  "download_time": "2026-01-12T10:52:06.017460",
   "package_url": "https://pypi.org/project/minicrit/"
 }

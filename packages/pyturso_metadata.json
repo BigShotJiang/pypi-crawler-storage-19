@@ -1,11 +1,11 @@
 {
   "name": "pyturso",
-  "version": "0.4.2",
+  "version": "0.4.3",
   "summary": "Turso is a work-in-progress, in-process OLTP database management system, compatible with SQLite.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pyturso-0.4.2.tar.gz",
-  "download_time": "2026-01-07T14:48:48.457145",
+  "download_filename": "pyturso-0.4.3-cp310-cp310-macosx_11_0_arm64.whl",
+  "download_time": "2026-01-12T10:51:32.269216",
   "package_url": "https://pypi.org/project/pyturso/"
 }
