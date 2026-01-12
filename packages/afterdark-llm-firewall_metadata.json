@@ -1,0 +1,11 @@
+{
+  "name": "afterdark-llm-firewall",
+  "version": "0.1.0",
+  "summary": "Production-ready security layer for AI applications",
+  "author": "AfterDark Security",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "afterdark_llm_firewall-0.1.0.tar.gz",
+  "download_time": "2026-01-12T08:23:55.690548",
+  "package_url": "https://pypi.org/project/afterdark-llm-firewall/"
+}

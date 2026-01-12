@@ -1,0 +1,11 @@
+{
+  "name": "omnispace",
+  "version": "0.1.0",
+  "summary": "A tool to generate data dependency graphs from notebooks.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "omnispace-0.1.0.tar.gz",
+  "download_time": "2026-01-12T08:24:31.551686",
+  "package_url": "https://pypi.org/project/omnispace/"
+}

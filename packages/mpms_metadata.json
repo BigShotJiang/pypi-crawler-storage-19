@@ -1,0 +1,11 @@
+{
+  "name": "mpms",
+  "version": "2.5.4.0",
+  "summary": "Simple python Multiprocesses-Multithreads task queue",
+  "author": "aploium",
+  "license": null,
+  "home_page": "https://github.com/aploium/mpms",
+  "download_filename": "mpms-2.5.4.0.tar.gz",
+  "download_time": "2026-01-12T08:23:48.884083",
+  "package_url": "https://pypi.org/project/mpms/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "kvcommon",
+  "version": "0.4.8",
+  "summary": "Library of miscellaneous common python utils that aren't worthy of their own dedicated libs.",
+  "author": "Rob Voigt",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "kvcommon-0.4.8.tar.gz",
+  "download_time": "2026-01-12T08:24:08.347305",
+  "package_url": "https://pypi.org/project/kvcommon/"
+}

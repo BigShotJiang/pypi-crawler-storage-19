@@ -1,0 +1,11 @@
+{
+  "name": "iterative-ensemble-smoother",
+  "version": "0.5.0",
+  "summary": "A library for the iterative ensemble smoother algorithm.",
+  "author": null,
+  "license": "GPL-3.0",
+  "home_page": null,
+  "download_filename": "iterative_ensemble_smoother-0.5.0.tar.gz",
+  "download_time": "2026-01-12T08:24:15.823023",
+  "package_url": "https://pypi.org/project/iterative-ensemble-smoother/"
+}

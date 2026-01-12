@@ -1,11 +1,11 @@
 {
   "name": "kiva-sdk",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "summary": "A multi-agent orchestration SDK for building intelligent workflows",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "kiva_sdk-0.2.0.tar.gz",
-  "download_time": "2026-01-12T05:09:52.615517",
+  "download_filename": "kiva_sdk-0.3.0.tar.gz",
+  "download_time": "2026-01-12T08:24:13.746204",
   "package_url": "https://pypi.org/project/kiva-sdk/"
 }

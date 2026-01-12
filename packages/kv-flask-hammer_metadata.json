@@ -1,0 +1,11 @@
+{
+  "name": "kv-flask-hammer",
+  "version": "0.2.8",
+  "summary": "Flask-Hammer - For when every problem looks like a nail.",
+  "author": "Rob Voigt",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "kv_flask_hammer-0.2.8.tar.gz",
+  "download_time": "2026-01-12T08:23:53.095169",
+  "package_url": "https://pypi.org/project/kv-flask-hammer/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "raygun4py",
+  "version": "6.0.2",
+  "summary": "Official Raygun provider for Python",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "raygun4py-6.0.2.tar.gz",
+  "download_time": "2026-01-12T08:24:09.907469",
+  "package_url": "https://pypi.org/project/raygun4py/"
+}

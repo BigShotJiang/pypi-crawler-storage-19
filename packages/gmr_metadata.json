@@ -1,0 +1,11 @@
+{
+  "name": "gmr",
+  "version": "2.0.3",
+  "summary": "Gaussian Mixture Regression",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "gmr-2.0.3.tar.gz",
+  "download_time": "2026-01-12T08:24:23.691157",
+  "package_url": "https://pypi.org/project/gmr/"
+}

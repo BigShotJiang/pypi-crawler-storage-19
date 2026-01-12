@@ -1,0 +1,11 @@
+{
+  "name": "squlearn",
+  "version": "0.10.1",
+  "summary": "A library for quantum machine learning following the scikit-learn standard.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "squlearn-0.10.1.tar.gz",
+  "download_time": "2026-01-12T08:24:31.033729",
+  "package_url": "https://pypi.org/project/squlearn/"
+}

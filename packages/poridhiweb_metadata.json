@@ -1,11 +1,11 @@
 {
   "name": "poridhiweb",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "summary": "PoridhiFrame Python Web Framework built for learning purposes.",
   "author": "Dipanjal Maitra",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "poridhiweb-0.0.2.tar.gz",
-  "download_time": "2026-01-11T17:13:46.144122",
+  "download_filename": "poridhiweb-0.0.3.tar.gz",
+  "download_time": "2026-01-12T08:24:16.341234",
   "package_url": "https://pypi.org/project/poridhiweb/"
 }

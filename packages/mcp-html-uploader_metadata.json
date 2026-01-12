@@ -1,0 +1,11 @@
+{
+  "name": "mcp-html-uploader",
+  "version": "1.0.0",
+  "summary": "MCP 服务器 - 提供 HTML 文件创建和文件上传功能",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mcp_html_uploader-1.0.0.tar.gz",
+  "download_time": "2026-01-12T08:24:29.968671",
+  "package_url": "https://pypi.org/project/mcp-html-uploader/"
+}

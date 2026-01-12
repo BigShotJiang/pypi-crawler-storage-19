@@ -1,0 +1,11 @@
+{
+  "name": "conductor-geepers",
+  "version": "1.0.0",
+  "summary": "Multi-agent orchestration system with MCP tools and Claude Code plugin agents",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "conductor_geepers-1.0.0.tar.gz",
+  "download_time": "2026-01-12T08:24:12.157544",
+  "package_url": "https://pypi.org/project/conductor-geepers/"
+}

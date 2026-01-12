@@ -1,0 +1,11 @@
+{
+  "name": "infra-services",
+  "version": "0.1.0",
+  "summary": "Infrastructure services management for Docker compose-based services",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "infra_services-0.1.0.tar.gz",
+  "download_time": "2026-01-12T08:24:16.859833",
+  "package_url": "https://pypi.org/project/infra-services/"
+}

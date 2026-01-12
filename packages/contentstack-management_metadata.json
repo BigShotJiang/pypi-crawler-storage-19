@@ -1,0 +1,11 @@
+{
+  "name": "contentstack-management",
+  "version": "1.7.1",
+  "summary": "Contentstack API Client Library for Python",
+  "author": "dev-ex",
+  "license": "MIT",
+  "home_page": "https://github.com/contentstack/contentstack-management-python",
+  "download_filename": "contentstack_management-1.7.1.tar.gz",
+  "download_time": "2026-01-12T08:23:47.841785",
+  "package_url": "https://pypi.org/project/contentstack-management/"
+}

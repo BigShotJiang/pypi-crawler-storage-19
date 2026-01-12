@@ -1,0 +1,11 @@
+{
+  "name": "sindi",
+  "version": "0.2.1",
+  "summary": "SInDi: Semantic Invariant Differencing for Solidity Smart Contracts",
+  "author": "Mojtaba Eshghie",
+  "license": "MIT",
+  "home_page": "https://github.com/mojtaba-eshghie/Sindi",
+  "download_filename": "sindi-0.2.1.tar.gz",
+  "download_time": "2026-01-12T08:24:23.165613",
+  "package_url": "https://pypi.org/project/sindi/"
+}
