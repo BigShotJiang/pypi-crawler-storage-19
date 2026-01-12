@@ -1,11 +1,11 @@
 {
   "name": "lydwhitt-tools",
-  "version": "1.1.10",
+  "version": "1.1.11",
   "summary": "Petrology tools",
   "author": "Lydia Whittaker",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "lydwhitt_tools-1.1.10.tar.gz",
-  "download_time": "2026-01-09T15:46:06.752167",
+  "download_filename": "lydwhitt_tools-1.1.11.tar.gz",
+  "download_time": "2026-01-12T12:32:31.962505",
   "package_url": "https://pypi.org/project/lydwhitt-tools/"
 }

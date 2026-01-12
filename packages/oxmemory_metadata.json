@@ -1,0 +1,11 @@
+{
+  "name": "oxmemory",
+  "version": "1.0.0",
+  "summary": "Cross-LLM memory layer for AI agents - local, human-editable, Git-native",
+  "author": "0xMemory Team",
+  "license": null,
+  "home_page": null,
+  "download_filename": "oxmemory-1.0.0.tar.gz",
+  "download_time": "2026-01-12T12:33:03.204227",
+  "package_url": "https://pypi.org/project/oxmemory/"
+}

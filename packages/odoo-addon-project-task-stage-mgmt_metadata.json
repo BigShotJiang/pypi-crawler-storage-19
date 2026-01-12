@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-project-task-stage-mgmt",
+  "version": "19.0.1.0.0.2",
+  "summary": "Allows to assign and create task stages on project creation wizard",
+  "author": "ForgeFlow, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/project",
+  "download_filename": "odoo_addon_project_task_stage_mgmt-19.0.1.0.0.2-py3-none-any.whl",
+  "download_time": "2026-01-12T12:32:22.296742",
+  "package_url": "https://pypi.org/project/odoo-addon-project-task-stage-mgmt/"
+}

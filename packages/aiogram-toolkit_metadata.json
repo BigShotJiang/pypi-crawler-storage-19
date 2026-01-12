@@ -1,11 +1,11 @@
 {
   "name": "aiogram-toolkit",
-  "version": "0.4.0",
+  "version": "0.5.1",
   "summary": "A compact utility library extending Aiogram with ready-to-use helpers for everyday bot development. It includes safe callback data unpacking, deep link generation, long message handling, markdown formatting, pagination, and optional async SQLAlchemy session helpers. Designed for clean, modular, and production-grade Telegram bot architecture.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "aiogram_toolkit-0.4.0.tar.gz",
-  "download_time": "2026-01-11T06:22:09.756946",
+  "download_filename": "aiogram_toolkit-0.5.1.tar.gz",
+  "download_time": "2026-01-12T12:33:02.673763",
   "package_url": "https://pypi.org/project/aiogram-toolkit/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "tucavoc",
+  "version": "0.2.0",
+  "summary": "Application to calculate concentration and uncertainties of chromatography measurements",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "tucavoc-0.2.0.tar.gz",
+  "download_time": "2026-01-12T12:32:53.554522",
+  "package_url": "https://pypi.org/project/tucavoc/"
+}

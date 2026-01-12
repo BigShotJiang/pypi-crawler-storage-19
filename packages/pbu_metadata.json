@@ -1,0 +1,11 @@
+{
+  "name": "pbu",
+  "version": "1.1.12",
+  "summary": "Basic Utility module for the Python programming language",
+  "author": "Peter Ilfrich",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/ilfrich/python-basic-utils",
+  "download_filename": "pbu-1.1.12.tar.gz",
+  "download_time": "2026-01-12T12:32:17.956878",
+  "package_url": "https://pypi.org/project/pbu/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "ucp-server",
+  "version": "0.0.1",
+  "summary": "UCP Server Library for Python",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ucp_server-0.0.1.tar.gz",
+  "download_time": "2026-01-12T12:32:35.698804",
+  "package_url": "https://pypi.org/project/ucp-server/"
+}
