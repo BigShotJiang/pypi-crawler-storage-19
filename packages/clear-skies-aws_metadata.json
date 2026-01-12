@@ -1,11 +1,11 @@
 {
   "name": "clear-skies-aws",
-  "version": "2.0.7",
+  "version": "2.0.8",
   "summary": "clearskies bindings for working in AWS",
   "author": "tnijboer",
   "license": null,
   "home_page": null,
-  "download_filename": "clear_skies_aws-2.0.7.tar.gz",
-  "download_time": "2026-01-12T08:56:41.373967",
+  "download_filename": "clear_skies_aws-2.0.8.tar.gz",
+  "download_time": "2026-01-12T11:37:32.169094",
   "package_url": "https://pypi.org/project/clear-skies-aws/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "labsignal-Py",
+  "version": "1.0.0",
+  "summary": "Python package for the whole process of signal loading management, preprocessing, in-depth analysis and visualization of one-dimensional time series oscillation data",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "labsignal_py-1.0.0.tar.gz",
+  "download_time": "2026-01-12T11:36:54.809636",
+  "package_url": "https://pypi.org/project/labsignal-Py/"
+}

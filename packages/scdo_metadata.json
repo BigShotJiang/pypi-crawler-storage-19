@@ -1,0 +1,11 @@
+{
+  "name": "scdo",
+  "version": "1.0.0",
+  "summary": "Solar-collector Design Optimiser",
+  "author": "Ben Winchester",
+  "license": null,
+  "home_page": "https://github.com/BenWinchester/CollectorOptimisation",
+  "download_filename": "scdo-1.0.0.tar.gz",
+  "download_time": "2026-01-12T11:37:35.319587",
+  "package_url": "https://pypi.org/project/scdo/"
+}

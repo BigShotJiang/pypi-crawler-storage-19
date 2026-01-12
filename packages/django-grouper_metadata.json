@@ -1,0 +1,11 @@
+{
+  "name": "django-grouper",
+  "version": "0.3.0",
+  "summary": "Group Django objects by similarity",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "django_grouper-0.3.0.tar.gz",
+  "download_time": "2026-01-12T11:37:28.899594",
+  "package_url": "https://pypi.org/project/django-grouper/"
+}

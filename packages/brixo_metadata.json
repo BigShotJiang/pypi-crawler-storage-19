@@ -1,0 +1,11 @@
+{
+  "name": "brixo",
+  "version": "0.1.4",
+  "summary": "The Brixo Python SDK",
+  "author": "Brixo Engineering",
+  "license": null,
+  "home_page": null,
+  "download_filename": "brixo-0.1.4.tar.gz",
+  "download_time": "2026-01-12T11:36:56.305332",
+  "package_url": "https://pypi.org/project/brixo/"
+}

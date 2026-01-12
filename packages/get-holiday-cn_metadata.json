@@ -1,0 +1,11 @@
+{
+  "name": "get-holiday-cn",
+  "version": "1.0.8",
+  "summary": "获取中国法定节假日",
+  "author": "Weiqiang.long",
+  "license": null,
+  "home_page": "https://github.com/longweiqiang/get_holiday_cn",
+  "download_filename": "get_holiday_cn-1.0.8.tar.gz",
+  "download_time": "2026-01-12T11:37:34.810243",
+  "package_url": "https://pypi.org/project/get-holiday-cn/"
+}
