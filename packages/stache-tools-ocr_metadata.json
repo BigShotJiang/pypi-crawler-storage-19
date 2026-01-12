@@ -1,0 +1,11 @@
+{
+  "name": "stache-tools-ocr",
+  "version": "0.1.1",
+  "summary": "OCR support for stache-tools CLI using Tesseract",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "stache_tools_ocr-0.1.1.tar.gz",
+  "download_time": "2026-01-12T01:10:27.557103",
+  "package_url": "https://pypi.org/project/stache-tools-ocr/"
+}

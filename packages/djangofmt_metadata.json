@@ -1,0 +1,11 @@
+{
+  "name": "djangofmt",
+  "version": "0.2.5",
+  "summary": "A fast, HTML aware, Django template formatter, written in Rust.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "djangofmt-0.2.5.tar.gz",
+  "download_time": "2026-01-12T01:10:14.235175",
+  "package_url": "https://pypi.org/project/djangofmt/"
+}

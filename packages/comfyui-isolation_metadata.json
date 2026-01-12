@@ -1,11 +1,11 @@
 {
   "name": "comfyui-isolation",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "summary": "Process isolation for ComfyUI custom nodes",
   "author": "Andrea Pozzetti",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "comfyui_isolation-0.2.0.tar.gz",
-  "download_time": "2026-01-11T23:46:23.923461",
+  "download_filename": "comfyui_isolation-0.2.1.tar.gz",
+  "download_time": "2026-01-12T01:10:03.539155",
   "package_url": "https://pypi.org/project/comfyui-isolation/"
 }

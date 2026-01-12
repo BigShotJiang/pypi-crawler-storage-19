@@ -1,0 +1,11 @@
+{
+  "name": "finm",
+  "version": "0.1.0",
+  "summary": "A student-led Python package for financial mathematics and quantitative finance education",
+  "author": "University of Chicago Financial Mathematics Program",
+  "license": null,
+  "home_page": null,
+  "download_filename": "finm-0.1.0.tar.gz",
+  "download_time": "2026-01-12T01:09:50.309284",
+  "package_url": "https://pypi.org/project/finm/"
+}

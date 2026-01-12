@@ -1,11 +1,11 @@
 {
   "name": "brawny",
-  "version": "0.1.5",
+  "version": "0.1.7",
   "summary": "Block-driven Ethereum job/transaction execution framework",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "brawny-0.1.5.tar.gz",
-  "download_time": "2026-01-11T15:15:12.027020",
+  "download_filename": "brawny-0.1.7.tar.gz",
+  "download_time": "2026-01-12T01:10:27.021226",
   "package_url": "https://pypi.org/project/brawny/"
 }

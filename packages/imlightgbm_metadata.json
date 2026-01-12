@@ -1,0 +1,11 @@
+{
+  "name": "imlightgbm",
+  "version": "0.1.1",
+  "summary": "LightGBM for label-imbalanced data with focal and weighted loss function",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "imlightgbm-0.1.1.tar.gz",
+  "download_time": "2026-01-12T01:10:20.595170",
+  "package_url": "https://pypi.org/project/imlightgbm/"
+}
