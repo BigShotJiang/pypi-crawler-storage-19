@@ -1,0 +1,11 @@
+{
+  "name": "hf-tcr",
+  "version": "0.1.0",
+  "summary": "HuggingFace-based inference and evaluation library for TCR-pMHC sequence translation models",
+  "author": "Dhuvi Karthikeyan",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "hf_tcr-0.1.0.tar.gz",
+  "download_time": "2026-01-12T14:00:21.061016",
+  "package_url": "https://pypi.org/project/hf-tcr/"
+}

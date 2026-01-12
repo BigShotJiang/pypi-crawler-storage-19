@@ -1,0 +1,11 @@
+{
+  "name": "cmsis-stream",
+  "version": "3.0.0",
+  "summary": "CMSIS-Stream graph description",
+  "author": "Copyright (C) 2023-2026 ARM Limited or its affiliates. All rights reserved.",
+  "license": "License :: OSI Approved :: Apache Software License",
+  "home_page": "https://github.com/ARM-software/CMSIS-Stream",
+  "download_filename": "cmsis_stream-3.0.0-py3-none-any.whl",
+  "download_time": "2026-01-12T14:00:28.933649",
+  "package_url": "https://pypi.org/project/cmsis-stream/"
+}

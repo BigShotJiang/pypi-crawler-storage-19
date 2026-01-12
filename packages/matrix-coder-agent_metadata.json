@@ -1,0 +1,11 @@
+{
+  "name": "matrix-coder-agent",
+  "version": "0.2.1",
+  "summary": "Autonomous development agent using AWS Bedrock and Strands SDK",
+  "author": "Mirror12k",
+  "license": "MIT",
+  "home_page": "https://github.com/mirror12k/matrix-coder-agent",
+  "download_filename": "matrix_coder_agent-0.2.1.tar.gz",
+  "download_time": "2026-01-12T14:00:37.088848",
+  "package_url": "https://pypi.org/project/matrix-coder-agent/"
+}

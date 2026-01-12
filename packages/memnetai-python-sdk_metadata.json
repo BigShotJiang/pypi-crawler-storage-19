@@ -1,11 +1,11 @@
 {
   "name": "memnetai-python-sdk",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "summary": "MemNetAI Python SDK - MemNetAI长记忆服务平台的Python接口",
   "author": "MemNet AI Team",
   "license": "Apache License 2.0",
   "home_page": null,
-  "download_filename": "memnetai_python_sdk-1.0.1.tar.gz",
-  "download_time": "2026-01-07T08:52:54.590719",
+  "download_filename": "memnetai_python_sdk-1.0.2-py3-none-any.whl",
+  "download_time": "2026-01-12T14:00:33.548236",
   "package_url": "https://pypi.org/project/memnetai-python-sdk/"
 }

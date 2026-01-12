@@ -1,11 +1,11 @@
 {
   "name": "conversational-graph-dev",
-  "version": "0.0.23",
+  "version": "0.0.24",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "conversational_graph_dev-0.0.23.tar.gz",
-  "download_time": "2026-01-12T13:27:16.337737",
+  "download_filename": "conversational_graph_dev-0.0.24-py3-none-any.whl",
+  "download_time": "2026-01-12T14:00:03.613433",
   "package_url": "https://pypi.org/project/conversational-graph-dev/"
 }

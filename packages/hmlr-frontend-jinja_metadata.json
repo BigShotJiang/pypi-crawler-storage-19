@@ -1,0 +1,11 @@
+{
+  "name": "hmlr-frontend-jinja",
+  "version": "3.0.0",
+  "summary": "HMLR Frontend Jinja Macros",
+  "author": "Matt Shaw",
+  "license": null,
+  "home_page": "https://github.com/LandRegistry/hmlr-frontend-jinja",
+  "download_filename": "hmlr_frontend_jinja-3.0.0.tar.gz",
+  "download_time": "2026-01-12T14:00:40.566882",
+  "package_url": "https://pypi.org/project/hmlr-frontend-jinja/"
+}
