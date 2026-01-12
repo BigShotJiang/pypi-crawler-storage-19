@@ -1,0 +1,11 @@
+{
+  "name": "fastlite",
+  "version": "0.2.4",
+  "summary": "A bit of extra usability for sqlite",
+  "author": "Jeremy Howard",
+  "license": "Apache Software License 2.0",
+  "home_page": "https://github.com/AnswerDotAI/fastlite",
+  "download_filename": "fastlite-0.2.4.tar.gz",
+  "download_time": "2026-01-12T07:01:45.832785",
+  "package_url": "https://pypi.org/project/fastlite/"
+}

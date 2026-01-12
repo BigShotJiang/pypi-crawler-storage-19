@@ -1,0 +1,11 @@
+{
+  "name": "qms-core",
+  "version": "1.0.1",
+  "summary": "Core C extensions for QMS",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "qms_core-1.0.1.tar.gz",
+  "download_time": "2026-01-12T07:01:37.158837",
+  "package_url": "https://pypi.org/project/qms-core/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "python-rundeck",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "summary": "Python client for the Rundeck API (v14-v56).",
   "author": "Pascal Seckinger",
   "license": null,
   "home_page": null,
-  "download_filename": "python_rundeck-0.1.0.tar.gz",
-  "download_time": "2026-01-11T17:33:24.963563",
+  "download_filename": "python_rundeck-0.2.0.tar.gz",
+  "download_time": "2026-01-12T07:02:07.626908",
   "package_url": "https://pypi.org/project/python-rundeck/"
 }

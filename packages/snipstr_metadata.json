@@ -1,0 +1,11 @@
+{
+  "name": "snipstr",
+  "version": "1.0.3",
+  "summary": "A lightweight library for easy-to-use text truncation with a friendly interface.",
+  "author": "Timur Valiev",
+  "license": "MIT",
+  "home_page": "https://github.com/imtoopunkforyou/snipstr",
+  "download_filename": "snipstr-1.0.3.tar.gz",
+  "download_time": "2026-01-12T07:02:21.723164",
+  "package_url": "https://pypi.org/project/snipstr/"
+}

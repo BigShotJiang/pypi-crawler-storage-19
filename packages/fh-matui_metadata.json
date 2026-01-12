@@ -1,0 +1,11 @@
+{
+  "name": "fh-matui",
+  "version": "0.9.1",
+  "summary": "material-ui for fasthtml",
+  "author": "abhishek sreesaila",
+  "license": "Apache Software License 2.0",
+  "home_page": "https://github.com/abhisheksreesaila/fh-matui",
+  "download_filename": "fh_matui-0.9.1.tar.gz",
+  "download_time": "2026-01-12T07:01:45.283497",
+  "package_url": "https://pypi.org/project/fh-matui/"
+}

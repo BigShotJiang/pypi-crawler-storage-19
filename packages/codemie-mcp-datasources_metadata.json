@@ -1,11 +1,11 @@
 {
   "name": "codemie-mcp-datasources",
-  "version": "0.1.296",
+  "version": "0.1.298",
   "summary": "MCP server for connecting to CodeMie Datasources",
   "author": "Nikita Levyankov",
   "license": null,
   "home_page": null,
-  "download_filename": "codemie_mcp_datasources-0.1.296.tar.gz",
-  "download_time": "2026-01-09T10:48:32.426342",
+  "download_filename": "codemie_mcp_datasources-0.1.298.tar.gz",
+  "download_time": "2026-01-12T07:02:05.474425",
   "package_url": "https://pypi.org/project/codemie-mcp-datasources/"
 }

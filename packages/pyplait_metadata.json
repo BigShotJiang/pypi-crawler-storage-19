@@ -1,0 +1,11 @@
+{
+  "name": "pyplait",
+  "version": "2025.1.0",
+  "summary": "A PyTorch-inspired framework for LLM inference pipelines",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pyplait-2025.1.0.tar.gz",
+  "download_time": "2026-01-12T07:02:16.716685",
+  "package_url": "https://pypi.org/project/pyplait/"
+}
